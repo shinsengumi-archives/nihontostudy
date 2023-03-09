@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] thoughts on Koshirae",
+            "postDate": "1070591773",
+            "msgId": 1228,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PENCNUJGOEI0LTI2Q0ItMTFEOC1BQkZBLTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PGJxbmsxNStmZ21xQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1223,
+            "nextInTopic": 0,
+            "prevInTime": 1227,
+            "nextInTime": 1229,
+            "topicId": 1223,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "One wonders if any Satsuma-to are featured in the Satsuma Koshirae catalog or if we find Mito tsuba on the swords of Omura Kaboku. I think what happened was",
+            "messageBody": "<div id=\"ygrps-yiv-429756917\">One wonders if any Satsuma-to are featured in the Satsuma Koshirae <br/>\ncatalog or if we find Mito tsuba on the swords of Omura Kaboku. I think <br/>\nwhat happened was that when a lord did Sankin-kotai and he liked to <br/>\nshow off, he would outfit his guys in matching koshirae. Adding some <br/>\nnew innovation or regional specialty would add kick. Done right these <br/>\nstyles would become popular with the residents of Edo and then spread <br/>\nto other provinces. Thus we see Higo style stuff from other places, at <br/>\nthe same time Higo enjoyed a thriving business...<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "thoughts on Koshirae",
+            "postDate": "1070551909",
+            "msgId": 1223,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJxbmsxNStmZ21xQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1228,
+            "prevInTime": 1222,
+            "nextInTime": 1224,
+            "topicId": 1223,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Is there a preference for koshirae for certain schools of swords. To clarify, I have a certain feeling that I should see or at least expect to see Hizen blades",
+            "messageBody": "<div id=\"ygrps-yiv-165212915\">Is there a preference for koshirae for certain schools of swords. To <br/>\nclarify, I have a certain feeling that I should see or at least <br/>\nexpect to see Hizen blades in Higo koshirae. They seen to fit for <br/>\nsome reason unbeknownst to me. <br/>\nSo is there a school of koshirae that is more suited to say Yamashiro <br/>\nblades, or swords of the Echizen province and things like that or is <br/>\nit more just the taste of the owner. <br/>\n<br/>\nI was thinking that a sword from say Iwami province probably wouldn&#39;t <br/>\nhave Edo koshirae or Higo for that matter as they would be to far <br/>\naway and the owner would select a local or more local artisan unless <br/>\nthey traveled or were of a higher stature and had no budget <br/>\nconstraints. <br/>\n<br/>\nany thoughts on this ?? <br/>\n<br/>\ncheers <br/>\n<br/>\nRich</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1205,
+    "nextTopicId": 1224
+}

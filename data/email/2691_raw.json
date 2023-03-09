@@ -1,0 +1,31 @@
+{
+    "userId": 134498325,
+    "authorName": "tom helm",
+    "from": "tom helm &lt;junkmail@...&gt;",
+    "profile": "soshuju",
+    "replyTo": "LIST",
+    "senderId": "dOPUMkyzrfPq8r5yTrv4gHgQ7BPObbi22YkI8YVP2Ti8Sr9T6IbzhkyODoTolIr7kXZaapKXDoEnmsR8rbgIyx29T5VH7vi5",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "7"
+    },
+    "subject": "Re: [nihontostudy] Book sale",
+    "postDate": "1110439694",
+    "msgId": 2691,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGEwNjExMDQwZGJlNTVhNzgwYjIwMEBbMTAuMC4xLjJdPg==",
+        "inReplyToHeader": "PGEwNjExMDQwY2JlNTRiMzhlYzFkMkBbMTAuMC4xLjJdPg==",
+        "referencesHeader": "PGEwNjExMDQwNmJlNTJkYmFiNGMxYUBbMTAuMC4xLjJdPiA8MDAzNjAxYzUyNDc4JDYyOTkwYzgwJDM0ZTBjZWQxQDAwMjIzMzc4OTI+IDxhMDYxMTA0MGNiZTU0YjM4ZWMxZDJAWzEwLjAuMS4yXT4="
+    },
+    "prevInTopic": 2689,
+    "nextInTopic": 0,
+    "prevInTime": 2690,
+    "nextInTime": 2692,
+    "topicId": 2683,
+    "numMessagesInTopic": 6,
+    "msgSnippet": "Did it again sorry... -t",
+    "rawEmail": "Return-Path: &lt;toryu@...&gt;\r\nX-Sender: toryu@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 81396 invoked from network); 10 Mar 2005 07:28:21 -0000\r\nReceived: from unknown (66.218.66.172)\n  by m1.grp.scd.yahoo.com with QMQP; 10 Mar 2005 07:28:21 -0000\r\nReceived: from unknown (HELO solanne.parasun.net) (204.174.16.15)\n  by mta4.grp.scd.yahoo.com with SMTP; 10 Mar 2005 07:28:19 -0000\r\nReceived: from cpe-65-172-239-48.sanbrunocable.com ([65.172.239.48] helo=[10.0.1.2])\n\tby solanne.parasun.net with esmtp (Exim 4.43)\n\tid 1D9I5j-0003Pr-4j\n\tfor nihontostudy@yahoogroups.com; Wed, 09 Mar 2005 23:28:19 -0800\r\nMime-Version: 1.0\r\nX-Sender: toryu@...@...-mon.com\r\nMessage-Id: &lt;a0611040dbe55a780b200@[10.0.1.2]&gt;\r\nIn-Reply-To: &lt;a0611040cbe54b38ec1d2@[10.0.1.2]&gt;\r\nReferences: &lt;a06110406be52dbab4c1a@[10.0.1.2]&gt;\n &lt;003601c52478$62990c80$34e0ced1@0022337892&gt;\n &lt;a0611040cbe54b38ec1d2@[10.0.1.2]&gt;\r\nDate: Wed, 9 Mar 2005 23:28:14 -0800\r\nTo: nihontostudy@yahoogroups.com\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot; ; format=&quot;flowed&quot;\r\nX-eGroups-Msg-Info: 1:7:0\r\nX-eGroups-From: tom helm &lt;toryu@...&gt;\r\nFrom: tom helm &lt;junkmail@...&gt;\r\nSubject: Re: [nihontostudy] Book sale\r\nX-Yahoo-Group-Post: member; u=134498325\r\nX-Yahoo-Profile: soshuju\r\n\r\nDid it again sorry...\n-t\n\n"
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145265958,
+            "authorName": "Jinsoo Kim",
+            "from": "&quot;Jinsoo Kim&quot; &lt;jinsoo.kim@...&gt;",
+            "profile": "leonkim",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Good launch",
+            "postDate": "1051072306",
+            "msgId": 9,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGI4NTR2aSt0NDJrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8,
+            "nextInTime": 10,
+            "topicId": 9,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Good job, Jim. I hope we discuss and share Nihonto knowledge here and strongly restrict the eligibility of membership. Jinsoo",
+            "messageBody": "<div id=\"ygrps-yiv-1949565790\">Good job, Jim.<br/>\n<br/>\nI hope we discuss and share Nihonto knowledge here and strongly <br/>\nrestrict the eligibility of membership. <br/>\n<br/>\nJinsoo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2,
+    "nextTopicId": 10
+}

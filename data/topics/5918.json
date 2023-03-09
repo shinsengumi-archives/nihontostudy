@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 331541136,
+            "authorName": "Mark Cinque",
+            "from": "Mark Cinque &lt;mrcinque@...&gt;",
+            "profile": "mrcinque",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "postDate": "1351189076",
+            "msgId": 5918,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzNTExODkwNzYuMzY5NDQuWWFob29NYWlsTmVvQHdlYjQ0OTAyLm1haWwuc3AxLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5917,
+            "nextInTime": 5919,
+            "topicId": 5918,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://cerinavincent.net/wp-includes/nm8jdqte.php [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-307552309\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://cerinavincent.net/wp-includes/nm8jdqte.php\">http://cerinavincent.net/wp-includes/nm8jdqte.php</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5917,
+    "nextTopicId": 5919
+}

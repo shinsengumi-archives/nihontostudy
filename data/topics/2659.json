@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "",
+            "postDate": "1109054612",
+            "msgId": 2659,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRiY2UzZWNkZDU2OGRmMmI2NDhiZTAyZDAwNDEyM2ZiQHRvcnl1LW1vbi5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2658,
+            "nextInTime": 2660,
+            "topicId": 2659,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Michael et al- If  your paper attributes the blade to this; \u001b$BFR !\u001b(B Nobukatsu then your man is from Higo and a student of Hosokawa Masayoshi, now I d be",
+            "messageBody": "<div id=\"ygrps-yiv-1817006809\">Michael et al-<br/>\n\tIf  your paper attributes the blade to this; 寅勝<br/>\nNobukatsu then your man is from Higo and a student of Hosokawa <br/>\nMasayoshi, now I&#39;d be happy to tell you more but feel you&#39;ll want to <br/>\nresearch this for yourself. let me know if you want us to spill the <br/>\nrest of the beans...<br/>\n-t<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2658,
+    "nextTopicId": 2663
+}

@@ -1,0 +1,397 @@
+{
+    "totalMsgInTopic": 13,
+    "messages": [
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Re: Scanning",
+            "postDate": "1060188663",
+            "msgId": 650,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwM2MwMWMzNWMzYSRlYzY4ZGUyMCQyMTAxMTBhY0BUSElOS1BBRD4=",
+                "referencesHeader": "PDREN0VFMjM1LUM3RTUtMTFENy05QjQ2LTAwMDM5M0NDOEQ2QUBzd3UuYWMuanA+"
+            },
+            "prevInTopic": 649,
+            "nextInTopic": 0,
+            "prevInTime": 649,
+            "nextInTime": 651,
+            "topicId": 635,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Mr. Sanders helpfully identified the term moiré, which I confusedly mistook for something Japanese. On my HP scanner, the Descreen option under Advanced",
+            "messageBody": "<div id=\"ygrps-yiv-603077051\">Mr. Sanders helpfully identified the term moiré, which I confusedly mistook for something Japanese.<br/>\n<br/>\nOn my HP scanner, the Descreen option under Advanced settings is there precisely to cancel out undesirable moiré effects, which I find occur in scanned images of some photographs and postcards.  Possibly Canon uses a different term.  Just type &quot;moiré&quot; in the Search feature in Help, and I&#39;m sure it will identify Canon&#39;s equivalent option.<br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: Gordon Robson <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n  Sent: Wednesday, August 06, 2003 1:09 AM<br/>\n  Subject: Re: [nihontostudy] Re: Scanning<br/>\n<br/>\n<br/>\n  Hi all,<br/>\n<br/>\n  I&#39;m looking for a little free advice on scanning. I am using a <br/>\n  Canoscan9900F, which is a very good scanner. I begin my scans through <br/>\n  Photoshop 7.0 into ScanGear CS. I have been using very high dpis of <br/>\n  1600 and 800 with the weak morei (spelling?) turned on and the sharp <br/>\n  turned off. I am still getting nasty looking morei in my scans of <br/>\n  oshigata for this summer&#39;s lecture. Any ideas on what I need to do to <br/>\n  improve my scans?<br/>\n<br/>\n  Gordon<br/>\n<br/>\n<br/>\n<br/>\n        Yahoo! Groups Sponsor <br/>\n              ADVERTISEMENT<br/>\n             <br/>\n       <br/>\n       <br/>\n<br/>\n  To unsubscribe from this group, send an email to:<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy-unsubscribe@yahoogroups.com\">nihontostudy-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n<br/>\n<br/>\n  Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145545443,
+            "authorName": "douglas sanders",
+            "from": "douglas sanders &lt;dhs1us@...&gt;",
+            "profile": "dhs1us",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Re: Scanning",
+            "postDate": "1060187607",
+            "msgId": 649,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMwODA2MTYzMzI3Ljk2NzU0LnFtYWlsQHdlYjk0MDQubWFpbC55YWhvby5jb20+",
+                "inReplyToHeader": "PDREN0VFMjM1LUM3RTUtMTFENy05QjQ2LTAwMDM5M0NDOEQ2QUBzd3UuYWMuanA+"
+            },
+            "prevInTopic": 648,
+            "nextInTopic": 650,
+            "prevInTime": 648,
+            "nextInTime": 650,
+            "topicId": 635,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A quick follow-up to my previous posting- Instead of scanning at a high resolution in order to capture detail of your oshigata/rubbing, perhaps you could try",
+            "messageBody": "<div id=\"ygrps-yiv-1407281921\">A quick follow-up to my previous posting-<br/>\nInstead of scanning at a high resolution in order to capture detail of your oshigata/rubbing,<br/>\nperhaps you could try scanning lower dpi, and manipulating the brightness and contrast adjustments<br/>\nto improve image detail.  In my career as an art conservator, we often manipulate images to bring<br/>\nout faint signatures, underdrawings of paintings, etc that are originally of low contrast.<br/>\nAlso, make sure your scanner is set at black and white, rather than a multi-color selection.<br/>\n<br/>\n-Doug Sanders<br/>\n<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! SiteBuilder - Free, easy-to-use web site design software<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://sitebuilder.yahoo.com\">http://sitebuilder.yahoo.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145545443,
+            "authorName": "douglas sanders",
+            "from": "douglas sanders &lt;dhs1us@...&gt;",
+            "profile": "dhs1us",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Re: Scanning",
+            "postDate": "1060182790",
+            "msgId": 648,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMwODA2MTUxMzEwLjg0NzM4LnFtYWlsQHdlYjk0MDEubWFpbC55YWhvby5jb20+",
+                "inReplyToHeader": "PDREN0VFMjM1LUM3RTUtMTFENy05QjQ2LTAwMDM5M0NDOEQ2QUBzd3UuYWMuanA+"
+            },
+            "prevInTopic": 647,
+            "nextInTopic": 649,
+            "prevInTime": 647,
+            "nextInTime": 649,
+            "topicId": 635,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The term is spelled moire -with a French accent over the e. It refers to the concentric ring-like effect when certain patterns (in particular those of a linear",
+            "messageBody": "<div id=\"ygrps-yiv-609038144\">The term is spelled moire -with a French accent over the e. It refers to the concentric ring-like<br/>\neffect when certain patterns (in particular those of a linear nature) are displayed on a computer<br/>\nmonitor, for instance.  Although I am by no means a desktop publishing expert, I would question<br/>\nyour need to scan at such a high resolution.  What will be the final format upon which your<br/>\nobjects are shown?  Website, print-out, computer screen?  Many scanners have high settings, but<br/>\nactually interpolate, or fill in the gaps, to create a false &#39;high resolution&#39;. Perhaps you could<br/>\nscan at 600 or so and capture enough information. <br/>\nAlso, I have found sometimes, that after you scan, you may see a moire pattern on the photoshop<br/>\nwindow, but if you enlarge or reduce the image by a step, the pattern goes away.  It&#39;s all about<br/>\ntrying to display a continuous image in a pixellated manner.<br/>\nRegards,<br/>\nDoug Sanders<br/>\n--- Gordon Robson &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:robsongo@...\">robsongo@...</a>&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Hi all,<br/>\n&gt; <br/>\n&gt; I&#39;m looking for a little free advice on scanning. I am using a <br/>\n&gt; Canoscan9900F, which is a very good scanner. I begin my scans through <br/>\n&gt; Photoshop 7.0 into ScanGear CS. I have been using very high dpis of <br/>\n&gt; 1600 and 800 with the weak morei (spelling?) turned on and the sharp <br/>\n&gt; turned off. I am still getting nasty looking morei in my scans of <br/>\n&gt; oshigata for this summer&#39;s lecture. Any ideas on what I need to do to <br/>\n&gt; improve my scans?<br/>\n&gt; <br/>\n&gt; Gordon<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! SiteBuilder - Free, easy-to-use web site design software<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://sitebuilder.yahoo.com\">http://sitebuilder.yahoo.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Re: Scanning",
+            "postDate": "1060178915",
+            "msgId": 647,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMWIwMWMzNWMyNCQzYTQ1MTVkMCQyMTAxMTBhY0BUSElOS1BBRD4=",
+                "referencesHeader": "PDREN0VFMjM1LUM3RTUtMTFENy05QjQ2LTAwMDM5M0NDOEQ2QUBzd3UuYWMuanA+"
+            },
+            "prevInTopic": 646,
+            "nextInTopic": 648,
+            "prevInTime": 646,
+            "nextInTime": 648,
+            "topicId": 635,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I don t know what morei is, I m afraid. My scanner has under a heading titled advanced a feature called Descreen which is essential for several types of",
+            "messageBody": "<div id=\"ygrps-yiv-1638572497\">I don&#39;t know what morei is, I&#39;m afraid.<br/>\n<br/>\nMy scanner has under a heading titled advanced a feature called Descreen which is essential for several types of images.   <br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: Gordon Robson <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n  Sent: Wednesday, August 06, 2003 1:09 AM<br/>\n  Subject: Re: [nihontostudy] Re: Scanning<br/>\n<br/>\n<br/>\n  Hi all,<br/>\n<br/>\n  I&#39;m looking for a little free advice on scanning. I am using a <br/>\n  Canoscan9900F, which is a very good scanner. I begin my scans through <br/>\n  Photoshop 7.0 into ScanGear CS. I have been using very high dpis of <br/>\n  1600 and 800 with the weak morei (spelling?) turned on and the sharp <br/>\n  turned off. I am still getting nasty looking morei in my scans of <br/>\n  oshigata for this summer&#39;s lecture. Any ideas on what I need to do to <br/>\n  improve my scans?<br/>\n<br/>\n  Gordon<br/>\n<br/>\n<br/>\n<br/>\n        Yahoo! Groups Sponsor <br/>\n              ADVERTISEMENT<br/>\n             <br/>\n       <br/>\n       <br/>\n<br/>\n  To unsubscribe from this group, send an email to:<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy-unsubscribe@yahoogroups.com\">nihontostudy-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n<br/>\n<br/>\n  Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 66909074,
+            "authorName": "Gordon Robson",
+            "from": "Gordon Robson &lt;robsongo@...&gt;",
+            "profile": "robsongord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Re: Scanning",
+            "postDate": "1060157369",
+            "msgId": 646,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDREN0VFMjM1LUM3RTUtMTFENy05QjQ2LTAwMDM5M0NDOEQ2QUBzd3UuYWMuanA+",
+                "inReplyToHeader": "PDAwMGQwMWMzNWJlNCRhZGZlYmQ5MCQyMTAxMTBhY0BUSElOS1BBRD4="
+            },
+            "prevInTopic": 645,
+            "nextInTopic": 647,
+            "prevInTime": 645,
+            "nextInTime": 647,
+            "topicId": 635,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, I m looking for a little free advice on scanning. I am using a Canoscan9900F, which is a very good scanner. I begin my scans through Photoshop 7.0 into",
+            "messageBody": "<div id=\"ygrps-yiv-537369047\">Hi all,<br/>\n<br/>\nI&#39;m looking for a little free advice on scanning. I am using a <br/>\nCanoscan9900F, which is a very good scanner. I begin my scans through <br/>\nPhotoshop 7.0 into ScanGear CS. I have been using very high dpis of <br/>\n1600 and 800 with the weak morei (spelling?) turned on and the sharp <br/>\nturned off. I am still getting nasty looking morei in my scans of <br/>\noshigata for this summer&#39;s lecture. Any ideas on what I need to do to <br/>\nimprove my scans?<br/>\n<br/>\nGordon</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba",
+            "postDate": "1060151622",
+            "msgId": 645,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGQwMWMzNWJlNCRhZGZlYmQ5MCQyMTAxMTBhY0BUSElOS1BBRD4=",
+                "referencesHeader": "PDBCRDU3QjZBMjZEQkQyMTE4NDhFMDA2MDA4Q0UzMjM3MDFBNjVFRDZAZG9jMy5kaXMuY2NjZC5lZHU+IDwwMDAyMDFjMzViODgkNTJkZjQ2NzAkMjEwMTEwYWNAVEhJTktQQUQ+IDwwNzk5MDFjMzViNTMkY2JjNDA0MjAkNTM5NThlY2VAYWZ1YWtlbDg5cXMyOXc+"
+            },
+            "prevInTopic": 642,
+            "nextInTopic": 646,
+            "prevInTime": 644,
+            "nextInTime": 646,
+            "topicId": 635,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks, Afu. Apparently, in Japan it is referred to a Manji symbol, and used on maps to indicate the location of temples. I was told about a web-site which",
+            "messageBody": "<div id=\"ygrps-yiv-516805784\">Thanks, Afu. Apparently, in Japan it is referred to a Manji symbol, and used on maps to indicate the location of temples.  <br/>\n<br/>\nI was told about a web-site which offered the following:<br/>\n<br/>\n____ The omote (&quot;front side,&quot; or since it is customarily on the left side, left) [clockwise moving] manji represents infinite mercy, or the love of Dharma which permeates the universe and nurtures all things. The ura (&quot;back side,&quot; or right) manji represents intellect and strength. The Chinese are said to have derived their symbol for strength [symbol at very top of this page] from the ura manji. Although omote manji and ura manji are customarily used side by side in Buddhism, the manji worn on Shorinji Kenpo uniforms in Japan and many foreign countries, is set as the omote manji. <br/>\n____ The spirit of caring for others as well as oneself is shown by the original teachings of Buddha. This path can be followed by using the intellect and strength symbolized by the ura manji to develop oneself into a person who can be relied on, and who can serve humankind as an expression of the mercy and love represented by the omote manji <br/>\n<br/>\n<br/>\n<br/>\n____ The harmony of opposites symbolized in the manji includes the harmony of intellect with mercy, and strength with love. This harmony lies at the heart of Kongo Zen&#39;s principle or riki ai funi, a principle which also gives guidance to us in how we are meant to practice and to use the techniques of Shorinji Kenpo. Understanding the truths represented by the manji are vital to understanding the heart of Kongo Zen. <br/>\n<br/>\nDavid<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: Afu <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:token_kenkyu_kai@...\">token_kenkyu_kai@...</a> <br/>\n  Sent: Tuesday, August 05, 2003 6:16 AM<br/>\n  Subject: Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n<br/>\n  David,<br/>\n  There were a lot of small Buddhist Temples in Viet Nam with this symbol on top, in the same place you would see a cross on a Christian edifice.<br/>\n  Ganbatte!<br/>\n  Afu<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:afu@...\">afu@...</a><br/>\n  For books in English on Nihon Tô, go to:<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.afuresearch.com\">http://www.afuresearch.com</a><br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70536526,
+            "authorName": "Mark Jones",
+            "from": "&quot;Mark Jones&quot; &lt;nixe@...&gt;",
+            "profile": "markpjonesii",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba",
+            "postDate": "1060113972",
+            "msgId": 642,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwN2QwMWMzNWI4ZCQwNjI5NmI4MCQ1MGE0YWIzZkBuaXhlPg==",
+                "referencesHeader": "PDBCRDU3QjZBMjZEQkQyMTE4NDhFMDA2MDA4Q0UzMjM3MDFBNjVFRDZAZG9jMy5kaXMuY2NjZC5lZHU+IDwwMDAyMDFjMzViODgkNTJkZjQ2NzAkMjEwMTEwYWNAVEhJTktQQUQ+"
+            },
+            "prevInTopic": 641,
+            "nextInTopic": 645,
+            "prevInTime": 641,
+            "nextInTime": 643,
+            "topicId": 635,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I believe you pictured the tsuba upside down, so whatever is there needs to be looked at after the tsuba is rotated 180 degrees. It my be a Buddhist symbol",
+            "messageBody": "<div id=\"ygrps-yiv-467501697\">I believe you pictured the tsuba upside down, so whatever is there needs to be looked at after the tsuba is rotated 180 degrees. It my be a Buddhist symbol that looks like a swastika or it may be something totally unrelated<br/>\n <br/>\nMark Jones<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nixe@...\">nixe@...</a> <br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: David Zincavage <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:token_kenkyu_kai@...\">token_kenkyu_kai@...</a> <br/>\n  Cc: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n  Sent: Tuesday, August 05, 2003 3:31 PM<br/>\n  Subject: Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n<br/>\n  But what are temple carvings?  Are they symbols of good luck placed on the tsuba to protect its owner? Or are they ownership marks indicating that sword and/or tsuba are the property of a particular temple? <br/>\n<br/>\n    ----- Original Message ----- <br/>\n    From: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:RDavis@...\">RDavis@...</a> <br/>\n    To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:token_kenkyu_kai@...\">token_kenkyu_kai@...</a> <br/>\n    Sent: Tuesday, August 05, 2003 11:27 AM<br/>\n    Subject: RE: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n<br/>\n    David....looks like the Buddhist symbol that is in the form of the German swastika only the &quot;arms&quot; are in the opposite direction.  I have a tachi tsuba that has this same symbol in sukashi style just outside the seppa dai area. <br/>\n<br/>\n     <br/>\n<br/>\n    Roger<br/>\n<br/>\n     <br/>\n<br/>\n    -----Original Message-----<br/>\n    From: David Zincavage [mailto:<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jdz@...\">jdz@...</a>]<br/>\n    Sent: Tuesday, August 05, 2003 11:14 AM<br/>\n    To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a><br/>\n    Cc: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:token_kenkyu_kai@...\">token_kenkyu_kai@...</a><br/>\n    Subject: Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n     <br/>\n<br/>\n    Whoops! I forgot to mention it is on the right side of the seppa dai.<br/>\n<br/>\n    ----- Original Message ----- <br/>\n<br/>\n<br/>\n    From: David Zincavage <br/>\n<br/>\n    To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n<br/>\n    Cc: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:token_kenkyu_kai@...\">token_kenkyu_kai@...</a> <br/>\n<br/>\n    Sent: Tuesday, August 05, 2003 11:10 AM<br/>\n<br/>\n    Subject: Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n     <br/>\n<br/>\n    I have uploaded the image in a very large size in order to make the temple mark visible.<br/>\n<br/>\n    <a rel=\"nofollow\" target=\"_blank\" href=\"http://zincavage.org/AkasakaClouds.html\">http://zincavage.org/AkasakaClouds.html</a><br/>\n      ----- Original Message ----- <br/>\n      From: alchemyst <br/>\n      To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n      Sent: Tuesday, August 05, 2003 9:05 AM<br/>\n      Subject: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n<br/>\n      --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;David Zincavage&quot; &lt;jdz@i...&gt; <br/>\n      wrote:<br/>\n      &gt; I just bought a tsuba which the dealer describes as having &quot; a <br/>\n      small <br/>\n      temple<br/>\n      &gt; carving symbol on the seppadai.&quot; I could not recognize it in the <br/>\n      pictures.<br/>\n      &gt; What sort of temple carvings appear on tsubas?<br/>\n<br/>\n      On the seppa-dai ????<br/>\n<br/>\n      All sorts of &quot;real&quot; and abstract temples are used<br/>\n      as motifs on the body of the tsuba.<br/>\n<br/>\n      A picture would be most helpful.<br/>\n<br/>\n      Rich<br/>\n      ------------------------------------------------------------<br/>\n      Richard Stein, PhD          <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:alchemyst@...\">alchemyst@...</a><br/>\n            <br/>\n                   The Japanese Sword Index<br/>\n        <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.com/alchemyst/nihonto.htm\">http://www.geocities.com/alchemyst/nihonto.htm</a><br/>\n      ------------------------------------------------------------<br/>\n<br/>\n<br/>\n<br/>\n            Yahoo! Groups Sponsor <br/>\n                  ADVERTISEMENT<br/>\n                 <br/>\n           <br/>\n           <br/>\n<br/>\n      To unsubscribe from this group, send an email to:<br/>\n      <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy-unsubscribe@yahoogroups.com\">nihontostudy-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n<br/>\n<br/>\n      Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n    [Non-text portions of this message have been removed]<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n          Yahoo! Groups Sponsor<br/>\n         <br/>\n                ADVERTISEMENT<br/>\n<br/>\n               <br/>\n<br/>\n         <br/>\n<br/>\n         <br/>\n<br/>\n<br/>\n    To unsubscribe from this group, send an email to:<br/>\n    <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy-unsubscribe@yahoogroups.com\">nihontostudy-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n<br/>\n<br/>\n    Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n  [Non-text portions of this message have been removed]<br/>\n<br/>\n<br/>\n        Yahoo! Groups Sponsor <br/>\n              ADVERTISEMENT<br/>\n             <br/>\n       <br/>\n       <br/>\n<br/>\n  To unsubscribe from this group, send an email to:<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy-unsubscribe@yahoogroups.com\">nihontostudy-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n<br/>\n<br/>\n  Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba",
+            "postDate": "1060111884",
+            "msgId": 640,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDIwMWMzNWI4OCQ1MmRmNDY3MCQyMTAxMTBhY0BUSElOS1BBRD4=",
+                "referencesHeader": "PDBCRDU3QjZBMjZEQkQyMTE4NDhFMDA2MDA4Q0UzMjM3MDFBNjVFRDZAZG9jMy5kaXMuY2NjZC5lZHU+"
+            },
+            "prevInTopic": 639,
+            "nextInTopic": 641,
+            "prevInTime": 639,
+            "nextInTime": 641,
+            "topicId": 635,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "But what are temple carvings?  Are they symbols of good luck placed on the tsuba to protect its owner? Or are they ownership marks indicating that sword and/or",
+            "messageBody": "<div id=\"ygrps-yiv-494240455\">But what are temple carvings?  Are they symbols of good luck placed on the tsuba to protect its owner? Or are they ownership marks indicating that sword and/or tsuba are the property of a particular temple? <br/>\n<br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:RDavis@...\">RDavis@...</a> <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:token_kenkyu_kai@...\">token_kenkyu_kai@...</a> <br/>\n  Sent: Tuesday, August 05, 2003 11:27 AM<br/>\n  Subject: RE: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n<br/>\n  David....looks like the Buddhist symbol that is in the form of the German swastika only the &quot;arms&quot; are in the opposite direction.  I have a tachi tsuba that has this same symbol in sukashi style just outside the seppa dai area. <br/>\n<br/>\n   <br/>\n<br/>\n  Roger<br/>\n<br/>\n   <br/>\n<br/>\n  -----Original Message-----<br/>\n  From: David Zincavage [mailto:<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jdz@...\">jdz@...</a>]<br/>\n  Sent: Tuesday, August 05, 2003 11:14 AM<br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a><br/>\n  Cc: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:token_kenkyu_kai@...\">token_kenkyu_kai@...</a><br/>\n  Subject: Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n   <br/>\n<br/>\n  Whoops! I forgot to mention it is on the right side of the seppa dai.<br/>\n<br/>\n  ----- Original Message ----- <br/>\n<br/>\n<br/>\n  From: David Zincavage <br/>\n<br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n<br/>\n  Cc: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:token_kenkyu_kai@...\">token_kenkyu_kai@...</a> <br/>\n<br/>\n  Sent: Tuesday, August 05, 2003 11:10 AM<br/>\n<br/>\n  Subject: Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n   <br/>\n<br/>\n  I have uploaded the image in a very large size in order to make the temple mark visible.<br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://zincavage.org/AkasakaClouds.html\">http://zincavage.org/AkasakaClouds.html</a><br/>\n    ----- Original Message ----- <br/>\n    From: alchemyst <br/>\n    To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n    Sent: Tuesday, August 05, 2003 9:05 AM<br/>\n    Subject: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n<br/>\n    --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;David Zincavage&quot; &lt;jdz@i...&gt; <br/>\n    wrote:<br/>\n    &gt; I just bought a tsuba which the dealer describes as having &quot; a <br/>\n    small <br/>\n    temple<br/>\n    &gt; carving symbol on the seppadai.&quot; I could not recognize it in the <br/>\n    pictures.<br/>\n    &gt; What sort of temple carvings appear on tsubas?<br/>\n<br/>\n    On the seppa-dai ????<br/>\n<br/>\n    All sorts of &quot;real&quot; and abstract temples are used<br/>\n    as motifs on the body of the tsuba.<br/>\n<br/>\n    A picture would be most helpful.<br/>\n<br/>\n    Rich<br/>\n    ------------------------------------------------------------<br/>\n    Richard Stein, PhD          <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:alchemyst@...\">alchemyst@...</a><br/>\n          <br/>\n                 The Japanese Sword Index<br/>\n      <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.com/alchemyst/nihonto.htm\">http://www.geocities.com/alchemyst/nihonto.htm</a><br/>\n    ------------------------------------------------------------<br/>\n<br/>\n<br/>\n<br/>\n          Yahoo! Groups Sponsor <br/>\n                ADVERTISEMENT<br/>\n               <br/>\n         <br/>\n         <br/>\n<br/>\n    To unsubscribe from this group, send an email to:<br/>\n    <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy-unsubscribe@yahoogroups.com\">nihontostudy-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n<br/>\n<br/>\n    Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n  [Non-text portions of this message have been removed]<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n        Yahoo! Groups Sponsor<br/>\n       <br/>\n              ADVERTISEMENT<br/>\n<br/>\n             <br/>\n<br/>\n       <br/>\n<br/>\n       <br/>\n<br/>\n<br/>\n  To unsubscribe from this group, send an email to:<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy-unsubscribe@yahoogroups.com\">nihontostudy-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n<br/>\n<br/>\n  Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba",
+            "postDate": "1060111884",
+            "msgId": 641,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGMwMWMzNWI4OCQyOGY5Yjg0MCQyMTAxMTBhY0BUSElOS1BBRD4=",
+                "referencesHeader": "PDBCRDU3QjZBMjZEQkQyMTE4NDhFMDA2MDA4Q0UzMjM3MDFBNjVFRDZAZG9jMy5kaXMuY2NjZC5lZHU+"
+            },
+            "prevInTopic": 640,
+            "nextInTopic": 642,
+            "prevInTime": 640,
+            "nextInTime": 642,
+            "topicId": 635,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "But what are temple carvings?  Are they symbols of good luck placed on the tsuba to protect its owner? Or are they ownership marks indicating that sword and/or",
+            "messageBody": "<div id=\"ygrps-yiv-454011368\">But what are temple carvings?  Are they symbols of good luck placed on the tsuba to protect its owner? Or are they ownership marks indicating that sword and/or tsuba are the property of a particular temple? <br/>\n<br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:RDavis@...\">RDavis@...</a> <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:token_kenkyu_kai@...\">token_kenkyu_kai@...</a> <br/>\n  Sent: Tuesday, August 05, 2003 11:27 AM<br/>\n  Subject: RE: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n<br/>\n  David....looks like the Buddhist symbol that is in the form of the German swastika only the &quot;arms&quot; are in the opposite direction.  I have a tachi tsuba that has this same symbol in sukashi style just outside the seppa dai area. <br/>\n<br/>\n   <br/>\n<br/>\n  Roger<br/>\n<br/>\n   <br/>\n<br/>\n  -----Original Message-----<br/>\n  From: David Zincavage [mailto:<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jdz@...\">jdz@...</a>]<br/>\n  Sent: Tuesday, August 05, 2003 11:14 AM<br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a><br/>\n  Cc: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:token_kenkyu_kai@...\">token_kenkyu_kai@...</a><br/>\n  Subject: Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n   <br/>\n<br/>\n  Whoops! I forgot to mention it is on the right side of the seppa dai.<br/>\n<br/>\n  ----- Original Message ----- <br/>\n<br/>\n<br/>\n  From: David Zincavage <br/>\n<br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n<br/>\n  Cc: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:token_kenkyu_kai@...\">token_kenkyu_kai@...</a> <br/>\n<br/>\n  Sent: Tuesday, August 05, 2003 11:10 AM<br/>\n<br/>\n  Subject: Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n   <br/>\n<br/>\n  I have uploaded the image in a very large size in order to make the temple mark visible.<br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://zincavage.org/AkasakaClouds.html\">http://zincavage.org/AkasakaClouds.html</a><br/>\n    ----- Original Message ----- <br/>\n    From: alchemyst <br/>\n    To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n    Sent: Tuesday, August 05, 2003 9:05 AM<br/>\n    Subject: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n<br/>\n    --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;David Zincavage&quot; &lt;jdz@i...&gt; <br/>\n    wrote:<br/>\n    &gt; I just bought a tsuba which the dealer describes as having &quot; a <br/>\n    small <br/>\n    temple<br/>\n    &gt; carving symbol on the seppadai.&quot; I could not recognize it in the <br/>\n    pictures.<br/>\n    &gt; What sort of temple carvings appear on tsubas?<br/>\n<br/>\n    On the seppa-dai ????<br/>\n<br/>\n    All sorts of &quot;real&quot; and abstract temples are used<br/>\n    as motifs on the body of the tsuba.<br/>\n<br/>\n    A picture would be most helpful.<br/>\n<br/>\n    Rich<br/>\n    ------------------------------------------------------------<br/>\n    Richard Stein, PhD          <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:alchemyst@...\">alchemyst@...</a><br/>\n          <br/>\n                 The Japanese Sword Index<br/>\n      <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.com/alchemyst/nihonto.htm\">http://www.geocities.com/alchemyst/nihonto.htm</a><br/>\n    ------------------------------------------------------------<br/>\n<br/>\n<br/>\n<br/>\n          Yahoo! Groups Sponsor <br/>\n                ADVERTISEMENT<br/>\n               <br/>\n         <br/>\n         <br/>\n<br/>\n    To unsubscribe from this group, send an email to:<br/>\n    <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy-unsubscribe@yahoogroups.com\">nihontostudy-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n<br/>\n<br/>\n    Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n  [Non-text portions of this message have been removed]<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n        Yahoo! Groups Sponsor<br/>\n       <br/>\n              ADVERTISEMENT<br/>\n<br/>\n             <br/>\n<br/>\n       <br/>\n<br/>\n       <br/>\n<br/>\n<br/>\n  To unsubscribe from this group, send an email to:<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy-unsubscribe@yahoogroups.com\">nihontostudy-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n<br/>\n<br/>\n  Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba",
+            "postDate": "1060107249",
+            "msgId": 639,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNjEwMWMzNWI3ZCQ1ZGRiMDQyMCQyMTAxMTBhY0BUSElOS1BBRD4=",
+                "referencesHeader": "PGJnb2trOCtsdnM0QGVHcm91cHMuY29tPiA8MDAyZjAxYzM1YjdjJGRhNzU3OTMwJDIxMDExMGFjQFRISU5LUEFEPg=="
+            },
+            "prevInTopic": 638,
+            "nextInTopic": 640,
+            "prevInTime": 638,
+            "nextInTime": 640,
+            "topicId": 635,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Whoops! I forgot to mention it is on the right side of the seppa dai. ... From: David Zincavage To: nihontostudy@yahoogroups.com Cc:",
+            "messageBody": "<div id=\"ygrps-yiv-862885954\">Whoops! I forgot to mention it is on the right side of the seppa dai.<br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: David Zincavage <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n  Cc: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:token_kenkyu_kai@...\">token_kenkyu_kai@...</a> <br/>\n  Sent: Tuesday, August 05, 2003 11:10 AM<br/>\n  Subject: Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n<br/>\n  I have uploaded the image in a very large size in order to make the temple mark visible.<br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://zincavage.org/AkasakaClouds.html\">http://zincavage.org/AkasakaClouds.html</a><br/>\n    ----- Original Message ----- <br/>\n    From: alchemyst <br/>\n    To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n    Sent: Tuesday, August 05, 2003 9:05 AM<br/>\n    Subject: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n<br/>\n    --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;David Zincavage&quot; &lt;jdz@i...&gt; <br/>\n    wrote:<br/>\n    &gt; I just bought a tsuba which the dealer describes as having &quot; a <br/>\n    small <br/>\n    temple<br/>\n    &gt; carving symbol on the seppadai.&quot; I could not recognize it in the <br/>\n    pictures.<br/>\n    &gt; What sort of temple carvings appear on tsubas?<br/>\n<br/>\n    On the seppa-dai ????<br/>\n<br/>\n    All sorts of &quot;real&quot; and abstract temples are used<br/>\n    as motifs on the body of the tsuba.<br/>\n<br/>\n    A picture would be most helpful.<br/>\n<br/>\n    Rich<br/>\n    ------------------------------------------------------------<br/>\n    Richard Stein, PhD          <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:alchemyst@...\">alchemyst@...</a><br/>\n          <br/>\n                 The Japanese Sword Index<br/>\n      <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.com/alchemyst/nihonto.htm\">http://www.geocities.com/alchemyst/nihonto.htm</a><br/>\n    ------------------------------------------------------------<br/>\n<br/>\n<br/>\n<br/>\n          Yahoo! Groups Sponsor <br/>\n                ADVERTISEMENT<br/>\n               <br/>\n         <br/>\n         <br/>\n<br/>\n    To unsubscribe from this group, send an email to:<br/>\n    <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy-unsubscribe@yahoogroups.com\">nihontostudy-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n<br/>\n<br/>\n    Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n  [Non-text portions of this message have been removed]<br/>\n<br/>\n<br/>\n        Yahoo! Groups Sponsor <br/>\n              ADVERTISEMENT<br/>\n             <br/>\n       <br/>\n       <br/>\n<br/>\n  To unsubscribe from this group, send an email to:<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy-unsubscribe@yahoogroups.com\">nihontostudy-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n<br/>\n<br/>\n  Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Re: &quot;temple carving&quot; on tsuba",
+            "postDate": "1060107028",
+            "msgId": 638,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMmYwMWMzNWI3YyRkYTc1NzkzMCQyMTAxMTBhY0BUSElOS1BBRD4=",
+                "referencesHeader": "PGJnb2trOCtsdnM0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 636,
+            "nextInTopic": 639,
+            "prevInTime": 637,
+            "nextInTime": 639,
+            "topicId": 635,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have uploaded the image in a very large size in order to make the temple mark visible. http://zincavage.org/AkasakaClouds.html ... From: alchemyst To:",
+            "messageBody": "<div id=\"ygrps-yiv-1042494540\">I have uploaded the image in a very large size in order to make the temple mark visible.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://zincavage.org/AkasakaClouds.html\">http://zincavage.org/AkasakaClouds.html</a><br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: alchemyst <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n  Sent: Tuesday, August 05, 2003 9:05 AM<br/>\n  Subject: [nihontostudy] Re: &quot;temple carving&quot; on tsuba<br/>\n<br/>\n<br/>\n  --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;David Zincavage&quot; &lt;jdz@i...&gt; <br/>\n  wrote:<br/>\n  &gt; I just bought a tsuba which the dealer describes as having &quot; a <br/>\n  small <br/>\n  temple<br/>\n  &gt; carving symbol on the seppadai.&quot; I could not recognize it in the <br/>\n  pictures.<br/>\n  &gt; What sort of temple carvings appear on tsubas?<br/>\n<br/>\n  On the seppa-dai ????<br/>\n<br/>\n  All sorts of &quot;real&quot; and abstract temples are used<br/>\n  as motifs on the body of the tsuba.<br/>\n<br/>\n  A picture would be most helpful.<br/>\n<br/>\n  Rich<br/>\n  ------------------------------------------------------------<br/>\n  Richard Stein, PhD          <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:alchemyst@...\">alchemyst@...</a><br/>\n        <br/>\n               The Japanese Sword Index<br/>\n    <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.com/alchemyst/nihonto.htm\">http://www.geocities.com/alchemyst/nihonto.htm</a><br/>\n  ------------------------------------------------------------<br/>\n<br/>\n<br/>\n<br/>\n        Yahoo! Groups Sponsor <br/>\n              ADVERTISEMENT<br/>\n             <br/>\n       <br/>\n       <br/>\n<br/>\n  To unsubscribe from this group, send an email to:<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy-unsubscribe@yahoogroups.com\">nihontostudy-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n<br/>\n<br/>\n  Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 77400184,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: &quot;temple carving&quot; on tsuba",
+            "postDate": "1060099528",
+            "msgId": 636,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJnb2trOCtsdnM0QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDAwMzgwMWMzNWI2MCRiMjc2YmQyMCQyMTAxMTBhY0BUSElOS1BBRD4="
+            },
+            "prevInTopic": 635,
+            "nextInTopic": 638,
+            "prevInTime": 635,
+            "nextInTime": 637,
+            "topicId": 635,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... small temple ... pictures. ... On the seppa-dai ???? All sorts of real and abstract temples are used as motifs on the body of the tsuba. A picture would",
+            "messageBody": "<div id=\"ygrps-yiv-1774309547\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;David Zincavage&quot; &lt;jdz@i...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; I just bought a tsuba which the dealer describes as having &quot; a <br/>\n </span></blockquote>small <br/>\ntemple<br/>\n<blockquote><span title=\"ireply\"> &gt; carving symbol on the seppadai.&quot; I could not recognize it in the <br/>\n </span></blockquote>pictures.<br/>\n<blockquote><span title=\"ireply\"> &gt; What sort of temple carvings appear on tsubas?<br/>\n<br/>\n </span></blockquote>On the seppa-dai ????<br/>\n<br/>\nAll sorts of &quot;real&quot; and abstract temples are used<br/>\nas motifs on the body of the tsuba.<br/>\n<br/>\nA picture would be most helpful.<br/>\n<br/>\nRich<br/>\n------------------------------------------------------------<br/>\n Richard Stein, PhD          <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:alchemyst@...\">alchemyst@...</a><br/>\n      <br/>\n             The Japanese Sword Index<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.com/alchemyst/nihonto.htm\">http://www.geocities.com/alchemyst/nihonto.htm</a><br/>\n------------------------------------------------------------</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: &quot;temple carving&quot; on tsuba",
+            "postDate": "1060094936",
+            "msgId": 635,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMzgwMWMzNWI2MCRiMjc2YmQyMCQyMTAxMTBhY0BUSElOS1BBRD4=",
+                "referencesHeader": "PDAwM2YwMWMzNWE5ZiRmMzJkNTQ4MCQ5N2NhZmVhOUBreXA0PiA8M0YyRjBFQjYuMzA3MDFAaWtreXVkby5jb20+IDx4bzhmemtnbjAzZi5mc2ZfLV9AeGhhc2MuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 636,
+            "prevInTime": 634,
+            "nextInTime": 636,
+            "topicId": 635,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I just bought a tsuba which the dealer describes as having  a small temple carving symbol on the seppadai. I could not recognize it in the pictures. What",
+            "messageBody": "<div id=\"ygrps-yiv-1025285061\">I just bought a tsuba which the dealer describes as having &quot; a small temple<br/>\ncarving symbol on the seppadai.&quot; I could not recognize it in the pictures.<br/>\nWhat sort of temple carvings appear on tsubas?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 644,
+    "nextTopicId": 651
+}

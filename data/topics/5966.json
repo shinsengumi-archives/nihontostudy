@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 278314026,
+            "authorName": "",
+            "from": "&lt;elliott@...&gt;",
+            "profile": "elliottshogun",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Please cancel Email notification",
+            "postDate": "1401213389",
+            "msgId": 5966,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMTQwNTI3MTA1NjI5LjM2ZmEwMzk5ZGVkNmUwN2I5NjFmYmQ1NGI5NzdiNmYzLmEyMmIwMGE0ZjIud2JlQGVtYWlsMTAuc2VjdXJlc2VydmVyLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5965,
+            "nextInTime": 5967,
+            "topicId": 5966,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Please cancel my account, I will renew membership with new user name and password. Elliott Long & Robert Haynes www.shibuiswords.com",
+            "messageBody": "<div id=\"ygrps-yiv-420333668\"><html><span style=\"font-family:Trebuchet MS;color:#000000;font-size:14pt;\"><div>&nbsp;Please cancel my account, I will renew membership with new user name and password.</div>\n<div>&nbsp;</div>\n<div><span style=\"FONT-SIZE:18pt;\"><em><span style=\"FONT-FAMILY:andale mono, times;\">Elliott Long &amp; Robert Haynes</span></em></span></div>\n<div><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shibuiswords.com\">www.shibuiswords.com</a></div>\n<div>&nbsp;</div></span></html></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5950,
+    "nextTopicId": 5965
+}

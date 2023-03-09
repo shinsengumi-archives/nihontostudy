@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 77400184,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Swordsmith Tokinaka ??",
+            "postDate": "1067376696",
+            "msgId": 976,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJubW43bytyMThsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 975,
+            "nextInTime": 977,
+            "topicId": 976,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone have any info on a smith signing: Chikuzen no ju Shimosaka Be-no-jo Tokinaka ? It is a Kanbun period style blade. Thanks Rich S ... Richard Stein,",
+            "messageBody": "<div id=\"ygrps-yiv-477080462\">Does anyone have any info on a smith signing:<br/>\n<br/>\nChikuzen no ju Shimosaka Be-no-jo Tokinaka ?<br/>\n<br/>\nIt is a Kanbun period style blade.<br/>\n<br/>\nThanks<br/>\nRich S <br/>\n<br/>\n------------------------------------------------------------<br/>\n Richard Stein, PhD          <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:alchemyst@...\">alchemyst@...</a><br/>\n      <br/>\n             The Japanese Sword Index<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.com/alchemyst/nihonto.htm\">http://www.geocities.com/alchemyst/nihonto.htm</a><br/>\n------------------------------------------------------------</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 975,
+    "nextTopicId": 980
+}

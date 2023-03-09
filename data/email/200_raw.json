@@ -1,0 +1,30 @@
+{
+    "userId": 123364401,
+    "authorName": "nihontochicken",
+    "from": "&quot;nihontochicken&quot; &lt;rick@...&gt;",
+    "profile": "nihontochicken",
+    "replyTo": "LIST",
+    "senderId": "AU-UNmNtVLmjakvqkCEpYHUSqZAQcLGajAQzxGUzyApLdDWFKv5Sl3UABBI3VhX-joN2Jm1B2NMCAyoVP-MPy_Dxg4OuNf9_W-qY",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: Hinzento",
+    "postDate": "1052346185",
+    "msgId": 200,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGI5YzEwOStxbmQyQGVHcm91cHMuY29tPg==",
+        "inReplyToHeader": "PE9GRTk4MEZGMzcuNzA3RUVGOTctT044NjI1NkQxRi4wMDcwQUJEM0B1bmwuZWR1Pg=="
+    },
+    "prevInTopic": 198,
+    "nextInTopic": 205,
+    "prevInTime": 199,
+    "nextInTime": 201,
+    "topicId": 112,
+    "numMessagesInTopic": 16,
+    "msgSnippet": "Peter (and Folk) - You are correct re the compressive residual stress inside a nihonto ha, which allows the very brittle martensite to survive the quench ",
+    "rawEmail": "Return-Path: &lt;rick@...&gt;\r\nX-Sender: rick@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (EGP: mail-8_2_6_6); 7 May 2003 22:24:11 -0000\r\nReceived: (qmail 26451 invoked from network); 7 May 2003 22:23:09 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m9.grp.scd.yahoo.com with QMQP; 7 May 2003 22:23:09 -0000\r\nReceived: from unknown (HELO n16.grp.scd.yahoo.com) (66.218.66.71)\n  by mta1.grp.scd.yahoo.com with SMTP; 7 May 2003 22:23:11 -0000\r\nReceived: from [66.218.67.185] by n16.grp.scd.yahoo.com with NNFMP; 07 May 2003 22:23:08 -0000\r\nDate: Wed, 07 May 2003 22:23:05 -0000\r\nTo: nihontostudy@yahoogroups.com\r\nSubject: Re: Hinzento\r\nMessage-ID: &lt;b9c109+qnd2@...&gt;\r\nIn-Reply-To: &lt;OFE980FF37.707EEF97-ON86256D1F.0070ABD3@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 1835\r\nX-Mailer: Yahoo Groups Message Poster\r\nFrom: &quot;nihontochicken&quot; &lt;rick@...&gt;\r\nX-Yahoo-Group-Post: member; u=123364401\r\nX-Yahoo-Profile: nihontochicken\r\n\r\nPeter (and Folk) -\n\nYou are correct re the compressive residual stress inside a nihonto \nha, which allows the very brittle martensite to survive the quench \nhardening process (well, usually).  However, this residual \ncompressive stress is enhanced by the relative expansion of the \nmartensitic ha as compared to the ferritic/pearlitic core, but is not \nfundamentally caused by it.  Due to the much more rapid cooling of \nthe ha, there would be a residual compressive stress left in it even \nwere there no phase transformations at all, such as in a uniform \naustenitic nickel steel.  I am dubious, however, as to how much this \nresidual compressive stress adds to the longevity of the ha in battle \nuse.  Imagine the brittle ha under compression like a string of, say, \n20 child&#39;s wooden blocks squeezed between your hands.  Push really \nhard!  Now have someone tap the middle block from one side, and watch \nthe blocks spray out.  And so I&#39;ve seen nihonto with big chips blown \nout of the ha, perhaps likewise ejected by an off-center, sideways \nstrike to the ha by something hard.  In any event, I don&#39;t think any \nof the following has any effect on the &quot;flexibility&quot; issue, the \nelastic bending of the sword below the yield stress or brittle \nfracture stress.  Again, &quot;flexibility&quot; of an iron/steel sword does \nnot depend on carbon/alloy content or heat treatment.  Not intuitive \nat all to me.\n\nBTW, I obviously forgot which list I was on in a previous reply, and \nso apologize.  Also, the elastic modulus (Young&#39;s modulus) is, of \ncourse, the ratio of the stress to the strain, not the reverse as I \nerroneously said before.  If you maintain the units, any error \nbecomes obvious.  That is why physicists rarely have a problem, \nwhereas engineers tend to get into trouble, crashing space probes \ninto planets and whatnot.  ;o)\n\nNC\n\n\n"
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 56971874,
+        "photoId": 2114957579,
+        "photoName": "k4a",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1144623215,
+        "creationDate": 1144623215,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/JDPgtd_ue9AgDkwrLtvU/name/n_a",
+                "height": 42,
+                "width": 96,
+                "size": 1448,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/JDPgtd_ue9AgDkwrLtvU/name/n_a",
+                "height": 209,
+                "width": 480,
+                "size": 15751,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/JDPgtd_ue9AgDkwrLtvU/name/n_a",
+                "height": 349,
+                "width": 800,
+                "size": 38340,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 56971874,
+        "photoId": 720652926,
+        "photoName": "k4b",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1144623216,
+        "creationDate": 1144623216,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/M3ZEvgHreNF2TKROWGc-/name/n_a",
+                "height": 96,
+                "width": 96,
+                "size": 2951,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/M3ZEvgHreNF2TKROWGc-/name/n_a",
+                "height": 480,
+                "width": 479,
+                "size": 28214,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/M3ZEvgHreNF2TKROWGc-/name/n_a",
+                "height": 744,
+                "width": 742,
+                "size": 61516,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

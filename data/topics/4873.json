@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 275960202,
+            "authorName": "maxmaterial",
+            "from": "&quot;maxmaterial&quot; &lt;maximo@...&gt;",
+            "profile": "maxmaterial",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Consult about Yoshihara San e-mail",
+            "postDate": "1171899756",
+            "msgId": 4873,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVyY2doYytidWZsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4872,
+            "nextInTime": 4874,
+            "topicId": 4873,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone have de Yoshindo Yoshihara San e-mail, or know were can I take it? Can, please, send it by private mail to maximo@maximom.com.ar Thank you in",
+            "messageBody": "<div id=\"ygrps-yiv-1538756169\">Does anyone have de Yoshindo Yoshihara San e-mail, or know were can I <br/>\ntake it?<br/>\nCan, please, send it by private mail to <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:maximo@...\">maximo@...</a><br/>\nThank you in advance,<br/>\nMáximo<br/>\n<br/>\nMáximo D. Marchionni<br/>\nwww.maximom.com.ar<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Maximo@...\">Maximo@...</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4853,
+    "nextTopicId": 4874
+}

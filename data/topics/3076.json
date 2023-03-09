@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Sotheby July Sale London",
+            "postDate": "1120227128",
+            "msgId": 3076,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRhM2l2bytnMDJsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3075,
+            "nextInTime": 3077,
+            "topicId": 3076,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://search.sothebys.com/search/collArea/BrowseCat.jsp? &source_indicator=E&event_id=27119&sale_number=L05860&event_name=Japanes ",
+            "messageBody": "<div id=\"ygrps-yiv-655027946\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://search.sothebys.com/search/collArea/BrowseCat.jsp?\">http://search.sothebys.com/search/collArea/BrowseCat.jsp?</a><br/>\n&source_indicator=E&event_id=27119&sale_number=L05860&event_name=Japanes<br/>\ne%20and%20Korean%20Works%20of%20Art<br/>\n<br/>\nThe on-line catalogue is now available for the Londaon July sale.  It <br/>\nis well worth looking at as there is an extensive collection of <br/>\nfittings being auctioned.  Have a safe holiday!  Pete Klein</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3070,
+    "nextTopicId": 3055
+}

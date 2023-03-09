@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "art name question",
+            "postDate": "1121275798",
+            "msgId": 3151,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTQwMWM1ODdkMCQ3ZTNjYWM2MCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3149,
+            "nextInTime": 3152,
+            "topicId": 3151,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Torigoye Kazutaro wrote hakogaki signed with the art name Kodo meaning old road, ancient methods, ancient moral teachings, and so on.  He also used the art",
+            "messageBody": "<div id=\"ygrps-yiv-1147302633\">Torigoye Kazutaro wrote hakogaki signed with the art name Kodo meaning &quot;old road, ancient methods, ancient moral teachings, and so on.&quot;  He also used the art name Saro.  I have been unable to identify the meaning of Saro or the kanji used to write it.<br/>\n<br/>\nDavid Zincavage<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2109,
+    "nextTopicId": 3098
+}

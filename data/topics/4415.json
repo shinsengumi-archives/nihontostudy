@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Contact",
+            "postDate": "1310606897",
+            "msgId": 5836,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDM1MTU1OEI0LTdEN0MtNDE2MC05NDM3LTgxN0IyQTRCNTVBMkB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 4415,
+            "nextInTopic": 0,
+            "prevInTime": 5835,
+            "nextInTime": 5837,
+            "topicId": 4415,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone have contact info for Richard Ehman of Seattle? Please respond off-line thanks, -t Tom Helm toryu@toryu-mon.com Moriamur, et in media arma ruamus",
+            "messageBody": "<div id=\"ygrps-yiv-422318699\">Does anyone have contact info for Richard Ehman of Seattle?<br/>\n\tPlease respond off-line thanks,<br/>\n-t<br/>\nTom Helm<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:toryu@...\">toryu@...</a><br/>\n&quot;Moriamur, et in media arma ruamus&quot;<br/>\n- Vergil</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Contact",
+            "postDate": "1156394914",
+            "msgId": 4415,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNBOEIzNjVGLTlBNUEtNENBOS1BMDJELUMwMzJBNEE0NUEyOUB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5836,
+            "prevInTime": 4414,
+            "nextInTime": 4416,
+            "topicId": 4415,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ted Tennold if you are listening can you send me a ping ? offline, please, -t",
+            "messageBody": "<div id=\"ygrps-yiv-1714790754\">Ted Tennold if you are listening can you send me a &quot;ping&quot;?<br/>\n<br/>\noffline, please,<br/>\n-t</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5827,
+    "nextTopicId": 5838
+}

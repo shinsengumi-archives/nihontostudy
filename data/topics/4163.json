@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 79668687,
+            "authorName": "Hizen3@aol.com",
+            "from": "Hizen3@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Fwd: Fw: Follow The Rat",
+            "postDate": "1145623488",
+            "msgId": 4163,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNkMy5iYmU5MDQuMzE3YTJkYzBAYW9sLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4162,
+            "nextInTime": 4164,
+            "topicId": 4163,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "[Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-2058012549\">[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4161,
+    "nextTopicId": 4174
+}

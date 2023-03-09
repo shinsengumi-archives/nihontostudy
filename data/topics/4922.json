@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "maiorian",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Reduced Prices for sword books",
+            "postDate": "1173123006",
+            "msgId": 4922,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFsYW5iYWxlJDIxMy43OC45OC40MCQuMDRmZjAxYzc1ZjVjJGFlYTk0ZmIwJDRlNzY0ZWQ1QGNvbXB1dGVyPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4921,
+            "nextInTime": 4923,
+            "topicId": 4922,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Many prices on my New Books list have been reduced, please send for a list if interested. Alan Bale [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1221039042\">Many prices on my &#39;New Books&#39; list have been reduced, please send for a list if interested.<br/>\n<br/>\nAlan Bale<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4921,
+    "nextTopicId": 4923
+}

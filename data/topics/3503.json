@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 119712588,
+            "authorName": "pac0datac0",
+            "from": "&quot;pac0datac0&quot; &lt;Pac0daTac0@...&gt;",
+            "profile": "pac0datac0",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Folder in Files Section",
+            "postDate": "1132527179",
+            "msgId": 3503,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRscXVvYitiN3RyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3502,
+            "nextInTime": 3504,
+            "topicId": 3503,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I created a folder in the files section called WW2 Katana Pics . Sorry for the quality, they were taken with a camera phone. I have a close up of the tsuba",
+            "messageBody": "<div id=\"ygrps-yiv-1984762597\">I created a folder in the files section called &quot;WW2 Katana Pics&quot;. Sorry <br/>\nfor the quality, they were taken with a camera phone. I have a close up <br/>\nof the tsuba and other parts of it. The close up of the blade, showing <br/>\nthe hada, is pretty fuzzy. In my opinion, the hada and hamon on the <br/>\nblade are dead giveaways, to me, that the sword is fake. But let me <br/>\nknow what you guys think.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3449,
+    "nextTopicId": 3499
+}

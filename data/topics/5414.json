@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 262825586,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Token Kantei",
+            "postDate": "1210382760",
+            "msgId": 5414,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGcwMnRqOCsyYW92QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5413,
+            "nextInTime": 5416,
+            "topicId": 5414,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, I just thought I would share this. The Tôken forum has a good kantei up and running. These are traditional sword kantei and are quite good fun if you",
+            "messageBody": "<div id=\"ygrps-yiv-125444594\">Hi all, I just thought I would share this.<br/>\n<br/>\nThe Tôken forum has a good kantei up and running. These are<br/>\ntraditional sword kantei and are quite good fun if you are into swords.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.thetokenforum.com/\">http://www.thetokenforum.com/</a><br/>\n<br/>\nJust thought I would share.<br/>\n<br/>\nRichard Turner<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontokanjipages.com/forum/\">http://www.nihontokanjipages.com/forum/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5411,
+    "nextTopicId": 4393
+}

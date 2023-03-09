@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] sword mei",
+            "postDate": "1073626630",
+            "msgId": 1425,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PERFQjRBREEwLTQyNjUtMTFEOC05RDg1LTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PGJ0bDFnNCt1YnBqQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGJ0bDFnNCt1YnBqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1417,
+            "nextInTopic": 0,
+            "prevInTime": 1424,
+            "nextInTime": 1426,
+            "topicId": 1417,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Guildamar- Since you were able to decipher the mei you must have access to a knaji dictionary of some sort. Please tell us the Kanji used in your mei for Yoshi",
+            "messageBody": "<div id=\"ygrps-yiv-1856475321\">Guildamar-<br/>\n\tSince you were able to decipher the mei you must have access to a <br/>\nknaji dictionary of some sort. Please tell us the Kanji used in your <br/>\nmei for Yoshi and Fusa, and then perhaps we can suss it out...<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 161137721,
+            "authorName": "guildamar",
+            "from": "&quot;guildamar&quot; &lt;rrans@...&gt;",
+            "profile": "guildamar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "sword mei",
+            "postDate": "1073613124",
+            "msgId": 1417,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJ0bDFnNCt1YnBqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1425,
+            "prevInTime": 1416,
+            "nextInTime": 1418,
+            "topicId": 1417,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "looking for info on a sword maker who sined Sugi Moto(or Hon) Yoshi Fusa ? (as best as i can dicpher)",
+            "messageBody": "<div id=\"ygrps-yiv-1073451696\">looking for info on a sword maker who sined Sugi Moto(or Hon) Yoshi <br/>\nFusa ? (as best as i can dicpher)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1358,
+    "nextTopicId": 1426
+}

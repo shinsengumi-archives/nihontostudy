@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "profile": "xe83fan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "NSR - BUT INTERESTING PIECE ON DAMASCUS STEEL...",
+            "postDate": "1163666089",
+            "msgId": 4645,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxMDgwMWM3MDk1YSQ0MjA0OGU5MCQwMzAwYThjMEBiYXJyeXRvcGd1bj4=",
+                "referencesHeader": "PGVqZHUycCs4NGlqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4644,
+            "nextInTime": 4646,
+            "topicId": 4645,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Peoples, Not strictly Japanese, but a VERY INTERESTING article nonetheless on Damascus steel: ",
+            "messageBody": "<div id=\"ygrps-yiv-1514848890\">Dear Peoples,<br/>\n<br/>\nNot strictly Japanese, but a VERY INTERESTING article nonetheless on Damascus steel:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.theaustralian.news.com.au/story/0,20867,20767635-30417,00.html\">http://www.theaustralian.news.com.au/story/0,20867,20767635-30417,00.html</a><br/>\n<br/>\nRegards,<br/>\n<br/>\nBarry Thomas.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4644,
+    "nextTopicId": 4646
+}

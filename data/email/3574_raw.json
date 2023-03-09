@@ -1,0 +1,31 @@
+{
+    "userId": 122856650,
+    "authorName": "Richard Turner",
+    "from": "Richard Turner &lt;ikkanshi@...&gt;",
+    "profile": "retalt",
+    "replyTo": "LIST",
+    "senderId": "0AppF4Bz1EvxalWtGyg4gSjMskX30JlwLMMScd5-6IgLbA1-AsBsvPf3ugi29FARyTXMlWhA-A1p42OKC5wVoaM0gtNf5-Ok9iA6zz0tZw",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "7"
+    },
+    "subject": "Test - sorry.",
+    "postDate": "1133820865",
+    "msgId": 3574,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDQzOTRCQkMxLjkwMzAwMDZAd2VzdG5ldC5jb20uYXU+",
+        "inReplyToHeader": "PGRuMXMxcStybTdtQGVHcm91cHMuY29tPg==",
+        "referencesHeader": "PGRuMXMxcStybTdtQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 3572,
+    "nextInTopic": 3575,
+    "prevInTime": 3573,
+    "nextInTime": 3575,
+    "topicId": 3562,
+    "numMessagesInTopic": 11,
+    "msgSnippet": "?? ?? [Non-text portions of this message have been removed]",
+    "rawEmail": "Return-Path: &lt;ikkanshi@...&gt;\r\nX-Sender: ikkanshi@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 89116 invoked from network); 5 Dec 2005 22:14:24 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m23.grp.scd.yahoo.com with QMQP; 5 Dec 2005 22:14:24 -0000\r\nReceived: from unknown (HELO vscan03.westnet.com.au) (203.10.1.142)\n  by mta5.grp.scd.yahoo.com with SMTP; 5 Dec 2005 22:14:24 -0000\r\nReceived: from localhost (localhost.localdomain [127.0.0.1])\n\tby localhost (Postfix) with ESMTP id A2112B601CA\n\tfor &lt;nihontostudy@yahoogroups.com&gt;; Tue,  6 Dec 2005 06:14:21 +0800 (WST)\r\nReceived: from vscan03.westnet.com.au ([127.0.0.1])\n by localhost (vscan03.westnet.com.au [127.0.0.1]) (amavisd-new, port 10024)\n with ESMTP id 17065-05-2 for &lt;nihontostudy@yahoogroups.com&gt;;\n Tue,  6 Dec 2005 06:14:21 +0800 (WST)\r\nReceived: from [192.168.0.3] (dsl-202-72-174-81.wa.westnet.com.au [202.72.174.81])\n\tby vscan03.westnet.com.au (Postfix) with ESMTP id 77ED9B6032D\n\tfor &lt;nihontostudy@yahoogroups.com&gt;; Tue,  6 Dec 2005 06:14:21 +0800 (WST)\r\nMessage-ID: &lt;4394BBC1.9030006@...&gt;\r\nDate: Tue, 06 Dec 2005 06:14:25 +0800\r\nUser-Agent: Mozilla Thunderbird 1.0.6 (Windows/20050716)\r\nX-Accept-Language: en-us, en\r\nMIME-Version: 1.0\r\nTo: nihontostudy@yahoogroups.com\r\nReferences: &lt;dn1s1q+rm7m@...&gt;\r\nIn-Reply-To: &lt;dn1s1q+rm7m@...&gt;\r\nX-eGroups-Msg-Info: 1:7:0:0\r\nFrom: Richard Turner &lt;ikkanshi@...&gt;\r\nReply-To: ikkanshi@...\r\nSubject: Test - sorry.\r\nX-Yahoo-Group-Post: member; u=122856650; y=uQXglG5SVm79mmt7u1Et1v--knrjXi0JTkDNDrAYJCKI\r\nX-Yahoo-Profile: retalt\r\nContent-Type: text/plain; charset=US-ASCII\r\nContent-Transfer-Encoding: 7bit\r\n\r\n?? ??\n\n\n[Non-text portions of this message have been removed]\n\n\n"
+}

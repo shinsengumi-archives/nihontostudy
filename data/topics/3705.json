@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Nobuie Tsuba",
+            "postDate": "1136946606",
+            "msgId": 3707,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRxMXFqZSthbzY2QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGFsYW5iYWxlJDIxMy43OC4xMjIuMTk2JC4wMTNkMDFjNjE1ZmUkZjVmZDQzMTAkNGQ3ZDRlZDVAY29tcHV0ZXI+"
+            },
+            "prevInTopic": 3705,
+            "nextInTopic": 0,
+            "prevInTime": 3706,
+            "nextInTime": 3708,
+            "topicId": 3705,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yakite shitate -- that would be a fun piece to see.  It makes one wonder how many smiths experimented with tsuba or other items? ... Gassan Sadakazu,",
+            "messageBody": "<div id=\"ygrps-yiv-1479852837\">Yakite shitate -- that would be a fun piece to see.  It makes one <br/>\nwonder how many smiths experimented with tsuba or other items?  <br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;Alan Bale&quot; &lt;abale@v...&gt; wrote:<br/>\n&gt;<br/>\n&gt; A couple of years ago I picked up in Sotheby&#39;s a Nobuie copy tsuba by <br/>\nGassan Sadakazu, interestingly he had tried to copy the porcelain like <br/>\nglaze on the originals.<br/>\n&gt; Alan<br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "alangbale",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Nobuie Tsuba",
+            "postDate": "1136908812",
+            "msgId": 3705,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFsYW5iYWxlJDIxMy43OC4xMjIuMTk2JC4wMTNkMDFjNjE1ZmUkZjVmZDQzMTAkNGQ3ZDRlZDVAY29tcHV0ZXI+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3707,
+            "prevInTime": 3704,
+            "nextInTime": 3706,
+            "topicId": 3705,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A couple of years ago I picked up in Sotheby s a Nobuie copy tsuba by Gassan Sadakazu, interestingly he had tried to copy the porcelain like glaze on the",
+            "messageBody": "<div id=\"ygrps-yiv-497106916\">A couple of years ago I picked up in Sotheby&#39;s a Nobuie copy tsuba by Gassan Sadakazu, interestingly he had tried to copy the porcelain like glaze on the originals.<br/>\nAlan<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3703,
+    "nextTopicId": 3704
+}

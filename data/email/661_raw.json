@@ -1,0 +1,29 @@
+{
+    "userId": 122856650,
+    "authorName": "Richard Turner",
+    "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+    "profile": "retalt",
+    "replyTo": "LIST",
+    "senderId": "Gf-RXECJVQoIMh8CspmWUv8ia6jj-i6YpFAdvz3pAvBIfCzknT4czd-Ff2ctGH_ki-yNCsu-dZDzO8C-B5Q8h8YX1zZV4oZUNTUEM9vmZfY9",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "new  virus detected",
+    "postDate": "1060745263",
+    "msgId": 661,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDAwYzIwMWMzNjE0YSRkYmZkOTg5MCQxZjAxMDAwYUB3aGl6MT4="
+    },
+    "prevInTopic": 660,
+    "nextInTopic": 0,
+    "prevInTime": 660,
+    "nextInTime": 662,
+    "topicId": 660,
+    "numMessagesInTopic": 2,
+    "msgSnippet": "Hi all, this is nasty, take a look all PC Windows users, a virus that doesn t need email. ",
+    "rawEmail": "Return-Path: &lt;ikkanshi@...&gt;\r\nX-Sender: ikkanshi@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 75713 invoked from network); 15 Aug 2003 02:15:28 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m10.grp.scd.yahoo.com with QMQP; 15 Aug 2003 02:15:28 -0000\r\nReceived: from unknown (HELO mulgara.westnet.com.au) (203.10.1.6)\n  by mta1.grp.scd.yahoo.com with SMTP; 15 Aug 2003 02:15:28 -0000\r\nReceived: from whiz1 (unknown [202.72.134.148])\n\tby mulgara.westnet.com.au (Postfix) with ESMTP\n\tid 334CE2FEE5; Wed, 13 Aug 2003 11:26:07 +0800 (WST)\r\nMessage-ID: &lt;00c201c3614a$dbfd9890$1f01000a@whiz1&gt;\r\nTo: &lt;nihonto@...&gt;, &lt;nihonto@yahoogroups.com&gt;,\n\t&lt;token_kenkyu_kai@...&gt;, &lt;nihontostudy@yahoogroups.com&gt;\r\nSubject: new  virus detected\r\nDate: Wed, 13 Aug 2003 11:27:43 +0800\r\nMIME-Version: 1.0\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 6.00.2800.1106\r\nX-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2800.1106\r\nFrom: &quot;Richard Turner&quot; &lt;ikkanshi@...&gt;\r\nX-Yahoo-Group-Post: member; u=122856650\r\nX-Yahoo-Profile: retalt\r\nContent-Type: text/plain; charset=US-ASCII\r\nContent-Transfer-Encoding: 7bit\r\n\r\nHi all, this is nasty, take a look all PC Windows users, a virus that doesn&#39;t need email.\n\nhttp://www.microsoft.com/technet/treeview/default.asp?url=/technet/security/bulletin/MS03-026.asp\n\nRich T\n\n\n\n\n\n---\nOutgoing mail is certified Virus Free.\nChecked by AVG anti-virus system (http://www.grisoft.com).\nVersion: 6.0.507 / Virus Database: 304 - Release Date: 4/08/2003\n\n[Non-text portions of this message have been removed]\n\n\n"
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 119415193,
+            "authorName": "Bob R",
+            "from": "Bob R &lt;gentleman9@...&gt;",
+            "profile": "gentleman9",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Mei Help?",
+            "postDate": "1073177156",
+            "msgId": 1371,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwMTA0MDA0NTU2LjY0NDc3LnFtYWlsQHdlYjQxMDE0Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1370,
+            "nextInTime": 1372,
+            "topicId": 1371,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Folks, I need some help with a mei. It comes from a blade in Gunto fittings. http://asia.geocities.com/gentleman9/tang3.jpg Thanks for any help anyone can",
+            "messageBody": "<div id=\"ygrps-yiv-1320763633\">Folks,<br/>\n<br/>\nI need some help with a mei. It comes from a blade in<br/>\nGunto fittings. <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://asia.geocities.com/gentleman9/tang3.jpg\">http://asia.geocities.com/gentleman9/tang3.jpg</a><br/>\n<br/>\nThanks for any help anyone can provide.<br/>\n<br/>\nBob R<br/>\n<br/>\n=====<br/>\nCheck out &quot;Cowboy&quot; Bob&#39;s Books & Things at:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://asia.geocities.com/gentleman9/index.html\">http://asia.geocities.com/gentleman9/index.html</a><br/>\n<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nFind out what made the Top Yahoo! Searches of 2003<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://search.yahoo.com/top2003\">http://search.yahoo.com/top2003</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1370,
+    "nextTopicId": 1382
+}

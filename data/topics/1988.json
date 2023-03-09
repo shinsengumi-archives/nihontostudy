@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Tom asked me to forward this message",
+            "postDate": "1089859029",
+            "msgId": 1988,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNkNHFrbCs1ZHFkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1987,
+            "nextInTime": 1989,
+            "topicId": 1988,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All- Off topic but thought perhaps this may be of interest to the list members; Offering a near complete run of Metropolitan Museum Studies and a near complete",
+            "messageBody": "<div id=\"ygrps-yiv-902054607\">All-<br/>\nOff topic but thought perhaps this may be of interest to the list <br/>\nmembers; <br/>\n<br/>\n<br/>\nOffering a near complete run of Metropolitan Museum Studies <br/>\n<br/>\nand <br/>\n<br/>\na near complete run of Metropolitan Museum Journal <br/>\n<br/>\nAnyone interested please contact me off list at <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:toryu@...\">toryu@...</a> <br/>\n<br/>\n-t</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 755,
+    "nextTopicId": 1990
+}

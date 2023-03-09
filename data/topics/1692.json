@@ -1,0 +1,95 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 178284812,
+            "authorName": "Phil_Gerardin",
+            "from": "&quot;Phil_Gerardin&quot; &lt;phil_gerardin@...&gt;",
+            "profile": "Phil_Gerardin",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: for pics",
+            "postDate": "1078414101",
+            "msgId": 1694,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMyN2h1bCsycmN0QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGI4LjUyNGYxZjA1LjJkNzhhNDFlQGFvbC5jb20+"
+            },
+            "prevInTopic": 1693,
+            "nextInTopic": 0,
+            "prevInTime": 1693,
+            "nextInTime": 1695,
+            "topicId": 1692,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello. No problem for the pictures, I ll to do it in few days. best regard.",
+            "messageBody": "<div id=\"ygrps-yiv-840220567\">Hello.<br/>\n<br/>\nNo problem for the pictures, I&#39;ll to do it in few days.<br/>\n<br/>\nbest regard.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 33068908,
+            "authorName": "KHolz64873@aol.com",
+            "from": "KHolz64873@...",
+            "profile": "kurtholz2001",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Hello all, new member",
+            "postDate": "1078413854",
+            "msgId": 1693,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGI4LjUyNGYxZjA1LjJkNzhhNDFlQGFvbC5jb20+"
+            },
+            "prevInTopic": 1692,
+            "nextInTopic": 1694,
+            "prevInTime": 1692,
+            "nextInTime": 1694,
+            "topicId": 1692,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greetings Philip Shinsakuto are wonderful, tell us about yours, would love to see some PICS the list bad boy BBK [Non-text portions of this message have been",
+            "messageBody": "<div id=\"ygrps-yiv-1916861577\">Greetings Philip<br/>\n<br/>\nShinsakuto are wonderful, tell us about yours, would love to see some PICS<br/>\n<br/>\n<br/>\nthe list bad boy<br/>\n<br/>\nBBK<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 178284812,
+            "authorName": "Phil_Gerardin",
+            "from": "&quot;Phil_Gerardin&quot; &lt;phil_gerardin@...&gt;",
+            "profile": "Phil_Gerardin",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hello all, new member",
+            "postDate": "1078413601",
+            "msgId": 1692,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMyN2hmMStxY3VkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1693,
+            "prevInTime": 1691,
+            "nextInTime": 1693,
+            "topicId": 1692,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello the group. I m a new member. I ve a katana in shira-saya, a shinsaku sword (modern period). best regard at all. Philippe",
+            "messageBody": "<div id=\"ygrps-yiv-116024942\">Hello the group.<br/>\n<br/>\nI&#39;m a new member.<br/>\nI&#39;ve a katana in shira-saya, a shinsaku sword (modern period).<br/>\n<br/>\nbest regard at all.<br/>\n<br/>\nPhilippe</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1690,
+    "nextTopicId": 1695
+}

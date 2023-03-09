@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 135018472,
+            "authorName": "Matthew E. Hoyle",
+            "from": "&quot;Matthew E. Hoyle&quot; &lt;matthewhoyle@...&gt;",
+            "profile": "matthewhoyle2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "sword care",
+            "postDate": "1051795036",
+            "msgId": 121,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNDQwMWMzMGZlMyRmZjlkNTY0MCQ5N2NhZmVhOUBreXA0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 120,
+            "nextInTime": 122,
+            "topicId": 121,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi guys, Is it acceptable to use those white latex gloves when handling a sword instead of the cotton ones ? Or is this a big no-no ? The latex ones will not",
+            "messageBody": "<div id=\"ygrps-yiv-14602308\">Hi guys,<br/>\n <br/>\nIs it acceptable to use those white latex gloves when handling a sword<br/>\ninstead of the cotton ones ?<br/>\n <br/>\nOr is this a big no-no ? <br/>\n <br/>\nThe latex ones will not lett any fats or acids through, but does anyone<br/>\nknow if they are treated is such a fashion that it might damage the<br/>\nblade ?<br/>\n <br/>\n- Matt<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 117,
+    "nextTopicId": 140
+}

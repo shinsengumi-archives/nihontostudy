@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70536526,
+            "authorName": "Mark P. Jones",
+            "from": "&quot;Mark P. Jones&quot; &lt;nixe@...&gt;",
+            "profile": "markpjonesii",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "Book for sale---Meihin Katanaezu Shusei by Tanobe, Michihiro",
+            "postDate": "1194216510",
+            "msgId": 5200,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYWMwMWM4MWYzNCRkMjgyZmY2MCQwMjA3YThjMEBtYWluZGVza3RvcD4=",
+                "referencesHeader": "PGQzOC4xMjFiMTRkMC4zNDA0NjUxN0Bhb2wuY29tPiA8MDAwZTAxYzdlOGQ4JDdhM2JmYzQwJDc4MDBhOGMwQGNlbGVyb24yNTM+IDwwODVjMDFjN2Y1NGEkYmVhZDFlMzAkNjQwMWE4YzBAeW91cmFlMDY2YzNhOWI+IDwwN2JlMDFjN2Y1NTYkNzZiYzY4NDAkNzgwMGE4YzBAY2VsZXJvbjI1Mz4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5199,
+            "nextInTime": 5201,
+            "topicId": 5200,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have an as new unused copy of Meihin Katanaezu Shusei by Tanobe, Michihiro for sale. I found one for sale on line, there is a good description and pictures",
+            "messageBody": "<div id=\"ygrps-yiv-1053296890\">I have an &quot;as new&quot; unused copy of Meihin Katanaezu Shusei by Tanobe, Michihiro for sale. I found one for sale on line, there is a good description and pictures available at that site...... see <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontocraft.com/Nihonto_books_for_sale.html\">http://www.nihontocraft.com/Nihonto_books_for_sale.html</a> <br/>\nI have seen a couple sold in the past few years, usually in the range of the one offered on the web site. I am hoping for a quick sale so will offer my copy for $975 + actual mailing cost. It is a great reference book, limited edition. If interested please email me direct at <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nixe@...\">nixe@...</a> <br/>\n<br/>\nThanks for looking<br/>\n<br/>\n<br/>\n<br/>\nMark  Jones<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nixe@...\">nixe@...</a> <br/>\n <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5193,
+    "nextTopicId": 5203
+}

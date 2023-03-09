@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 162860323,
+            "authorName": "apedraza@valornewmedia.com",
+            "from": "&lt;apedraza@...&gt;",
+            "profile": "necromage.geo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Tsuba question",
+            "postDate": "1090436641",
+            "msgId": 2011,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "ME1LejV1LTFCbk1QaTF5WWYtMDAwNEMxQG1yZWxheS5wZXJmb3JhLm5ldA=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2012,
+            "prevInTime": 2010,
+            "nextInTime": 2012,
+            "topicId": 2011,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear All, Can someone give me their opinion on the tsuba depicted in these pics? http://www.angelfire.com/darkside/necromage/images/konaramaru1.jpg ",
+            "messageBody": "<div id=\"ygrps-yiv-677985509\">Dear All,<br/>\n<br/>\nCan someone give me their opinion on the tsuba depicted in these pics?<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.angelfire.com/darkside/necromage/images/konaramaru1.jpg\">http://www.angelfire.com/darkside/necromage/images/konaramaru1.jpg</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.angelfire.com/darkside/necromage/images/konaramaru2.jpg\">http://www.angelfire.com/darkside/necromage/images/konaramaru2.jpg</a><br/>\n<br/>\nThe description is &quot;Early edo period (circa 1650) tetsu (iron) tsuba for<br/>\nkatana, maru gata, (round shaped), ko-nara school, (&quot;old&quot; Nara)&quot;.<br/>\n<br/>\nDo the pics match the description, especially as regards period and<br/>\nschool? Look authentic?<br/>\n<br/>\nIn advance, thanks. Sorry if this is a duplicate. I sent a similar one<br/>\nthis morning but never saw it come through.<br/>\n<br/>\nBest Regards,<br/>\n<br/>\nAndres Pedraza</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 162860323,
+            "authorName": "apedraza@valornewmedia.com",
+            "from": "&lt;apedraza@...&gt;",
+            "profile": "necromage.geo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Tsuba question",
+            "postDate": "1090428961",
+            "msgId": 2012,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "ME1LejV1LTFCbktQcDJOTGItMDAwMHZhQG1yZWxheS5wZXJmb3JhLm5ldA=="
+            },
+            "prevInTopic": 2011,
+            "nextInTopic": 0,
+            "prevInTime": 2011,
+            "nextInTime": 2013,
+            "topicId": 2011,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can someone give me an opinion on this tsuba? The description states it is a Early edo period (circa 1650) tetsu (iron) tsuba for katana, maru gata, (round",
+            "messageBody": "<div id=\"ygrps-yiv-314935080\">Can someone give me an opinion on this tsuba? The description states it<br/>\nis a &quot;Early edo period (circa 1650) tetsu (iron) tsuba for katana, maru<br/>\ngata, (round shaped), ko-nara school, (&quot;old&quot; Nara)&quot;.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.angelfire.com/darkside/necromage/images/konaramaru1.jpg\">http://www.angelfire.com/darkside/necromage/images/konaramaru1.jpg</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.angelfire.com/darkside/necromage/images/konaramaru2.jpg\">http://www.angelfire.com/darkside/necromage/images/konaramaru2.jpg</a><br/>\n<br/>\nDoes it look legitimate for that description?<br/>\n<br/>\nThanks!<br/>\n<br/>\nBest Regards,<br/>\n<br/>\nAndres Pedraza</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1989,
+    "nextTopicId": 1994
+}

@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: American Swords.",
+            "postDate": "1074481025",
+            "msgId": 1517,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDI5QjczRDQ2LTRBMkItMTFEOC1BM0EzLTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PDQwMDkxNjU0LjMxODg0LjhGQTY0RThAbG9jYWxob3N0Pg==",
+                "referencesHeader": "PDQwMDg4NzIwLjY4NDMuNkNBRkY0M0Bsb2NhbGhvc3Q+IChyYXNmcmFuemVuQGZvbmkubmV0J3MgbWVzc2FnZSBvZiAiU2F0LCAxNyBKYW4gMjAwNCAwMDo1MTo0NCArMDEwMCIpIDw0MDA5MTY1NC4zMTg4NC44RkE2NEU4QGxvY2FsaG9zdD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1516,
+            "nextInTime": 1518,
+            "topicId": 1517,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Folk- Here is my article which originally appeared in the To-Ron, the newsletter of the Northern California Japanese Sword Club. I apologize for some the",
+            "messageBody": "<div id=\"ygrps-yiv-351011878\">Folk-<br/>\n\tHere is my article which originally appeared in the To-Ron, the <br/>\nnewsletter of the Northern California Japanese Sword Club. I apologize <br/>\nfor some the spacing errors, not sure but we think it a PC vs Mac <br/>\nthing. In spite of that I think you can work out everything I am <br/>\nsaying. I hope you find it distracting...<br/>\n-t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nkb.ca/articles/hachiman.html\">http://www.nkb.ca/articles/hachiman.html</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ncjsc.org/\">http://www.ncjsc.org/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1504,
+    "nextTopicId": 1473
+}

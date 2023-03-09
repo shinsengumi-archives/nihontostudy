@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 254792102,
+            "authorName": "teddybilltwt",
+            "from": "&quot;teddybilltwt&quot; &lt;ted@...&gt;",
+            "profile": "teddybilltwt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "sorry I missed input on Kantei #1 Jim",
+            "postDate": "1141774891",
+            "msgId": 3881,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGR1bDVuYitqaWZyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3880,
+            "nextInTime": 3882,
+            "topicId": 3881,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I couldn t log on to Yahoo, so I had to be content to watch from the sidelines.  Of course I wasn t bright enought to just email you either. :-) My first",
+            "messageBody": "<div id=\"ygrps-yiv-614584123\">I couldn&#39;t log on to Yahoo, so I had to be content to watch from the <br/>\nsidelines.  Of course I wasn&#39;t bright enought to just email you <br/>\neither. :-)<br/>\n<br/>\nMy first instinct would be Yagyu, bold and robust looking with refined <br/>\niron and utilitarian in appearance.  But the hitsu frames look a bit <br/>\ndelicate for typified Yagyu to me.  <br/>\n<br/>\nI&#39;d bid Owari.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3865,
+    "nextTopicId": 3905
+}

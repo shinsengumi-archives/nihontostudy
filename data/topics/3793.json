@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 232319213,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Skip Holbrook contact information",
+            "postDate": "1139009405",
+            "msgId": 3793,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTYwMWM2MjkxOSRjNTM0NTQyMCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3792,
+            "nextInTime": 3794,
+            "topicId": 3793,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone have an email address or phone number for Skip Holbrook?",
+            "messageBody": "<div id=\"ygrps-yiv-1679521857\">Does anyone have an email address or phone number for Skip Holbrook?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3785,
+    "nextTopicId": 3795
+}

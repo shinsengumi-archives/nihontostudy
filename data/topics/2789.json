@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Takeda Shingen & Uesugi Kenshin & Deer and Maple tsuba motif",
+            "postDate": "1113455450",
+            "msgId": 2789,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDA0ODMwMWM1NDBiMCQ1M2M4M2E2MCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2788,
+            "nextInTime": 2790,
+            "topicId": 2789,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have figured out that there must be some Japanese language puns as the basis of the identification of the Deer and Maple motif with the battles between",
+            "messageBody": "<div id=\"ygrps-yiv-785087514\">I have figured out that there must be some Japanese language puns as the basis of the identification of the Deer and Maple motif with the battles between Takeda Shingen and Uesugi Kenshin.<br/>\n<br/>\n<br/>\nTakeda really means &quot;warrior field&quot; (take &quot;warrior&quot; + da/ta &quot;field&quot;), but kaede is &quot;maple.&quot;   So maple must be a symbol for Takeda, based upon a pun.  <br/>\n<br/>\n <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2788,
+    "nextTopicId": 2792
+}

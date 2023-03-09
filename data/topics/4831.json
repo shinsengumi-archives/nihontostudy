@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Tampa show fast approaching...",
+            "postDate": "1265240274",
+            "msgId": 5657,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDRCRjMwMDkwNjdGQTRENzFCQTAyRTc1NDVGQTlGQzA3QHJvbj4="
+            },
+            "prevInTopic": 4831,
+            "nextInTopic": 0,
+            "prevInTime": 5656,
+            "nextInTime": 5658,
+            "topicId": 4831,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "It seems like everyone is asleep these days. Maybe resting up for the big sword show in Tampa, you think? Any great treasures being put out for sale this year",
+            "messageBody": "<div id=\"ygrps-yiv-1522663732\">It seems like everyone is asleep these days. Maybe resting up for the big sword show in Tampa, you think? Any great treasures being put out for sale this year that you know of? Myself, while I&#39;ll be there I still need to decide what to bring along this show for my table. It would sure be nice to see a few resale items get replaced for cash (a.k.a. sword funds) but...oh well, we&#39;ll see what happens. I keep finding things to buy with little success in reversing that trend. <br/>\n<br/>\nSo, if you plan on attending the show -- and it should be an interesting &quot;final&quot; show for the Tampa people (sigh) -- stop by and say hello. As always, I&#39;ll probably have a couple show-and-tell swords tucked away to share with any interested people. <br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Tampa show fast approaching...",
+            "postDate": "1169261238",
+            "msgId": 4831,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMmMwMWM3M2MzZCQ1MjJiNGViMCRlMDA3ODQ0YkByb24+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5657,
+            "prevInTime": 4830,
+            "nextInTime": 4832,
+            "topicId": 4831,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all - Being sooooooo quiet out here these days, thought I d mention the upcoming Tampa show and to see who will be there this year. Being a buyer s market",
+            "messageBody": "<div id=\"ygrps-yiv-1836571765\">Hi all - <br/>\n<br/>\nBeing sooooooo quiet out here these days, thought I&#39;d mention the upcoming Tampa show and to see who will be there this year. Being a &quot;buyer&#39;s market&quot; these days, it will be interesting to see what will be put out on tables this year! Myself, I hope to sell off a few nicer items at all the shows this year -- not quite sure what just yet -- but really wish I was in the &quot;buying&quot; mode more than &quot;raising funds&quot; mode. <br/>\n<br/>\nI hope to carry down some books this year -- definitely copies of our 2006 Kokusai Tosogu Kai exhibition catalogue, priced to sell. People always enjoy books. Hope you guys and gals stop by my table and say hello!<br/>\n<br/>\nWhatever, I&#39;m sure there will be some exciting treasures begging for new ownership in Tampa. Always a well-attended show, I&#39;m sure it will be a fun weekend! <br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5647,
+    "nextTopicId": 5658
+}

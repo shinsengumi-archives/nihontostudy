@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "alangbale",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Kiyohira",
+            "postDate": "1119812614",
+            "msgId": 3056,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFsYW5iYWxlJDIxMy43OC43MS4xOSQuMDA5MTAxYzU3YTgxJGRjNWZjMTgwJDEzNDc0ZWQ1QGNvbXB1dGVyPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3055,
+            "nextInTime": 3057,
+            "topicId": 3056,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have seen a sword by the Kaga shinto smith Kiyohira using Minamoto rather than Fujiwara in the signature, I can t find any reference to him signing this",
+            "messageBody": "<div id=\"ygrps-yiv-208020750\">I have seen a sword by the Kaga shinto smith Kiyohira using &#39;Minamoto&#39; rather than &#39;Fujiwara&#39; in the signature, I can&#39;t find any reference to him signing this way, the meikan lists half a page of signatures but none using Minamoto. Can anyone help?<br/>\n<br/>\nAlan<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3047,
+    "nextTopicId": 3061
+}

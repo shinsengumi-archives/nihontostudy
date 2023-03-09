@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 262825586,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "Crass Commercial Message",
+            "postDate": "1170065430",
+            "msgId": 4837,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ1QkRDODE2LjcwMjAyMDNAYW1uZXQubmV0LmF1Pg==",
+                "inReplyToHeader": "PGVwZDJxaCsyZGxnQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGVwZDJxaCsyZGxnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4834,
+            "nextInTopic": 0,
+            "prevInTime": 4836,
+            "nextInTime": 4838,
+            "topicId": 4834,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://search.ebay.com/_W0QQsassZnippon_toQQhtZ-1 Hi all, I don t usually do this that often but I have listed 2 nice tsuba, another good Umetada guard and",
+            "messageBody": "<div id=\"ygrps-yiv-578358885\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://search.ebay.com/_W0QQsassZnippon_toQQhtZ-1\">http://search.ebay.com/_W0QQsassZnippon_toQQhtZ-1</a><br/>\n<br/>\nHi all, I don&#39;t usually do this that often but I have listed 2 nice <br/>\ntsuba, another good Umetada guard and some books for sale. If you are <br/>\ninterested, please take a look. Sorry for any intrusion.<br/>\n<br/>\nCheers<br/>\n<br/>\nRich Turner</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "mimi question",
+            "postDate": "1169821329",
+            "msgId": 4834,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVwZDJxaCsyZGxnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4837,
+            "prevInTime": 4832,
+            "nextInTime": 4835,
+            "topicId": 4834,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks all! Pete",
+            "messageBody": "<div id=\"ygrps-yiv-1415095027\">Thanks all!<br/>\n<br/>\nPete</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4832,
+    "nextTopicId": 4840
+}

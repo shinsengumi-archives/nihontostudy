@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 77400184,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New NBTHK website",
+            "postDate": "1089408808",
+            "msgId": 1984,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNjbjJ2OCs2NzVlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1983,
+            "nextInTime": 1985,
+            "topicId": 1984,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The European-American branch of the NBTHK has a new website (only partially functional yet). It is dual language; English and German and has a message board",
+            "messageBody": "<div id=\"ygrps-yiv-2020250275\">The European-American branch of the NBTHK has<br/>\na new website (only partially functional yet).<br/>\nIt is dual language; English and German and<br/>\nhas a message board (registration required).<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nbthk.net/\">http://www.nbthk.net/</a><br/>\n<br/>\nRich S</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1976,
+    "nextTopicId": 755
+}

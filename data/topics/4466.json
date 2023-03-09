@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70968620,
+            "authorName": "gaigin2000",
+            "from": "&quot;gaigin2000&quot; &lt;johnberta@...&gt;",
+            "profile": "gaigin2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Crass Commercal Message",
+            "postDate": "1158255673",
+            "msgId": 4466,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVlYzQ3cCtiNzc1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4465,
+            "nextInTime": 4467,
+            "topicId": 4466,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi; I have listed a number of new swords on my web site. Please have a look if you are interested. http://www3.telus.net/sword/sword/index.htm/MyWebs6/ Thnk",
+            "messageBody": "<div id=\"ygrps-yiv-146714290\">Hi;<br/>\n<br/>\nI have listed a number of new swords on my web site.<br/>\n<br/>\nPlease have a look if you are interested.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www3.telus.net/sword/sword/index.htm/MyWebs6/\">http://www3.telus.net/sword/sword/index.htm/MyWebs6/</a><br/>\n<br/>\nThnk you,<br/>\n<br/>\nJohn</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4464,
+    "nextTopicId": 4470
+}

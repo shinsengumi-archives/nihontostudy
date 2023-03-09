@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162015947,
+            "authorName": "Doug E. Lewis",
+            "from": "&quot;Doug E. Lewis&quot; &lt;ashigaru1@...&gt;",
+            "profile": "ashigaru1",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "samurai bulldog",
+            "postDate": "1066933471",
+            "msgId": 934,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJuOTZjditpa2U1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 933,
+            "nextInTime": 935,
+            "topicId": 934,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "this is a fun book i found, which anyone with an interest in bushido and likes dogs should enjoy.  [my mutt is 14 and my fifth] Samurai Bulldog by",
+            "messageBody": "<div id=\"ygrps-yiv-2138856481\">this is a fun book i found, which anyone with an interest in bushido <br/>\nand likes dogs should enjoy.  [my mutt is 14 and my fifth]<br/>\n<br/>\n&quot;Samurai Bulldog&quot; by Chibinosuke Dogizaemon, as told to Jeff Hunter<br/>\n<br/>\nISBN 0-8348-0305-4<br/>\n<br/>\nThe drawing of the battle of Sakekahara [sp] is a riot of samurai <br/>\nbulldogs with katana, naginata, yumi, etc.  Great fun stuff!!<br/>\n<br/>\ndoug e.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 927,
+    "nextTopicId": 937
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 278314026,
+            "authorName": "Elliott",
+            "from": "&quot;Elliott&quot; &lt;elliott@...&gt;",
+            "profile": "elliottshogun",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Books, Books, and more Books",
+            "postDate": "1173150063",
+            "msgId": 4923,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVzaWxoZittcWIzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4922,
+            "nextInTime": 4924,
+            "topicId": 4923,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This may not be the proper way to do this but.............Alan, I would like a list of your books for sale. E-mail can be sent to me at ",
+            "messageBody": "<div id=\"ygrps-yiv-1964619456\">This may not be the proper way to do this but.............Alan, I would <br/>\nlike a list of your books for sale. E-mail can be sent to me at   <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:elliott@...\">elliott@...</a>  .  Curran, I will watch your books on e-bay. <br/>\nMaybe I will get lucky again. <br/>\n<br/>\nNothing else to pass on, I have no questions at the moment for the <br/>\ngroup.<br/>\n<br/>\nI should mention that I purchased Dr. John Lissenden&#39;s book &#39;The Namban <br/>\nGroup of Japanese Sword Guards: A Reappraisal&#39;. It is very good, well <br/>\nworth the money for anyone seeking knowledge (as I am).<br/>\n<br/>\nElliott</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4922,
+    "nextTopicId": 4924
+}

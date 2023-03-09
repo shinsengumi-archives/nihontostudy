@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "alangbale",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: New Book Lists",
+            "postDate": "1101324233",
+            "msgId": 2415,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYzUwMWM0ZDI1YiQ0NzhhOWQ2MCQwYTcwMDYzZUBjb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2414,
+            "nextInTime": 2416,
+            "topicId": 2415,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "If there is anybody out there who did not get my new lists email me as I have had a few undeliverable returns. Alan Bale [Non-text portions of this message",
+            "messageBody": "<div id=\"ygrps-yiv-2005937662\">If there is anybody out there who did not get my new lists email me as I have had a few undeliverable returns.<br/>\n<br/>\nAlan Bale<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1746,
+    "nextTopicId": 2417
+}

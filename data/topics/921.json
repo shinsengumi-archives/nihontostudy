@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "pics  of chicago show 2003",
+            "postDate": "1066613950",
+            "msgId": 921,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJtdmVidSt0aTJtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 920,
+            "nextInTime": 922,
+            "topicId": 921,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://tinyurl.com/rjfg tsuba on white background from Meibutsu display milt",
+            "messageBody": "<div id=\"ygrps-yiv-146605841\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/rjfg\">http://tinyurl.com/rjfg</a><br/>\n<br/>\ntsuba on white background from Meibutsu display<br/>\n<br/>\n<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 920,
+    "nextTopicId": 922
+}

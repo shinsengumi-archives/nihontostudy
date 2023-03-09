@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 66909074,
+            "authorName": "ROBSON Gordon",
+            "from": "ROBSON Gordon &lt;robsongo@...&gt;",
+            "profile": "robsongord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "Re: [nihontostudy] Arnold Frenzel",
+            "postDate": "1230430014",
+            "msgId": 5510,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDgxMjI4MTEwNjU0LkFBWDQ3MzAzQHN3dW01MDAwLnN3dS5hYy5qcD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5509,
+            "nextInTime": 5511,
+            "topicId": 5510,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, First of all, happy holidays and happy New Year. Second, I need to get in touch with Arnold and require his phone number. If someone knows if, could",
+            "messageBody": "<div id=\"ygrps-yiv-1531835981\">Hi all,<br/>\n<br/>\nFirst of all, happy holidays and happy New Year. Second, I need to get in touch <br/>\nwith Arnold and require his phone number. If someone knows if, could you contact <br/>\nme off this. This is rather urgent. Thanks.<br/>\n<br/>\nGordon</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5509,
+    "nextTopicId": 5511
+}

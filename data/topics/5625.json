@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "profile": "xe83fan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "Re: [nihontostudy] Testing only...NSR",
+            "postDate": "1258490283",
+            "msgId": 5626,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDczODQyQjBDQ0U3OTQxOEJBODQ2QTIxRUE5RjJDNDJEQEJBUlJZPg==",
+                "referencesHeader": "PDk5Qjg2MUEyMzA2MjQyNDBCNkMzMDg3RjlERjRFQTZCQHJvbj4="
+            },
+            "prevInTopic": 5625,
+            "nextInTopic": 0,
+            "prevInTime": 5625,
+            "nextInTime": 5627,
+            "topicId": 5625,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ron, I m quite certain I got your email to this group also. Regards, Barry Thomas. ... From: Ron Hartmann To: nihonto@yahoogroups.com ; nihontostudy Sent:",
+            "messageBody": "<div id=\"ygrps-yiv-995087861\">Ron,<br/>\nI&#39;m quite certain I got your email to this group also.<br/>\nRegards,<br/>\nBarry Thomas.<br/>\n<br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: Ron Hartmann <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihonto@yahoogroups.com\">nihonto@yahoogroups.com</a> ; nihontostudy <br/>\n  Sent: Wednesday, November 18, 2009 5:18 AM<br/>\n  Subject: [nihontostudy] Testing only...NSR<br/>\n<br/>\n<br/>\n  Yesterday I sent out an email about KTK catalogues but the emails to these two groups never came back to my mail. Just trying to figure out why. <br/>\n<br/>\n  Ron<br/>\n  STL<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Testing only...NSR",
+            "postDate": "1258481883",
+            "msgId": 5625,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDk5Qjg2MUEyMzA2MjQyNDBCNkMzMDg3RjlERjRFQTZCQHJvbj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5626,
+            "prevInTime": 5624,
+            "nextInTime": 5626,
+            "topicId": 5625,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yesterday I sent out an email about KTK catalogues but the emails to these two groups never came back to my mail. Just trying to figure out why. Ron STL ",
+            "messageBody": "<div id=\"ygrps-yiv-821689722\">Yesterday I sent out an email about KTK catalogues but the emails to these two groups never came back to my mail. Just trying to figure out why.  <br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5623,
+    "nextTopicId": 5627
+}

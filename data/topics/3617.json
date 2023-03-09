@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Ferengi",
+            "postDate": "1135296532",
+            "msgId": 3617,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRvZmY2aytjMDVpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3616,
+            "nextInTime": 3618,
+            "topicId": 3617,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Gee -- I never realized my boss is a Ferengi -- his ears aren t that big?",
+            "messageBody": "<div id=\"ygrps-yiv-963084162\">Gee -- I never realized my boss is a Ferengi -- his ears aren&#39;t that <br/>\nbig?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3586,
+    "nextTopicId": 3628
+}

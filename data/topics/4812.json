@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 66909074,
+            "authorName": "Gordon Robson",
+            "from": "Gordon Robson &lt;robsongo@...&gt;",
+            "profile": "robsongord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [QUAR][nihontostudy] any idea",
+            "postDate": "1168581187",
+            "msgId": 4822,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDY4Qjc0OTI4LTZDRUQtNEJEMi1BMzc3LThCMzQ4NzcxMTYxMkBzd3UuYWMuanA+",
+                "inReplyToHeader": "PGVuazg4MStkbW85QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGVuazg4MStkbW85QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4812,
+            "nextInTopic": 0,
+            "prevInTime": 4821,
+            "nextInTime": 4823,
+            "topicId": 4812,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I think it will take a bit more time. Gordon ... [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-431313343\">I think it will take a bit more time.<br/>\n<br/>\nGordon<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On Jan 5, 2007, at 10:05 AM, bungotakadasword wrote:<br/>\n<br/>\n&gt; any idea when we&#39;ll get the NTHK shinsa origami from the Jersey show ?<br/>\n&gt; p.s. yes, surprise, surprise I didn&#39;t get ALL pinkied, some did<br/>\n&gt; pass..........LOL<br/>\n&gt; milt<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; <br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "any idea",
+            "postDate": "1167959105",
+            "msgId": 4812,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVuazg4MStkbW85QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4822,
+            "prevInTime": 4811,
+            "nextInTime": 4813,
+            "topicId": 4812,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "any idea when we ll get the NTHK shinsa origami from the Jersey show ? p.s. yes, surprise, surprise I didn t get ALL pinkied, some did pass..........LOL milt",
+            "messageBody": "<div id=\"ygrps-yiv-913236671\">any idea when we&#39;ll get the NTHK shinsa origami from the Jersey show ?<br/>\np.s. yes, surprise, surprise I didn&#39;t get ALL pinkied, some did <br/>\npass..........LOL<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4820,
+    "nextTopicId": 4821
+}

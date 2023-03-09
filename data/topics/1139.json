@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "twin dragon tsuba",
+            "postDate": "1069429071",
+            "msgId": 1139,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJwbGJnZitjbGlwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1138,
+            "nextInTime": 1140,
+            "topicId": 1139,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://tinyurl.com/vzjl and http://tinyurl.com/vzjt wak size tsuba signed masayoshi, any idea as to school ? tahnk you all in advance milt",
+            "messageBody": "<div id=\"ygrps-yiv-2115527241\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/vzjl\">http://tinyurl.com/vzjl</a><br/>\n and<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/vzjt\">http://tinyurl.com/vzjt</a><br/>\n<br/>\n<br/>\nwak size tsuba signed masayoshi,<br/>\nany idea as to school ?<br/>\ntahnk you all in advance<br/>\n<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1117,
+    "nextTopicId": 1127
+}

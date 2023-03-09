@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Christie&#39;s Compton auction catalog",
+            "postDate": "1116283458",
+            "msgId": 2986,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ2YjdvMitpMXFnQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGQ2YWRmZytyMWx1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2983,
+            "nextInTopic": 0,
+            "prevInTime": 2985,
+            "nextInTime": 2987,
+            "topicId": 2983,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Milt!  Sorry I won t see you this show but enjoy yourself.  Sedation cont. ed. all weekend for me.  As far as the Compton s go they ve been a little off on",
+            "messageBody": "<div id=\"ygrps-yiv-44665592\">Hi Milt!  Sorry I won&#39;t see you this show but enjoy yourself.  Sedation <br/>\ncont. ed. all weekend for me.  As far as the Compton&#39;s go they&#39;ve been <br/>\na little off on Ebay recently but I&#39;d say depending on condition <br/>\nbetween $300 and $500 for the set.  Later!  <br/>\nPete Klein<br/>\nFt. Lauderdale</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Christie&#39;s Compton auction catalog",
+            "postDate": "1116256560",
+            "msgId": 2983,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ2YWRmZytyMWx1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2986,
+            "prevInTime": 2982,
+            "nextInTime": 2984,
+            "topicId": 2983,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "gang, anyone has any idea as to the retail value of the complete Christie s Compton auction catalogs ( 3 vol ) ? Info from any political persuasion",
+            "messageBody": "<div id=\"ygrps-yiv-1584630358\">gang,<br/>\nanyone has any idea as to the retail value of the complete Christie&#39;s <br/>\nCompton auction catalogs ( 3 vol ) ?<br/>\nInfo from any political persuasion welcome...........<br/>\n<br/>\ndamn, those fresking E. Coast colleges are expensive !!<br/>\np.s. nein, the set will not be split, so don&#39;t ask.<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2971,
+    "nextTopicId": 2987
+}

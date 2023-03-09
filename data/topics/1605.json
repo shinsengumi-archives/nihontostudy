@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 115030403,
+            "authorName": "fathertyme4@aol.com",
+            "from": "fathertyme4@...",
+            "profile": "fathertyme5",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [spam] Re: FW: Paperback &quot;Japanese Names and How to Read Them&quot;",
+            "postDate": "1076039887",
+            "msgId": 1605,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDExMi4yZTQyZTdmZi4yZDU0NmFjZkBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1603,
+            "nextInTime": 1606,
+            "topicId": 1605,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "anyone interested send me a seperate email about you would like a coppy but leave everything else out.......just a personal email.....thank you [Non-text",
+            "messageBody": "<div id=\"ygrps-yiv-1033261318\">anyone interested send me a seperate email about you would like a coppy but <br/>\nleave everything else out.......just a personal email.....thank you<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1601,
+    "nextTopicId": 1609
+}

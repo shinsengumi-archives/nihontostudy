@@ -1,0 +1,29 @@
+{
+    "userId": 75493453,
+    "authorName": "Cary Condell",
+    "from": "Cary Condell &lt;condell@...&gt;",
+    "profile": "ccikkyudo",
+    "replyTo": "LIST",
+    "senderId": "J1B1kEsHl_uQTMAtxLjoxZaLhBAFYk2xffC0XhBSInQfaDcMx2-FYiQwGwbwQOfCIXoy1gu5jy6jtXGXbFHWQZAypqIiZYzwoA",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "test",
+    "postDate": "1059428789",
+    "msgId": 621,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDNGMjU5OUI1LjcwNjA4MDdAaWtreXVkby5jb20+"
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 662,
+    "prevInTime": 620,
+    "nextInTime": 622,
+    "topicId": 621,
+    "numMessagesInTopic": 12,
+    "msgSnippet": "Test. -- Cary Condell Condell & Co., Ltd. P.O. Box 590115 San Francisco, CA 94159 Tel. 415-751-3784 condell@ikkyudo.com http://www.ikkyudo.com",
+    "rawEmail": "Return-Path: &lt;condell@...&gt;\r\nX-Sender: condell@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 10720 invoked from network); 28 Jul 2003 21:46:32 -0000\r\nReceived: from unknown (66.218.66.218)\n  by m15.grp.scd.yahoo.com with QMQP; 28 Jul 2003 21:46:32 -0000\r\nReceived: from unknown (HELO avocet.mail.pas.earthlink.net) (207.217.120.50)\n  by mta3.grp.scd.yahoo.com with SMTP; 28 Jul 2003 21:46:31 -0000\r\nReceived: from user-1121cjj.dsl.mindspring.com ([66.32.178.115] helo=ikkyudo.com)\n\tby avocet.mail.pas.earthlink.net with esmtp (Exim 3.33 #1)\n\tid 19hFp8-0002p1-00\n\tfor nihontostudy@yahoogroups.com; Mon, 28 Jul 2003 14:46:30 -0700\r\nMessage-ID: &lt;3F2599B5.7060807@...&gt;\r\nDate: Mon, 28 Jul 2003 14:46:29 -0700\r\nOrganization: Condell & Co., Ltd.\r\nUser-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4) Gecko/20030624 Netscape/7.1 (ax)\r\nX-Accept-Language: en-us, en\r\nMIME-Version: 1.0\r\nTo: &quot;nihontostudy@yahoogroups.com&quot; &lt;nihontostudy@yahoogroups.com&gt;\r\nSubject: test\r\nContent-Type: text/plain; charset=us-ascii; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nFrom: Cary Condell &lt;condell@...&gt;\r\nReply-To: condell@...\r\nX-Yahoo-Group-Post: member; u=75493453\r\nX-Yahoo-Profile: ccikkyudo\r\n\r\nTest.\n-- \nCary Condell\n\nCondell & Co., Ltd.\nP.O. Box 590115\nSan Francisco, CA 94159\n\nTel. 415-751-3784\n\ncondell@...\nhttp://www.ikkyudo.com\n\n\n\n"
+}

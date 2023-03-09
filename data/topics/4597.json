@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Nanako",
+            "postDate": "1162656948",
+            "msgId": 4597,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVpaWViays0dDhuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4596,
+            "nextInTime": 4598,
+            "topicId": 4597,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "When viewing early shakudo (Ko) kogai (and kozuka/kogainaoshi) the older pieces tend to have a very fine, flattened nanako.  Does anyone have any information",
+            "messageBody": "<div id=\"ygrps-yiv-813742752\">When viewing early shakudo (Ko) kogai (and kozuka/kogainaoshi) the <br/>\nolder pieces tend to have a very fine, flattened nanako.  Does anyone <br/>\nhave any information on when this form of nanako transitioned into the <br/>\nplumper form we more regularly see?<br/>\nThanks much!<br/>\nPete</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4589,
+    "nextTopicId": 4595
+}

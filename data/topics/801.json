@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 135018472,
+            "authorName": "Matthew E. Hoyle",
+            "from": "&quot;Matthew E. Hoyle&quot; &lt;matthewhoyle@...&gt;",
+            "profile": "matthewhoyle2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "who is vertexone ?",
+            "postDate": "1064123115",
+            "msgId": 801,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJramR0YityOTUzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 800,
+            "nextInTime": 802,
+            "topicId": 801,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Will the owner of this ebay ID please contact me off list ? thanks, Matt.",
+            "messageBody": "<div id=\"ygrps-yiv-805696256\">Will the owner of this ebay ID please contact me off list ?<br/>\n<br/>\nthanks, Matt.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 799,
+    "nextTopicId": 806
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 125654407,
+            "authorName": "Kenneth Wilson",
+            "from": "Kenneth Wilson &lt;kdw21620@...&gt;",
+            "profile": "kdw21620",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Website update",
+            "postDate": "1222743658",
+            "msgId": 5455,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIxODI2MS40ODI5MS5xbUB3ZWI1MTQxMS5tYWlsLnJlMi55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5454,
+            "nextInTime": 5456,
+            "topicId": 5455,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, I have been promising to update my website and I finally did.  Just to give some indication, I last had 37 tsuba listed, I now have 53, menuki are",
+            "messageBody": "<div id=\"ygrps-yiv-2121366654\">Hi all,<br/>\n<br/>\nI have been promising to update my website and I finally did.  Just to give some indication, I last had 37 tsuba listed, I now have 53, menuki are around 25.  Fuchi kashira and kozuka are also upgraded.  I appreciate all comments and even better more sales leads!!   Thank you for looking.  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.freewebs.com/kamakiriken/index.htm\">http://www.freewebs.com/kamakiriken/index.htm</a><br/>\n<br/>\nKen  aka &quot;The Mantis Dude&quot;</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5442,
+    "nextTopicId": 5456
+}

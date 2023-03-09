@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Heianjo sukashi",
+            "postDate": "1121123850",
+            "msgId": 3122,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGIwMWM1ODY2ZSRiNjkxN2UwMCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3121,
+            "nextInTime": 3123,
+            "topicId": 3122,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks to all for the elucidations. [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1563415541\">Thanks to all for the elucidations.<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3121,
+    "nextTopicId": 3114
+}

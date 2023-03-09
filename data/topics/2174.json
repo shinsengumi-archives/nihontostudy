@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 119415193,
+            "authorName": "Bob R",
+            "from": "Bob R &lt;gentleman9@...&gt;",
+            "profile": "gentleman9",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": ".50 cal vs. Nihonto",
+            "postDate": "1095857572",
+            "msgId": 2174,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwOTIyMTI1MjUyLjEwMzkyLnFtYWlsQHdlYjQxMDA3Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDQxNTAzRkIyLjIwNDAzMDlAaGVjLmNhPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2173,
+            "nextInTime": 2175,
+            "topicId": 2174,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Folks, Well now I have seen everything. Just got done watching a Japanese sword take 7 hits from a Browning M-2 .50 cal machine gun firing FMJ (Full Metal",
+            "messageBody": "<div id=\"ygrps-yiv-2122235257\">Folks,<br/>\n<br/>\nWell now I have seen everything. Just got done<br/>\nwatching a Japanese sword take 7 hits from a Browning<br/>\nM-2 .50 cal machine gun firing FMJ (Full Metal Jacket)<br/>\nrounds. I have to give the blade its dues it took 7<br/>\nhits prior to snapping off. This from the same show<br/>\nthat fired at a sword with what I believe was a .44<br/>\nMagnum could be wrong it was a while back. Just wanted<br/>\nto let everyone know to keep an eye out for the clip.<br/>\nInteresting to see the blade slice through the rounds<br/>\nalthough the copper jacket did a number on the blade<br/>\ntaking a chunk of the Ha with each hit until finally<br/>\nthe blade just failed. <br/>\n<br/>\nBob R<br/>\n<br/>\n=====<br/>\nCheck out &quot;Cowboy&quot; Bob&#39;s Books & Things at:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://asia.geocities.com/gentleman9/index.htm\">http://asia.geocities.com/gentleman9/index.htm</a><br/>\n <br/>\n<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail - 50x more storage than other providers!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promotions.yahoo.com/new_mail\">http://promotions.yahoo.com/new_mail</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2170,
+    "nextTopicId": 2157
+}

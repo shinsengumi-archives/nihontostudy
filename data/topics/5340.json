@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "profile": "xe83fan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "PAGING JIM GILBERT",
+            "postDate": "1204419588",
+            "msgId": 5340,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwZmUwMWM4N2MwMCRiODBlMmM4MCQwNDAwYThjMEBCQVJSWT4=",
+                "referencesHeader": "PGZxN29wNytqY2hxQGVHcm91cHMuY29tPiA8MDAwZTAxYzg3YTc3JGJkMzY1MmQwJDY0MDFhOGMwQDM5NzQ5MDgwMDAxPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5339,
+            "nextInTime": 5341,
+            "topicId": 5340,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Jim, I m trying to send you email that bounces.  I ve just noticed some text that reads: : host mx4.EARTHLINK.NET[209.86.93.229] said:",
+            "messageBody": "<div id=\"ygrps-yiv-1442778005\">Jim,<br/>\n<br/>\nI&#39;m trying to send you email that bounces.  I&#39;ve just noticed some text that reads:<br/>\n<br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jggilbert@...\">jggilbert@...</a>&gt;: host mx4.EARTHLINK.NET[209.86.93.229] said: 550 550<br/>\n    Dynamic/zombied/spam IPs blocked. Write<br/>\n    <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:blockedbyearthlink@...\">blockedbyearthlink@...</a> (in reply to MAIL FROM command)<br/>\n<br/>\nHow can I get through to you with some attached images???<br/>\n<br/>\nThanks guys,<br/>\n<br/>\nBarry Thomas.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5338,
+    "nextTopicId": 5344
+}

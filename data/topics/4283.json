@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "menuki -- inyokan",
+            "postDate": "1149437907",
+            "msgId": 4283,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU1djE0aitnZDVyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4282,
+            "nextInTime": 4284,
+            "topicId": 4283,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://ph.groups.yahoo.com/group/nihontostudy/photos/view/7936?b=2 I found this page in Sasano s Tosogu no Kigen which shows the inyokan or positive and",
+            "messageBody": "<div id=\"ygrps-yiv-1265431005\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://ph.groups.yahoo.com/group/nihontostudy/photos/view/7936?b=2\">http://ph.groups.yahoo.com/group/nihontostudy/photos/view/7936?b=2</a><br/>\n<br/>\nI found this page in Sasano&#39;s &#39;Tosogu no Kigen&#39; which shows <br/>\nthe &#39;inyokan&#39; or positive and negative roots technique for menuki.<br/>\n<br/>\nPS:  &#39;in-yo-kan&#39; may also be used as a slam in street vernacular.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4282,
+    "nextTopicId": 4292
+}

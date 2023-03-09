@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 278314026,
+            "authorName": "Elliott",
+            "from": "&quot;Elliott&quot; &lt;elliott@...&gt;",
+            "profile": "elliottshogun",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "I dunno.......",
+            "postDate": "1192308956",
+            "msgId": 5189,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZlcmJjcytsa2k4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5187,
+            "nextInTime": 5190,
+            "topicId": 5189,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have added some photo s to my album and I am not sure of what to describe them as. Would you be so kind as to offer your opinion as to what the figures are? ",
+            "messageBody": "<div id=\"ygrps-yiv-2009672451\">I have added some photo&#39;s to my album and I am not sure of what to <br/>\ndescribe them as. Would you be so kind as to offer your opinion as to <br/>\nwhat the figures are?<br/>\n<br/>\nI can&#39;t figure out what I am looking at............<br/>\nIt appears to be a Daruma, Sennin or a face on both the Fuchi/Kashira <br/>\nof the one tanto. What do you think?<br/>\n<br/>\nNumber 2 has me stumped...... I don&#39;t recognize it at all. Somebody <br/>\nhelp me..........<br/>\n<br/>\nThanks,<br/>\nElliott</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5187,
+    "nextTopicId": 4675
+}

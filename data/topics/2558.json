@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] tsuba in &quot;To-Ron&quot;",
+            "postDate": "1105745804",
+            "msgId": 2572,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTIwMWM0ZmE5MSRlOGJmYzNhMCRlMzIxZmEwNEBvZW1jb21wdXRlcj4=",
+                "referencesHeader": "PGNydWNyaitnMzVtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2558,
+            "nextInTopic": 0,
+            "prevInTime": 2571,
+            "nextInTime": 2573,
+            "topicId": 2558,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Rich, I think that style of etching would get it attributed to late Hoan.  The plate is consistent with late Hoan work that I have seen.  I m not sure what to",
+            "messageBody": "<div id=\"ygrps-yiv-110142384\">Rich,<br/>\nI think that style of etching would get it attributed to late Hoan.  The plate is consistent with late Hoan work that I have seen.  I&#39;m not sure what to make of the cut cross hatching above the sukashi design.  It looks more like an irregular basketwork pattern than a nunome ground.<br/>\n<br/>\nJim<br/>\n<br/>\n<br/>\n<br/>\n  Just got the Jan 05 NCJSC &quot;To-Ron&quot; and have a question<br/>\n  about the tsuba at the bottom of page 3 - the Ho bird over<br/>\n  paulownia.<br/>\n<br/>\n  What school is this? The elongated hitsu-ana and other work<br/>\n  makes me think Saotome. What appears to be the acid etched<br/>\n  design makes me think Hoan but Saotome also did that style<br/>\n  work.<br/>\n<br/>\n  I wish the publisher would be sure to include translations<br/>\n  and/or attributions for all the photos in To-Ron. It would<br/>\n  really be very helpful.<br/>\n<br/>\n  Rich S<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 77400184,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "tsuba in &quot;To-Ron&quot;",
+            "postDate": "1105376947",
+            "msgId": 2558,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNydWNyaitnMzVtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2572,
+            "prevInTime": 2557,
+            "nextInTime": 2559,
+            "topicId": 2558,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just got the Jan 05 NCJSC To-Ron and have a question about the tsuba at the bottom of page 3 - the Ho bird over paulownia. What school is this? The elongated",
+            "messageBody": "<div id=\"ygrps-yiv-1400535855\">Just got the Jan 05 NCJSC &quot;To-Ron&quot; and have a question<br/>\nabout the tsuba at the bottom of page 3 - the Ho bird over<br/>\npaulownia.<br/>\n<br/>\nWhat school is this? The elongated hitsu-ana and other work<br/>\nmakes me think Saotome. What appears to be the acid etched<br/>\ndesign makes me think Hoan but Saotome also did that style<br/>\nwork.<br/>\n<br/>\nI wish the publisher would be sure to include translations<br/>\nand/or attributions for all the photos in To-Ron. It would<br/>\nreally be very helpful.<br/>\n<br/>\nRich S</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2560,
+    "nextTopicId": 2578
+}

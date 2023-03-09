@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 271477297,
+            "authorName": "Andres Pedraza",
+            "from": "Andres Pedraza &lt;apedraza93@...&gt;",
+            "profile": "apedraza_93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "NSR - Dragonfly coin",
+            "postDate": "1362665616",
+            "msgId": 5931,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PENBRjlwZm1iX1F3ZnRzQWp5MTZYYWFDXzh3PXc4V2V5MnRzTUdXTUtuRDhfK3UtM3h4Z0BtYWlsLmdtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5930,
+            "nextInTime": 5932,
+            "topicId": 5931,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I forget which one of us is the dragonfly enthusiast, but I figured I would share this link from the Canadian mint, in case he is interested. They charge way",
+            "messageBody": "<div id=\"ygrps-yiv-325945261\">I forget which one of us is the dragonfly enthusiast, but I figured I would<br/>\nshare this link from the Canadian mint, in case he is interested. They<br/>\ncharge way more than bullion value, but the design is cool.<br/>\n<br/>\n*<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/abpu8ns\">http://tinyurl.com/abpu8ns</a><br/>\n*<br/>\nBest,<br/>\n<br/>\nAndy*<br/>\n*<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5927,
+    "nextTopicId": 5899
+}

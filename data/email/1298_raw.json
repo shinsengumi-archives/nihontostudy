@@ -1,0 +1,29 @@
+{
+    "userId": 170020256,
+    "authorName": "davidbennettsr",
+    "from": "&quot;davidbennettsr&quot; &lt;davidbennettsr@...&gt;",
+    "profile": "davidbennettsr",
+    "replyTo": "LIST",
+    "senderId": "NJYhGF6N-kjEXdfJs39Ky3FEE0IyuPBmFNiF4eOtNvB6bkRDeR-2JsAs6aY6TILM9pr4CqlVEeniXnldxuNPNfi5uD9hvvxmFRTBh1pBlN3Y0A",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "test",
+    "postDate": "1072184554",
+    "msgId": 1298,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGJzOWVkYSs4Z2dzQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 985,
+    "nextInTopic": 2095,
+    "prevInTime": 1297,
+    "nextInTime": 1299,
+    "topicId": 621,
+    "numMessagesInTopic": 12,
+    "msgSnippet": "",
+    "rawEmail": "Return-Path: &lt;davidbennettsr@...&gt;\r\nX-Sender: davidbennettsr@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 62457 invoked from network); 23 Dec 2003 13:02:39 -0000\r\nReceived: from unknown (66.218.66.218)\n  by m7.grp.scd.yahoo.com with QMQP; 23 Dec 2003 13:02:39 -0000\r\nReceived: from unknown (HELO n17.grp.scd.yahoo.com) (66.218.66.72)\n  by mta3.grp.scd.yahoo.com with SMTP; 23 Dec 2003 13:02:39 -0000\r\nReceived: from [66.218.67.251] by n17.grp.scd.yahoo.com with NNFMP; 23 Dec 2003 13:02:35 -0000\r\nDate: Tue, 23 Dec 2003 13:02:34 -0000\r\nTo: nihontostudy@yahoogroups.com\r\nMessage-ID: &lt;bs9eda+8ggs@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 1\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-eGroups-Remote-IP: 66.218.66.72\r\nFrom: &quot;davidbennettsr&quot; &lt;davidbennettsr@...&gt;\r\nSubject: test\r\nX-Yahoo-Group-Post: member; u=170020256\r\nX-Yahoo-Profile: davidbennettsr\r\n\r\n\n\n\n"
+}

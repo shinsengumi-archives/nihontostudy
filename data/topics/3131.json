@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 85349368,
+            "authorName": "Deron Douglas",
+            "from": "&quot;Deron Douglas&quot; &lt;deron@...&gt;",
+            "profile": "deron_vfr750",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Announcement - NihontoAuctions.com",
+            "postDate": "1121194656",
+            "msgId": 3131,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwNzEyMTg1NzM2LjI3MDcwLnFtYWlsQG5zMzkud2VibWFzdGVycy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3130,
+            "nextInTime": 3132,
+            "topicId": 3131,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Please excuse this brief announcement. Tomorrow July 13th, 2005 will be FREE AUCTION DAY at NihontoAuctions.com. For one day you will be able to place as many",
+            "messageBody": "<div id=\"ygrps-yiv-651575173\">Please excuse this brief announcement.<br/>\n<br/>\nTomorrow July 13th, 2005 will be FREE AUCTION DAY at NihontoAuctions.com. For one day you will be able to place as many free auctions as required withno further costs to the buyer or seller. NihontoAuctions.com is community supported, and safe.<br/>\n<br/>\nThank you,<br/>\nDeron Douglas<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.NihontoAuctions.com\">http://www.NihontoAuctions.com</a><br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3114,
+    "nextTopicId": 3113
+}

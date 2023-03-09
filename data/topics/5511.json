@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 213364357,
+            "authorName": "excelsiorilluminati",
+            "from": "&quot;excelsiorilluminati&quot; &lt;excelsiorilluminati@...&gt;",
+            "profile": "excelsiorilluminati",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: help  with transalation please",
+            "postDate": "1230772760",
+            "msgId": 5513,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdqaDVtbytqZW5tQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGdqZ3BsdCtrODM2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5512,
+            "nextInTopic": 0,
+            "prevInTime": 5512,
+            "nextInTime": 5514,
+            "topicId": 5511,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "As I had suspected Toshinaga or Jumyo. john",
+            "messageBody": "<div id=\"ygrps-yiv-277960761\">As I had suspected Toshinaga or Jumyo. john<br/>\n<br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;excelsiorilluminati&quot; <br/>\n&lt;excelsiorilluminati@...&gt; wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt;<br/>\n&gt; Just for continuities sake &#39;Toshikane&#39; as you found out otherwhere&#39;s. <br/>\n&gt; John<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;gumanthon&quot; &lt;gumanthon@&gt; wrote:<br/>\n&gt; &gt;<br/>\n&gt; &gt; Hello,  Is it possible that  anyone can give me any information on <br/>\n&gt; the <br/>\n&gt; &gt; pictures listed or transalation on them please.<br/>\n&gt; &gt; Happy New Year John.<br/>\n&gt; &gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 213364357,
+            "authorName": "excelsiorilluminati",
+            "from": "&quot;excelsiorilluminati&quot; &lt;excelsiorilluminati@...&gt;",
+            "profile": "excelsiorilluminati",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: help  with transalation please",
+            "postDate": "1230760445",
+            "msgId": 5512,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdqZ3BsdCtrODM2QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGdqZzhraCtzamVqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5511,
+            "nextInTopic": 5513,
+            "prevInTime": 5511,
+            "nextInTime": 5513,
+            "topicId": 5511,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just for continuities sake Toshikane as you found out otherwhere s. John ... the",
+            "messageBody": "<div id=\"ygrps-yiv-950880486\">Just for continuities sake &#39;Toshikane&#39; as you found out otherwhere&#39;s. <br/>\nJohn<br/>\n<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;gumanthon&quot; &lt;gumanthon@...&gt; wrote:<br/>\n&gt;<br/>\n&gt; Hello,  Is it possible that  anyone can give me any information on <br/>\nthe <br/>\n&gt; pictures listed or transalation on them please.<br/>\n&gt; Happy New Year John.<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 364910260,
+            "authorName": "gumanthon",
+            "from": "&quot;gumanthon&quot; &lt;gumanthon@...&gt;",
+            "profile": "gumanthon",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "help  with transalation please",
+            "postDate": "1230742993",
+            "msgId": 5511,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdqZzhraCtzamVqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5512,
+            "prevInTime": 5510,
+            "nextInTime": 5512,
+            "topicId": 5511,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello,  Is it possible that  anyone can give me any information on the pictures listed or transalation on them please. Happy New Year John.",
+            "messageBody": "<div id=\"ygrps-yiv-815851177\">Hello,  Is it possible that  anyone can give me any information on the <br/>\npictures listed or transalation on them please.<br/>\nHappy New Year John.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5510,
+    "nextTopicId": 5514
+}

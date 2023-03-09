@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 136909275,
+            "authorName": "Curran Campbell",
+            "from": "Curran Campbell &lt;neobliviscar@...&gt;",
+            "profile": "neobliviscar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "John Prough please contact me off list.",
+            "postDate": "1137455573",
+            "msgId": 3737,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYwMTE2MjM1MjUzLjc2OTI1LnFtYWlsQHdlYjUwNDEyLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3736,
+            "nextInTime": 3738,
+            "topicId": 3737,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "List, Anyone got John s Proughs email handy? I need to ask him a reference question and also believe I owe him some money.  Thanks, ",
+            "messageBody": "<div id=\"ygrps-yiv-1398969474\">List,<br/>\n<br/>\nAnyone got John&#39;s Proughs email handy?<br/>\nI need to ask him a reference question and also<br/>\nbelieve I owe him some money.<br/>\n<br/>\n&lt;Off list replies please.&gt;<br/>\n<br/>\nThanks,<br/>\n<br/>\nCurran<br/>\n<br/>\n<br/>\n__________________________________________________<br/>\nDo You Yahoo!?<br/>\nTired of spam?  Yahoo! Mail has the best spam protection around <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mail.yahoo.com\">http://mail.yahoo.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3714,
+    "nextTopicId": 3729
+}

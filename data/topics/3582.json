@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 178892404,
+            "authorName": "Maximo",
+            "from": "&quot;Maximo&quot; &lt;Maximo@...&gt;",
+            "profile": "maxmaterial",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Fujiwara no kiyondo",
+            "postDate": "1134455077",
+            "msgId": 3582,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMjgwMWM1ZmZhZCRlNDljNDljMCQ0OTY0YThjMEBMdWlzPg==",
+                "referencesHeader": "PDAwMGQwMWM1YjNlYiQ1NTgzNDU4MCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3581,
+            "nextInTime": 3583,
+            "topicId": 3582,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Good day to all. Does anyone has some data of Fujiwara no kiyondo (edo swordsmith, I guess), thank you in advance, Máximo Máximo D. Marchionni ",
+            "messageBody": "<div id=\"ygrps-yiv-787609600\">Good day to all.<br/>\nDoes anyone has some data of Fujiwara no kiyondo (edo swordsmith, I guess),<br/>\nthank you in advance,<br/>\nMáximo<br/>\n<br/>\nMáximo D. Marchionni<br/>\nwww.maximom.com.ar<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Maximo@...\">Maximo@...</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3581,
+    "nextTopicId": 3583
+}

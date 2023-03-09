@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: commercial message: some tsubas",
+            "postDate": "1178731483",
+            "msgId": 5010,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGYxdDA0citxZnM2QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDEyMjM1Mi44NDM3NS5xbUB3ZWI1MTQwMS5tYWlsLnJlMi55YWhvby5jb20+"
+            },
+            "prevInTopic": 5009,
+            "nextInTopic": 0,
+            "prevInTime": 5009,
+            "nextInTime": 5011,
+            "topicId": 5009,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "just listed on e-bay, 5 tsuba .  3 have no reserve at close to  give away  price........... this is to finance my aquisition of a new computer. The old one ",
+            "messageBody": "<div id=\"ygrps-yiv-919524367\">just listed on e-bay, 5 tsuba .  3 have no reserve at close to &quot; give <br/>\naway &quot; price...........<br/>\nthis is to finance my aquisition of a new computer. The old one <br/>\nliterally smoked and fried the motherboard, yes, now I am suffering <br/>\nfrom Window Vista !@!<br/>\n<br/>\nplase klick...........<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://search.ebay.com/_W0QQsassZmuramasa-iiiQQhtZ-1\">http://search.ebay.com/_W0QQsassZmuramasa-iiiQQhtZ-1</a><br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 125654407,
+            "authorName": "Kenneth Wilson",
+            "from": "Kenneth Wilson &lt;kdw21620@...&gt;",
+            "profile": "kdw21620",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "commercial message: some tsubas",
+            "postDate": "1178594684",
+            "msgId": 5009,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEyMjM1Mi44NDM3NS5xbUB3ZWI1MTQwMS5tYWlsLnJlMi55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5010,
+            "prevInTime": 5008,
+            "nextInTime": 5010,
+            "topicId": 5009,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, I have some non mantis items, I need to move to get more mantis items.  already couldn t bid on the tsuba on ebay and I already missed it on yahoo.jp.",
+            "messageBody": "<div id=\"ygrps-yiv-1778632735\">Hi all,<br/>\n<br/>\nI have some non mantis items, I need to move to get<br/>\nmore mantis items.  already couldn&#39;t bid on the tsuba<br/>\non ebay and I already missed it on yahoo.jp.  Take a<br/>\nlook.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.freewebs.com/kamakiriken/salepage.htm\">http://www.freewebs.com/kamakiriken/salepage.htm</a><br/>\n<br/>\nThanks. And have a look around some nice pieces added<br/>\nlately.<br/>\n<br/>\nKen aka &quot;the Mantis Dude&quot; Wilson<br/>\n<br/>\n__________________________________________________<br/>\nDo You Yahoo!?<br/>\nTired of spam?  Yahoo! Mail has the best spam protection around <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mail.yahoo.com\">http://mail.yahoo.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5008,
+    "nextTopicId": 5011
+}

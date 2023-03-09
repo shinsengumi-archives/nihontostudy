@@ -1,0 +1,186 @@
+{
+    "totalMsgInTopic": 6,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Iron Sand",
+            "postDate": "1052071086",
+            "msgId": 173,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwM2JhZGIwNDkxNGE1N0BbMTAuMC4xLjJdPg==",
+                "inReplyToHeader": "PDAwMTEwMWMzMGZmMSQ5Nzc1N2M2MCQ2NTAxYThjMEBjaGFydGVyLm5ldD4=",
+                "referencesHeader": "PDIwMDMwNTAxMTMxNzUxLjg2OTc3LnFtYWlsQHdlYjQxMDE1Lm1haWwueWFob28uY29tPiA8MDAxMTAxYzMwZmYxJDk3NzU3YzYwJDY1MDFhOGMwQGNoYXJ0ZXIubmV0Pg=="
+            },
+            "prevInTopic": 127,
+            "nextInTopic": 0,
+            "prevInTime": 172,
+            "nextInTime": 174,
+            "topicId": 119,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Bob- You need look no further than Kangawas Kanayama (iron mountain) or Tachikawa (Sword river) for places historically known as sources for good Soshu",
+            "messageBody": "<div id=\"ygrps-yiv-529619791\">Bob-<br/>\n\tYou need look no further than Kangawas&#39; Kanayama (iron <br/>\nmountain) or Tachikawa (Sword river) for places historically known as <br/>\nsources for good Soshu satetsu...<br/>\n-t<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 123364401,
+            "authorName": "nihontochicken",
+            "from": "&quot;nihontochicken&quot; &lt;rick@...&gt;",
+            "profile": "nihontochicken",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Iron Sand",
+            "postDate": "1051830579",
+            "msgId": 127,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGI4czlmaitvcTAzQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDIwMDMwNTAxMjIzODA4LjYzMjk2LnFtYWlsQHdlYjQxMDAyLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 126,
+            "nextInTopic": 173,
+            "prevInTime": 126,
+            "nextInTime": 128,
+            "topicId": 119,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Bob (and Folk) - I don t know whether the Kalapana Black Sand Beach is magnetite or not (or whether it s even still there - it was supposedly run over by a",
+            "messageBody": "<div id=\"ygrps-yiv-1768213068\">Bob (and Folk) -<br/>\n<br/>\nI don&#39;t know whether the Kalapana Black Sand Beach is magnetite or <br/>\nnot (or whether it&#39;s even still there - it was supposedly run over by <br/>\na fresh magma flow a few years back - I was there about thirty years <br/>\nago, but wasn&#39;t interested in its magnetic properties at the time).  <br/>\nBut a typical US beach has quite a bit of magnetite in the sand.  A <br/>\nkid&#39;s magnet will net you a small vial full in a few tens of <br/>\nminutes.  A serious Edmund Scientific magnet should get you enough in <br/>\nan hour to make a sword, if you could figure out how to smelt it.  <br/>\nI&#39;ve thought about making an electromagnet to collect it (better than <br/>\na permanent magnet because you can turn it off and drop the magnetite <br/>\nyou&#39;ve picked up, rather than try to pull it off the magnet by <br/>\nhand).  But, again, what would I do with it?  It has to be heated in <br/>\na reducing atmosphere to get iron/steel out of it.  Anyone have an <br/>\nidea for a mini-tartara?  BTW, an amateur US swordsmith I spoke with <br/>\nyears ago (since lost contact) did make his own tamahagane, and <br/>\nforged a small blade from it, and showed same to Yoshihara at the <br/>\nSolvang Knife Show.  He told me that Yoshindo immediately recognized <br/>\nthe difference in tetsu, and asked the US smith where he got his <br/>\nsteel.  I have heard from other sources that the source of the steel <br/>\n(tamahagane, mill, electrolytic, wootz, etc.) does indeed result in <br/>\ndifferences in the tetsu visible to the experienced viewer.<br/>\n<br/>\nNC</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 119415193,
+            "authorName": "Bob Rossman",
+            "from": "Bob Rossman &lt;gentleman9@...&gt;",
+            "profile": "gentleman9",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Iron Sand",
+            "postDate": "1051828688",
+            "msgId": 126,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMwNTAxMjIzODA4LjYzMjk2LnFtYWlsQHdlYjQxMDAyLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDAwMTEwMWMzMGZmMSQ5Nzc1N2M2MCQ2NTAxYThjMEBjaGFydGVyLm5ldD4="
+            },
+            "prevInTopic": 123,
+            "nextInTopic": 127,
+            "prevInTime": 125,
+            "nextInTime": 127,
+            "topicId": 119,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Rick, Thanks for the info. So it was basically volcanic run-off deposits. I wonder if the black sand beaches of The Big Island of Hawaii wouldn t be a bad",
+            "messageBody": "<div id=\"ygrps-yiv-466923395\">Rick,<br/>\n<br/>\nThanks for the info. So it was basically volcanic<br/>\nrun-off deposits. I wonder if the black sand beaches<br/>\nof The Big Island of Hawaii wouldn&#39;t be a bad source<br/>\nfor tamahagane. Actually Hawaii as a whole is rich in<br/>\niron in the soil it explains all the red dirt. Anyone<br/>\nhave a big enough electro magnet I could borrow next<br/>\ntime I go to Hawaii? <br/>\n<br/>\nBob R<br/>\n<br/>\n=====<br/>\nCheck out &quot;Cowboy&quot; Bob&#39;s Books & Things at:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://asia.geocities.com/gentleman9/index.html\">http://asia.geocities.com/gentleman9/index.html</a><br/>\n<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nThe New Yahoo! Search - Faster. Easier. Bingo.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://search.yahoo.com\">http://search.yahoo.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 123364401,
+            "authorName": "Rick Bliss",
+            "from": "&quot;Rick Bliss&quot; &lt;rick@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Iron Sand",
+            "postDate": "1051800879",
+            "msgId": 123,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTEwMWMzMGZmMSQ5Nzc1N2M2MCQ2NTAxYThjMEBjaGFydGVyLm5ldD4=",
+                "referencesHeader": "PDIwMDMwNTAxMTMxNzUxLjg2OTc3LnFtYWlsQHdlYjQxMDE1Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 122,
+            "nextInTopic": 126,
+            "prevInTime": 122,
+            "nextInTime": 124,
+            "topicId": 119,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Bob and Folk - As far as exactly where in Japan the black sand beaches and stream beds are found, I ll have to punt.  But generically, the source for",
+            "messageBody": "<div id=\"ygrps-yiv-166848691\">Bob and Folk -<br/>\n<br/>\nAs far as exactly where in Japan the black sand beaches and stream beds are<br/>\nfound, I&#39;ll have to punt.  But generically, the source for tamahagane is<br/>\njust that, a type of black sand.  Most all beach sands contain some black<br/>\nsand consisting of magnetite, chemically Fe3O4, containing iron in both the<br/>\n+2 and +3 oxidation states.  As the name implies, it is magnetic, and simply<br/>\nby running a magnet through beach sand, you will collect the magnetite<br/>\ngrains.  A great concentrating method that was likely not available to the<br/>\nJapanese before cheap magnets became available in the modern age.  They used<br/>\na water flow ripple method instead (sluice box), not as efficient.  I<br/>\nimagine that the traditional Japanese used sand from the few places where<br/>\nmagnetite was a major fraction of the sand total, giving the bulk sand an<br/>\noverall &quot;black&quot; look.  But where those beaches and stream beds were exactly,<br/>\nI&#39;ll have to leave to someone else to tell.  Kapp does mention Shimane<br/>\nProvince as the major source of tamahagane (80% of total) from the late<br/>\nMuromachi onward, but doesn&#39;t specify the koto era sources, except that they<br/>\nwere scattered.  Note: Kapp also indicates the source of tamahagane as<br/>\nFe2O3, but this is hematite, a red color as the name implies.  It is indeed<br/>\na good iron source, but not what was available to the Japanese, I believe.<br/>\n<br/>\nNC</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 119415193,
+            "authorName": "Bob Rossman",
+            "from": "Bob Rossman &lt;gentleman9@...&gt;",
+            "profile": "gentleman9",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Iron Sand",
+            "postDate": "1051795071",
+            "msgId": 122,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMwNTAxMTMxNzUxLjg2OTc3LnFtYWlsQHdlYjQxMDE1Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDAwM2EwMWMzMGZlMyQxMDM3ZWZjMCQ5N2NhZmVhOUBreXA0Pg=="
+            },
+            "prevInTopic": 119,
+            "nextInTopic": 123,
+            "prevInTime": 121,
+            "nextInTime": 123,
+            "topicId": 119,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ok I have what may be a silly question but I ve been dying to ask it for some time now. Where does the iron sand for making tamahage (spelling is not right I ",
+            "messageBody": "<div id=\"ygrps-yiv-623901041\">Ok I have what may be a silly question but I&#39;ve been<br/>\ndying to ask it for some time now. Where does the iron<br/>\nsand for making tamahage (spelling is not right I<br/>\nknow) come from? <br/>\n<br/>\nBob R<br/>\n<br/>\n=====<br/>\nCheck out &quot;Cowboy&quot; Bob&#39;s Books & Things at:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://asia.geocities.com/gentleman9/index.html\">http://asia.geocities.com/gentleman9/index.html</a><br/>\n<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nThe New Yahoo! Search - Faster. Easier. Bingo.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://search.yahoo.com\">http://search.yahoo.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 135018472,
+            "authorName": "Matthew E. Hoyle",
+            "from": "&quot;Matthew E. Hoyle&quot; &lt;matthewhoyle@...&gt;",
+            "profile": "matthewhoyle2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "FW: hizento skins",
+            "postDate": "1051794634",
+            "msgId": 119,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwM2EwMWMzMGZlMyQxMDM3ZWZjMCQ5N2NhZmVhOUBreXA0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 122,
+            "prevInTime": 118,
+            "nextInTime": 120,
+            "topicId": 119,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I asked Roger the same question and this is his reply. - Matt ... Van: Roger [mailto:roger@iohk.com] Verzonden: donderdag 1 mei 2003 4:01 Aan: Matthew E. Hoyle",
+            "messageBody": "<div id=\"ygrps-yiv-348155764\">I asked Roger the same question and this is his reply. <br/>\n <br/>\n- Matt<br/>\n <br/>\n <br/>\n-----Oorspronkelijk bericht-----<br/>\nVan: Roger [mailto:<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:roger@...\">roger@...</a>] <br/>\nVerzonden: donderdag 1 mei 2003 4:01<br/>\nAan: Matthew E. Hoyle<br/>\nOnderwerp: Re: hizento skins<br/>\n<br/>\n<br/>\nHi Matt,<br/>\n<br/>\n<br/>\n<br/>\nThe question is &quot;Why do hizento have such thin skins ?&quot;<br/>\n- Matt <br/>\n<br/>\n<br/>\nThey all don&#39;t. <br/>\nSome do - the kobuse construction (lower quality) where better steel is<br/>\nused on the outer edge, but only in a thin layer as this was cheaper.<br/>\nThey can certainly have a very thin outer edge.<br/>\n<br/>\nThe sanmai construction are the better swords (Tadayoshi 1, 2, 3, 4<br/>\n(maybe), 8, Masahiro 1 etc. and they have thicker steel. The better<br/>\nsteel is used as the core.<br/>\n<br/>\nI am of the opinion that the Tadayoshi used imported steel as it was<br/>\nreadily available. That maybe why the hada is so tight. Now, how<br/>\nexpensive this was I have no idea - but if it was expensive, then they<br/>\ncould have used it in a thin outer layer (kobuse) - saving costs.  The<br/>\nother factor to consider is that because the hada is so tight and<br/>\nflawless in Hizen blades, when you polish through it into the core<br/>\nsteel, it then looks awful. In other Schools you probably wouldn&#39;t<br/>\nnotice the difference as the outer steel hada can be coarse as well.<br/>\nThere might only be a slight colour variation.<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nKind regards, <br/>\n<br/>\nRoger <br/>\nRobertshaw<br/>\n<br/>\n**************************************************<br/>\nHizen Tadayoshi - Web sites at  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.hizento.net\">http://www.hizento.net</a><br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.hizento.net/\">http://www.hizento.net/</a>&gt;  <br/>\n                             & at  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.hizento.com\">http://www.hizento.com</a><br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.hizento.com/\">http://www.hizento.com/</a>&gt;  <br/>\nSwords & fittings -      Sales at         <a rel=\"nofollow\" target=\"_blank\" href=\"http://hizento.net/sales.htm\">http://hizento.net/sales.htm</a> <br/>\n**************************************************<br/>\nMember of JSS US, NBTHK & British Token Societies. <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 171,
+    "nextTopicId": 166
+}

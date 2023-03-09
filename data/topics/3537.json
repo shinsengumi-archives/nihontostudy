@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 213364357,
+            "authorName": "excelsiorilluminati",
+            "from": "&quot;excelsiorilluminati&quot; &lt;excelsiorilluminati@...&gt;",
+            "profile": "excelsiorilluminati",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Token Bijutsu",
+            "postDate": "1133245350",
+            "msgId": 3537,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRtZ3MzNit2a2xkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3536,
+            "nextInTime": 3538,
+            "topicId": 3537,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello All, Would someone be so kind as to upload the english translations for #579,582 and 583 to my e-mail. These ones are not at the site anymore and #579",
+            "messageBody": "<div id=\"ygrps-yiv-1445241499\">Hello All, Would someone be so kind as to upload the english <br/>\ntranslations for #579,582 and 583 to my e-mail. These ones are not at <br/>\nthe site anymore and #579 disappeared into the ether somehow. Thank <br/>\nyou ahead of time. John</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3517,
+    "nextTopicId": 3538
+}

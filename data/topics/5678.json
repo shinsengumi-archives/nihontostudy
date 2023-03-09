@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 231237959,
+            "authorName": "ricecracker_com",
+            "from": "&quot;ricecracker_com&quot; &lt;john@...&gt;",
+            "profile": "ricecracker_com",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "commercial message - new items at ricecracker.com",
+            "postDate": "1271822083",
+            "msgId": 5678,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhxbHN1Mys5dGl0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5677,
+            "nextInTime": 5679,
+            "topicId": 5678,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just listed several nice swords: C-8 Tanto - Tegai Kanehisa NBTHK C-1 Katana - 28.6 Inch long Munekage C-16 Wakizashi - Naginata zukuri Hizen Masahiro MS-44",
+            "messageBody": "<div id=\"ygrps-yiv-638665634\">Just listed several nice swords:<br/>\nC-8 Tanto - Tegai Kanehisa NBTHK<br/>\nC-1 Katana - 28.6 Inch long Munekage<br/>\nC-16 Wakizashi - Naginata zukuri Hizen Masahiro<br/>\nMS-44 Wakizashi - Oei Bizen Norimitsu<br/>\nMX-36 Okisssaki Koto Higo Mounted Katana<br/>\nMS-42 Rare Tanto By Hojoji Masateru NBTHK<br/>\nMS-43 Satsuma Wakizashi Mounted - Motohira<br/>\nNew fittings also added:<br/>\nFT-26 Kogai - 3rd Goto Master Joshin NBTHK Certified<br/>\nFT-42 Menuki - Goto Catfish and Gourd<br/>\nFT-41 Menuki - Rare Subject Cat Goto Set<br/>\nFT-44 Menuki - Rare Iron Shishi Set<br/>\nFT-40 Menuki - Rare Old Elephant Set - Perhaps Ezo<br/>\nand more will be going up shortly.<br/>\nPlease take a look at www.ricecracker.com &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ricecracker.com\">http://www.ricecracker.com</a>&gt;<br/>\nand email me if you have any questions.<br/>\nRegards,<br/>\nJohn Kurata<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5672,
+    "nextTopicId": 5679
+}

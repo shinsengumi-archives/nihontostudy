@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "tsuba on auction, commercial message",
+            "postDate": "1129948720",
+            "msgId": 3418,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRqYzhuZytiNWlxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3417,
+            "nextInTime": 3419,
+            "topicId": 3418,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.nihontoauctions.com/ViewAuctions.asp?catID=1 please have a look see. Milt",
+            "messageBody": "<div id=\"ygrps-yiv-298356541\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontoauctions.com/ViewAuctions.asp?catID=1\">http://www.nihontoauctions.com/ViewAuctions.asp?catID=1</a><br/>\n<br/>\nplease have a look see.<br/>\n<br/>\nMilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3415,
+    "nextTopicId": 3419
+}

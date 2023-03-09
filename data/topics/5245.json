@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "tsuba with humor",
+            "postDate": "1200118397",
+            "msgId": 5245,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZtOWxwdCs1MDVpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5244,
+            "nextInTime": 5246,
+            "topicId": 5245,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://tinyurl.com/3dr8fy milt",
+            "messageBody": "<div id=\"ygrps-yiv-816896560\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/3dr8fy\">http://tinyurl.com/3dr8fy</a><br/>\n<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5242,
+    "nextTopicId": 5246
+}

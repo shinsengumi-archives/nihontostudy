@@ -1,0 +1,128 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 1634807293,
+        "photoId": 2022710079,
+        "photoName": "MVC-004F",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "mvinehout",
+        "modificationDate": 1143396754,
+        "creationDate": 1143396754,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "fuchi mei",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/ujbmIIPuetOsjT8PGN4v/name/n_a",
+                "height": 72,
+                "width": 96,
+                "size": 965,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/ujbmIIPuetOsjT8PGN4v/name/n_a",
+                "height": 360,
+                "width": 480,
+                "size": 10341,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/ujbmIIPuetOsjT8PGN4v/name/n_a",
+                "height": 480,
+                "width": 640,
+                "size": 18177,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 1634807293,
+        "photoId": 486078422,
+        "photoName": "MVC-006F",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "mvinehout",
+        "modificationDate": 1143396755,
+        "creationDate": 1143396755,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "fuchi oni",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/eUJS_0LocteEhiw3HCg-/name/n_a",
+                "height": 72,
+                "width": 96,
+                "size": 1119,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/eUJS_0LocteEhiw3HCg-/name/n_a",
+                "height": 360,
+                "width": 480,
+                "size": 11710,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/eUJS_0LocteEhiw3HCg-/name/n_a",
+                "height": 480,
+                "width": 640,
+                "size": 19702,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 1634807293,
+        "photoId": 1071415771,
+        "photoName": "MVC-007F",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "mvinehout",
+        "modificationDate": 1143396756,
+        "creationDate": 1143396756,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 3,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "kashira; diety grapping oni?",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/9BHa9MDtetZL33VoVwLe/name/n_a",
+                "height": 72,
+                "width": 96,
+                "size": 1490,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/9BHa9MDtetZL33VoVwLe/name/n_a",
+                "height": 360,
+                "width": 480,
+                "size": 15714,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/9BHa9MDtetZL33VoVwLe/name/n_a",
+                "height": 480,
+                "width": 640,
+                "size": 24757,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

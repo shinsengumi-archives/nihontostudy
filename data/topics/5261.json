@@ -1,0 +1,68 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 262825586,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [SPAM] [nihontostudy] Help needed for identification",
+            "postDate": "1201903910",
+            "msgId": 5262,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ3QTM5OTI2LjkwNzA0MDlAYW1uZXQubmV0LmF1Pg==",
+                "inReplyToHeader": "PDAwMWQwMWM4NjUxZCQzOGY0NzE2MCRmYjM0Nzk1MkBEOVZSMEowSj4=",
+                "referencesHeader": "PDE5ODA3My4xMTY0LnFtQHdlYjUyMzA3Lm1haWwucmUyLnlhaG9vLmNvbT4gPDAwNmYwMWM4NjRkZSQ3ZDA5YTMwMCQ4YTcwNzc1NUBhbGFuYmU5NTJhZDNjNz4gPDAwMWQwMWM4NjUxZCQzOGY0NzE2MCRmYjM0Nzk1MkBEOVZSMEowSj4="
+            },
+            "prevInTopic": 5261,
+            "nextInTopic": 0,
+            "prevInTime": 5261,
+            "nextInTime": 5263,
+            "topicId": 5261,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Michel, sorry but you cannot put images in your email. You need to put them in a photo album somewhere first and link them to the email. This Yahoo group",
+            "messageBody": "<div id=\"ygrps-yiv-463096751\">Hi Michel, sorry but you cannot put images in your email. You need to <br/>\nput them in a photo album somewhere first and link them to the email. <br/>\nThis Yahoo group has its own photo album section.<br/>\n<br/>\nCheers<br/>\n<br/>\nRichard<br/>\n<br/>\nmcvcoc wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; Dear all,<br/>\n&gt;<br/>\n&gt; Can somebody give me some hints for identifying this tsuba - I have <br/>\n&gt; seen a similar enough one ( ie geese, weeds, water) in early 20th <br/>\n&gt; century french auction catalogs ( however picture without any <br/>\n&gt; description).<br/>\n&gt;<br/>\n&gt; Diameter 80mm - some incrustations ( yellow metal on geese eyes and <br/>\n&gt; white metal dots on weeds leaves and water) -<br/>\n&gt;<br/>\n&gt; Thanks for help<br/>\n&gt;<br/>\n&gt; Michel Cuni<br/>\n&gt;<br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n&gt;  <br/>\n<br/>\n<br/>\n </span></blockquote>[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 295232697,
+            "authorName": "mcvcoc",
+            "from": "&quot;mcvcoc&quot; &lt;mcvcoc@...&gt;",
+            "profile": "mcvcoc",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "Help needed for identification",
+            "postDate": "1201902955",
+            "msgId": 5261,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMWQwMWM4NjUxZCQzOGY0NzE2MCRmYjM0Nzk1MkBEOVZSMEowSj4=",
+                "referencesHeader": "PDE5ODA3My4xMTY0LnFtQHdlYjUyMzA3Lm1haWwucmUyLnlhaG9vLmNvbT4gPDAwNmYwMWM4NjRkZSQ3ZDA5YTMwMCQ4YTcwNzc1NUBhbGFuYmU5NTJhZDNjNz4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5262,
+            "prevInTime": 5260,
+            "nextInTime": 5262,
+            "topicId": 5261,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear all, Can somebody give me some hints for identifying this tsuba - I have seen a similar enough one  ( ie geese, weeds, water) in early 20th century french",
+            "messageBody": "<div id=\"ygrps-yiv-1818156561\">Dear all,<br/>\n<br/>\nCan somebody give me some hints for identifying this tsuba - I have seen a similar enough one  ( ie geese, weeds, water) in early 20th century french auction catalogs ( however picture without any description). <br/>\n<br/>\nDiameter 80mm - some incrustations ( yellow metal on geese eyes and white metal dots on weeds leaves and water) - <br/>\n<br/>\nThanks for help<br/>\n<br/>\nMichel Cuni<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5252,
+    "nextTopicId": 5263
+}

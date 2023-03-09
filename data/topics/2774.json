@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Rai school",
+            "postDate": "1113271937",
+            "msgId": 2774,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDA3ZTEwMWM1M2YwNSQwZDY0ZTZiMCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2773,
+            "nextInTime": 2775,
+            "topicId": 2774,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Rai, I understand, means thunder.  Does anyone know how the Rai school of the Yamashiro den acquired that soubriquet? [Non-text portions of this message have",
+            "messageBody": "<div id=\"ygrps-yiv-1752901671\">Rai, I understand, means &quot;thunder.&quot;  Does anyone know how the Rai school of the Yamashiro den acquired that soubriquet? <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2740,
+    "nextTopicId": 2775
+}

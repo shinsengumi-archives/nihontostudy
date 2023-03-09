@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 207893096,
+            "authorName": "swcollector2001",
+            "from": "&quot;swcollector2001&quot; &lt;swcollector2001@...&gt;",
+            "profile": "swcollector2001",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "My Wakizashi.",
+            "postDate": "1105216710",
+            "msgId": 2548,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNycGdjNis5ZjZoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2547,
+            "nextInTime": 2549,
+            "topicId": 2548,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I also got this one from my grandfather.  I emailed the Japanese sword society and they told me based off the signature that it was Koto. ",
+            "messageBody": "<div id=\"ygrps-yiv-793129774\">I also got this one from my grandfather.  I emailed the Japanese <br/>\nsword society and they told me based off the signature that it was <br/>\nKoto.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://img.photobucket.com/albums/v222/SauronTD/sword21.jpg\">http://img.photobucket.com/albums/v222/SauronTD/sword21.jpg</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://img.photobucket.com/albums/v222/SauronTD/sword1.jpg\">http://img.photobucket.com/albums/v222/SauronTD/sword1.jpg</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://img.photobucket.com/albums/v222/SauronTD/sword4.jpg\">http://img.photobucket.com/albums/v222/SauronTD/sword4.jpg</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://img.photobucket.com/albums/v222/SauronTD/sword5.jpg\">http://img.photobucket.com/albums/v222/SauronTD/sword5.jpg</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://img.photobucket.com/albums/v222/SauronTD/sword3.jpg\">http://img.photobucket.com/albums/v222/SauronTD/sword3.jpg</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2547,
+    "nextTopicId": 2492
+}

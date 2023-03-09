@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "abale.vossnet.co.uk",
+            "from": "&quot;abale.vossnet.co.uk&quot; &lt;abale@...&gt;",
+            "profile": "maiorian",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Fittings books",
+            "postDate": "1311866173",
+            "msgId": 5865,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEU3RThGOTlGNkRGQTRBM0Y4ODZDREUyQzQyNDJEOTdCQGFsYW4+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5864,
+            "nextInTime": 5866,
+            "topicId": 5865,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have just listed some new titles on sword fittings, some quite rare. Alan -- I am using the free version of SPAMfighter. We are a community of 7 million",
+            "messageBody": "<div id=\"ygrps-yiv-59822294\">I have just listed some new titles on sword fittings, some quite rare.<br/>\n<br/>\nAlan<br/>\n<br/>\n--<br/>\nI am using the free version of SPAMfighter.<br/>\nWe are a community of 7 million users fighting spam.<br/>\nSPAMfighter has removed 9 of my spam emails to date.<br/>\nGet the free SPAMfighter here: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.spamfighter.com/len\">http://www.spamfighter.com/len</a><br/>\n<br/>\nThe Professional version does not have this message<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5829,
+    "nextTopicId": 5866
+}

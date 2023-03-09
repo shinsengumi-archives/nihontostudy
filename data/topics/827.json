@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 77400184,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "ToShow database text conversion",
+            "postDate": "1064415357",
+            "msgId": 827,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJrc2I5dCtjYW03QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 826,
+            "nextInTime": 828,
+            "topicId": 827,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Peter McCollum has just finished a small program to convert any ToShow database to a text file for backup. It is available on his website at: ",
+            "messageBody": "<div id=\"ygrps-yiv-166520647\">Peter McCollum has just finished a small program to<br/>\nconvert any ToShow database to a text file for backup.<br/>\n<br/>\nIt is available on his website at:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.com/saipan59/toshow/\">http://www.geocities.com/saipan59/toshow/</a><br/>\n<br/>\nRich S</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 822,
+    "nextTopicId": 828
+}

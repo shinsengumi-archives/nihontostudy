@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "alan bale",
+            "from": "&quot;alan bale&quot; &lt;abale@...&gt;",
+            "profile": "alangbale",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "ebay",
+            "postDate": "1059508070",
+            "msgId": 622,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGMwMWMzNTYwYSQ2M2IzZGYyMCQ1NDIyMDFkNUBhYmFsZT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 621,
+            "nextInTime": 623,
+            "topicId": 622,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The attached article has just appeared in the latest Antiques Trade Gazette, it may only apply to ebay.co.uk but I think it is worth responding to. Alan ",
+            "messageBody": "<div id=\"ygrps-yiv-320212637\">The attached article has just appeared in the latest Antiques Trade Gazette,<br/>\nit may only apply to ebay.co.uk but I think it is worth responding to.<br/>\nAlan<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 618,
+    "nextTopicId": 623
+}

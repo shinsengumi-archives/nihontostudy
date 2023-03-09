@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 213364357,
+            "authorName": "excelsiorilluminati",
+            "from": "&quot;excelsiorilluminati&quot; &lt;excelsiorilluminati@...&gt;",
+            "profile": "excelsiorilluminati",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "greetings",
+            "postDate": "1230144686",
+            "msgId": 5509,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdpdTBiZSs4bzk4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5508,
+            "nextInTime": 5510,
+            "topicId": 5509,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Merry Christmas and Happy Hew Years. John",
+            "messageBody": "<div id=\"ygrps-yiv-79416386\">Merry Christmas and Happy Hew Years. John</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5508,
+    "nextTopicId": 5510
+}

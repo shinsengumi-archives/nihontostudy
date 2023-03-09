@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 163035024,
+            "authorName": "Kim Ghobrial",
+            "from": "Kim Ghobrial &lt;bescat@...&gt;",
+            "profile": "bescat",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Added another 4 photos of the 2 Tsubas...",
+            "postDate": "1098853732",
+            "msgId": 2363,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQxMDI3MDUwODUyLjgzOTA0LnFtYWlsQHdlYjUyNjAzLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2362,
+            "nextInTime": 2364,
+            "topicId": 2363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi All, Someone asked if I could put up a closer up shot of each of the Tsubas, so I have 1st Tsuba Front side and Reverse side and 2nd Tsuba Front side and",
+            "messageBody": "<div id=\"ygrps-yiv-1850266642\">Hi All,<br/>\nSomeone asked if I could put up a closer up shot of each of the Tsubas, so I have 1st Tsuba Front<br/>\nside and Reverse side and 2nd Tsuba Front side and Reverse side.  I can&#39;t tell if they are Brass<br/>\nor Bronze.<br/>\n<br/>\nKim<br/>\n<br/>\n__________________________________________________<br/>\nDo You Yahoo!?<br/>\nTired of spam?  Yahoo! Mail has the best spam protection around <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mail.yahoo.com\">http://mail.yahoo.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2362,
+    "nextTopicId": 2364
+}

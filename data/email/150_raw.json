@@ -1,0 +1,28 @@
+{
+    "userId": 129124237,
+    "authorName": "samurai@xhasc.com",
+    "from": "samurai@...",
+    "replyTo": "LIST",
+    "senderId": "gFDIsJom5OxhCymtzeApmVOjSNKMmkTGTTX59lI5hxvc0Mxza13gtJLCBF77ddQwdtfZMNbxzUc",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "images",
+    "postDate": "1051905899",
+    "msgId": 150,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDIwMDMwNTAyMjAwNDU5LjE4M0Y3MUMyQURAc210cC1yZWxheS5vbW5pcy5jb20+"
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 149,
+    "nextInTime": 151,
+    "topicId": 150,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Jim pointed out my attachments were auto-stripped. I ve got the images here: http://www.xhasc.com/hiro.jpg http://www.xhasc.com/toshi.jpg Thanks! - darcy",
+    "rawEmail": "Return-Path: &lt;samurai@...&gt;\r\nX-Sender: samurai@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (EGP: mail-8_2_6_6); 2 May 2003 20:05:03 -0000\r\nReceived: (qmail 66571 invoked from network); 2 May 2003 20:05:01 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m15.grp.scd.yahoo.com with QMQP; 2 May 2003 20:05:01 -0000\r\nReceived: from unknown (HELO smtp-relay.omnis.com) (216.239.128.27)\n  by mta2.grp.scd.yahoo.com with SMTP; 2 May 2003 20:05:01 -0000\r\nReceived: from fear.xhasc.com (Toronto-HSE-ppp3722237.sympatico.ca [65.95.63.158])\n\tby smtp-relay.omnis.com (Postfix) with ESMTP id 183F71C2AD\n\tfor &lt;nihontostudy@yahoogroups.com&gt;; Fri,  2 May 2003 13:04:59 -0700 (PDT)\r\nTo: nihontostudy@yahoogroups.com\r\nSubject: images\r\nUser-Agent: Gnus/5.0803 (Gnus v5.8.3) Emacs/21.2\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nLines: 12\r\nMessage-Id: &lt;20030502200459.183F71C2AD@...&gt;\r\nDate: Fri,  2 May 2003 13:04:59 -0700 (PDT)\r\nX-eGroups-From: darcy@... (Darcy Brockbank)\r\nFrom: samurai@...\r\nX-Yahoo-Group-Post: member; u=129124237\r\n\r\n\nJim pointed out my attachments were auto-stripped. I&#39;ve got the images\nhere:\n\nhttp://www.xhasc.com/hiro.jpg\n\nhttp://www.xhasc.com/toshi.jpg\n\nThanks!\n\n- darcy\n\n\n\n"
+}

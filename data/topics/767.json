@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "font",
+            "postDate": "1063340675",
+            "msgId": 767,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwMGJiODZmYWI4NzhmNkBbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 766,
+            "nextInTime": 768,
+            "topicId": 767,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Didn t work for Mac but might be fun for you windows users... -t http://didier.mas.free.fr/public/",
+            "messageBody": "<div id=\"ygrps-yiv-559433585\">Didn&#39;t work for Mac but might be fun for you windows users...<br/>\n-t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://didier.mas.free.fr/public/\">http://didier.mas.free.fr/public/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 760,
+    "nextTopicId": 761
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122897486,
+            "authorName": "potsandbooks",
+            "from": "&quot;potsandbooks&quot; &lt;cragodfrey@...&gt;",
+            "profile": "potsandbooks",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Discussion Groups",
+            "postDate": "1086819869",
+            "msgId": 1921,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNhODJtdCs5NmptQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1920,
+            "nextInTime": 1922,
+            "topicId": 1921,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just to let you know that I have added a jump menu to the home page of my site http://www.swordfittings.com which should provide easy access to all of the main",
+            "messageBody": "<div id=\"ygrps-yiv-1744631290\">Just to let you know that I have added a jump menu to the home page <br/>\nof my site <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.swordfittings.com\">http://www.swordfittings.com</a> which should provide easy <br/>\naccess to all of the main nihon-to discussion groups.<br/>\nI hope you find it useful. Please let me know if you would like me <br/>\nto add any other groups.<br/>\n<br/>\nThanks<br/>\n<br/>\nChris Godfrey</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1919,
+    "nextTopicId": 1922
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 27642611,
+            "authorName": "Richard George",
+            "from": "Richard George &lt;rkg@...&gt;",
+            "profile": "rkgatteleport",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "up close and personal...",
+            "postDate": "1055434121",
+            "msgId": 349,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNFRThBNTg5LjQwMjA0MDRAdGVsZXBvcnQuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 348,
+            "nextInTime": 350,
+            "topicId": 349,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey guys, yesterday I discovered that those digital microscopes that were made by intel are still available!  some company called Digital Blue is now marketing",
+            "messageBody": "<div id=\"ygrps-yiv-2013196558\">Hey guys,<br/>\n<br/>\nyesterday I discovered that those digital microscopes that were made by <br/>\nintel are still<br/>\navailable!  some company called Digital Blue is now marketing them.<br/>\n<br/>\nIf you haven&#39;t seen one of these before, they&#39;re a cheap looking <br/>\nmicroscope that plugs<br/>\ninto your USB port and go to 200X - they actually work pretty well <br/>\nthough the focus<br/>\nknob is kind of gnarly at the higher magnifications - they have a pretty <br/>\nfair depth of<br/>\nfield and the resolution looks fine on screen - you can also pull &#39;em <br/>\noff the stand and<br/>\nuse them freehand for all kinds of macro applications.  Best of all, you <br/>\ncan get &#39;em from<br/>\namazon for $49.99 - look for digital blue QX3.<br/>\n<br/>\nNot as good as a top grade microscope with the camera port, but hey, it <br/>\ndidn&#39;t cost<br/>\n3 grand either...<br/>\n<br/>\nCheck it out...<br/>\n<br/>\nrkg<br/>\n(Richard George)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 348,
+    "nextTopicId": 350
+}

@@ -1,0 +1,29 @@
+{
+    "userId": 23248771,
+    "authorName": "Bob Elder",
+    "from": "Bob Elder &lt;ecmas@...&gt;",
+    "replyTo": "LIST",
+    "senderId": "YWlA2MLoGAZwZ0DC-UKjem1FuXRvB1lvape4m4i0RX6Uyihxb7M09wZbpA7tVLKCclZ4EH31378bNPwlMlf9yPbA",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "RE: [nihontostudy] Tsuba",
+    "postDate": "1081350102",
+    "msgId": 1821,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDIwMDQwNDA3MTUwMTQyLjgzMDg1LnFtYWlsQHdlYjEwNy5iaXoubWFpbC55YWhvby5jb20+",
+        "inReplyToHeader": "PDAwMGEwMWM0MWMyYyQzMmJlMDgzMCQ0YjAwMTBhY0BreW91aW5udC5zaG93YS5zd3UuYWMuanA+"
+    },
+    "prevInTopic": 1820,
+    "nextInTopic": 1822,
+    "prevInTime": 1820,
+    "nextInTime": 1822,
+    "topicId": 843,
+    "numMessagesInTopic": 27,
+    "msgSnippet": "Hey Gordon, thanks a million! Bob Elder",
+    "rawEmail": "Return-Path: &lt;ecmas@...&gt;\r\nX-Sender: ecmas@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 39220 invoked from network); 7 Apr 2004 15:01:50 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m6.grp.scd.yahoo.com with QMQP; 7 Apr 2004 15:01:50 -0000\r\nReceived: from unknown (HELO web107.biz.mail.yahoo.com) (216.136.174.209)\n  by mta6.grp.scd.yahoo.com with SMTP; 7 Apr 2004 15:01:50 -0000\r\nMessage-ID: &lt;20040407150142.83085.qmail@...&gt;\r\nReceived: from [207.30.147.163] by web107.biz.mail.yahoo.com via HTTP; Wed, 07 Apr 2004 08:01:42 PDT\r\nDate: Wed, 7 Apr 2004 08:01:42 -0700 (PDT)\r\nTo: nihontostudy@yahoogroups.com\r\nIn-Reply-To: &lt;000a01c41c2c$32be0830$4b0010ac@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nX-eGroups-Remote-IP: 216.136.174.209\r\nFrom: Bob Elder &lt;ecmas@...&gt;\r\nSubject: RE: [nihontostudy] Tsuba\r\nX-Yahoo-Group-Post: member; u=23248771\r\n\r\nHey Gordon, thanks a million! Bob Elder\n\n"
+}

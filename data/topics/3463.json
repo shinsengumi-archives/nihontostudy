@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "lacquered sukashi tsuba",
+            "postDate": "1132032833",
+            "msgId": 3463,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRsYnMwMSt2YWhwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3462,
+            "nextInTime": 3464,
+            "topicId": 3463,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=6572669065 question............ most sukashi tsuba originally lacquered  like this example ? Or is this an",
+            "messageBody": "<div id=\"ygrps-yiv-1093645527\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=6572669065\">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=6572669065</a><br/>\n<br/>\nquestion............<br/>\nmost sukashi tsuba originally lacquered  like this example ? <br/>\nOr is this an exception to the rule ?<br/>\n<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3454,
+    "nextTopicId": 3470
+}

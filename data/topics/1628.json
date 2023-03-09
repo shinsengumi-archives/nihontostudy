@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Naginata for Sale",
+            "postDate": "1076823978",
+            "msgId": 1628,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwMkYwN0FBLjYwNzAxMDBAd2VzdG5ldC5jb20uYXU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1626,
+            "nextInTime": 1629,
+            "topicId": 1628,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, I have a nice Naginata for sale I have placed up on my web site for a friend. If you would like to take a look visit the link below or have any questions,",
+            "messageBody": "<div id=\"ygrps-yiv-620340772\">All, I have a nice Naginata for sale I have placed up on my web site for <br/>\na friend. If you would like to take a look visit the link below or have <br/>\nany questions, please contact me directly at <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a><br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.whiz.com.au/richard/Sukekuni/sukekuni.htm\">http://www.whiz.com.au/richard/Sukekuni/sukekuni.htm</a><br/>\n<br/>\nCheers<br/>\n<br/>\nRichard Turner<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1626,
+    "nextTopicId": 1622
+}

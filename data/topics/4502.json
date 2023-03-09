@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Barry the Ombudsman",
+            "postDate": "1160088629",
+            "msgId": 4502,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVnNDI3bCtwb3B2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4501,
+            "nextInTime": 4503,
+            "topicId": 4502,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Barry, contact me off list................ urgent matter milt",
+            "messageBody": "<div id=\"ygrps-yiv-159230606\">Barry,<br/>\ncontact me off list................ urgent matter<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4435,
+    "nextTopicId": 4503
+}

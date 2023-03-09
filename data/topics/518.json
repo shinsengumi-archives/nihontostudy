@@ -1,0 +1,94 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "MuramasaIII@aol.com",
+            "from": "MuramasaIII@...",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] still testing",
+            "postDate": "1057705437",
+            "msgId": 521,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDE0Ni4xNGZmNmYyZC4yYzNjYTdkZEBhb2wuY29tPg=="
+            },
+            "prevInTopic": 519,
+            "nextInTopic": 0,
+            "prevInTime": 520,
+            "nextInTime": 522,
+            "topicId": 518,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In a message dated 7/8/2003 1:01:16 PM Central Daylight Time, ... the point of the test is for Ron to see if he receives his posted message from the",
+            "messageBody": "<div id=\"ygrps-yiv-1941794484\">In a message dated 7/8/2003 1:01:16 PM Central Daylight Time, <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Krmue11er@...\">Krmue11er@...</a> writes:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; I got it!<br/>\n&gt; Keith<br/>\n&gt; <br/>\n<br/>\n </span></blockquote>the point of the test is for Ron to see if he receives his posted message <br/>\nfrom the list........<br/>\n<br/>\nmilt<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 146102294,
+            "authorName": "Krmue11er@aol.com",
+            "from": "Krmue11er@...",
+            "profile": "swordnsig",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] still testing",
+            "postDate": "1057685136",
+            "msgId": 519,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDZmLjNhYTdmMzBkLjJjM2M1ODkwQGFvbC5jb20+"
+            },
+            "prevInTopic": 518,
+            "nextInTopic": 521,
+            "prevInTime": 518,
+            "nextInTime": 520,
+            "topicId": 518,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I got it! Keith",
+            "messageBody": "<div id=\"ygrps-yiv-977529193\">I got it!<br/>\nKeith</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "still testing",
+            "postDate": "1057681822",
+            "msgId": 518,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGMwMWMzNDU2ZSQzYmM4N2Q2MCQ0MDVkOTRjZUByb25oYXJ0bWFubj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 519,
+            "prevInTime": 517,
+            "nextInTime": 519,
+            "topicId": 518,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi - Seeing if this comes back to me.  Only a test.  Ron [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1934436626\">Hi - Seeing if this comes back to me.  Only a test.  Ron <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 520,
+    "nextTopicId": 511
+}

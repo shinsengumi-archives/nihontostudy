@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Kibata",
+            "postDate": "1143004367",
+            "msgId": 4029,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDA1MTAwMWM2NGQ2ZiQ0MmJmNzRmMCQ5NjIxZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PGR2aTl1ZStlNGprQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4011,
+            "nextInTopic": 0,
+            "prevInTime": 4028,
+            "nextInTime": 4030,
+            "topicId": 4011,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Pete, Kibata-mei means signed on the edge/side.  It s seen fairly often in menuki and sometimes in kozuka.  I can t say that I ve seen it done on a tsuba. Jim ",
+            "messageBody": "<div id=\"ygrps-yiv-645470020\">Pete,<br/>\nKibata-mei means signed on the edge/side.  It&#39;s seen fairly often in menuki and sometimes in kozuka.  I can&#39;t say that I&#39;ve seen it done on a tsuba.<br/>\n<br/>\nJim  <br/>\n<br/>\n<br/>\n<br/>\n  Would someone please explain what &#39;kibata&#39; and &#39;kibata mei&#39; are in <br/>\n  relation to menuki?  Thanks much!<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Kibata",
+            "postDate": "1142729486",
+            "msgId": 4011,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGR2aTl1ZStlNGprQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4029,
+            "prevInTime": 4010,
+            "nextInTime": 4012,
+            "topicId": 4011,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Would someone please explain what kibata and kibata mei are in relation to menuki?  Thanks much!",
+            "messageBody": "<div id=\"ygrps-yiv-1576392245\">Would someone please explain what &#39;kibata&#39; and &#39;kibata mei&#39; are in <br/>\nrelation to menuki?  Thanks much!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3989,
+    "nextTopicId": 4013
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 79499694,
+            "authorName": "Thomas",
+            "from": "&quot;Thomas&quot; &lt;tnichols@...&gt;",
+            "profile": "augiee",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "YoshiHide",
+            "postDate": "1078037590",
+            "msgId": 1681,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMxczI4bStsbWlxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1680,
+            "nextInTime": 1682,
+            "topicId": 1681,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Anyone have any info about this smith, according to GENDAI TOKO MEIKAN INDEX he is on page 82, but can t find any this other that is real name is Nakamura",
+            "messageBody": "<div id=\"ygrps-yiv-2012322042\">Anyone have any info about this smith, according to GENDAI TOKO <br/>\nMEIKAN INDEX he is on page 82, but can&#39;t find any this other that is <br/>\nreal name is Nakamura Saburo, and he started the Taichi movement in <br/>\nJapan after the war, but no mention on how good a smith he was or <br/>\nwhat shrine he was at, if anyone has any info it would be great.<br/>\n<br/>\nThanks<br/>\nTom</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1678,
+    "nextTopicId": 1668
+}

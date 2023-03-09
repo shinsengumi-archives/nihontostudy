@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Rebellion Swords",
+            "postDate": "1284703954",
+            "msgId": 5752,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PERGMjZFNDQ0LTlBQUEtNDg1NC1BQUZFLUNEQjAzMTlBQTA4RUB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5751,
+            "nextInTime": 5753,
+            "topicId": 5752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Or so we are told- Is there any evidence or original reference that identifies these swords as definitively made for/during the Satsuma Rebellion? Pieces I ",
+            "messageBody": "<div id=\"ygrps-yiv-1437319477\">Or so we are told-<br/>\nIs there any evidence or original reference that identifies these  <br/>\nswords as definitively made for/during the Satsuma Rebellion? Pieces I  <br/>\nhave seen are typically poor quality swords, with poor quality  <br/>\nfittings very roughly made and usually lacquer that seems to have been  <br/>\na few coats shy of a full job.<br/>\n<br/>\nSome but not all are clearly Satsuma koshirae which is all I think  <br/>\nthese things are, just poor quality Satsuma koshirae. Hence my  <br/>\nquestion - has anyone seen reference to these in Japanese sources?  <br/>\nWhat are they called in Japanese and what is the rationale for  <br/>\nassigning these to the rebellion specifically?<br/>\n<br/>\n-t<br/>\nTom Helm<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:toryu@...\">toryu@...</a><br/>\n&quot;Moriamur, et in media arma ruamus&quot;<br/>\n- Vergil</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5738,
+    "nextTopicId": 5721
+}

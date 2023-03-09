@@ -1,0 +1,97 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 123038749,
+            "authorName": "Dr John P Lissenden",
+            "from": "&quot;Dr John P Lissenden&quot; &lt;docliss@...&gt;",
+            "profile": "drjohnplissenden",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Unknown seal ...",
+            "postDate": "1107684607",
+            "msgId": 2642,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN1NHFkdit2MTRhQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGEwNjExMDQxNWJlMmI0ZjgyMzk4MUBbMTAuMC4xLjJdPg=="
+            },
+            "prevInTopic": 2640,
+            "nextInTopic": 0,
+            "prevInTime": 2641,
+            "nextInTime": 2643,
+            "topicId": 2639,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Tom Thank you for your interest.  I think that I have finally mastered the intricacies of GIF formats, and hope that the new seal photograph is ok. ",
+            "messageBody": "<div id=\"ygrps-yiv-67491914\">Dear Tom<br/>\n<br/>\nThank you for your interest.  I think that I have finally mastered <br/>\nthe intricacies of GIF formats, and hope that the new seal <br/>\nphotograph is ok.<br/>\n<br/>\nRegards, John L<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, tom helm &lt;junkmail@t...&gt; wrote:<br/>\n&gt; Dr. Lissenden<br/>\n&gt; \timpossible to guess from the photos. Not saying I can help <br/>\n&gt; but you may want to try to a pic of the seal only...<br/>\n&gt; -t </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Unknown seal ...",
+            "postDate": "1107664769",
+            "msgId": 2640,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNjExMDQxNWJlMmI0ZjgyMzk4MUBbMTAuMC4xLjJdPg==",
+                "inReplyToHeader": "PGN1M2tuZis3MzQxQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGN1M2tuZis3MzQxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2639,
+            "nextInTopic": 2642,
+            "prevInTime": 2639,
+            "nextInTime": 2641,
+            "topicId": 2639,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dr. Lissenden impossible to guess from the photos. Not saying I can help but you may want to try to a pic of the seal only... -t",
+            "messageBody": "<div id=\"ygrps-yiv-1154581650\">Dr. Lissenden<br/>\n\timpossible to guess from the photos. Not saying I can help <br/>\nbut you may want to try to a pic of the seal only...<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 123038749,
+            "authorName": "Dr John P Lissenden",
+            "from": "&quot;Dr John P Lissenden&quot; &lt;docliss@...&gt;",
+            "profile": "drjohnplissenden",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Unknown seal ...",
+            "postDate": "1107645999",
+            "msgId": 2639,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN1M2tuZis3MzQxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2640,
+            "prevInTime": 2638,
+            "nextInTime": 2640,
+            "topicId": 2639,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can anyone out there please identify the seal shown in my photo album JPL? It is on an otherwise uninscribed tsuba of openwork iron, depicting Chinan and the",
+            "messageBody": "<div id=\"ygrps-yiv-611435625\">Can anyone out there please identify the seal shown in my photo <br/>\nalbum JPL?<br/>\n<br/>\nIt is on an otherwise uninscribed tsuba of openwork iron, depicting <br/>\nChinan and the dragon within a slightly raised rim.   The carving is <br/>\nof a very high quality, as is the skillful gold inlay.<br/>\n<br/>\nThe presence of the hira-zogan gold seal, together with the image of <br/>\nChinan stirring up a storm is suggestive of Tetsugendo work, but I <br/>\nbelieve that the brightness and sophistication of the image together <br/>\nwith the polished, brown surface of the metal exclude such a <br/>\nprovenance.<br/>\n<br/>\nI personally favour Okawa Teikan (Sadamoto) as the artist, but have <br/>\nbeen unable to find this particular seal among the many that this <br/>\nartist used.<br/>\n<br/>\nI am sorry about the poor quality of my first effort at posting <br/>\nphotographs, and will try again if they are felt to be inadequate.<br/>\n<br/>\nRegards, John L.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2638,
+    "nextTopicId": 2643
+}

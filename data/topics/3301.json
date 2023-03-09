@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 162860323,
+            "authorName": "Andres Pedraza",
+            "from": "Andres Pedraza &lt;apedraza@...&gt;",
+            "profile": "apedraza_93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] care of freshly polished sword",
+            "postDate": "1126126599",
+            "msgId": 3302,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDYuMi4zLjQuMC4yMDA1MDkwNzE2NTMyNS4wNDg5NGEwMEBwb3AuMWFuZDEuY29tPg==",
+                "inReplyToHeader": "PDAwMGQwMWM1YjNlYiQ1NTgzNDU4MCRkNDI2ZmVhOUBDTE9ORT4=",
+                "referencesHeader": "PDAwMGQwMWM1YjNlYiQ1NTgzNDU4MCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 3301,
+            "nextInTopic": 0,
+            "prevInTime": 3301,
+            "nextInTime": 3303,
+            "topicId": 3301,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "David, You want to do the regular cleaning you already do, and hopefully you re using real Japanese choji oil, not one of the cheap knockoffs. The only",
+            "messageBody": "<div id=\"ygrps-yiv-1877212079\">David,<br/>\n<br/>\nYou want to do the regular cleaning you already do, and hopefully <br/>\nyou&#39;re using real Japanese choji oil, not one of the cheap knockoffs. <br/>\nThe only difference with a newly polished blade is that you want to <br/>\nbe cleaning it a lot more frequently than normal, at least once a <br/>\nweek. Polishing takes a layer off (more if not done by an expert), <br/>\nand leaves the blade that much more vulnerable to humidity the first <br/>\ncouple of months. I don&#39;t know where you&#39;re located, but the <br/>\nfrequency of your cleanings would depend on the environment, too. The <br/>\nmore humidity the blade is exposed to, the more frequently your sword <br/>\ncleaning kit should be put to use.<br/>\n<br/>\nHope that helps.<br/>\n<br/>\nAndres<br/>\n<br/>\nAt 04:32 PM 9/7/2005, you wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt;I just had a beat-up old sword polished.  First polish job I&#39;ve had done.<br/>\n&gt;The sword arrived back wrapped in plastic wrap and seems to have some<br/>\n&gt;preservative oil (choji oil?) on it.  I was about to get out the uchiko<br/>\n&gt;powder and start cleaning, when it occurred to me, perhaps I should ask:<br/>\n&gt;what&#39;s the correct drill for caring for newly polished blades?<br/>\n&gt;<br/>\n&gt;David Zincavage<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 232319213,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "care of freshly polished sword",
+            "postDate": "1126125177",
+            "msgId": 3301,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGQwMWM1YjNlYiQ1NTgzNDU4MCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3302,
+            "prevInTime": 3300,
+            "nextInTime": 3302,
+            "topicId": 3301,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I just had a beat-up old sword polished.  First polish job I ve had done. The sword arrived back wrapped in plastic wrap and seems to have some preservative",
+            "messageBody": "<div id=\"ygrps-yiv-1370477691\">I just had a beat-up old sword polished.  First polish job I&#39;ve had done.<br/>\nThe sword arrived back wrapped in plastic wrap and seems to have some<br/>\npreservative oil (choji oil?) on it.  I was about to get out the uchiko<br/>\npowder and start cleaning, when it occurred to me, perhaps I should ask:<br/>\nwhat&#39;s the correct drill for caring for newly polished blades?<br/>\n<br/>\nDavid Zincavage</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3294,
+    "nextTopicId": 3303
+}

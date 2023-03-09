@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 85349368,
+            "authorName": "Deron Douglas - DDP",
+            "from": "Deron Douglas - DDP &lt;deron@...&gt;",
+            "profile": "deron_vfr750",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "NihontoAuctions Update",
+            "postDate": "1116901760",
+            "msgId": 3003,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDYyOTM1ODY1OS4yMDA1MDUyMzIyMjkyMEBkb3VibGUtZHJhZ29uLWVib29rcy5jb20+",
+                "inReplyToHeader": "PDExMTY2OTk1OTguNDExLjYzMDM0Lm0xOUB5YWhvb2dyb3Vwcy5jb20+",
+                "referencesHeader": "PDExMTY2OTk1OTguNDExLjYzMDM0Lm0xOUB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3002,
+            "nextInTime": 3004,
+            "topicId": 3003,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greetings, I ve been working with Rich Turner most of the weekend on the Reserve trigger. And it looks like we have the problem fixed. This week, after the",
+            "messageBody": "<div id=\"ygrps-yiv-1150672218\">Greetings,<br/>\nI&#39;ve been working with Rich Turner most of the weekend on the Reserve trigger. And it looks like we have the problem fixed. This week, after the last auction ends, I will place the NihontoAuctions website into test mode and allow our testers to go over the system one final time. While they are doing this I will be setting up the new server and domain name.<br/>\n<br/>\nAll auctions and bids as well as user names and passwords will be transferred to the new server.<br/>\n<br/>\nOnce the testers give me the green light, I will open www.NihontoAuctions.com up for business. <br/>\n<br/>\nAs of this date, I&#39;m happy with all the changes we&#39;ve made and feel comfortable that everything is working as planned. When I first introduced NihontoAuctions two weeks ago we didn&#39;t have all the new things we have now. The system was stable but not as robust as we would have liked. With the creation of more features (as a direct result from the Nihonto Community), we introduced some additional problems, that have since been fixed.<br/>\n<br/>\nI think we&#39;re set to go!<br/>\n<br/>\nI will post again when the new site is up and running and would like to invite everyone to join us at www.NihontoAuctions.com.<br/>\n<br/>\nThank you for the band-width.<br/>\n<br/>\nCheers,<br/>\nDeron</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3001,
+    "nextTopicId": 3004
+}

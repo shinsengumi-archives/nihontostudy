@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 119415193,
+            "authorName": "Bob R",
+            "from": "Bob R &lt;gentleman9@...&gt;",
+            "profile": "gentleman9",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Anyone near St Louis?",
+            "postDate": "1075528153",
+            "msgId": 1592,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwMTMxMDU0OTEzLjc2MDkwLnFtYWlsQHdlYjQxMDA1Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1591,
+            "nextInTime": 1593,
+            "topicId": 1592,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Folks, I m looking for anyone in the St Louis area who might be able to help out a fellow I know with a blade he owns. Please reply to me off list if anyone",
+            "messageBody": "<div id=\"ygrps-yiv-1770411555\">Folks,<br/>\n<br/>\nI&#39;m looking for anyone in the St Louis area who might<br/>\nbe able to help out a fellow I know with a blade he<br/>\nowns. Please reply to me off list if anyone would be<br/>\ninterested in helping out. Thanks<br/>\n<br/>\nBob R<br/>\n<br/>\n=====<br/>\nCheck out &quot;Cowboy&quot; Bob&#39;s Books & Things at:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://asia.geocities.com/gentleman9/index.htm\">http://asia.geocities.com/gentleman9/index.htm</a><br/>\n <br/>\n<br/>\n<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! SiteBuilder - Free web site building tool. Try it!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://webhosting.yahoo.com/ps/sb/\">http://webhosting.yahoo.com/ps/sb/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1583,
+    "nextTopicId": 1593
+}

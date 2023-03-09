@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 199455373,
+            "authorName": "frkirk",
+            "from": "&quot;frkirk&quot; &lt;kirk-becky@...&gt;",
+            "profile": "frkirk",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Kyo Tsuba Price Reduction",
+            "postDate": "1159697295",
+            "msgId": 4500,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVmbzQyZitqc3VvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4499,
+            "nextInTime": 4501,
+            "topicId": 4500,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all I will knock the tusba down $100 to $795 (price does not include shiping/insurance). If it doesn t go in the next few days I will then ppost it to other",
+            "messageBody": "<div id=\"ygrps-yiv-529959944\">Hi all <br/>\nI will knock the tusba down $100 to $795 (price does not include <br/>\nshiping/insurance). If it doesn&#39;t go in the next few days I will then <br/>\nppost it to other outlets. <br/>\nAlso on the books I have up <br/>\nI was wrong about the Token to Rekeishi- it does have a fair bit of <br/>\nEnglish in it- again they are published by the NTHK (NPO) <br/>\nI will sell the whole set for $20 ppd in USA <br/>\nI will also knock another $5 off the Chtisties and sell it for $15 ppd <br/>\nin USA <br/>\nI will give them a few days here before posting them to ebay. <br/>\nemail me with any questions <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:kirk-becky@...\">kirk-becky@...</a> <br/>\nThanks for the time and the bandwidth! <br/>\nKirk</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4499,
+    "nextTopicId": 4435
+}

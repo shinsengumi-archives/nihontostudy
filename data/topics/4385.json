@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 278810938,
+            "authorName": "mr_j_price",
+            "from": "&quot;mr_j_price&quot; &lt;mr_j_price@...&gt;",
+            "profile": "mr_j_price",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "nerikawa tsuba",
+            "postDate": "1155595096",
+            "msgId": 4385,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVicXUwbytpcHM4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4384,
+            "nextInTime": 4386,
+            "topicId": 4385,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can anyone tell me how I can get a hold of Mr. Gilbert regarding nerikawa tsuba? He seems to be the formost expert on early nihonto koshirae and I have a few",
+            "messageBody": "<div id=\"ygrps-yiv-1474895869\">Can anyone tell me how I can get a hold of Mr. Gilbert regarding <br/>\nnerikawa tsuba? He seems to be the formost expert on early nihonto <br/>\nkoshirae and I have a few questions I&#39;d like to talk with him about... <br/>\nI&#39;ve tried to e-mail him but I get a kickback. Any info at all would <br/>\nbe most welcome!! Thanks!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4384,
+    "nextTopicId": 4386
+}

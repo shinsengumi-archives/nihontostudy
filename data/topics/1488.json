@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 23248771,
+            "authorName": "bob",
+            "from": "&quot;bob&quot; &lt;ecmas@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Tameshigiri sword",
+            "postDate": "1074277672",
+            "msgId": 1488,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDA0ZjcwMWMzZGM1ZSQ3NTVjMzZjMCQwMTAwYThjMEBNQUlOPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1487,
+            "nextInTime": 1489,
+            "topicId": 1488,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Would the seller of the cutting sword please scribe me. Bob Elder www.ecmas.com Thanks! [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1945856491\">Would the seller of the cutting sword please scribe me. Bob Elder www.ecmas.com Thanks!<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1419,
+    "nextTopicId": 1496
+}

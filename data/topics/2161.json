@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Chicago Show",
+            "postDate": "1095659275",
+            "msgId": 2163,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNpbHF1YisycXVmQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGNpbG1zMytjN2NnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2162,
+            "nextInTopic": 0,
+            "prevInTime": 2162,
+            "nextInTime": 2164,
+            "topicId": 2161,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "personally I wouldn t wear pink on shinsa day............. http://tinyurl.com/6aesz",
+            "messageBody": "<div id=\"ygrps-yiv-1715285378\">personally I wouldn&#39;t wear pink on shinsa day.............<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/6aesz\">http://tinyurl.com/6aesz</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Chicago Show",
+            "postDate": "1095655107",
+            "msgId": 2162,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNpbG1zMytjN2NnQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDJEODQ2QjIyLTA4NUEtMTFEOS1CRjk3LTAwMEE5NURGQUFFMEB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 2161,
+            "nextInTopic": 2163,
+            "prevInTime": 2161,
+            "nextInTime": 2163,
+            "topicId": 2161,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... deemed it ... travelling ... http://tinyurl.com/5e3bb",
+            "messageBody": "<div id=\"ygrps-yiv-450458160\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, Tom Helm &lt;junkmail@t...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Gentlemen-<br/>\n&gt; \tThe Imperial Japanese Department of HomeIsland Security has <br/>\n </span></blockquote>deemed it <br/>\n<blockquote><span title=\"ireply\"> &gt; necessary to increase security for the NTHK contingent now <br/>\n </span></blockquote>travelling <br/>\n<blockquote><span title=\"ireply\"> &gt; in the wilds of Amerique.  Be on your best <br/>\n&gt; behavior the Security Sword Specialist is in town!<br/>\n&gt; -t<br/>\n<br/>\n<br/>\n </span></blockquote><a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/5e3bb\">http://tinyurl.com/5e3bb</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Chicago Show",
+            "postDate": "1095391938",
+            "msgId": 2161,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDJEODQ2QjIyLTA4NUEtMTFEOS1CRjk3LTAwMEE5NURGQUFFMEB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2162,
+            "prevInTime": 2160,
+            "nextInTime": 2162,
+            "topicId": 2161,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Gentlemen- The Imperial Japanese Department of HomeIsland Security has deemed it necessary to increase security for the NTHK contingent now travelling in the",
+            "messageBody": "<div id=\"ygrps-yiv-1789272031\">Gentlemen-<br/>\n\tThe Imperial Japanese Department of HomeIsland Security has deemed it <br/>\nnecessary to increase security for the NTHK contingent now travelling <br/>\nin the wilds of Amerique. Therefore I am bugging out for Chicago and <br/>\nwill be seeing you all there Tomorrow at 06:00 hours. Be on your best <br/>\nbehavior the Security Sword Specialist is in town!<br/>\n-t</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2150,
+    "nextTopicId": 2165
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "inverted mei?",
+            "postDate": "1076193223",
+            "msgId": 1609,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwZDYwMWMzZWRjYSQ3MWQ4OGRhMCQyMDRmNGJhYkBvZW1jb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1608,
+            "nextInTime": 1610,
+            "topicId": 1609,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Has anyone seen another tsuba with an upside down signature like this? http://www.sanmei.com/Pictures/tuba/Tuba467.jpg I don t see anything suggesting that the",
+            "messageBody": "<div id=\"ygrps-yiv-910924769\">Has anyone seen another tsuba with an upside down signature like this?<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sanmei.com/Pictures/tuba/Tuba467.jpg\">http://www.sanmei.com/Pictures/tuba/Tuba467.jpg</a><br/>\n<br/>\nI don&#39;t see anything suggesting that the orientation of the guard has been flipped.  Any idea of the significance?<br/>\n<br/>\nJim<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1605,
+    "nextTopicId": 1581
+}

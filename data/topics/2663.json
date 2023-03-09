@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 79668687,
+            "authorName": "Hizen3@aol.com",
+            "from": "Hizen3@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sorry",
+            "postDate": "1109109266",
+            "msgId": 2663,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDE5NS4zOTY0ZTg4Zi4yZjRkMDQxMkBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2662,
+            "nextInTime": 2664,
+            "topicId": 2663,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am sorry for fast fingers . Theres nothing left to say but sorry. pete  ( again sorry  ) [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1131931165\">I am sorry for fast fingers . Theres nothing left to say but sorry.<br/>\n <br/>\n                                                                pete  ( again <br/>\nsorry  )<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2659,
+    "nextTopicId": 1464
+}

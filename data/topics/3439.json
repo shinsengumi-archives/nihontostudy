@@ -1,0 +1,33 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 242741212,
+            "authorName": "vi.west5355@yedred.com",
+            "from": "&quot;vi.west5355@...&quot; &lt;vi.west5355@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "I found this - talking online",
+            "postDate": "1130822473",
+            "msgId": 3439,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {},
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3438,
+            "nextInTime": 3440,
+            "topicId": 3439,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Some of my friends have managed to meet a few nice ones off this thing (here is the place they told me: http://www.meetingherenow.info/tbibl , but what do you",
+            "messageBody": "<div id=\"ygrps-yiv-44415342\">Some of my friends have managed to meet a few nice ones off this thing (here is the place they told me: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.meetingherenow.info/tbibl\">http://www.meetingherenow.info/tbibl</a> , but what do you guys reckon? Myself, I actually think it is pretty awesome from what I&#39;ve seen, and Im considering getting          on there later on this evening. If you don&#39;t know what it is, basically its like a matchingplace, but has few added things I noticed. Stuff like messenger, vidchat, picsrate, etc. Best part is you can talk to ppl on vidchat even if you don&#39;t have it enabled yourself.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3438,
+    "nextTopicId": 3440
+}

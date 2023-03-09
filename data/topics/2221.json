@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] kodogu shinsa",
+            "postDate": "1096074787",
+            "msgId": 2223,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxMWIwMWM0YTI5YyRkMTk5NGZlMCQ0NjIxZmEwNEBvZW1jb21wdXRlcj4=",
+                "referencesHeader": "PGNpdm12OSt2ZzIxQGVHcm91cHMuY29tPiA8MDBjNTAxYzRhMjg3JGIwYmJkMTQwJDQ2MjFmYTA0QG9lbWNvbXB1dGVyPiA8MDBiMzAxYzRhMjg5JDkwYTQxYzMwJDMxNWM5NGNlQHJvbmhhcnRtYW5uPg=="
+            },
+            "prevInTopic": 2221,
+            "nextInTopic": 0,
+            "prevInTime": 2222,
+            "nextInTime": 2224,
+            "topicId": 2221,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thank you, Ron.  Hagihara-sensei is great to work for.  I don t know the exact number yet, but kodogu and koshirae submissions combined were about 180 for the",
+            "messageBody": "<div id=\"ygrps-yiv-441028932\">Thank you, Ron.  Hagihara-sensei is great to work for.  I don&#39;t know the exact number yet, but kodogu and koshirae submissions combined were about 180 for the weekend.<br/>\n<br/>\nJim<br/>\n<br/>\n<br/>\n<br/>\n  Hi Jim - <br/>\n<br/>\n  Just curious. Can you say about how many pieces of kodogu went through shinsa in Chicago? <br/>\n<br/>\n  It must be a great testing-experience to be put through a judging like that along side of somebody like Mr. Hagiwara. Please know your time and though was appreciated.<br/>\n<br/>\n  Ron<br/>\n  STL<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "kodogu shinsa",
+            "postDate": "1096066517",
+            "msgId": 2221,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYjMwMWM0YTI4OSQ5MGE0MWMzMCQzMTVjOTRjZUByb25oYXJ0bWFubj4=",
+                "referencesHeader": "PGNpdm12OSt2ZzIxQGVHcm91cHMuY29tPiA8MDBjNTAxYzRhMjg3JGIwYmJkMTQwJDQ2MjFmYTA0QG9lbWNvbXB1dGVyPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2223,
+            "prevInTime": 2220,
+            "nextInTime": 2222,
+            "topicId": 2221,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Jim - Just curious. Can you say about how many pieces of kodogu went through shinsa in Chicago? It must be a great testing-experience to be put through a",
+            "messageBody": "<div id=\"ygrps-yiv-1807464161\">Hi Jim - <br/>\n<br/>\nJust curious. Can you say about how many pieces of kodogu went through shinsa in Chicago? <br/>\n<br/>\nIt must be a great testing-experience to be put through a judging like that along side of somebody like Mr. Hagiwara. Please know your time and though was appreciated.<br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2191,
+    "nextTopicId": 2212
+}

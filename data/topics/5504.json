@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "profile": "xe83fan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "BOTTLE OF SHERRY BEATS OFF SAMURAI SWORD WIELDING BANDIT",
+            "postDate": "1228433634",
+            "msgId": 5504,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDBFMzE1QTkxM0EzMjRBRkY4RkNFQUUxQ0U4RERFNTY2QEJBUlJZPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5503,
+            "nextInTime": 5505,
+            "topicId": 5504,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://news.ninemsn.com.au/article.aspx?id=682364 Barry Thomas.",
+            "messageBody": "<div id=\"ygrps-yiv-36187579\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://news.ninemsn.com.au/article.aspx?id=682364\">http://news.ninemsn.com.au/article.aspx?id=682364</a><br/>\n<br/>\nBarry Thomas.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5503,
+    "nextTopicId": 5505
+}

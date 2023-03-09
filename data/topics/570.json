@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 27642611,
+            "authorName": "Richard George",
+            "from": "Richard George &lt;rkg@...&gt;",
+            "profile": "rkgatteleport",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "a polarizing subject",
+            "postDate": "1058592636",
+            "msgId": 570,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNGMThENzdDLjgwMDAwMDFAdGVsZXBvcnQuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 569,
+            "nextInTime": 571,
+            "topicId": 570,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey guys, I ve been experimentin more with taking pictures of tsuba, and have a new trick for ya all out there to play with in your copius spare time (yeah,",
+            "messageBody": "<div id=\"ygrps-yiv-1945610008\">Hey guys,<br/>\n<br/>\nI&#39;ve been experimentin&#39; more with taking pictures of tsuba, and have a <br/>\nnew trick for ya&#39;all out<br/>\nthere to play with in your copius spare time (yeah, right :-) )<br/>\n<br/>\nthe test subject is a kagamishi tsuba.  the first pic is my &quot;generic&quot; <br/>\ntsuba setup (a couple of reveal bulbs<br/>\nin gooseneck lamps, with the tsuba on AR glass over a graycard.  Note <br/>\nthat I probably could<br/>\nhave got some more detail by skimming the lights more, underexposing, <br/>\netc., but you get the idea...<br/>\nNote that I have a circular polarizer on the lens, set to the point of <br/>\nmaximum light throughput<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://home.teleport.com/~rkg/misc/kagamishi_front_non_polarized_small.JPG\">http://home.teleport.com/~rkg/misc/kagamishi_front_non_polarized_small.JPG</a><br/>\n<br/>\nIn the next picture, I cleverly twisted the polarizer to where the <br/>\npicture looks the darkest<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://home.teleport.com/~rkg/photos/tsuba/kagamishi_front_polarized_small.JPG\">http://home.teleport.com/~rkg/photos/tsuba/kagamishi_front_polarized_small.JPG</a><br/>\n<br/>\nYou&#39;ll note the improved detail.<br/>\n<br/>\n the next picture is of a nagamaki tsuba - I found that a bunch of <br/>\ndetail now<br/>\nmore or less &quot;leaps&quot; out of the picture with a polarizer, notably the <br/>\nline of brass &quot;buttons&quot; that seem to be<br/>\nrising out of the lacquer at the top of the piece<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://home.teleport.com/~rkg/photos/tsuba/nagamaki_front_small.JPG\">http://home.teleport.com/~rkg/photos/tsuba/nagamaki_front_small.JPG</a><br/>\n<br/>\nHere&#39;s an earlier picture of the piece - my best shot at picturing it, <br/>\nwith steep skim lighting, underexposure by<br/>\n2/3 of an f stop, yada yada..<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://home.teleport.com/~rkg/misc/nagamaki_front_unpol_small.JPG\">http://home.teleport.com/~rkg/misc/nagamaki_front_unpol_small.JPG</a><br/>\n<br/>\nI think you&#39;d actually get much improved results with a polarized light <br/>\nsource (the &quot;blooms&quot; at the edges are mostly<br/>\ndirect reflection, which is mostly non polarized light) - I&#39;ve ordered <br/>\nsome sheets of polarizing material to test this...<br/>\n<br/>\nEnjoy,<br/>\n<br/>\nrkg<br/>\n(Richard George)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 565,
+    "nextTopicId": 578
+}

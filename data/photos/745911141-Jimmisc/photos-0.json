@@ -1,0 +1,84 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 745911141,
+        "photoId": 564107589,
+        "photoName": "kawa",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1054321645,
+        "creationDate": 1054321645,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/.XHuIBXpfNU8UgmkEAs-/name/n_a",
+                "height": 96,
+                "width": 71,
+                "size": 2266,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/.XHuIBXpfNU8UgmkEAs-/name/n_a",
+                "height": 480,
+                "width": 356,
+                "size": 48140,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/.XHuIBXpfNU8UgmkEAs-/name/n_a",
+                "height": 598,
+                "width": 444,
+                "size": 77931,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 745911141,
+        "photoId": 1397273317,
+        "photoName": "O-Tachi Koshirae",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1051813040,
+        "creationDate": 1051813040,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/VPRFzCHtedi.bqW3bC.b/name/n_a",
+                "height": 37,
+                "width": 96,
+                "size": 1276,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/VPRFzCHtedi.bqW3bC.b/name/n_a",
+                "height": 184,
+                "width": 480,
+                "size": 10888,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/VPRFzCHtedi.bqW3bC.b/name/n_a",
+                "height": 307,
+                "width": 800,
+                "size": 25254,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Victorian Sword Ban update",
+            "postDate": "1064233110",
+            "msgId": 814,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwZGIwMWMzODEwMyRhMjdkMWZlMCQwMzAwYThjMEByaWNoYXJkPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 813,
+            "nextInTime": 815,
+            "topicId": 814,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, I received today the latest on the Victorian Sword Ban drama. There is a fair bit of information to read so I put it into an HTML file and uploaded it to",
+            "messageBody": "<div id=\"ygrps-yiv-1221679668\">All, I received today the latest on the Victorian Sword Ban drama. There is a fair bit of information to read so I put it into an HTML file and uploaded it to my site. Take a look, there is some interesting stuff there. <br/>\n<br/>\nCheers all<br/>\n<br/>\nRich<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.whiz.com.au/richard/Docs/sword_Ban_Update.htm\">http://www.whiz.com.au/richard/Docs/sword_Ban_Update.htm</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 813,
+    "nextTopicId": 815
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "",
+            "postDate": "1051919353",
+            "msgId": 155,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMWYwMWMzMTEwNSQ3MmY5ZmI4MCQ5MGVmZjRkMUBvZW1jb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 154,
+            "nextInTime": 156,
+            "topicId": 155,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I posted some photos of the Juyo Bunkazai chokuto koshirae mounted with an iron sukashi tsuba preserved at Kurama-dera in Kyoto that supposedly belonged to",
+            "messageBody": "<div id=\"ygrps-yiv-111979016\">I posted some photos of the Juyo Bunkazai chokuto koshirae mounted with an iron sukashi tsuba preserved at Kurama-dera in Kyoto that supposedly belonged to Sei-i-taishogun Sakanoue Tamuramaro (758-811).  <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/auzt\">http://tinyurl.com/auzt</a><br/>\n<br/>\nWe have iron Hoju tsuba and chokuto from the Kofun jidai that survived burial, and katana koshriae with iron tsuba from the Muromachi period, but very little evidence of koshirae mounted with iron sukashi tsuba in between.   We have extant copper alloy guards from all periods from the Kofun jidai through the end of the wearing of swords.  Maybe the iron guards all rusted away or were re-forged into something else, or perhaps the nerikawa tsuba replaced the iron guard on the fighting mounts of that interval.  Thoughts?<br/>\nJim<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 124,
+    "nextTopicId": 145
+}

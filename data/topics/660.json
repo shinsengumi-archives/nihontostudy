@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: new  virus detected",
+            "postDate": "1060747737",
+            "msgId": 660,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwM2UwMWMzNjE1MCRhMjAyM2YwMCQxZjAxMDAwYUB3aGl6MT4=",
+                "referencesHeader": "PDExOS4yNzhhZDUzMy4yYzZiMGFmMEBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 661,
+            "prevInTime": 659,
+            "nextInTime": 661,
+            "topicId": 660,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hi mate, it is on the main page Microsoft downloads, that would be rough if they were shipping there own virus LOL, Bill has blown a valve if that s the case.",
+            "messageBody": "<div id=\"ygrps-yiv-1887451798\">hi mate, it is on the main page Microsoft downloads, that would be rough if they were shipping there own virus LOL, Bill has blown a valve if that&#39;s the case. I hadn&#39;t heard that story, they are running a story on the news at the moment about it.<br/>\n<br/>\nRich<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n  Rich,<br/>\n  is it true the nasty is waiting for whoever go to Microsoft download center ( when you go to dl the patch, you catch the virus )?  <br/>\n<br/>\n  Milt <br/>\n<br/>\n<br/>\n  ---<br/>\n  Outgoing mail is certified Virus Free.<br/>\n  Checked by AVG anti-virus system (http://www.grisoft.com).<br/>\n  Version: 6.0.507 / Virus Database: 304 - Release Date: 4/08/2003<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "new  virus detected",
+            "postDate": "1060745263",
+            "msgId": 661,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYzIwMWMzNjE0YSRkYmZkOTg5MCQxZjAxMDAwYUB3aGl6MT4="
+            },
+            "prevInTopic": 660,
+            "nextInTopic": 0,
+            "prevInTime": 660,
+            "nextInTime": 662,
+            "topicId": 660,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, this is nasty, take a look all PC Windows users, a virus that doesn t need email. ",
+            "messageBody": "<div id=\"ygrps-yiv-692966908\">Hi all, this is nasty, take a look all PC Windows users, a virus that doesn&#39;t need email.<br/>\n<br/>\nhttp://www.microsoft.com/technet/treeview/default.asp?url=/technet/security/bulletin/MS03-026.asp<br/>\n<br/>\nRich T<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n---<br/>\nOutgoing mail is certified Virus Free.<br/>\nChecked by AVG anti-virus system (http://www.grisoft.com).<br/>\nVersion: 6.0.507 / Virus Database: 304 - Release Date: 4/08/2003<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 656,
+    "nextTopicId": 663
+}

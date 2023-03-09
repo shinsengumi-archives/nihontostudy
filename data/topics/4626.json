@@ -1,0 +1,210 @@
+{
+    "totalMsgInTopic": 7,
+    "messages": [
+        {
+            "userId": 24208042,
+            "authorName": "Thierry BERNARD",
+            "from": "&quot;Thierry BERNARD&quot; &lt;Bernard.Thierry@...&gt;",
+            "profile": "tbdbernard",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "commercial message",
+            "postDate": "1222178610",
+            "msgId": 5453,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdiYXN2aStmMms2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5413,
+            "nextInTopic": 0,
+            "prevInTime": 5452,
+            "nextInTime": 5454,
+            "topicId": 4626,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have just added 16 tsuba for sale on ebay. Please take a look http://shop.ebay.com/merchant/t-bernard_W0QQ_nkwZQQ_armrsZ1QQ_fromZQQ_mdoZ Best Regards Thierry",
+            "messageBody": "<div id=\"ygrps-yiv-1631220991\">I have just added 16 tsuba for sale on ebay. Please take a look<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://shop.ebay.com/merchant/t-bernard_W0QQ_nkwZQQ_armrsZ1QQ_fromZQQ_mdoZ\">http://shop.ebay.com/merchant/t-bernard_W0QQ_nkwZQQ_armrsZ1QQ_fromZQQ_mdoZ</a><br/>\n<br/>\nBest Regards<br/>\n<br/>\nThierry BERNARD</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "commercial message",
+            "postDate": "1210350448",
+            "msgId": 5413,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGcwMXUxZytxaWs0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5360,
+            "nextInTopic": 5453,
+            "prevInTime": 5411,
+            "nextInTime": 5414,
+            "topicId": 4626,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "selling some items on e-bay again..... this is a good deal...... http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=110250916183 milt",
+            "messageBody": "<div id=\"ygrps-yiv-1226953552\">selling some items on e-bay again.....<br/>\nthis is a good deal......<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=110250916183\">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=110250916183</a><br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 24208042,
+            "authorName": "tbdbernard",
+            "from": "&quot;tbdbernard&quot; &lt;Bernard.Thierry@...&gt;",
+            "profile": "tbdbernard",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "commercial message",
+            "postDate": "1205824017",
+            "msgId": 5360,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZybnBtaCtoc25lQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5284,
+            "nextInTopic": 5413,
+            "prevInTime": 5359,
+            "nextInTime": 5361,
+            "topicId": 4626,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi some tsuba, saya, tsuka for sale on eBay http://search.ebay.com/_W0QQsassZt-bernard regards Thierry",
+            "messageBody": "<div id=\"ygrps-yiv-1396485806\">Hi<br/>\n<br/>\nsome tsuba, saya, tsuka for sale on eBay<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://search.ebay.com/_W0QQsassZt-bernard\">http://search.ebay.com/_W0QQsassZt-bernard</a><br/>\n<br/>\n<br/>\nregards<br/>\n<br/>\n<br/>\nThierry</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "commercial message",
+            "postDate": "1203641925",
+            "msgId": 5284,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZwbDZvNStodjdiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4939,
+            "nextInTopic": 5360,
+            "prevInTime": 5283,
+            "nextInTime": 5285,
+            "topicId": 4626,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://search.ebay.com/_W0QQsassZmuramasa-iii again, I urge you all to bid often and early like what we Chicago democrats do......... milt",
+            "messageBody": "<div id=\"ygrps-yiv-567602104\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://search.ebay.com/_W0QQsassZmuramasa-iii\">http://search.ebay.com/_W0QQsassZmuramasa-iii</a><br/>\n<br/>\nagain, I urge you all to bid often and early like what we Chicago <br/>\ndemocrats do.........<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 226990576,
+            "authorName": "wenmass3@bellsouth.net",
+            "from": "&lt;wenmass3@...&gt;",
+            "profile": "nihontocraft",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "commercial message",
+            "postDate": "1174492257",
+            "msgId": 4939,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDcwMzIxMTU1MDU3LkRGVEUxNTg3My5pYm02MWFlYy5iZWxsc291dGgubmV0QG1haWwuYmVsbHNvdXRoLm5ldD4="
+            },
+            "prevInTopic": 4931,
+            "nextInTopic": 5284,
+            "prevInTime": 4938,
+            "nextInTime": 4940,
+            "topicId": 4626,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greetings to all., A Kaga kogai and a Akao Yoshitsugu tsuba have just been added to web site. Also, three tsuba have been reduced in price. Please take a look",
+            "messageBody": "<div id=\"ygrps-yiv-1005916106\">Greetings to all.,<br/>\n<br/>\nA Kaga kogai and a Akao Yoshitsugu tsuba have just been added to web site.<br/>\nAlso, three tsuba have been reduced in price. <br/>\n<br/>\nPlease take a look if you have any interest. <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontocraft.com/japanese_sword_home.html\">http://www.nihontocraft.com/japanese_sword_home.html</a><br/>\n<br/>\nBest regards<br/>\nDanny Massey<br/>\nwww.nihontocraft.com</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 226990576,
+            "authorName": "wenmass3@bellsouth.net",
+            "from": "&lt;wenmass3@...&gt;",
+            "profile": "nihontocraft",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "commercial message",
+            "postDate": "1173798273",
+            "msgId": 4931,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDcwMzEzMTUwNDMzLk1aTkcyOTY4MC5pYm03MGFlYy5iZWxsc291dGgubmV0QG1haWwuYmVsbHNvdXRoLm5ldD4="
+            },
+            "prevInTopic": 4626,
+            "nextInTopic": 4939,
+            "prevInTime": 4930,
+            "nextInTime": 4932,
+            "topicId": 4626,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greetings to all. Five new swords have just been added to the web site. These include: Mino koto katana by Kanenobu Published Gendai katana in the shape of the",
+            "messageBody": "<div id=\"ygrps-yiv-1360324729\">Greetings to all. <br/>\n<br/>\nFive new swords have just been added to the web site. These include: <br/>\n<br/>\nMino koto katana by Kanenobu<br/>\n<br/>\nPublished Gendai katana in the shape of the &quot;little crow&quot; by Murata Tsuneyoshi<br/>\n<br/>\nKaga Aoe koto katana by Iyetsugu<br/>\n<br/>\nTsukushi Ryokai koto tanto<br/>\n<br/>\nKai Mihara Koto Katana. <br/>\n<br/>\nPlease take a look if you have any interest. <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontocraft.com/japanese_sword_home.html\">http://www.nihontocraft.com/japanese_sword_home.html</a><br/>\n<br/>\nBest regards<br/>\nDanny Massey<br/>\nwww.nihontocraft.com</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 226990576,
+            "authorName": "wenmass3@bellsouth.net",
+            "from": "&lt;wenmass3@...&gt;",
+            "profile": "nihontocraft",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "commercial message",
+            "postDate": "1163362129",
+            "msgId": 4626,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYxMTEyMjAwODQ5Lk5YUUsyNjA1NS5pYm01OWFlYy5iZWxsc291dGgubmV0QG1haWwuYmVsbHNvdXRoLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4931,
+            "prevInTime": 4625,
+            "nextInTime": 4627,
+            "topicId": 4626,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greetings everyone, I have recently reduced the price of the Mito Sukemitsu wakizashi on my website.  Also a wonderful Toryusai tsuba as well as a Kyo Shoami",
+            "messageBody": "<div id=\"ygrps-yiv-1281768493\">Greetings everyone,<br/>\n<br/>\nI have recently reduced the price of the Mito Sukemitsu wakizashi on my website.  Also a wonderful Toryusai tsuba as well as a Kyo Shoami tsuba, published in the book &quot;Ai-Tsuba 100 Shu&quot;, have been added to the tosogu page.  Please have a look if you have any interest. Thanks <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontocraft.com/japanese_sword_home.html\">http://www.nihontocraft.com/japanese_sword_home.html</a><br/>\n<br/>\nBest regards,<br/>\nDanny Massey <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontocraft.com/Toryusai_Tsuba.html\">http://www.nihontocraft.com/Toryusai_Tsuba.html</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontocraft.com/KyoShoami_Tsuba.html\">http://www.nihontocraft.com/KyoShoami_Tsuba.html</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontocraft.com/Mito_Sukemitsu_Nihonto.html\">http://www.nihontocraft.com/Mito_Sukemitsu_Nihonto.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5448,
+    "nextTopicId": 5442
+}

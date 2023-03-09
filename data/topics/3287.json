@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 232319213,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "buying koshirae",
+            "postDate": "1125460120",
+            "msgId": 3287,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDkwMWM1YWRkZSRlMDhmZTljMCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3286,
+            "nextInTime": 3288,
+            "topicId": 3287,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There are a lot of opportunities to buy koshirae at auction these days.  How possible is it to buy koshirae on the basis of measurements without actually ",
+            "messageBody": "<div id=\"ygrps-yiv-1046610875\">There are a lot of opportunities to buy koshirae at auction these days.  How<br/>\npossible is it to buy koshirae on the basis of measurements without actually<br/>\ntrying the fit of koshirae to blade?  Are there any workable rules of thumb<br/>\nabout how close a fit needs to be?<br/>\n<br/>\nDavid Zincavage</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3284,
+    "nextTopicId": 3291
+}

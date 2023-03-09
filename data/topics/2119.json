@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "SFO Ninja",
+            "postDate": "1093581587",
+            "msgId": 2119,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFGRTdGNDdCLUY3RTMtMTFEOC1BOTRCLTAwMEE5NURGQUFFMEB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2118,
+            "nextInTime": 2122,
+            "topicId": 2119,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Posted on that other list by, someone who has had some bad dealings with Hoshino in SF and who is taking various legal actions to recover his money.  Whilst",
+            "messageBody": "<div id=\"ygrps-yiv-1451790143\">Posted on that other list by,<br/>\n  someone who has had some bad dealings with Hoshino in SF and who is <br/>\ntaking various legal actions to recover his money.  Whilst it may not <br/>\nbe appropriate to post his exact email to this list, he is filing a <br/>\ncomplaint (amongst other things) with the District Attorney in San <br/>\nMateo County - Consumer Fraud office Tel (650) 363-4651. <br/>\n<br/>\nHe is asking if anyone who has had similar bad dealings of any kind, to <br/>\ncontact him or call the Consumer Fraud Office.<br/>\n  If anyone on this list wishes me to pass on his email to you directly, <br/>\nplease email me PRIVATELY.<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2108,
+    "nextTopicId": 2122
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 146689426,
+            "authorName": "Ron Polansky",
+            "from": "&quot;Ron Polansky&quot; &lt;rpolansky@...&gt;",
+            "profile": "ron_polansky",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Help with mei",
+            "postDate": "1079753160",
+            "msgId": 1745,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzZ2RrOCs1b2hpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1744,
+            "nextInTime": 1746,
+            "topicId": 1745,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All: I would very much appreciate any help filling in the blanks in this Gendaito mei: http://www.nihontophile.com/SMei.jpg Thanks very much/best regards, Ron",
+            "messageBody": "<div id=\"ygrps-yiv-317336880\">All:<br/>\n<br/>\nI would very much appreciate any help filling in the blanks in this <br/>\nGendaito mei:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontophile.com/SMei.jpg\">http://www.nihontophile.com/SMei.jpg</a><br/>\n<br/>\nThanks very much/best regards,<br/>\nRon</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1744,
+    "nextTopicId": 1730
+}

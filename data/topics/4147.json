@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "And just in case that&#39;s not good enough...",
+            "postDate": "1145153493",
+            "msgId": 4147,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGUxczk0bCtjM2lyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4146,
+            "nextInTime": 4148,
+            "topicId": 4147,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Marlon Brando s Godfather voice:  Milton, my old freind, as it seems we are not able to come to an agreement on this matter, I must turn it over to the",
+            "messageBody": "<div id=\"ygrps-yiv-1897638222\">Marlon Brando&#39;s Godfather voice:  &#39;Milton, my old freind, as it seems <br/>\nwe are not able to come to an &#39;agreement&#39; on this matter, I must turn <br/>\nit over to the family to solve.  Sonny, please show Milton where you <br/>\nplace the tsuba to best accomodate this situation&#39;.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4113,
+    "nextTopicId": 4151
+}

@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 164318475,
+            "authorName": "Robert Patterson",
+            "from": "&quot;Robert Patterson&quot; &lt;b_patt@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "link to rare book on the web",
+            "postDate": "1195060030",
+            "msgId": 5212,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDkwMWM4MjZlMCRjYmIyMDMzMCQ2NDAwYThjMEBjb21wdXRyZXJhdmVuPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5211,
+            "nextInTime": 5213,
+            "topicId": 5212,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "a full posting of a rare book on court swords   enjoy http://www.swordlinks.com/courtswords/intro.html",
+            "messageBody": "<div id=\"ygrps-yiv-2113156169\">a full posting of a rare book on court swords   enjoy<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.swordlinks.com/courtswords/intro.html\">http://www.swordlinks.com/courtswords/intro.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5210,
+    "nextTopicId": 5213
+}

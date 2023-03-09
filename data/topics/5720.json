@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 125654407,
+            "authorName": "Kenneth Wilson",
+            "from": "Kenneth Wilson &lt;kdw21620@...&gt;",
+            "profile": "kdw21620",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "some books for sale",
+            "postDate": "1283891977",
+            "msgId": 5720,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDg4Nzg5NC40ODQ5NS5xbUB3ZWI1MTQwMy5tYWlsLnJlMi55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5719,
+            "nextInTime": 5721,
+            "topicId": 5720,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi All, I listed some books on the NMB.  Please take a look. http://www.militaria.co.za/nmb/viewtopic.php?f=4&t=8364 Thanks. Ken [Non-text portions of this",
+            "messageBody": "<div id=\"ygrps-yiv-1567676608\">Hi All,<br/>\n<br/>\nI listed some books on the NMB.  Please take a look.   <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.militaria.co.za/nmb/viewtopic.php?f=4&t=8364\">http://www.militaria.co.za/nmb/viewtopic.php?f=4&t=8364</a><br/>\nThanks.<br/>\nKen<br/>\n<br/>\n<br/>\n<br/>\n      <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5713,
+    "nextTopicId": 5728
+}

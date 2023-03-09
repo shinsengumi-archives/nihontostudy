@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 119415193,
+            "authorName": "Bob R",
+            "from": "Bob R &lt;gentleman9@...&gt;",
+            "profile": "gentleman9",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Cowboy Bob&#39;s Website Overhaul",
+            "postDate": "1073557135",
+            "msgId": 1410,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwMTA4MTAxODU1LjQwNjQ2LnFtYWlsQHdlYjQxMDAxLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDAwZTIwMWMzZDU5YSQ2YWMwZGM5MCQ2ZDRmZGMxOEBXSFVFVD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1409,
+            "nextInTime": 1411,
+            "topicId": 1410,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "To those who might care, Just wanted to let everyone that I ve given my site a complete overhaul which was a long time coming. It can still be reached by the",
+            "messageBody": "<div id=\"ygrps-yiv-667711040\">To those who might care,<br/>\n<br/>\nJust wanted to let everyone that I&#39;ve given my site a<br/>\ncomplete overhaul which was a long time coming. It can<br/>\nstill be reached by the same URL: <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://asia.geocities.com/gentleman9/index.html\">http://asia.geocities.com/gentleman9/index.html</a><br/>\n<br/>\nI&#39;m still beta testing it so if some of the pages<br/>\ndon&#39;t quite work yet please drop me an email and let<br/>\nme know. Though I belive everything that has a<br/>\nhyperlink does work. Mind you it is still very much a<br/>\nwork in progress so anyone who has comments/complaints<br/>\nplease drop me a note. I&#39;d also like to thank Rich T<br/>\nfor previewing the first Beta test and giving his<br/>\nopinions, Thanks mate.<br/>\n<br/>\nBob R<br/>\naka &quot;Cowboy Bob&quot;<br/>\n<br/>\nP.S. To those of you who run/operate websites or<br/>\nlistserves I&#39;d like to know if I might add your sites<br/>\nto my links page. Drop me an email with your web<br/>\naddress and if there is any particular wording I<br/>\nshould use to promote your site. Thanks<br/>\n<br/>\n=====<br/>\nCheck out &quot;Cowboy&quot; Bob&#39;s Books & Things at:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://asia.geocities.com/gentleman9/index.html\">http://asia.geocities.com/gentleman9/index.html</a><br/>\n<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Hotjobs: Enter the &quot;Signing Bonus&quot; Sweepstakes<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://hotjobs.sweepstakes.yahoo.com/signingbonus\">http://hotjobs.sweepstakes.yahoo.com/signingbonus</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1395,
+    "nextTopicId": 1411
+}

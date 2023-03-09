@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Info Request.",
+            "postDate": "1158713222",
+            "msgId": 4481,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVlcTMyNitwMG9wQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGVlcDNhMytzdmo5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4480,
+            "nextInTopic": 0,
+            "prevInTime": 4480,
+            "nextInTime": 4482,
+            "topicId": 4480,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://world.choshuya.co.jp/engrave/index.htm Try this site. Pete",
+            "messageBody": "<div id=\"ygrps-yiv-1055667818\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://world.choshuya.co.jp/engrave/index.htm\">http://world.choshuya.co.jp/engrave/index.htm</a><br/>\n<br/>\nTry this site.<br/>\nPete</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 150029829,
+            "authorName": "Ricky",
+            "from": "&quot;Ricky&quot; &lt;fairgreen00@...&gt;",
+            "profile": "fairgreen00",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Info Request.",
+            "postDate": "1158680707",
+            "msgId": 4480,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVlcDNhMytzdmo5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4481,
+            "prevInTime": 4479,
+            "nextInTime": 4481,
+            "topicId": 4480,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone have a collection of digital images of dragon with ken horimono? Please email me with pics or oshigata if you have any to share. Much appreciated. ",
+            "messageBody": "<div id=\"ygrps-yiv-1894455770\">Does anyone have a collection of digital images of dragon with ken <br/>\nhorimono? Please email me with pics or oshigata if you have any to <br/>\nshare. Much appreciated.<br/>\n<br/>\nRicky</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4479,
+    "nextTopicId": 4468
+}

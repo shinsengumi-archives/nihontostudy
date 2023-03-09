@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 63514443,
+            "authorName": "lshobie",
+            "from": "&quot;lshobie&quot; &lt;lshobie@...&gt;",
+            "profile": "lshobie",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Tsuba added to my website",
+            "postDate": "1083342315",
+            "msgId": 1858,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM2dHVsYitzZ2FoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1857,
+            "nextInTime": 1859,
+            "topicId": 1858,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Guys, I have just added 3 tsuba to my website in the fittings section. Please have a look. I will be adding many more items over the next few weeks as time ",
+            "messageBody": "<div id=\"ygrps-yiv-265854155\">Hi Guys,<br/>\nI have just added 3 tsuba to my website in the fittings section. <br/>\nPlease have a look.<br/>\n<br/>\nI will be adding many more items over the next few weeks as time <br/>\npermits - so check back from time to time.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.japaneseswordcollector.com/\">http://www.japaneseswordcollector.com/</a><br/>\n<br/>\nAny information on the iron fittings would be appreciated.<br/>\n<br/>\n<br/>\nRegards,<br/>\nLouis</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1719,
+    "nextTopicId": 1859
+}

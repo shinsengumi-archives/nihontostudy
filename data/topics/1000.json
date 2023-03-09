@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 48448737,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "NIGERIAN FRAUD - GOOD NEWS AT LAST",
+            "postDate": "1067602793",
+            "msgId": 1000,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYmYwMWMzOWZhOSQ0ZjYxYmE0MCRmMGM1ZmVhOUBzaWdudXA+",
+                "referencesHeader": "PGJudGFucStob3U1QGVHcm91cHMuY29tPiA8MDAxNDAxYzM5Zjk1JDQ1OTZjYzgwJDAzMDBhOGMwQHJpY2hhcmQ+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 999,
+            "nextInTime": 1001,
+            "topicId": 1000,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Blokes - an arrest in this scam that has occupied some of our bandwidth: http://australianit.news.com.au/articles/0,7204,7715101%5E15306%5E%5Enbv%5E,00.h ",
+            "messageBody": "<div id=\"ygrps-yiv-1279903946\">Dear Blokes - an arrest in this scam that has occupied some of our bandwidth:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://australianit.news.com.au/articles/0,7204,7715101%5E15306%5E%5Enbv%5E,00.h\">http://australianit.news.com.au/articles/0,7204,7715101%5E15306%5E%5Enbv%5E,00.h</a><br/>\ntml<br/>\n<br/>\nBarry Thomas<br/>\n(Melbourne, Australia)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 982,
+    "nextTopicId": 994
+}

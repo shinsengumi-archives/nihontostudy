@@ -1,0 +1,125 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 1036488914,
+        "photoId": 1100229757,
+        "photoName": "unban",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1069011143,
+        "creationDate": 1069011143,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/YC.bKBLte9H3OCqdlQZV/name/n_a",
+                "height": 96,
+                "width": 93,
+                "size": 2003,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/YC.bKBLte9H3OCqdlQZV/name/n_a",
+                "height": 400,
+                "width": 388,
+                "size": 14034,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/YC.bKBLte9H3OCqdlQZV/name/n_a",
+                "height": 400,
+                "width": 388,
+                "size": 14034,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 1036488914,
+        "photoId": 1345788344,
+        "photoName": "r-unban",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1069011144,
+        "creationDate": 1069011144,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/h20pFxrtedVlxLUfrw3Y/name/n_a",
+                "height": 72,
+                "width": 96,
+                "size": 2074,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/h20pFxrtedVlxLUfrw3Y/name/n_a",
+                "height": 298,
+                "width": 400,
+                "size": 16479,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/h20pFxrtedVlxLUfrw3Y/name/n_a",
+                "height": 298,
+                "width": 400,
+                "size": 16479,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 1036488914,
+        "photoId": 1399545028,
+        "photoName": "unban2",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1069011144,
+        "creationDate": 1069011144,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 3,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/9pTjjOftedjaD8fzBftt/name/n_a",
+                "height": 86,
+                "width": 96,
+                "size": 2018,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/9pTjjOftedjaD8fzBftt/name/n_a",
+                "height": 360,
+                "width": 400,
+                "size": 18625,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/9pTjjOftedjaD8fzBftt/name/n_a",
+                "height": 360,
+                "width": 400,
+                "size": 18625,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

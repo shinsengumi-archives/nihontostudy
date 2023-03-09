@@ -1,0 +1,125 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 929152653,
+        "photoId": 19237402,
+        "photoName": "Sakanoue Tamuramaro Tsuba",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1054321332,
+        "creationDate": 1054321332,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/3y9aNiXtc9Na.L.G3g--/name/n_a",
+                "height": 96,
+                "width": 68,
+                "size": 2091,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/3y9aNiXtc9Na.L.G3g--/name/n_a",
+                "height": 480,
+                "width": 338,
+                "size": 38081,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/3y9aNiXtc9Na.L.G3g--/name/n_a",
+                "height": 519,
+                "width": 366,
+                "size": 54673,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 929152653,
+        "photoId": 2076853638,
+        "photoName": "Sakanoue Tamuramaro closeup",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1054321333,
+        "creationDate": 1054321333,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/mAhXvT_uetaqyiyRjSmV/name/n_a",
+                "height": 96,
+                "width": 28,
+                "size": 1187,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/mAhXvT_uetaqyiyRjSmV/name/n_a",
+                "height": 480,
+                "width": 140,
+                "size": 12537,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/mAhXvT_uetaqyiyRjSmV/name/n_a",
+                "height": 800,
+                "width": 234,
+                "size": 35126,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 929152653,
+        "photoId": 1331792777,
+        "photoName": "Sakanoue Tamuramaro overall",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1054321333,
+        "creationDate": 1054321333,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 3,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/ID5zYpHtedKfpBPyU0Mm/name/n_a",
+                "height": 96,
+                "width": 54,
+                "size": 1548,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/ID5zYpHtedKfpBPyU0Mm/name/n_a",
+                "height": 480,
+                "width": 268,
+                "size": 16439,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/ID5zYpHtedKfpBPyU0Mm/name/n_a",
+                "height": 800,
+                "width": 447,
+                "size": 41705,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "maiorian",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "Tsuba for sale",
+            "postDate": "1163707861",
+            "msgId": 4647,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFsYW5iYWxlJDIxMy43OC4xMTYuMjkkLjAzYjUwMWM3MDliYiQ1NmE4YjVlMCRlYzdmNGVkNUBjb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4646,
+            "nextInTime": 4648,
+            "topicId": 4647,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have just put some tsuba for sale at http://www.esnips.com/web/TsubaFittings Alan [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1258573000\">I have just put some tsuba for sale at <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.esnips.com/web/TsubaFittings\">http://www.esnips.com/web/TsubaFittings</a> <br/>\n<br/>\nAlan<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4646,
+    "nextTopicId": 4642
+}

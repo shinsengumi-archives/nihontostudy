@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Saya lining",
+            "postDate": "1076806354",
+            "msgId": 1626,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYTQwMWMzZjM1ZSQwMTBjM2IwMCQwNzAwYThjMEBSaWNoYXJkPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1625,
+            "nextInTime": 1628,
+            "topicId": 1626,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, whilst cleaning up some old Gunto mounts today, a mate and I stipped down an old saya on mine and when we removed the lining, found it to have writing on",
+            "messageBody": "<div id=\"ygrps-yiv-538872325\">All, whilst cleaning up some old Gunto mounts today, a mate and I stipped down an old saya on mine and when we removed the lining, found it to have writing on it. I assume that the top section is a factory stamp and identification of some kind. Then some numbers ( 1, 2, 7 ) then something, then what looks like Sekishu something. <br/>\n      Any idea&#39;s, it was an interesting find. <br/>\n<br/>\n      cheers <br/>\n<br/>\n      Rich<br/>\n<br/>\n      http://www.whiz.com.au/richard/saya-lining.jpg<br/>\n     <br/>\n<br/>\n<br/>\n<br/>\n<br/>\n---<br/>\nOutgoing mail is certified Virus Free.<br/>\nChecked by AVG anti-virus system (http://www.grisoft.com).<br/>\nVersion: 6.0.588 / Virus Database: 372 - Release Date: 13/02/2004<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1515,
+    "nextTopicId": 1628
+}

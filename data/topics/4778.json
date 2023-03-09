@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "maiorian",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "END OF BOOK SALE",
+            "postDate": "1166009014",
+            "msgId": 4778,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFsYW5iYWxlJDIxMy43OC4xMTcuMTc4JC4wMDZhMDFjNzFlYTkkMjE5MTg2NDAkYjI3NTRlZDVAY29tcHV0ZXI+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4777,
+            "nextInTime": 4779,
+            "topicId": 4778,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "25% OFF SALE OF USED BOOKS END MIDNIGHT SUNDAY 17th DECEMBER Alan Bale [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-748467133\">25% OFF SALE OF USED BOOKS END MIDNIGHT SUNDAY 17th DECEMBER<br/>\n<br/>\nAlan Bale<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4772,
+    "nextTopicId": 4695
+}

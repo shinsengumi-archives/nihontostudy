@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 123364401,
+            "authorName": "nihontochicken",
+            "from": "&quot;nihontochicken&quot; &lt;rick@...&gt;",
+            "profile": "nihontochicken",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Just For Fun",
+            "postDate": "1157074907",
+            "msgId": 4431,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVkODM0citra3RxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4430,
+            "nextInTime": 4432,
+            "topicId": 4431,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "As we all know, the European and American Art Nouveau school of the late nineteenth century was much based on the art disseminated from a recently trade opened",
+            "messageBody": "<div id=\"ygrps-yiv-1991537151\">As we all know, the European and American Art Nouveau school of the<br/>\nlate nineteenth century was much based on the art disseminated from a<br/>\nrecently trade opened Japan.  I collect old sterling and coin silver,<br/>\ngenerally pre-1850, but am open to picking up a later piece now and<br/>\nthen if it has nice handwork (as opposed to the more typical punch<br/>\npress garp).  I just landed this small (5 inch) Victorian sugar sifter<br/>\nladle by Walter and John Barnard of London.  The pierced and hand<br/>\nengraved theme is ginko, I believe, very Japanese in flavor and not<br/>\ntypical of most occidental Art Nouveau (usually leaned more toward<br/>\nacanthus).  While not up to Japanese standards, the work here isn&#39;t<br/>\nall that bad, and the piece was in my price range (cheep! cheep!<br/>\ncheep!).  Note that much of western-made Japanese-style Art Nouveau<br/>\nmetal work, particularly mixed metal, generally costs much more than<br/>\nthe equivalent type (and much superior quality) authentic Japanese<br/>\nwork (well, IMO).  <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://img.photobucket.com/albums/v139/nihontochicken/Ladle7.jpg\">http://img.photobucket.com/albums/v139/nihontochicken/Ladle7.jpg</a><br/>\n<br/>\nNC</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4429,
+    "nextTopicId": 4459
+}

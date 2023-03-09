@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 226990576,
+            "authorName": "wenmass3@bellsouth.net",
+            "from": "&lt;wenmass3@...&gt;",
+            "profile": "nihontocraft",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Nihonto Article",
+            "postDate": "1158773681",
+            "msgId": 4483,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYwOTIwMTczNDQxLldXR1AxNTQ2MS5pYm01OWFlYy5iZWxsc291dGgubmV0QG1haWwuYmVsbHNvdXRoLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4482,
+            "nextInTime": 4484,
+            "topicId": 4483,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greetings to all, I have just added an article to my web site entitled Nihonto Performance Lessens in Cold Weather  - A Test by Omura Kunitaro Please take a",
+            "messageBody": "<div id=\"ygrps-yiv-1730057383\">Greetings to all, <br/>\n<br/>\nI have just added an article to my web site entitled &quot;Nihonto Performance Lessens in Cold Weather  - A Test by Omura Kunitaro&quot;<br/>\nPlease take a look if you have any interest.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontocraft.com/japanese_sword_home.html\">http://www.nihontocraft.com/japanese_sword_home.html</a><br/>\n<br/>\nBest regards,<br/>\nDanny Massey<br/>\nwww.nihontocraft.com</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4468,
+    "nextTopicId": 4484
+}

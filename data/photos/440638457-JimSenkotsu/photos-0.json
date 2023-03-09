@@ -1,0 +1,84 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 440638457,
+        "photoId": 1354910868,
+        "photoName": "senk1",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1058381604,
+        "creationDate": 1058381604,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/e2cb2V_tedQn1er8luws/name/n_a",
+                "height": 23,
+                "width": 96,
+                "size": 961,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/e2cb2V_tedQn1er8luws/name/n_a",
+                "height": 115,
+                "width": 480,
+                "size": 7001,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/e2cb2V_tedQn1er8luws/name/n_a",
+                "height": 192,
+                "width": 800,
+                "size": 15066,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 440638457,
+        "photoId": 655435147,
+        "photoName": "senk2",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1058381605,
+        "creationDate": 1058381605,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/2hvqiF3qf9Q..oVu1So-/name/n_a",
+                "height": 20,
+                "width": 96,
+                "size": 927,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/2hvqiF3qf9Q..oVu1So-/name/n_a",
+                "height": 102,
+                "width": 480,
+                "size": 6798,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/2hvqiF3qf9Q..oVu1So-/name/n_a",
+                "height": 170,
+                "width": 800,
+                "size": 15234,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

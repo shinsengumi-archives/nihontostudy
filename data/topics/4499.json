@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 271477297,
+            "authorName": "Andres Pedraza",
+            "from": "Andres Pedraza &lt;apedraza93@...&gt;",
+            "profile": "apedraza_93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Nihontopedia",
+            "postDate": "1159556534",
+            "msgId": 4499,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDcuMC4xLjAuMC4yMDA2MDkyOTE0NDk1NS4wMWU2MjBhMEB2YWxvcm5ld21lZGlhLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4498,
+            "nextInTime": 4500,
+            "topicId": 4499,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, I ve been mulling over the idea of creating a wiki (open source, user driven encyclopedia) on Nihonto for a few months now. The idea was based on my",
+            "messageBody": "<div id=\"ygrps-yiv-1753916016\">All,<br/>\n<br/>\nI&#39;ve been mulling over the idea of creating a wiki (open source, user <br/>\ndriven encyclopedia) on Nihonto for a few months now. The idea was <br/>\nbased on my seeing a need for a more comprehensive and <br/>\nmonitored/moderated source of Nihonto information on the world wide <br/>\nweb that would be easily accessible to anyone seeking or having <br/>\ninformation on our favorite subject.<br/>\n<br/>\nPlease browse to <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontopedia.org/\">http://www.nihontopedia.org/</a> or <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontopedia.com/\">http://www.nihontopedia.com/</a> and take a look. You will need to create <br/>\na user id before it will let you publish anything. At this point in <br/>\ntime, I am the only sysop/admin. As you and the rest of the <br/>\nenthusiasts post articles, this will surely overwhelm me, especially <br/>\nsince I am by no means an expert yet. Let me know if you&#39;re <br/>\ninterested in sharing the sysop role with me and I&#39;ll consider all <br/>\nrespondents on a case by case basis.<br/>\n<br/>\nI&#39;m footing the bill for this, both from an administrative as well as <br/>\na server/bandwidth perspective, so please bear with me while I work <br/>\nout some of the kinks, technically and operationally. Also, please <br/>\nsend me your thoughts, ideas, concerns and anything else related to <br/>\nthis little project of mine.<br/>\n<br/>\nThe wiki is 100% empty now, I was going to write a few articles but <br/>\nit&#39;s the end of the week and I only just now finished setting it up <br/>\nto where I think it&#39;s stable. Which reminds me, any bugs you notice, <br/>\nlet me know.<br/>\n<br/>\nIf you like the idea, and I know there are a lot of extremely <br/>\nknowledgeable nihonto experts here, please start posting some <br/>\narticles. Also, please send the url out to your contacts not on the <br/>\ntwo lists I&#39;m posting this to, Nihonto and NihontoStudy on Yahoo Groups.<br/>\n<br/>\nThanks for reading, and I hope you like it!<br/>\n<br/>\nBest Regards,<br/>\n<br/>\nAndres Pedraza</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4494,
+    "nextTopicId": 4500
+}

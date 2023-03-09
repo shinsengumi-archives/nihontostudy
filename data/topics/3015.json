@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70536526,
+            "authorName": "Mark P. Jones",
+            "from": "&quot;Mark P. Jones&quot; &lt;nixe@...&gt;",
+            "profile": "markpjonesii",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "unusual tsuka",
+            "postDate": "1118080096",
+            "msgId": 3015,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTMwMWM1NmFiZiRlZTYxZWNlMCQ4NTdiYThjMEBtYWluZGVza3RvcD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3014,
+            "nextInTime": 3016,
+            "topicId": 3015,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Group, I have a sword with a type of tsuka i have not seen before. Can anyone tell me if this is indicative of a certain time period, usage, school etc. or it",
+            "messageBody": "<div id=\"ygrps-yiv-1813884132\">Group,<br/>\n<br/>\nI have a sword with a type of tsuka i have not seen before. Can anyone tell me if this is indicative of a certain time period, usage, school etc. or it is just cheaply done?<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.auctionpix.com/jun6-8/jonemvc-015s.jpg\">http://www.auctionpix.com/jun6-8/jonemvc-015s.jpg</a><br/>\n<br/>\nThanks for the help<br/>\n<br/>\n<br/>\nMark  Jones<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nixe@...\">nixe@...</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3014,
+    "nextTopicId": 3016
+}

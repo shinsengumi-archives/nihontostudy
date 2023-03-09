@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70536526,
+            "authorName": "Mark P. Jones",
+            "from": "&quot;Mark P. Jones&quot; &lt;nixe@...&gt;",
+            "profile": "markpjonesii",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Tsuba and Fittings Sale",
+            "postDate": "1110390322",
+            "msgId": 2690,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxOGQwMWM1MjRjZiRjNjVlODJjMCQ4NTdiYThjMEBtYWluZGVza3RvcD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2689,
+            "nextInTime": 2691,
+            "topicId": 2690,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Group, I need to reduce my inventory of tsuba and fittings. To do so I have created a web site giving an idea what is available. For those of you who do not",
+            "messageBody": "<div id=\"ygrps-yiv-965964191\">Group,<br/>\n<br/>\nI need to reduce my inventory of tsuba and fittings. To do so I have created a web site giving an idea what is available. For those of you who do not get to the sword shows here is your chance to see what I have. All items have inspection/return option, If you do not know me please inquire, many of the list members have known me for years. Please take a look, for additional pictures descriptions email me at  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nixe@...\">nixe@...</a> <br/>\n<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.freewebs.com/tsuba4sale/\">http://www.freewebs.com/tsuba4sale/</a><br/>\n<br/>\nThanks for looking<br/>\n<br/>\nMark  Jones<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nixe@...\">nixe@...</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2684,
+    "nextTopicId": 2683
+}

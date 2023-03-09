@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Contact info for Mark Scherer?",
+            "postDate": "1113532281",
+            "msgId": 2792,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYzEwMWM1NDE2MyQzYTdhNzljMCRkODE1ZmEwNEBvZW1jb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2791,
+            "nextInTime": 2793,
+            "topicId": 2792,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I need to get in touch with Mark Scherer regarding delivery of his kanteisho from the Chicago shinsa. Does anyone have a current email, phone number or address",
+            "messageBody": "<div id=\"ygrps-yiv-200509399\">I need to get in touch with Mark Scherer regarding delivery of his kanteisho from the Chicago shinsa.  <br/>\n<br/>\nDoes anyone have a current email, phone number or address for Mark?  I believe that he is in Illinois.  Please respond off list.<br/>\n<br/>\nThanks,<br/>\nJim<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2789,
+    "nextTopicId": 2778
+}

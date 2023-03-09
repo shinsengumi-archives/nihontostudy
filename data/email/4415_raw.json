@@ -1,0 +1,29 @@
+{
+    "userId": 134498325,
+    "authorName": "Tom Helm",
+    "from": "Tom Helm &lt;junkmail@...&gt;",
+    "profile": "soshuju",
+    "replyTo": "LIST",
+    "senderId": "IG8oJJnUO04XwdkzFz0wyjb3BEbyNTrTz5XKQiNt5rk2qZxzcPDmUVTFmxKjE3Xqxp0F05yGng9I6zQghs2Mai118If6l5l7",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Contact",
+    "postDate": "1156394914",
+    "msgId": 4415,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDNBOEIzNjVGLTlBNUEtNENBOS1BMDJELUMwMzJBNEE0NUEyOUB0b3J5dS1tb24uY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 5836,
+    "prevInTime": 4414,
+    "nextInTime": 4416,
+    "topicId": 4415,
+    "numMessagesInTopic": 2,
+    "msgSnippet": "Ted Tennold if you are listening can you send me a ping ? offline, please, -t",
+    "rawEmail": "Return-Path: &lt;toryu@...&gt;\r\nX-Sender: toryu@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 75884 invoked from network); 24 Aug 2006 04:43:50 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m26.grp.scd.yahoo.com with QMQP; 24 Aug 2006 04:43:50 -0000\r\nReceived: from unknown (HELO smtpout06-04.prod.mesa1.secureserver.net) (64.202.165.224)\n  by mta6.grp.scd.yahoo.com with SMTP; 24 Aug 2006 04:43:50 -0000\r\nReceived: (qmail 28367 invoked from network); 24 Aug 2006 04:43:01 -0000\r\nReceived: from unknown (71.132.154.163)\n  by smtpout06-04.prod.mesa1.secureserver.net (64.202.165.227) with ESMTP; 24 Aug 2006 04:43:01 -0000\r\nMime-Version: 1.0 (Apple Message framework v752.2)\r\nContent-Type: text/plain; charset=US-ASCII; format=flowed\r\nMessage-Id: &lt;3A8B365F-9A5A-4CA9-A02D-C032A4A45A29@...&gt;\r\nCc: nihontostudy@yahoogroups.com\r\nContent-Transfer-Encoding: 7bit\r\nDate: Wed, 23 Aug 2006 21:48:34 -0700\r\nTo: nihonto@yahoogroups.com\r\nX-Mailer: Apple Mail (2.752.2)\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nX-eGroups-From: Tom Helm &lt;toryu@...&gt;\r\nFrom: Tom Helm &lt;junkmail@...&gt;\r\nSubject: Contact\r\nX-Yahoo-Group-Post: member; u=134498325; y=2C79D1ExKZ2-mHO86j5HAA51WSVDuo4vfS5F4RK-1y0IFQ\r\nX-Yahoo-Profile: soshuju\r\n\r\nTed Tennold if you are listening can you send me a &quot;ping&quot;?\n\noffline, please,\n-t\n\n"
+}

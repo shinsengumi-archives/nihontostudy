@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 213364357,
+            "authorName": "excelsiorilluminati",
+            "from": "&quot;excelsiorilluminati&quot; &lt;excelsiorilluminati@...&gt;",
+            "profile": "excelsiorilluminati",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Merry Christmas",
+            "postDate": "1198605939",
+            "msgId": 5236,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZrcmdwaitkcWdhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4783,
+            "nextInTopic": 0,
+            "prevInTime": 5235,
+            "nextInTime": 5239,
+            "topicId": 4782,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Happy Holidays all. John",
+            "messageBody": "<div id=\"ygrps-yiv-2049306686\">Happy Holidays all. John</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 274225982,
+            "authorName": "Eckhardt Hemkemeier",
+            "from": "Eckhardt Hemkemeier &lt;eckido@...&gt;",
+            "profile": "eckido",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Merry Christmas",
+            "postDate": "1166609770",
+            "msgId": 4783,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEM2MTNBRTFDLThFNTItNDU2MS04RTEyLUE2MkRCMEY2N0RFOEBnbXgubmV0Pg==",
+                "inReplyToHeader": "PGVtYjFyaCtobG9jQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGVtYjFyaCtobG9jQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4782,
+            "nextInTopic": 5236,
+            "prevInTime": 4782,
+            "nextInTime": 4784,
+            "topicId": 4782,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Friends in Spirit, me and the members of the Aikido Dojo Seishinkan, Hamburg/Germany, wishes all of you happy christmas and a good new year. To Sensei",
+            "messageBody": "<div id=\"ygrps-yiv-990389857\">Dear Friends in Spirit,<br/>\nme and the members of the Aikido Dojo Seishinkan, Hamburg/Germany,<br/>\nwishes all of you happy christmas and a good new year.<br/>\nTo Sensei thanks for the newsletter and calender he always send to us.<br/>\nVery best regards,<br/>\nEckhardt<br/>\nAm 20.12.2006 um 11:04 schrieb excelsiorilluminati:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; I just wanted to wish you all a merry Christmas. John<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; <br/>\n<br/>\n<br/>\n<br/>\n </span></blockquote>[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 213364357,
+            "authorName": "excelsiorilluminati",
+            "from": "&quot;excelsiorilluminati&quot; &lt;excelsiorilluminati@...&gt;",
+            "profile": "excelsiorilluminati",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Merry Christmas",
+            "postDate": "1166609073",
+            "msgId": 4782,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVtYjFyaCtobG9jQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4783,
+            "prevInTime": 4781,
+            "nextInTime": 4783,
+            "topicId": 4782,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I just wanted to wish you all a merry Christmas. John",
+            "messageBody": "<div id=\"ygrps-yiv-1318135310\">I just wanted to wish you all a merry Christmas. John</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4695,
+    "nextTopicId": 4734
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "list administration stuff",
+            "postDate": "1051840168",
+            "msgId": 140,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYjMwMWMzMTA0ZCQxMjE5OWFlMCRlZTc3ZDAzZkBvZW1jb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 139,
+            "nextInTime": 141,
+            "topicId": 140,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks to everyone who responded off line to help with the development of a set of rules for managing the list.  Based on results of that discussion I posted a",
+            "messageBody": "<div id=\"ygrps-yiv-1443976221\">Thanks to everyone who responded off line to help with the development of a set of rules for managing the list.  Based on results of that discussion I posted a text file to:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/nihontostudy/files/\">http://groups.yahoo.com/group/nihontostudy/files/</a><br/>\n<br/>\nthat will be sent out to new members subscribing to the nihontostudy list.  Please take a look at it when you have a chance and let me know off line if there&#39;s anything you have a problem living with.<br/>\n<br/>\nI don&#39;t think that this kind of stuff is necessary with the current group, but since membership is open we will need to have some basic rules in place to avoid the nonsense that can happen on email lists.<br/>\n<br/>\nThanks,<br/>\nJim<br/>\n <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 121,
+    "nextTopicId": 150
+}

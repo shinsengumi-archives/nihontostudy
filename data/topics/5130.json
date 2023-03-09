@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 164318475,
+            "authorName": "Robert Patterson",
+            "from": "&quot;Robert Patterson&quot; &lt;b_patt@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "links",
+            "postDate": "1185291839",
+            "msgId": 5130,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGIwMWM3Y2UwOSQ3NDAyM2UwMCQxYWE4ZThkOEBjb21wdXRyZXJhdmVuPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5129,
+            "nextInTime": 5131,
+            "topicId": 5130,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "check out this site they are setting up a sword collecting link site http://www.swordlinks.com/",
+            "messageBody": "<div id=\"ygrps-yiv-925732351\">check out this site they are setting up a sword collecting link site<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.swordlinks.com/\">http://www.swordlinks.com/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5123,
+    "nextTopicId": 5131
+}

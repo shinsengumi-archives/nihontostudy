@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Nihonto Trader",
+            "postDate": "1067427833",
+            "msgId": 981,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMzgwMWMzOWUxMSRlZGE5YjJhMCQwMzAwYThjMEByaWNoYXJkPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 980,
+            "nextInTime": 982,
+            "topicId": 981,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, just a note that the NihonTo Trader site is down at the moment, I don t know why as I have no way of contacting the Board Host but I will endeavour to",
+            "messageBody": "<div id=\"ygrps-yiv-1469791798\">Hi all, just a note that the NihonTo Trader site is down at the moment, I don&#39;t know why as I have no way of contacting the Board Host but I will endeavour to find out why and when they expect to have it back online.<br/>\n<br/>\nSorry for any inconvenience.<br/>\n<br/>\ncheers<br/>\n<br/>\nRich T<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 980,
+    "nextTopicId": 990
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 142704490,
+            "authorName": "aballcsun",
+            "from": "&quot;aballcsun&quot; &lt;aballcsun@...&gt;",
+            "profile": "aballcsun",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Katana sharpness question",
+            "postDate": "1132894693",
+            "msgId": 3512,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRtNjVsNStxcGViQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3511,
+            "nextInTime": 3513,
+            "topicId": 3512,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, I have a question re: the sharpness of an ancient sword. I m getting ready to teach a class about ancient Japan and that naturally includes Samurai",
+            "messageBody": "<div id=\"ygrps-yiv-1184922862\">Hi all, I have a question re: the sharpness of an ancient sword. I&#39;m <br/>\ngetting ready to teach a class about ancient Japan and that naturally <br/>\nincludes Samurai legend, lore, and also, facts.<br/>\nI heard of a sword that holds the record for cutting through people. <br/>\nIt was either 5 or 7 bodies that the sword cut in half. I am having no <br/>\nluck finding info about this. All I have found is a few references to <br/>\nexecutions of this manner(rio-kuruma), but not much else.<br/>\nIf anyone has any info on where I could look, it would be most <br/>\nhelpful..<br/>\nthanks..<br/>\nab...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3509,
+    "nextTopicId": 3471
+}

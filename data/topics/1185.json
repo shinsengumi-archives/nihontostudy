@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shigekatsu help",
+            "postDate": "1070127133",
+            "msgId": 1185,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMWUwMWMzYjY5ZSRiYjJkNmJmMCRlMDVjOTRjZUByb25oYXJ0bWFubj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1184,
+            "nextInTime": 1186,
+            "topicId": 1185,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all - Perhaps one of you can translate this place-name for me (linked to Yahoo photos, below): http://tinyurl.com/x02n http://tinyurl.com/x02v The",
+            "messageBody": "<div id=\"ygrps-yiv-1596059085\">Hi all - <br/>\n<br/>\n  Perhaps one of you can translate this place-name for me (linked to Yahoo photos, below):<br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/x02n\">http://tinyurl.com/x02n</a><br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/x02v\">http://tinyurl.com/x02v</a><br/>\n<br/>\n  The shinshin-to (dated 1860) is signed by a Shigekatsu who I &quot;suspect&quot; is associated with the shinshin-to Kaga smith Tomokatsu, but I&#39;m not at all positive of that. I must give up trying to translate this place of residence as in the mei. Maybe we can all learn something from it? (I&#39;ve written Mishina Kenji about this reading but thought the groups would enjoy the challenge. <br/>\n<br/>\n  Thanks!<br/>\n<br/>\n  Ron<br/>\n  STL<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1178,
+    "nextTopicId": 1186
+}

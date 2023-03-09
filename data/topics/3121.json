@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Interesting reading...",
+            "postDate": "1121108589",
+            "msgId": 3121,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNGQwMWM1ODY0YiQzMDk3ZWZhMCQxZWE1OTRjZUByb25oYXJ0bWFubj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3120,
+            "nextInTime": 3122,
+            "topicId": 3121,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi All - Just received the latest To-Ron of the NCJSC which has a really interesting article titled, My First Sixty Years as a Student of Kodogu by Bob",
+            "messageBody": "<div id=\"ygrps-yiv-1654423035\">Hi All - <br/>\n<br/>\nJust received the latest To-Ron of the NCJSC which has a really interesting article titled, &quot;My First Sixty Years as a Student of Kodogu&quot; by Bob Haynes. If you have a chance, read it. Many of us know Bob but this &quot;looking back&quot; by him is a wonderful history lesson on how sword study (kodogu study) began outside of Japan during the post-war years. Myself, I was fortunate to know many of the &quot;names&quot; that Bob wrote about--mostly connections only by corresponding by mail while a others became known through sword shows. Reading these names, many of who are now deceased, brought back many fine memories that went into developing my own interest in swords and fittings. A good &quot;read.&quot; I&#39;m not sure, but quite possibly this article is on the NCJSC&#39;s web site, for those not members. <br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3096,
+    "nextTopicId": 3122
+}

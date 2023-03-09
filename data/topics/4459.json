@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 176596114,
+            "authorName": "fd",
+            "from": "&quot;fd&quot; &lt;nagamaki@...&gt;",
+            "profile": "nagamaki_1",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "",
+            "postDate": "1157957564",
+            "msgId": 4459,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGMwMWM2ZDU2ZSRlMjY3YTU0MCQ2NjAxYThjMEByb2NoZXN0ZXIucnIuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4458,
+            "nextInTime": 4460,
+            "topicId": 4459,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "subscribe nihontostudy nagamaki@rochester.rr.com [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1399266175\">subscribe nihontostudy <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nagamaki@...\">nagamaki@...</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4431,
+    "nextTopicId": 159
+}

@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "modern eye candy",
+            "postDate": "1069911411",
+            "msgId": 1175,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxMDUwMWMzYjRhOCQ3NTU3MGIxMCQwNzAwYThjMEB3aGl6MT4=",
+                "referencesHeader": "PGJxNDE5bStoNTJ0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1174,
+            "nextInTime": 1176,
+            "topicId": 1175,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://page7.auctions.yahoo.co.jp/jp/auction/g10906528 good looking workmanship, I love the tsuba box. Were these boxes common and would this be period ( the",
+            "messageBody": "<div id=\"ygrps-yiv-254457191\">http://page7.auctions.yahoo.co.jp/jp/auction/g10906528<br/>\n<br/>\ngood looking workmanship, I love the tsuba box. Were these boxes common and would this be period ( the to guard at least ) lacquer work ?..<br/>\n<br/>\nRich<br/>\n<br/>\n<br/>\n---<br/>\nOutgoing mail is certified Virus Free.<br/>\nChecked by AVG anti-virus system (http://www.grisoft.com).<br/>\nVersion: 6.0.544 / Virus Database: 338 - Release Date: 25/11/2003<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1152,
+    "nextTopicId": 1176
+}

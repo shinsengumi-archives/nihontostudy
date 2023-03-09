@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 135018472,
+            "authorName": "matthewhoyle@wanadoo.nl",
+            "from": "&lt;matthewhoyle@...&gt;",
+            "profile": "matthewhoyle2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New Websites",
+            "postDate": "1070925121",
+            "msgId": 1235,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNjEwMWMzYmRlMCRiMWQ5YTJhMCQ5N2NhZmVhOUBreXA0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1234,
+            "nextInTime": 1236,
+            "topicId": 1235,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Guys check out the new oriental art website exploited by the largest Asian art Dealer in The Netherlands  www.pranger-oriental.com There is also a tsuba",
+            "messageBody": "<div id=\"ygrps-yiv-964174718\">Guys check out the new oriental art website exploited by the largest<br/>\nAsian art Dealer in The Netherlands  www.pranger-oriental.com <br/>\n <br/>\nThere is also a tsuba section under &quot;Japanese Art&quot;. <br/>\n <br/>\nFuthermore this dealer has also opened a new online Book store dealing<br/>\nin Oriental Art related Books. Find it here www.orientalartbooks.com <br/>\n <br/>\nEnjoy !<br/>\n <br/>\nMatthew <br/>\n <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1230,
+    "nextTopicId": 1222
+}

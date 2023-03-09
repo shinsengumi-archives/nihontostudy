@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70536526,
+            "authorName": "Mark P. Jones",
+            "from": "&quot;Mark P. Jones&quot; &lt;nixe@...&gt;",
+            "profile": "markpjonesii",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Commercial message--items for sale",
+            "postDate": "1104179855",
+            "msgId": 2484,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAyMmUwMWM0ZWM1MyRlODhmZGVjMCQ4NTdiYThjMEBtYWluaG9tZT4=",
+                "referencesHeader": "PGNxYTlsNSs3bDN0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2483,
+            "nextInTime": 2485,
+            "topicId": 2484,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Group I have listed a number of items on eBay, please take a look,  http://tinyurl.com/3s59k if anyone has any questions please email me privately, Thanks Mark",
+            "messageBody": "<div id=\"ygrps-yiv-467256520\">Group<br/>\n<br/>\n<br/>\nI have listed a number of items on eBay, please take a look,  <a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/3s59k\">http://tinyurl.com/3s59k</a> <br/>\n<br/>\n<br/>\nif anyone has any questions please email me privately,<br/>\n<br/>\nThanks<br/>\nMark P. Jones<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nixe@...\">nixe@...</a> <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2478,
+    "nextTopicId": 2491
+}

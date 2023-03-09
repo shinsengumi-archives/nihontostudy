@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 125654407,
+            "authorName": "Kenneth Wilson",
+            "from": "Kenneth Wilson &lt;kdw21620@...&gt;",
+            "profile": "kdw21620",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "books for sale and 1 tsuka",
+            "postDate": "1284296517",
+            "msgId": 5728,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDY5MTE4LjUxMDYxLnFtQHdlYjUxNDAzLm1haWwucmUyLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5727,
+            "nextInTime": 5729,
+            "topicId": 5728,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, I have listed a bunch of books on swords and sword fittings and 1 tsuka.  Please take a look. ",
+            "messageBody": "<div id=\"ygrps-yiv-1629393175\">Hi all,<br/>\n<br/>\nI have listed a bunch of books on swords and sword fittings and 1 tsuka.  Please <br/>\ntake a look. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://shop.ebay.com/leverlockk/m.html?_nkw=&_armrs=1&_from=&_ipg=&_trksid=p4340\">http://shop.ebay.com/leverlockk/m.html?_nkw=&_armrs=1&_from=&_ipg=&_trksid=p4340</a><br/>\nThanks.<br/>\nKen<br/>\n<br/>\n<br/>\n<br/>\n      <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5720,
+    "nextTopicId": 4465
+}

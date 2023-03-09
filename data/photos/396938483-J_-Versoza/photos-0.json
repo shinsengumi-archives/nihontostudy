@@ -1,0 +1,43 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 396938483,
+        "photoId": 1798165716,
+        "photoName": "Fan Tsuba",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "janversoza",
+        "modificationDate": 1121187639,
+        "creationDate": 1121187639,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/y0syJxDtfdjNHyIrMTN2/name/n_a",
+                "height": 46,
+                "width": 96,
+                "size": 1654,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/y0syJxDtfdjNHyIrMTN2/name/n_a",
+                "height": 229,
+                "width": 480,
+                "size": 13863,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/y0syJxDtfdjNHyIrMTN2/name/n_a",
+                "height": 381,
+                "width": 800,
+                "size": 28043,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

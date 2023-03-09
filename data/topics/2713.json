@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 213364357,
+            "authorName": "excelsiorilluminati",
+            "from": "&quot;excelsiorilluminati&quot; &lt;excelsiorilluminati@...&gt;",
+            "profile": "excelsiorilluminati",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "re:photography",
+            "postDate": "1111222431",
+            "msgId": 2713,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQxZ3BhditvajBzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2712,
+            "nextInTime": 2714,
+            "topicId": 2713,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, Mr. D. Brockbanks site at www.nihonto.ca has an extensive amount of info on nihonto photography. Check it out. The preceeding info was good too. J.",
+            "messageBody": "<div id=\"ygrps-yiv-502928747\">Hello, Mr. D. Brockbanks site at www.nihonto.ca has an extensive <br/>\namount of info on nihonto photography. Check it out. The preceeding <br/>\ninfo was good too. J.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2705,
+    "nextTopicId": 2716
+}

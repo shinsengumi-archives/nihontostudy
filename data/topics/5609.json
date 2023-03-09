@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 231237959,
+            "authorName": "John Kurata",
+            "from": "&quot;John Kurata&quot; &lt;john@...&gt;",
+            "profile": "ricecracker_com",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Commercial Message - New items at Ricecracker",
+            "postDate": "1249313147",
+            "msgId": 5609,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGg1NnZocis1N3UyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5608,
+            "nextInTime": 5610,
+            "topicId": 5609,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi everyone, Just got in a lot of new nice items. Posted some of them on the site at Ricecracker.com (http://www.ricecracker.com) Here are some of the items: ",
+            "messageBody": "<div id=\"ygrps-yiv-459907430\">Hi everyone,<br/>\nJust got in a lot of new nice items. Posted some of them on the site at Ricecracker.com <br/>\n(http://www.ricecracker.com)<br/>\n<br/>\nHere are some of the items:<br/>\nM-5 (#813) Spectacular Tokubetsu Hozon Kaga Goto Menuki<br/>\nM-9 (#814) 5th Mainline Goto Master Tokujo menuki<br/>\nT-9 (#810) Excellent tsuba by the Famous Nishigaki School<br/>\nT-11(#811) Very Nice Choshu Amaryu Tsuba<br/>\n<br/>\nAlso have a couple of good Dai-Sho.<br/>\nI will be putting up a Rare REAL Dai Sho By Yasukuni Yasutake over the next couple of days.<br/>\n<br/>\nWe have many swords and kodogu that never make it to the site, so if you don&#39;t see what you are looking for it is a good idea to email us and ask.<br/>\n<br/>\nAlso for those of you going to the San Francisco Sword Show be sure to come by our tables and ask for John to get that special show deal!<br/>\nSee you all at the show,<br/>\nJohn Kurata</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5608,
+    "nextTopicId": 5610
+}

@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Sukashi Tsuba Signature Help",
+            "postDate": "1077491892",
+            "msgId": 1649,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMWYwMWMzZjk5YSQyNTRlYjFlMCRlMDQ1NGJhYkBvZW1jb21wdXRlcj4=",
+                "referencesHeader": "PGMxYjBoNCtzYTB0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1648,
+            "nextInTopic": 0,
+            "prevInTime": 1648,
+            "nextInTime": 1650,
+            "topicId": 1648,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Peter, It s signed in katakana, which is a phonetic alphabet.  It appears to read Haramu saku, with the ha, ra and mu written in kana and the saku with the",
+            "messageBody": "<div id=\"ygrps-yiv-873803409\">Peter,<br/>\nIt&#39;s signed in katakana, which is a phonetic alphabet.  It appears to read Haramu saku, with the ha, ra and mu written in kana and the saku with the usual kanji.  The left stroke of ha is written a bit oddly, but I don&#39;t know what else it would be.  The ra and mu are clear.  There were some makers that signed in hiragana, but it is fairly unusual.  I can&#39;t think of any old makers that signed in katakana.  In modern usage katakana is used to write foreign words and names, among other things.<br/>\n<br/>\nJim<br/>\n<br/>\n<br/>\n<br/>\n  Hi,<br/>\n<br/>\n  Can anyone help me with the signature on this tsuba? Its a nice <br/>\n  Sukashi katana size piece showing a dragon flying through clouds in <br/>\n  rain. The signature seems strange can anyone help?<br/>\n<br/>\n  overview of tsuba:<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.c.farrar.btinternet.co.uk/tsuba1.jpg\">http://www.c.farrar.btinternet.co.uk/tsuba1.jpg</a><br/>\n<br/>\n  close up of signature:<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.c.farrar.btinternet.co.uk/tsuba2.jpg\">http://www.c.farrar.btinternet.co.uk/tsuba2.jpg</a><br/>\n<br/>\n  Thanks,<br/>\n<br/>\n  Peter<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 143394673,
+            "authorName": "Peter Farrar",
+            "from": "&quot;Peter Farrar&quot; &lt;pcfarrar@...&gt;",
+            "profile": "pcfarrar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sukashi Tsuba Signature Help",
+            "postDate": "1077478756",
+            "msgId": 1648,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMxYjBoNCtzYTB0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1649,
+            "prevInTime": 1647,
+            "nextInTime": 1649,
+            "topicId": 1648,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, Can anyone help me with the signature on this tsuba? Its a nice Sukashi katana size piece showing a dragon flying through clouds in rain. The signature",
+            "messageBody": "<div id=\"ygrps-yiv-1899733272\">Hi,<br/>\n<br/>\nCan anyone help me with the signature on this tsuba? Its a nice <br/>\nSukashi katana size piece showing a dragon flying through clouds in <br/>\nrain. The signature seems strange can anyone help?<br/>\n<br/>\noverview of tsuba:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.c.farrar.btinternet.co.uk/tsuba1.jpg\">http://www.c.farrar.btinternet.co.uk/tsuba1.jpg</a><br/>\n<br/>\nclose up of signature:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.c.farrar.btinternet.co.uk/tsuba2.jpg\">http://www.c.farrar.btinternet.co.uk/tsuba2.jpg</a><br/>\n<br/>\nThanks,<br/>\n<br/>\nPeter</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1637,
+    "nextTopicId": 1638
+}

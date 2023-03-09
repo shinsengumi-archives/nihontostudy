@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "commercial message again",
+            "postDate": "1214968379",
+            "msgId": 5426,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGc0ZXJucis4aWMwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5425,
+            "nextInTime": 5427,
+            "topicId": 5426,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://search.ebay.com/_W0QQsassZmuramasa-iii milt",
+            "messageBody": "<div id=\"ygrps-yiv-923232857\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://search.ebay.com/_W0QQsassZmuramasa-iii\">http://search.ebay.com/_W0QQsassZmuramasa-iii</a><br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5369,
+    "nextTopicId": 5436
+}

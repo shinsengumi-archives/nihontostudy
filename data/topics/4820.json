@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Help with email...",
+            "postDate": "1168547790",
+            "msgId": 4820,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMmYwMWM3MzVjMCQzMDIxNzM0MCRlMDA3ODQ0YkByb24+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4819,
+            "nextInTime": 4821,
+            "topicId": 4820,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Anyone out there have John Slough s email address? If so, please send to me privately at: swords@usroute66.net (or have John contact me direct). Thanks! Ron ",
+            "messageBody": "<div id=\"ygrps-yiv-509243537\">Anyone out there have John Slough&#39;s email address? If so, please send to me privately at: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:swords@...\">swords@...</a> (or have John contact me direct). Thanks!<br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4819,
+    "nextTopicId": 4812
+}

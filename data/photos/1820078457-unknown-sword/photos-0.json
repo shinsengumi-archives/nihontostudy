@@ -1,0 +1,128 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 1820078457,
+        "photoId": 990457935,
+        "photoName": "Blade:Kissaki2",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "germanbudoka",
+        "modificationDate": 1162327608,
+        "creationDate": 1162327608,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/FLvGMujlc9F4n8lFTlY-/name/n_a",
+                "height": 63,
+                "width": 96,
+                "size": 1301,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/FLvGMujlc9F4n8lFTlY-/name/n_a",
+                "height": 313,
+                "width": 480,
+                "size": 15504,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/FLvGMujlc9F4n8lFTlY-/name/n_a",
+                "height": 521,
+                "width": 800,
+                "size": 40461,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 1820078457,
+        "photoId": 2067125468,
+        "photoName": "Sample2",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "germanbudoka",
+        "modificationDate": 1162327609,
+        "creationDate": 1162327609,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/5hZsjcDuetdRj6Y.uJNB/name/n_a",
+                "height": 30,
+                "width": 96,
+                "size": 881,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/5hZsjcDuetdRj6Y.uJNB/name/n_a",
+                "height": 150,
+                "width": 480,
+                "size": 8451,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/5hZsjcDuetdRj6Y.uJNB/name/n_a",
+                "height": 250,
+                "width": 800,
+                "size": 19421,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 1820078457,
+        "photoId": 1548184326,
+        "photoName": "Tang1",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "germanbudoka",
+        "modificationDate": 1162327610,
+        "creationDate": 1162327610,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 3,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/gX.DUWrtf9X2GrOBhOxU/name/n_a",
+                "height": 72,
+                "width": 96,
+                "size": 1619,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/gX.DUWrtf9X2GrOBhOxU/name/n_a",
+                "height": 360,
+                "width": 480,
+                "size": 22286,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/gX.DUWrtf9X2GrOBhOxU/name/n_a",
+                "height": 600,
+                "width": 800,
+                "size": 56648,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

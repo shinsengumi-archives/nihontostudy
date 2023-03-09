@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Re: Another dumb Kanji question",
+            "postDate": "1115266028",
+            "msgId": 2938,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYTMwMWM1NTEyNyRlYTBjNWJhMCRkNDI2ZmVhOUBDTE9ORT4=",
+                "referencesHeader": "PDAwMGEwMWM1NTExNSQ4NmQ4OTBiMCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2937,
+            "nextInTime": 2939,
+            "topicId": 2938,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "How come 山 in Sato Kanzan s name is treated as San (Chinese?) instead of Yama (Japanese)?  And how come it gets written as Kanzan in English instead of",
+            "messageBody": "<div id=\"ygrps-yiv-1477942621\">How come 山 in Sato Kanzan&#39;s name is treated as San (Chinese?) instead of Yama (Japanese)?  And how come it gets written as &quot;Kanzan&quot; in English instead of Kansan?<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2934,
+    "nextTopicId": 2939
+}

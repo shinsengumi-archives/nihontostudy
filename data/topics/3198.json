@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Tembo/Tenpo tsuba makers",
+            "postDate": "1122689014",
+            "msgId": 3198,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGEwMWM1OTRhYSRlNGNjYjdlMCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3197,
+            "nextInTime": 3199,
+            "topicId": 3198,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In what province did the Tembo school operate? Yamashiro? In what periods? How many generations of Sanada Tembo were there? David Zincavage [Non-text portions",
+            "messageBody": "<div id=\"ygrps-yiv-2124813925\">In what province did the Tembo school operate? Yamashiro? In what periods? How many generations of Sanada Tembo were there? <br/>\n<br/>\nDavid Zincavage<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3197,
+    "nextTopicId": 3199
+}

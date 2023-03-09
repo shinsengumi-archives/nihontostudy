@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 143394673,
+            "authorName": "Peter Farrar",
+            "from": "&quot;Peter Farrar&quot; &lt;pcfarrar@...&gt;",
+            "profile": "pcfarrar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Kozuka ID Help",
+            "postDate": "1077901982",
+            "msgId": 1673,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEUxQXdsWFotMDAwMEhKLTAwQHJoZW5pdW0uYnRpbnRlcm5ldC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1672,
+            "nextInTime": 1674,
+            "topicId": 1673,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, Can anyone assist me with this Kozuka identification please? The Kozuka shows bamboo in flower coming from a bucket. It appears to be made of shibuichi and",
+            "messageBody": "<div id=\"ygrps-yiv-795745599\">Hi,<br/>\n <br/>\nCan anyone assist me with this Kozuka identification please?<br/>\n <br/>\nThe Kozuka shows bamboo in flower coming from a bucket. It appears to be<br/>\nmade of shibuichi and has a nanako-ji surface, the reverse is plain and<br/>\nunsigned.<br/>\n <br/>\nI&#39;m guessing it&#39;s from the 19th Century but can anyone confirm or deny that.<br/>\n <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.c.farrar.btinternet.co.uk/kozuka.jpg\">http://www.c.farrar.btinternet.co.uk/kozuka.jpg</a><br/>\n <br/>\nThanks,<br/>\n <br/>\nPeter<br/>\n <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1670,
+    "nextTopicId": 1678
+}

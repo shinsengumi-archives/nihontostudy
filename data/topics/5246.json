@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 262825586,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "I am looking for",
+            "postDate": "1200544728",
+            "msgId": 5246,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ3OEVEQkQ4LjUwNzAzMDRAYW1uZXQubmV0LmF1Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5245,
+            "nextInTime": 5247,
+            "topicId": 5246,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "a copy of the Exhibition at the Nezu Institute of Fine Arts: Birds, Flowers and the Seasons as Seen in Japanese Swords If anyone knows of one, I would",
+            "messageBody": "<div id=\"ygrps-yiv-1299728104\">a copy of the &quot;Exhibition at the Nezu Institute of Fine Arts: Birds, <br/>\nFlowers and the Seasons as Seen in Japanese Swords&quot;<br/>\n<br/>\nIf anyone knows of one, I would appreciate a heads up.<br/>\n<br/>\nCheers<br/>\n<br/>\nRichard</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5245,
+    "nextTopicId": 5247
+}

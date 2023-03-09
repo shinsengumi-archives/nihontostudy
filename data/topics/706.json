@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] one sided tsuba ?",
+            "postDate": "1061856433",
+            "msgId": 707,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxMjEwMWMzNmI2NiQwMWYzZDhhMCRjNjVmNGJhYkBvZW1jb21wdXRlcj4=",
+                "referencesHeader": "PDAxODgwMWMzNmI1ZiQzZDllYWM2MCQ5N2NhZmVhOUBreXA0Pg=="
+            },
+            "prevInTopic": 706,
+            "nextInTopic": 0,
+            "prevInTime": 706,
+            "nextInTime": 708,
+            "topicId": 706,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Matt, That is an unusual design.  I see it as a variation on the nanban style cupped guard.  Rather than forging a cupped plate, it looks like the three",
+            "messageBody": "<div id=\"ygrps-yiv-222723001\">Matt,<br/>\nThat is an unusual design.  I see it as a variation on the nanban style &quot;cupped&quot; guard.  Rather than forging a cupped plate, it looks like the three lobes were carved out.  The cupped nanban guards were usually (always?) mounted with the convex side facing the nakago/hand.<br/>\nJim<br/>\n<br/>\n<br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.aoi-art.ab.psiweb.com/fittings/itaku/main.html\">http://www.aoi-art.ab.psiweb.com/fittings/itaku/main.html</a><br/>\n<br/>\n  no. 19. <br/>\n<br/>\n  Ian any ideas ? :-)<br/>\n<br/>\n  Seriously, strange design no ?<br/>\n<br/>\n  Matt<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 135018472,
+            "authorName": "Matthew E. Hoyle",
+            "from": "&quot;Matthew E. Hoyle&quot; &lt;matthewhoyle@...&gt;",
+            "profile": "matthewhoyle2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "one sided tsuba ?",
+            "postDate": "1061853524",
+            "msgId": 706,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxODgwMWMzNmI1ZiQzZDllYWM2MCQ5N2NhZmVhOUBreXA0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 707,
+            "prevInTime": 705,
+            "nextInTime": 707,
+            "topicId": 706,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.aoi-art.ab.psiweb.com/fittings/itaku/main.html no. 19. Ian any ideas ? :-) Seriously, strange design no ? Matt [Non-text portions of this message",
+            "messageBody": "<div id=\"ygrps-yiv-272979539\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.aoi-art.ab.psiweb.com/fittings/itaku/main.html\">http://www.aoi-art.ab.psiweb.com/fittings/itaku/main.html</a><br/>\n <br/>\nno. 19. <br/>\n <br/>\nIan any ideas ? :-)<br/>\n <br/>\nSeriously, strange design no ?<br/>\n <br/>\nMatt<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 702,
+    "nextTopicId": 709
+}

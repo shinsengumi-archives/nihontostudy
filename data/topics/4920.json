@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 24208042,
+            "authorName": "tbdbernard",
+            "from": "&quot;tbdbernard&quot; &lt;Bernard.Thierry@...&gt;",
+            "profile": "tbdbernard",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "commercial wakizashi on ebay",
+            "postDate": "1173009469",
+            "msgId": 4920,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVzZWM3dCt0bWN1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4919,
+            "nextInTime": 4921,
+            "topicId": 4920,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "take a look if you are interested. ( one more to come ) http://search.ebay.fr/_W0QQfgtpZ1QQfrppZ25QQsassZtQ2dbernard Regards Thierry",
+            "messageBody": "<div id=\"ygrps-yiv-202351463\">take a look if you are interested. ( one more to come ) <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://search.ebay.fr/_W0QQfgtpZ1QQfrppZ25QQsassZtQ2dbernard\">http://search.ebay.fr/_W0QQfgtpZ1QQfrppZ25QQsassZtQ2dbernard</a> <br/>\n<br/>\nRegards<br/>\n<br/>\nThierry</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4916,
+    "nextTopicId": 4921
+}

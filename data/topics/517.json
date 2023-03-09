@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "re tsuba book",
+            "postDate": "1057629244",
+            "msgId": 517,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNzgwMWMzNDRmMyRkMDA3MGFkMCQxZjAxMDAwYUB3aGl6MT4=",
+                "referencesHeader": "PGJlYmc4YytzbWhtQGVHcm91cHMuY29tPiA8MDA5OTAxYzM0NDkwJGE0NTMyZTQwJDRlOTcwNzNlQGFiYWxlPiA8MDA4YzAxYzM0NGQ1JDhiMDliZDYwJDhmNWY0YmFiQG9lbWNvbXB1dGVyPiA8M0YwQTBCMUEuNDA4MDUwMUBpa2t5dWRvLmNvbT4gPDAwY2QwMWMzNDRlZCQ0MjMxYmU0MCQ4ZjVmNGJhYkBvZW1jb21wdXRlcj4gPDNGMEEyMEM1LjYwNjAzMDZAaWtreXVkby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 516,
+            "nextInTime": 518,
+            "topicId": 517,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, sorry for the posts popping up, these were a couple I sent last night and early this morning, that didnt go through. again sorry for the spam. Rich ...",
+            "messageBody": "<div id=\"ygrps-yiv-1505159508\">Hi all, sorry for the posts popping up, these were a couple I sent last night and early this morning, that didnt go through.<br/>\n<br/>\nagain sorry for the spam.<br/>\n<br/>\nRich<br/>\n<br/>\n<br/>\n---<br/>\nOutgoing mail is certified Virus Free.<br/>\nChecked by AVG anti-virus system (http://www.grisoft.com).<br/>\nVersion: 6.0.493 / Virus Database: 292 - Release Date: 25/06/2003<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 515,
+    "nextTopicId": 520
+}

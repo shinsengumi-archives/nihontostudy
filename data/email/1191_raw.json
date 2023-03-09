@@ -1,0 +1,30 @@
+{
+    "userId": 129124237,
+    "authorName": "samurai@xhasc.com",
+    "from": "samurai@...",
+    "replyTo": "LIST",
+    "senderId": "uNE1rMNAd6VZtHfssRbZCb8N2HuEcqwCTnWCqkxqPbpB_b5bI6cN3KwATuoqbbhSAW6PwZEcSTI",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [nihontostudy] speaking of publishing...",
+    "postDate": "1070295374",
+    "msgId": 1191,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PHhvOGlzbDBhNHo1LmZzZkBmZWFyLnhoYXNjLmNvbT4=",
+        "inReplyToHeader": "PDNGQ0FDQTM3LjQwNTA3MDdAdGVsZXBvcnQuY29tPiAoUmljaGFyZCBHZW9yZ2UncyBtZXNzYWdlIG9mICJTdW4sIDMwIE5vdiAyMDAzIDIwOjU3OjI3IC0wODAwIik=",
+        "referencesHeader": "PDNGQ0FDQTM3LjQwNTA3MDdAdGVsZXBvcnQuY29tPg=="
+    },
+    "prevInTopic": 1190,
+    "nextInTopic": 0,
+    "prevInTime": 1190,
+    "nextInTime": 1192,
+    "topicId": 1190,
+    "numMessagesInTopic": 2,
+    "msgSnippet": "... There is a reason that text could be a problem. In general, you re looking at 180 dpi for the recommended resolution of photographs and pictures. You could",
+    "rawEmail": "Return-Path: &lt;samurai@...&gt;\r\nX-Sender: samurai@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 22010 invoked from network); 1 Dec 2003 15:11:29 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m13.grp.scd.yahoo.com with QMQP; 1 Dec 2003 15:11:29 -0000\r\nReceived: from unknown (HELO tomts36-srv.bellnexxia.net) (209.226.175.93)\n  by mta5.grp.scd.yahoo.com with SMTP; 1 Dec 2003 15:11:28 -0000\r\nReceived: from hasc.com ([67.68.84.7]) by tomts36-srv.bellnexxia.net\n          (InterMail vM.5.01.06.05 201-253-122-130-105-20030824) with ESMTP\n          id &lt;20031201151127.UHZX22549.tomts36-srv.bellnexxia.net@...&gt;\n          for &lt;nihontostudy@yahoogroups.com&gt;;\n          Mon, 1 Dec 2003 10:11:27 -0500\r\nReceived: from fear.xhasc.com (IDENT:samurai@fear [192.168.1.201])\n\tby hasc.com (8.11.0/8.12.5) with ESMTP id hB1GGEQ17586\n\tfor &lt;nihontostudy@yahoogroups.com&gt;; Mon, 1 Dec 2003 11:16:14 -0500\r\nTo: nihontostudy@yahoogroups.com\r\nSubject: Re: [nihontostudy] speaking of publishing...\r\nReferences: &lt;3FCACA37.4050707@...&gt;\r\nDate: Mon, 01 Dec 2003 11:16:14 -0500\r\nIn-Reply-To: &lt;3FCACA37.4050707@...&gt; (Richard George&#39;s message of\n &quot;Sun, 30 Nov 2003 20:57:27 -0800&quot;)\r\nMessage-ID: &lt;xo8isl0a4z5.fsf@...&gt;\r\nUser-Agent: Gnus/5.1002 (Gnus v5.10.2) Emacs/21.3 (gnu/linux)\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nX-eGroups-Remote-IP: 209.226.175.93\r\nX-eGroups-From: darcy@... (Darcy Brockbank)\r\nFrom: samurai@...\r\nX-Yahoo-Group-Post: member; u=129124237\r\n\r\n&lt;rkg@...&gt; writes:\n\n&gt; Hey guys, In case anybody is interested, there are several companies\n&gt; that will do short run books for what seem to be pretty reasonable\n&gt; prices - check out this week&#39;s business week - the three listed are\n&gt; snapfish.com, imagestation.com, and MyPublisher.com - they talked\n&gt; about using them for photos mostly, but I can&#39;t see any reason why you\n&gt; couldn&#39;t throw jpegs with typing in &#39;em as well...\n\nThere is a reason that text could be a problem.\n\nIn general, you&#39;re looking at 180 dpi for the recommended resolution of\nphotographs and pictures. You could go as low as 150dpi in some cases,\nbut everything over 180dpi is overkill.\n\nFor text, the line is drawn around 400dpi.\n\nIf these guys are stuck on photos, you may have a 180dpi resolution\nhardcoded everywhere... which means your text will look bad. \n\nStill worthwhile to look into, but this should be kept in mind.\n\n- darcy\n\n\n"
+}

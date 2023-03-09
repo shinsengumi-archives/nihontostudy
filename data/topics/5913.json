@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 182675718,
+            "authorName": "Bob Elder",
+            "from": "Bob Elder &lt;toyama1_2000@...&gt;",
+            "profile": "toyama1_2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Looking for Joe Forcine",
+            "postDate": "1345072585",
+            "msgId": 5914,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzNDUwNzI1ODUuODMzMDguWWFob29NYWlsTmVvQHdlYjM2NTAzLm1haWwubXVkLnlhaG9vLmNvbT4=",
+                "inReplyToHeader": "PDEzNDUwNjA5NjMuMTA0MzUuWWFob29NYWlsTmVvQHdlYjM2NTA4Lm1haWwubXVkLnlhaG9vLmNvbT4=",
+                "referencesHeader": "PDEzNDUwNjA5NjMuMTA0MzUuWWFob29NYWlsTmVvQHdlYjM2NTA4Lm1haWwubXVkLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 5913,
+            "nextInTopic": 0,
+            "prevInTime": 5913,
+            "nextInTime": 5915,
+            "topicId": 5913,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Found him. Call off the dogs.. ________________________________ From: Bob Elder  To: nihontostudy@yahoogroups.com",
+            "messageBody": "<div id=\"ygrps-yiv-2034979480\">Found him. Call off the dogs..<br/>\n<br/>\n<br/>\n<br/>\n________________________________<br/>\n From: Bob Elder &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:toyama1_2000@...\">toyama1_2000@...</a>&gt;<br/>\nTo: &quot;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>&gt; <br/>\nSent: Wednesday, August 15, 2012 4:02 PM<br/>\nSubject: [nihontostudy] Looking for Joe Forcine<br/>\n <br/>\n<br/>\n  <br/>\nAnyone know hi phone number? Thanks. Bob Elder www.orlandojapaneseswordshow.com<br/>\n<br/>\n[Non-text portions of this message have been removed]<br/>\n<br/>\n<br/>\n <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 182675718,
+            "authorName": "Bob Elder",
+            "from": "Bob Elder &lt;toyama1_2000@...&gt;",
+            "profile": "toyama1_2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Looking for Joe Forcine",
+            "postDate": "1345060963",
+            "msgId": 5913,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzNDUwNjA5NjMuMTA0MzUuWWFob29NYWlsTmVvQHdlYjM2NTA4Lm1haWwubXVkLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5914,
+            "prevInTime": 5912,
+            "nextInTime": 5914,
+            "topicId": 5913,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Anyone know hi phone number? Thanks. Bob Elder www.orlandojapaneseswordshow.com [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-843228736\">Anyone know hi phone number? Thanks. Bob Elder www.orlandojapaneseswordshow.com<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5912,
+    "nextTopicId": 5915
+}

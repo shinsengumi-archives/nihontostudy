@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 192129554,
+            "authorName": "John Bailey",
+            "from": "&quot;John Bailey&quot; &lt;johnrbailey@...&gt;",
+            "profile": "johnrbuk",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Anyone in England?",
+            "postDate": "1186579591",
+            "msgId": 5140,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGY5Y2dhNytiY3M1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5137,
+            "nextInTime": 5141,
+            "topicId": 5140,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi I am a new member, living in Norwich, England.  Are there and other British residents in the group? regards john bailey",
+            "messageBody": "<div id=\"ygrps-yiv-1736703487\">Hi<br/>\n<br/>\nI am a new member, living in Norwich, England.  Are there and other <br/>\nBritish residents in the group?<br/>\n<br/>\nregards<br/>\n<br/>\njohn bailey</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5132,
+    "nextTopicId": 5141
+}

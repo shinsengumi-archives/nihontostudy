@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: design question",
+            "postDate": "1181498263",
+            "msgId": 5064,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGY0aGUybitmc3I5QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGY0aGMyYytybDMyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5062,
+            "nextInTopic": 0,
+            "prevInTime": 5063,
+            "nextInTime": 5065,
+            "topicId": 5062,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Let s see now -- Dragonfly Hovering Above Reflection of Crescent Moon in Pond .  How s that?",
+            "messageBody": "<div id=\"ygrps-yiv-395727912\">Let&#39;s see now -- &#39;Dragonfly Hovering Above Reflection of Crescent Moon <br/>\nin Pond&#39;.  How&#39;s that?</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "design question",
+            "postDate": "1181496204",
+            "msgId": 5062,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGY0aGMyYytybDMyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5064,
+            "prevInTime": 5061,
+            "nextInTime": 5063,
+            "topicId": 5062,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.esnips.com/web/tsuba?docsPage=1#files I think it s a big hay stack, but  whta s the  curly  thing at the bottom ? p.s. batman, it s not a stealth",
+            "messageBody": "<div id=\"ygrps-yiv-1674795502\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.esnips.com/web/tsuba?docsPage=1#files\">http://www.esnips.com/web/tsuba?docsPage=1#files</a><br/>\n<br/>\nI think it&#39;s a big hay stack, but  whta&#39;s the &quot; curly &quot; thing at the <br/>\nbottom ?<br/>\np.s. batman, it&#39;s not a stealth fighter chased by a heat seeking missile<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5060,
+    "nextTopicId": 5071
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Mito Shoami - not",
+            "postDate": "1065553323",
+            "msgId": 877,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMjEwMWMzOGQwNSQ4MDUzNDZjMCRlNzQzNGJhYkBvZW1jb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 876,
+            "nextInTime": 878,
+            "topicId": 877,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "BTW, I asked Hagihara-sensei whether he had ever seen anything with a Mito Shoami signature or any record of an attribution to Mito Shoami.  He said no, but of",
+            "messageBody": "<div id=\"ygrps-yiv-561152766\">BTW,<br/>\nI asked Hagihara-sensei whether he had ever seen anything with a Mito Shoami signature or any record of an attribution to Mito Shoami.  He said no, but of course that he had seen signed Aizu Shoami work.<br/>\n<br/>\nWe didn&#39;t get any of the Shoami-style shiiremono tsuba at this shinsa, but in past shinsa they were simply rejected as being mass produced without any comment as to their origin.<br/>\n<br/>\nJim<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 870,
+    "nextTopicId": 876
+}

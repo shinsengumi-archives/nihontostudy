@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70536526,
+            "authorName": "Mark P. Jones",
+            "from": "&quot;Mark P. Jones&quot; &lt;nixe@...&gt;",
+            "profile": "markpjonesii",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Commercial Tsuba message",
+            "postDate": "1142480488",
+            "msgId": 3976,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxNzkwMWM2NDhhYiQ4MzcyZTNiMCQ4NTdiYThjMEBtYWluZGVza3RvcD4=",
+                "referencesHeader": "PGR2YWpkYys2czA1QGVHcm91cHMuY29tPiA8MGM2ZDAxYzY0OGE2JDNmYjJhMGMwJDU1MTVmYTA0QDM5NzQ5MDgwMDAxPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3975,
+            "nextInTime": 3977,
+            "topicId": 3976,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hope this is appropriate: I just listed several tsuba on eBay, please feel free to comment on them if it is educational. A friend helped me kantei some to",
+            "messageBody": "<div id=\"ygrps-yiv-2062171564\">Hope this is appropriate: I just listed several tsuba on eBay, please feel <br/>\nfree to comment on them if it is educational. A friend helped me &quot;kantei&quot; <br/>\nsome to assign to schools but they could be mislabeled. Any comments are <br/>\nfine (good bad or ugly).<br/>\n<br/>\nthis link should work <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://search.ebay.com/_W0QQsassZmark!\">http://search.ebay.com/_W0QQsassZmark!</a>!1QQhtZ-1QQfrppZ50QQfsopZ1QQfsooZ1QQrdZ0<br/>\nor my seller i.d is Mark!!1<br/>\n<br/>\nThanks<br/>\n<br/>\nMark  Jones<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nixe@...\">nixe@...</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3967,
+    "nextTopicId": 3978
+}

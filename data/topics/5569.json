@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 347370118,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "ready for Japan sale",
+            "postDate": "1242685748",
+            "msgId": 5570,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDRBMTFFMTM0LjYwNDAyMDVAZ21haWwuY29tPg==",
+                "inReplyToHeader": "PGdzc2VtMytiNmozQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGdzc2VtMytiNmozQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5569,
+            "nextInTopic": 0,
+            "prevInTime": 5569,
+            "nextInTime": 5571,
+            "topicId": 5569,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, I am working towards funding my trip to Japan in August (well my shopping funds :-)  and I have a few items up for grabs. Please take a look if",
+            "messageBody": "<div id=\"ygrps-yiv-323899166\">Hi all, I am working towards funding my trip to Japan in August (well my <br/>\nshopping funds :-)  and I have a few items up for grabs.<br/>\n<br/>\nPlease take a look if interested.<br/>\n<br/>\nCheers<br/>\n<br/>\nRich<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://whiz.com.au/richard/sale/for-sale.html\">http://whiz.com.au/richard/sale/for-sale.html</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 289184668,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;rsblade@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Yahoo closing Geocities",
+            "postDate": "1240579587",
+            "msgId": 5569,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdzc2VtMytiNmozQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5570,
+            "prevInTime": 5568,
+            "nextInTime": 5570,
+            "topicId": 5569,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yahoo is closing down Geocities this summer, so my mirror site will no longer be available. Please use the original earthlink site and correct your bookmarks",
+            "messageBody": "<div id=\"ygrps-yiv-575878644\">Yahoo is closing down Geocities this summer, so my mirror<br/>\nsite will no longer be available. Please use the original<br/>\nearthlink site and correct your bookmarks and links.<br/>\n<br/>\nThe Japanese Sword Index<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://home.earthlink.net/~steinrl/nihonto.htm\">http://home.earthlink.net/~steinrl/nihonto.htm</a><br/>\n<br/>\nThanks<br/>\nRich S</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5568,
+    "nextTopicId": 5571
+}

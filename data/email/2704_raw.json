@@ -1,0 +1,28 @@
+{
+    "userId": 164318475,
+    "authorName": "Robert Patterson",
+    "from": "&quot;Robert Patterson&quot; &lt;b_patt@...&gt;",
+    "replyTo": "LIST",
+    "senderId": "T2UC_ZBCqD873MoN8nBCMjoTW38fVnYjTgaFsQ4C4eKjws6u3lDKg4umD0mswr6YRmjQItx3mE9Pvh4jCSfhy8ULY3-oy0xTv4IWEg",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "7"
+    },
+    "subject": "test",
+    "postDate": "1110909988",
+    "msgId": 2704,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDAwMGIwMWM1Mjk4OSRiNWU3ZThhMCQxYWE4ZThkOEBjb21wdXRyZXJhdmVuPg=="
+    },
+    "prevInTopic": 2568,
+    "nextInTopic": 2734,
+    "prevInTime": 2703,
+    "nextInTime": 2705,
+    "topicId": 621,
+    "numMessagesInTopic": 12,
+    "msgSnippet": "test",
+    "rawEmail": "Return-Path: &lt;b_patt@...&gt;\r\nX-Sender: b_patt@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 13442 invoked from network); 15 Mar 2005 18:07:18 -0000\r\nReceived: from unknown (66.218.66.218)\n  by m28.grp.scd.yahoo.com with QMQP; 15 Mar 2005 18:07:18 -0000\r\nReceived: from unknown (HELO priv-edtnes46.telusplanet.net) (199.185.220.240)\n  by mta3.grp.scd.yahoo.com with SMTP; 15 Mar 2005 18:07:18 -0000\r\nReceived: from computreraven ([216.232.168.26])\n          by priv-edtnes46.telusplanet.net\n          (InterMail vM.6.01.04.00 201-2131-118-20041027) with SMTP\n          id &lt;20050315180656.NYBE26339.priv-edtnes46.telusplanet.net@computreraven&gt;\n          for &lt;nihontostudy@yahoogroups.com&gt;;\n          Tue, 15 Mar 2005 11:06:56 -0700\r\nMessage-ID: &lt;000b01c52989$b5e7e8a0$1aa8e8d8@computreraven&gt;\r\nTo: &lt;nihontostudy@yahoogroups.com&gt;\r\nDate: Tue, 15 Mar 2005 08:06:28 -1000\r\nMIME-Version: 1.0\r\nContent-Type: text/plain;\n\tformat=flowed;\n\tcharset=&quot;iso-8859-1&quot;;\n\treply-type=original\r\nContent-Transfer-Encoding: 7bit\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 6.00.2900.2527\r\nX-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2527\r\nX-eGroups-Msg-Info: 1:7:0\r\nFrom: &quot;Robert Patterson&quot; &lt;b_patt@...&gt;\r\nSubject: test\r\nX-Yahoo-Group-Post: member; u=164318475\r\n\r\ntest\n\n\n"
+}

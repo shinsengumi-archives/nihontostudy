@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 213364357,
+            "authorName": "excelsiorilluminati",
+            "from": "&quot;excelsiorilluminati&quot; &lt;excelsiorilluminati@...&gt;",
+            "profile": "excelsiorilluminati",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Got it",
+            "postDate": "1133248230",
+            "msgId": 3538,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRtZ3V0Nis5MDh1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3537,
+            "nextInTime": 3539,
+            "topicId": 3538,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have received it. Thank you",
+            "messageBody": "<div id=\"ygrps-yiv-112278094\">I have received it. Thank you</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3537,
+    "nextTopicId": 3533
+}

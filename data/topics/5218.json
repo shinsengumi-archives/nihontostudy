@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "profile": "xe83fan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "TEST-PLEASE DELETE",
+            "postDate": "1196828669",
+            "msgId": 5218,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNGQwMWM4MzZmNiRiZWU4YzY0MCQwMjAwYThjMEBCQVJSWT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5217,
+            "nextInTime": 5219,
+            "topicId": 5218,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "",
+            "messageBody": "",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2416,
+    "nextTopicId": 5219
+}

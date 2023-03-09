@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihonto] the stolen sword &quot;joke&quot;",
+            "postDate": "1097639321",
+            "msgId": 2310,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEM2MTMzQUE5LTFDQ0EtMTFEOS1CM0EwLTAwMEE5NURGQUFFMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PGNraHZsMytmZnZvQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGNraHZsMytmZnZvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2309,
+            "nextInTime": 2311,
+            "topicId": 2310,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All- The joke was all my doing, a lapse in judgement perhaps as some said. I take full responsibility and I am even now communicating with Bob about how best",
+            "messageBody": "<div id=\"ygrps-yiv-787625665\">All-<br/>\n\tThe joke was all my doing, a lapse in judgement perhaps as some said. <br/>\nI take full responsibility and I am even now communicating with Bob <br/>\nabout how best to apologize to the hotel staff. If anyone has <br/>\nreconsidered the Chicago show as a destination, I beg you rest assured <br/>\nnothing was stolen at the show.  I took charge of an item that was <br/>\nforgotten by a friend of mine and meant to have some fun at his <br/>\nexpense, not the hotel staff or the fine folks who run the Chicago <br/>\nTaikai.<br/>\n<br/>\nThomas C Helm Jr.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2308,
+    "nextTopicId": 2232
+}

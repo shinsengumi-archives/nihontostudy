@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Kakihan",
+            "postDate": "1150597114",
+            "msgId": 4299,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU3MmQ1cSs1ZjlvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4298,
+            "nextInTime": 4300,
+            "topicId": 4299,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Is there a relationship between kakihan and sosho?",
+            "messageBody": "<div id=\"ygrps-yiv-1795341689\">Is there a relationship between kakihan and sosho?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4295,
+    "nextTopicId": 4300
+}

@@ -1,0 +1,29 @@
+{
+    "userId": 134498325,
+    "authorName": "tom helm",
+    "from": "tom helm &lt;junkmail@...&gt;",
+    "profile": "soshuju",
+    "replyTo": "LIST",
+    "senderId": "hv0tYCMAyfdc7sGeqyZipu9YYFZpnk_P6IVV3a-yrx8WBaZuGau-C7WT1HBuCoYJ1clRm02kt5Vqb1wmm9A0o58_cLnVmusP",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "font",
+    "postDate": "1063340675",
+    "msgId": 767,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGEwNTIxMDYwMGJiODZmYWI4NzhmNkBbMTkyLjE2OC4xNzMuMTY2XT4="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 766,
+    "nextInTime": 768,
+    "topicId": 767,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Didn t work for Mac but might be fun for you windows users... -t http://didier.mas.free.fr/public/",
+    "rawEmail": "Return-Path: &lt;toryu@...&gt;\r\nX-Sender: toryu@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 5455 invoked from network); 12 Sep 2003 04:24:39 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m5.grp.scd.yahoo.com with QMQP; 12 Sep 2003 04:24:39 -0000\r\nReceived: from unknown (HELO pop.sanbrunocable.com) (65.172.230.120)\n  by mta2.grp.scd.yahoo.com with SMTP; 12 Sep 2003 04:24:39 -0000\r\nReceived: from [192.168.173.166] (dynamic-192-168-173-166.sanbrunocable.com [192.168.173.166])\n\tby pop.sanbrunocable.com (8.11.6/8.11.6) with ESMTP id h8C4O1m31555;\n\tThu, 11 Sep 2003 21:24:01 -0700\r\nMime-Version: 1.0\r\nX-Sender: sanbruno@...\r\nMessage-Id: &lt;a05210600bb86fab878f6@[192.168.173.166]&gt;\r\nDate: Thu, 11 Sep 2003 21:24:35 -0700\r\nTo: tom helm &lt;toryu@...&gt;\r\nSubject: font\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot; ; format=&quot;flowed&quot;\r\nX-eGroups-From: tom helm &lt;toryu@...&gt;\r\nFrom: tom helm &lt;junkmail@...&gt;\r\nX-Yahoo-Group-Post: member; u=134498325\r\nX-Yahoo-Profile: soshuju\r\n\r\nDidn&#39;t work for Mac but might be fun for you windows users...\n-t\n\nhttp://didier.mas.free.fr/public/\n\n"
+}

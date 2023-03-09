@@ -1,0 +1,43 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 743087882,
+        "photoId": 372361716,
+        "photoName": "Tsuba",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "danielssonpatrik",
+        "modificationDate": 1079427616,
+        "creationDate": 1079427616,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/1s32ZR_vfdO4gNcp8h4-/name/n_a",
+                "height": 96,
+                "width": 81,
+                "size": 1848,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/1s32ZR_vfdO4gNcp8h4-/name/n_a",
+                "height": 480,
+                "width": 404,
+                "size": 16572,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/1s32ZR_vfdO4gNcp8h4-/name/n_a",
+                "height": 800,
+                "width": 674,
+                "size": 37119,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

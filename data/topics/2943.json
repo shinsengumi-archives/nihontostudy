@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "new nihonto auction site, a commercial message",
+            "postDate": "1115520332",
+            "msgId": 2943,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ1anVnYyt1ZWtzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2942,
+            "nextInTime": 2944,
+            "topicId": 2943,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "please klick...... http://www.double-dragon-ebooks.com/NihontoAuctions/QAViewItem.asp? ItemID=9 -m",
+            "messageBody": "<div id=\"ygrps-yiv-1112809911\">please klick......<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.double-dragon-ebooks.com/NihontoAuctions/QAViewItem.asp?\">http://www.double-dragon-ebooks.com/NihontoAuctions/QAViewItem.asp?</a><br/>\nItemID=9<br/>\n<br/>\n<br/>\n-m</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2939,
+    "nextTopicId": 2944
+}

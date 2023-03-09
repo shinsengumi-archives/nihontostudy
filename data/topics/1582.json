@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 129525792,
+            "authorName": "Pawel Nowak",
+            "from": "&quot;Pawel Nowak&quot; &lt;tomasnowak@...&gt;",
+            "profile": "treasurewrecks",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Japanese Blade from XVIII century for sale",
+            "postDate": "1075295848",
+            "msgId": 1582,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PExhdzktT0U1OEZ6b3RTa3JwRXcwMDAyMzI0MkBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1581,
+            "nextInTime": 1583,
+            "topicId": 1582,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have a Japanese blade from XVIII century and I would like to sell it for the fee of $400. If someone is interested in such sword, please contact me. Kind",
+            "messageBody": "<div id=\"ygrps-yiv-1482644154\">I have a Japanese blade from XVIII century and I would like to sell it for the fee of $400. If someone is interested in such sword, please contact me.<br/>\n<br/>\nKind regards,<br/>\nPawel T. Nowak<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Tomasnowak@...\">Tomasnowak@...</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1578,
+    "nextTopicId": 1377
+}

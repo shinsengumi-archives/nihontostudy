@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 191704382,
+            "authorName": "frkirk",
+            "from": "&quot;frkirk&quot; &lt;frkirk@...&gt;",
+            "profile": "frkirk",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Kanabo arrived",
+            "postDate": "1101482706",
+            "msgId": 2418,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNvN2hzaStxOTF0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2417,
+            "nextInTime": 2419,
+            "topicId": 2418,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi everyone I wrote a few weeks back that I had purchased this kanabo from ebay. http://cgi.ebay.com/ws/eBayISAPI.dllViewItem&rd=1&item=3758988410&ssP ",
+            "messageBody": "<div id=\"ygrps-yiv-254706198\">Hi everyone<br/>\nI wrote a few weeks back that I had purchased this kanabo from ebay.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/ws/eBayISAPI.dllViewItem&rd=1&item=3758988410&ssP\">http://cgi.ebay.com/ws/eBayISAPI.dllViewItem&rd=1&item=3758988410&ssP</a><br/>\nageName=STRK:MEWN:IT<br/>\nIt arrived early this week and I ma very pleased with it- as far as <br/>\nI can tell the age of the iron and wood is even and consistent with <br/>\nbeing several centuries old.  My problem now is research.  Out of <br/>\nall my books (which is a fair number) I have only one reference to <br/>\nthis kind of weapon- in Arms and Armor of the Samurai by Hopson and <br/>\nBottomley.  If anyone out there can assist me in finding further <br/>\nreferences, pictures or other info I would sincerely appreciate it.<br/>\nThanks for your time.<br/>\nKirk</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2417,
+    "nextTopicId": 2419
+}

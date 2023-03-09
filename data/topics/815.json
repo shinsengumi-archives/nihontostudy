@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "plum brown",
+            "postDate": "1064244619",
+            "msgId": 815,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJrbjRpYis4YjZpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 814,
+            "nextInTime": 816,
+            "topicId": 815,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Gang, What s the tell tale signs that a tsuba has gone through the plum brown treatment ? The smell ? color ? thank you all............. milt",
+            "messageBody": "<div id=\"ygrps-yiv-2116706989\">Gang,<br/>\nWhat&#39;s the tell tale signs that a tsuba has gone through the plum <br/>\nbrown treatment ?<br/>\nThe smell ? color ?<br/>\n<br/>\nthank you all.............<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 814,
+    "nextTopicId": 821
+}

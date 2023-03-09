@@ -1,0 +1,29 @@
+{
+    "userId": 123038749,
+    "authorName": "Dr John P Lissenden",
+    "from": "&quot;Dr John P Lissenden&quot; &lt;docliss@...&gt;",
+    "profile": "drjohnplissenden",
+    "replyTo": "LIST",
+    "senderId": "qi8tkqiCTpWrNb3iY6dBB0cacsNSe7Rrte-bQS_6Xt-evwe55j1Cn2nBKTs9VXc9QERWSl0EBsBWqdqytETijqe3CsIdQCfbTlyLjpgn7PuSBZGKEAuK",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "My photo album ...",
+    "postDate": "1107424917",
+    "msgId": 2631,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGN0c3NxbCttOTNqQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 2630,
+    "nextInTime": 2632,
+    "topicId": 2631,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Help I have recently created a photo album in anticipation of posting some photographs and find that, unlike the other albums, mine has a tick box.  Could",
+    "rawEmail": "Return-Path: &lt;docliss@...&gt;\r\nX-Sender: docliss@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 41030 invoked from network); 3 Feb 2005 10:02:19 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m18.grp.scd.yahoo.com with QMQP; 3 Feb 2005 10:02:19 -0000\r\nReceived: from unknown (HELO n3a.bulk.scd.yahoo.com) (66.94.237.37)\n  by mta5.grp.scd.yahoo.com with SMTP; 3 Feb 2005 10:02:19 -0000\r\nReceived: from [66.218.69.5] by n3.bulk.scd.yahoo.com with NNFMP; 03 Feb 2005 10:02:00 -0000\r\nReceived: from [66.218.66.61] by mailer5.bulk.scd.yahoo.com with NNFMP; 03 Feb 2005 10:02:00 -0000\r\nDate: Thu, 03 Feb 2005 10:01:57 -0000\r\nTo: nihontostudy@yahoogroups.com\r\nMessage-ID: &lt;ctssql+m93j@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 301\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nX-eGroups-Remote-IP: 66.94.237.37\r\nFrom: &quot;Dr John P Lissenden&quot; &lt;docliss@...&gt;\r\nSubject: My photo album ...\r\nX-Yahoo-Group-Post: member; u=123038749\r\nX-Yahoo-Profile: drjohnplissenden\r\n\r\n\n\n\nHelp\n\nI have recently created a photo album in anticipation of posting \nsome photographs and find that, unlike the other albums, mine has a \ntick box.  Could somebody please explain to me the significance of \nthis box please?\n\nI fear that perhaps I am being a bit thick over this.\n\nRegards, John L.\n\n\n\n\n"
+}

@@ -1,0 +1,707 @@
+{
+    "totalMsgInTopic": 23,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Confirmation of kanji/translation needed.",
+            "postDate": "1128599555",
+            "msgId": 3385,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzNDUxMDAzLjgwODAwMDJAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PGFsYW5iYWxlJDIxMy43OC43Mi44MyQuMDA2MzAxYzVjOWM2JGRkYjM0YzcwJDUzNDg0ZWQ1QGNvbXB1dGVyPg==",
+                "referencesHeader": "PGRob2E3Nys2cGxkQGVHcm91cHMuY29tPiA8MDQzNjAxYzVjN2RhJGRlYjZmZjYwJGJmNWFmYTA0QDM5NzQ5MDgwMDAxPiA8YTg5YjlmYTIxMmQ1YmNkYjVhMzBhNmIwY2ZlMDdiZDJAc3d1LmFjLmpwPiA8MDA0MzAxYzVjODAzJDJmYWRiZWUwJDAyMjlkOWNiQHRob21hc2ZhbWlseT4gPDgwODVmMjU4NjgyNWQ0MDc5MTYyZDUyZmFmNDFiNzMyQHN3dS5hYy5qcD4gPDQzNDNBRjQ3LjEwNzA0MDRAd2VzdG5ldC5jb20uYXU+IDxhbGFuYmFsZSQyMTMuNzguODMuMjM5JC4wMDgxMDFjNWM5YTEkZTYxMGRlNzAkZWY1MzRlZDVAY29tcHV0ZXI+IDw0MzQzQzU2Ri4yMDQwMkB3ZXN0bmV0LmNvbS5hdT4gPGFsYW5iYWxlJDIxMy43OC43Mi44MyQuMDA2MzAxYzVjOWM2JGRkYjM0YzcwJDUzNDg0ZWQ1QGNvbXB1dGVyPg=="
+            },
+            "prevInTopic": 3384,
+            "nextInTopic": 0,
+            "prevInTime": 3384,
+            "nextInTime": 3386,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Alan, thanks for that reply, it actually cleared something up for me. best wishes Rich ... [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-195812562\">Hi Alan, thanks for that reply, it actually cleared something up for me.<br/>\n<br/>\nbest wishes<br/>\n<br/>\nRich<br/>\n<br/>\nAlan Bale wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;I&#39;m not quite sure what you mean by relate, Mitsuoki commonly did not<br/>\n&gt;inscribe the &#39;O&#39; of Otsuki as here.<br/>\n&gt;Alan<br/>\n&gt;  <br/>\n&gt;<br/>\n<br/>\n<br/>\n<br/>\n </span></blockquote>[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "alangbale",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Confirmation of kanji/translation needed.",
+            "postDate": "1128528437",
+            "msgId": 3383,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFsYW5iYWxlJDIxMy43OC43Mi44MyQuMDA2MzAxYzVjOWM2JGRkYjM0YzcwJDUzNDg0ZWQ1QGNvbXB1dGVyPg==",
+                "referencesHeader": "PGRob2E3Nys2cGxkQGVHcm91cHMuY29tPiA8MDQzNjAxYzVjN2RhJGRlYjZmZjYwJGJmNWFmYTA0QDM5NzQ5MDgwMDAxPiA8YTg5YjlmYTIxMmQ1YmNkYjVhMzBhNmIwY2ZlMDdiZDJAc3d1LmFjLmpwPiA8MDA0MzAxYzVjODAzJDJmYWRiZWUwJDAyMjlkOWNiQHRob21hc2ZhbWlseT4gPDgwODVmMjU4NjgyNWQ0MDc5MTYyZDUyZmFmNDFiNzMyQHN3dS5hYy5qcD4gPDQzNDNBRjQ3LjEwNzA0MDRAd2VzdG5ldC5jb20uYXU+IDxhbGFuYmFsZSQyMTMuNzguODMuMjM5JC4wMDgxMDFjNWM5YTEkZTYxMGRlNzAkZWY1MzRlZDVAY29tcHV0ZXI+IDw0MzQzQzU2Ri4yMDQwMkB3ZXN0bmV0LmNvbS5hdT4="
+            },
+            "prevInTopic": 3382,
+            "nextInTopic": 3384,
+            "prevInTime": 3382,
+            "nextInTime": 3384,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m not quite sure what you mean by relate, Mitsuoki commonly did not inscribe the O of Otsuki as here. Alan ... From: Richard Turner",
+            "messageBody": "<div id=\"ygrps-yiv-1158716962\">I&#39;m not quite sure what you mean by relate, Mitsuoki commonly did not<br/>\ninscribe the &#39;O&#39; of Otsuki as here.<br/>\nAlan<br/>\n<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message ----- <br/>\nFrom: &quot;Richard Turner&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a>&gt;<br/>\nTo: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>&gt;<br/>\nSent: Wednesday, October 05, 2005 1:22 PM<br/>\nSubject: Re: [nihontostudy] Confirmation of kanji/translation needed.<br/>\n<br/>\n<br/>\nThanks ALan, can you tell me how the kanji for Ôtsuki relates to the mei<br/>\nplease ?.<br/>\n<br/>\nCheers<br/>\n<br/>\nRich<br/>\n<br/>\nAlan Bale wrote:<br/>\n<br/>\n&gt;Hi Rich,<br/>\n&gt;It reads &#39;Tairyusai Mitsuoki&#39; and it looks to be genuine, at least at first<br/>\n&gt;glance.<br/>\n&gt;<br/>\n&gt;Alan<br/>\n&gt;<br/>\n&gt;----- Original Message ----- <br/>\n&gt;From: &quot;Richard Turner&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a>&gt;<br/>\n&gt;To: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>&gt;<br/>\n&gt;Sent: Wednesday, October 05, 2005 11:47 AM<br/>\n&gt;Subject: [nihontostudy] Confirmation of kanji/translation needed.<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;&gt;Hi all, I have been working on translating a mei for a mate. I have got<br/>\n&gt;&gt;it down to Ô Ryûsai Tsuki Mitsuoki.<br/>\n&gt;&gt;<br/>\n&gt;&gt;Can anyone confirm this for me. It is definitely the Ôtsuki Mitsuoki Ha.<br/>\n&gt;&gt;<br/>\n&gt;&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/upload/images/crane%20kozuka%20sign.jpg\">http://www.nihontomessageboard.com/upload/images/crane%20kozuka%20sign.jpg</a><br/>\n&gt;&gt;<br/>\n&gt;&gt;I cannot seem to manage posting Kanji here, I have posted this thread<br/>\n&gt;&gt;also on the NMB so I have the kanji listed there as I got them form<br/>\n&gt;&gt;Wakayama.<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb//forum/index.php?action=display&foru\">http://www.nihontomessageboard.com/nmb//forum/index.php?action=display&foru</a><br/>\nmid=1&msgid=850<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;&gt;Cheers all.<br/>\n&gt;&gt;<br/>\n&gt;&gt;Rich<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;Yahoo! Groups Links<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n<br/>\n-- <br/>\n*Richard Turner - Nihonto Message Board*<br/>\n/for the discussion of all things Nihonto./<br/>\nwww.nihontomessageboard.com &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nYahoo! Groups Links </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Confirmation of kanji/translation needed.",
+            "postDate": "1128514927",
+            "msgId": 3382,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzNDNDNTZGLjIwNDAyQHdlc3RuZXQuY29tLmF1Pg==",
+                "inReplyToHeader": "PGFsYW5iYWxlJDIxMy43OC44My4yMzkkLjAwODEwMWM1YzlhMSRlNjEwZGU3MCRlZjUzNGVkNUBjb21wdXRlcj4=",
+                "referencesHeader": "PGRob2E3Nys2cGxkQGVHcm91cHMuY29tPiA8MDQzNjAxYzVjN2RhJGRlYjZmZjYwJGJmNWFmYTA0QDM5NzQ5MDgwMDAxPiA8YTg5YjlmYTIxMmQ1YmNkYjVhMzBhNmIwY2ZlMDdiZDJAc3d1LmFjLmpwPiA8MDA0MzAxYzVjODAzJDJmYWRiZWUwJDAyMjlkOWNiQHRob21hc2ZhbWlseT4gPDgwODVmMjU4NjgyNWQ0MDc5MTYyZDUyZmFmNDFiNzMyQHN3dS5hYy5qcD4gPDQzNDNBRjQ3LjEwNzA0MDRAd2VzdG5ldC5jb20uYXU+IDxhbGFuYmFsZSQyMTMuNzguODMuMjM5JC4wMDgxMDFjNWM5YTEkZTYxMGRlNzAkZWY1MzRlZDVAY29tcHV0ZXI+"
+            },
+            "prevInTopic": 3381,
+            "nextInTopic": 3383,
+            "prevInTime": 3381,
+            "nextInTime": 3383,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks ALan, can you tell me how the kanji for Ôtsuki relates to the mei please ?. Cheers Rich ... -- *Richard Turner - Nihonto Message Board* /for the",
+            "messageBody": "<div id=\"ygrps-yiv-1073749082\">Thanks ALan, can you tell me how the kanji for Ôtsuki relates to the mei <br/>\nplease ?.<br/>\n<br/>\nCheers<br/>\n<br/>\nRich<br/>\n<br/>\nAlan Bale wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Hi Rich,<br/>\n&gt;It reads &#39;Tairyusai Mitsuoki&#39; and it looks to be genuine, at least at first<br/>\n&gt;glance.<br/>\n&gt;<br/>\n&gt;Alan<br/>\n&gt;<br/>\n&gt;----- Original Message ----- <br/>\n&gt;From: &quot;Richard Turner&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a>&gt;<br/>\n&gt;To: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>&gt;<br/>\n&gt;Sent: Wednesday, October 05, 2005 11:47 AM<br/>\n&gt;Subject: [nihontostudy] Confirmation of kanji/translation needed.<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n&gt;&gt;Hi all, I have been working on translating a mei for a mate. I have got<br/>\n&gt;&gt;it down to Ô Ryûsai Tsuki Mitsuoki.<br/>\n&gt;&gt;<br/>\n&gt;&gt;Can anyone confirm this for me. It is definitely the Ôtsuki Mitsuoki Ha.<br/>\n&gt;&gt;<br/>\n&gt;&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/upload/images/crane%20kozuka%20sign.jpg\">http://www.nihontomessageboard.com/upload/images/crane%20kozuka%20sign.jpg</a><br/>\n&gt;&gt;<br/>\n&gt;&gt;I cannot seem to manage posting Kanji here, I have posted this thread<br/>\n&gt;&gt;also on the NMB so I have the kanji listed there as I got them form<br/>\n&gt;&gt;Wakayama.<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;    <br/>\n&gt;&gt;<br/>\n&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb//forum/index.php?action=display&forumid=1&msgid=850\">http://www.nihontomessageboard.com/nmb//forum/index.php?action=display&forumid=1&msgid=850</a><br/>\n&gt;  <br/>\n&gt;<br/>\n&gt;&gt;Cheers all.<br/>\n&gt;&gt;<br/>\n&gt;&gt;Rich<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;Yahoo! Groups Links<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;    <br/>\n&gt;&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; <br/>\n&gt;Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; <br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n<br/>\n </span></blockquote>-- <br/>\n*Richard Turner - Nihonto Message Board*<br/>\n/for the discussion of all things Nihonto./<br/>\nwww.nihontomessageboard.com &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Re: Yoshihiko",
+            "postDate": "1128513707",
+            "msgId": 3384,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDgwMWM1Y2E2NCRkMDdiMjk4MCQwMjI5ZDljYkB0aG9tYXNmYW1pbHk+",
+                "referencesHeader": "PGRob2E3Nys2cGxkQGVHcm91cHMuY29tPiA8MDQzNjAxYzVjN2RhJGRlYjZmZjYwJGJmNWFmYTA0QDM5NzQ5MDgwMDAxPiA8YTg5YjlmYTIxMmQ1YmNkYjVhMzBhNmIwY2ZlMDdiZDJAc3d1LmFjLmpwPiA8MDA0MzAxYzVjODAzJDJmYWRiZWUwJDAyMjlkOWNiQHRob21hc2ZhbWlseT4gPDgwODVmMjU4NjgyNWQ0MDc5MTYyZDUyZmFmNDFiNzMyQHN3dS5hYy5qcD4="
+            },
+            "prevInTopic": 3383,
+            "nextInTopic": 3385,
+            "prevInTime": 3383,
+            "nextInTime": 3385,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "HAHAHAHAHAHAHA - The Emperor Moth breaks out of his chrysallis!!!!  We ll have to have a drink one day, Gordon san Tonto... HAHAHAHAHAHAHAHA... Sleep tight",
+            "messageBody": "<div id=\"ygrps-yiv-1301757457\">HAHAHAHAHAHAHA - The Emperor Moth breaks out of his chrysallis!!!!  We&#39;ll have<br/>\nto have a drink one day, Gordon san Tonto...<br/>\n<br/>\nHAHAHAHAHAHAHAHA...<br/>\n<br/>\nSleep &quot;tight&quot; mate.<br/>\n<br/>\nBarry T.<br/>\n<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message -----<br/>\nFrom: &quot;Gordon Robson&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:robsongo@...\">robsongo@...</a>&gt;<br/>\nTo: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>&gt;<br/>\nSent: Monday, October 03, 2005 9:39 PM<br/>\nSubject: Re: [nihontostudy] Re: Yoshihiko<br/>\n<br/>\n<br/>\nNah, you have a forked tongue white man.<br/>\n<br/>\nGordon </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 123038749,
+            "authorName": "Dr John P Lissenden",
+            "from": "&quot;Dr John P Lissenden&quot; &lt;docliss@...&gt;",
+            "profile": "drjohnplissenden",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Confirmation of kanji/translation needed.",
+            "postDate": "1128512861",
+            "msgId": 3381,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRpMGVndCtzM2k5QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDQzNDNBRjQ3LjEwNzA0MDRAd2VzdG5ldC5jb20uYXU+"
+            },
+            "prevInTopic": 3380,
+            "nextInTopic": 3382,
+            "prevInTime": 3380,
+            "nextInTime": 3382,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Rich I agree, DARYUSAI TSUKI MITSUOKI.  See Kinko Meikan, p.473d. Regards, John L. ... have got ... Mitsuoki Ha. ... 20sign.jpg ... thread ... form ... ",
+            "messageBody": "<div id=\"ygrps-yiv-1622128354\">Dear Rich<br/>\n<br/>\nI agree, DARYUSAI TSUKI MITSUOKI.  See Kinko Meikan, p.473d.<br/>\n<br/>\nRegards, John L.<br/>\n<br/>\n--- In nihontostudy@yahoogroups.com, Richard Turner &lt;ikkanshi@w...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Hi all, I have been working on translating a mei for a mate. I <br/>\n </span></blockquote>have got <br/>\n<blockquote><span title=\"ireply\"> &gt; it down to Ô Ryûsai Tsuki Mitsuoki.<br/>\n&gt; <br/>\n&gt; Can anyone confirm this for me. It is definitely the Ôtsuki <br/>\n </span></blockquote>Mitsuoki Ha.<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; http://www.nihontomessageboard.com/upload/images/crane%20kozuka%<br/>\n </span></blockquote>20sign.jpg<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; I cannot seem to manage posting Kanji here, I have posted this <br/>\n </span></blockquote>thread <br/>\n<blockquote><span title=\"ireply\"> &gt; also on the NMB so I have the kanji listed there as I got them <br/>\n </span></blockquote>form <br/>\n<blockquote><span title=\"ireply\"> &gt; Wakayama.<br/>\n&gt; <br/>\n&gt; http://www.nihontomessageboard.com/nmb//forum/index.php?<br/>\n </span></blockquote>action=display&forumid=1&msgid=850<br/>\n<blockquote><span title=\"qreply\"> &gt; <br/>\n&gt; Cheers all.<br/>\n&gt; <br/>\n&gt; Rich </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "alangbale",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Confirmation of kanji/translation needed.",
+            "postDate": "1128512562",
+            "msgId": 3380,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFsYW5iYWxlJDIxMy43OC44My4yMzkkLjAwODEwMWM1YzlhMSRlNjEwZGU3MCRlZjUzNGVkNUBjb21wdXRlcj4=",
+                "referencesHeader": "PGRob2E3Nys2cGxkQGVHcm91cHMuY29tPiA8MDQzNjAxYzVjN2RhJGRlYjZmZjYwJGJmNWFmYTA0QDM5NzQ5MDgwMDAxPiA8YTg5YjlmYTIxMmQ1YmNkYjVhMzBhNmIwY2ZlMDdiZDJAc3d1LmFjLmpwPiA8MDA0MzAxYzVjODAzJDJmYWRiZWUwJDAyMjlkOWNiQHRob21hc2ZhbWlseT4gPDgwODVmMjU4NjgyNWQ0MDc5MTYyZDUyZmFmNDFiNzMyQHN3dS5hYy5qcD4gPDQzNDNBRjQ3LjEwNzA0MDRAd2VzdG5ldC5jb20uYXU+"
+            },
+            "prevInTopic": 3379,
+            "nextInTopic": 3381,
+            "prevInTime": 3379,
+            "nextInTime": 3381,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Rich, It reads Tairyusai Mitsuoki and it looks to be genuine, at least at first glance. Alan ... From: Richard Turner  To:",
+            "messageBody": "<div id=\"ygrps-yiv-10168532\">Hi Rich,<br/>\nIt reads &#39;Tairyusai Mitsuoki&#39; and it looks to be genuine, at least at first<br/>\nglance.<br/>\n<br/>\nAlan<br/>\n<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message ----- <br/>\nFrom: &quot;Richard Turner&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a>&gt;<br/>\nTo: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>&gt;<br/>\nSent: Wednesday, October 05, 2005 11:47 AM<br/>\nSubject: [nihontostudy] Confirmation of kanji/translation needed.<br/>\n<br/>\n<br/>\n&gt; Hi all, I have been working on translating a mei for a mate. I have got<br/>\n&gt; it down to Ô Ryûsai Tsuki Mitsuoki.<br/>\n&gt;<br/>\n&gt; Can anyone confirm this for me. It is definitely the Ôtsuki Mitsuoki Ha.<br/>\n&gt;<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/upload/images/crane%20kozuka%20sign.jpg\">http://www.nihontomessageboard.com/upload/images/crane%20kozuka%20sign.jpg</a><br/>\n&gt;<br/>\n&gt; I cannot seem to manage posting Kanji here, I have posted this thread<br/>\n&gt; also on the NMB so I have the kanji listed there as I got them form<br/>\n&gt; Wakayama.<br/>\n&gt;<br/>\n&gt;<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb//forum/index.php?action=display&forumid=1&msgid=850\">http://www.nihontomessageboard.com/nmb//forum/index.php?action=display&forumid=1&msgid=850</a><br/>\n&gt;<br/>\n&gt; Cheers all.<br/>\n&gt;<br/>\n&gt; Rich<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Confirmation of kanji/translation needed.",
+            "postDate": "1128509255",
+            "msgId": 3379,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzNDNBRjQ3LjEwNzA0MDRAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PDgwODVmMjU4NjgyNWQ0MDc5MTYyZDUyZmFmNDFiNzMyQHN3dS5hYy5qcD4=",
+                "referencesHeader": "PGRob2E3Nys2cGxkQGVHcm91cHMuY29tPiA8MDQzNjAxYzVjN2RhJGRlYjZmZjYwJGJmNWFmYTA0QDM5NzQ5MDgwMDAxPiA8YTg5YjlmYTIxMmQ1YmNkYjVhMzBhNmIwY2ZlMDdiZDJAc3d1LmFjLmpwPiA8MDA0MzAxYzVjODAzJDJmYWRiZWUwJDAyMjlkOWNiQHRob21hc2ZhbWlseT4gPDgwODVmMjU4NjgyNWQ0MDc5MTYyZDUyZmFmNDFiNzMyQHN3dS5hYy5qcD4="
+            },
+            "prevInTopic": 3378,
+            "nextInTopic": 3380,
+            "prevInTime": 3378,
+            "nextInTime": 3380,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, I have been working on translating a mei for a mate. I have got it down to Ô Ryûsai Tsuki Mitsuoki. Can anyone confirm this for me. It is definitely",
+            "messageBody": "<div id=\"ygrps-yiv-963201899\">Hi all, I have been working on translating a mei for a mate. I have got <br/>\nit down to Ô Ryûsai Tsuki Mitsuoki.<br/>\n<br/>\nCan anyone confirm this for me. It is definitely the Ôtsuki Mitsuoki Ha.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/upload/images/crane%20kozuka%20sign.jpg\">http://www.nihontomessageboard.com/upload/images/crane%20kozuka%20sign.jpg</a><br/>\n<br/>\nI cannot seem to manage posting Kanji here, I have posted this thread <br/>\nalso on the NMB so I have the kanji listed there as I got them form <br/>\nWakayama.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb//forum/index.php?action=display&forumid=1&msgid=850\">http://www.nihontomessageboard.com/nmb//forum/index.php?action=display&forumid=1&msgid=850</a><br/>\n<br/>\nCheers all.<br/>\n<br/>\nRich</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 125654407,
+            "authorName": "Kenneth Wilson",
+            "from": "Kenneth Wilson &lt;kdw21620@...&gt;",
+            "profile": "kdw21620",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "2 new tsuba - id help",
+            "postDate": "1128391693",
+            "msgId": 3378,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUxMDA0MDIwODEzLjk2NTg4LnFtYWlsQHdlYjUxNDE1Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDgwODVmMjU4NjgyNWQ0MDc5MTYyZDUyZmFmNDFiNzMyQHN3dS5hYy5qcD4="
+            },
+            "prevInTopic": 3377,
+            "nextInTopic": 3379,
+            "prevInTime": 3377,
+            "nextInTime": 3379,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, I recently received 2 tsuba from japan.  I am trying to id them.  the 1st (labeled mantis20) has basket weave design.  I have looked through every",
+            "messageBody": "<div id=\"ygrps-yiv-1564031871\">Hi all,<br/>\n<br/>\nI recently received 2 tsuba from japan.  I am trying<br/>\nto id them.  the 1st (labeled mantis20) has basket<br/>\nweave design.  I have looked through every reference i<br/>\nhave and am thinking bushu or shoami- of course.  Can<br/>\nanyone give me any thoughts?  Any other schools to<br/>\nconsider?  I also have another similiar one coming<br/>\nsoon that was papered to the sanagawa (sp?) school, an<br/>\noffshoot of ito (bushu) I believe.<br/>\n<br/>\nThe 2nd tsuba (labeled mantis21)has this subtle<br/>\nsunburst on both sides of the plate under the designs.<br/>\n I was trying to determine if the lines are raised or<br/>\nnot.  They may be a little, I can&#39;t really tell. <br/>\nEverytime I run my fingertips over them I go back &<br/>\nforth between smooth or ridges.  You can make out some<br/>\nof the starburst on the right hand side of the<br/>\npictured back side to get an idea (didn&#39;t come out in<br/>\nthe photo much).  I also can&#39;t tell if the mimi is<br/>\nadded seperate or not.  It has been worked regardless<br/>\nto give a texture.  Any help on id&#39;ing this one also<br/>\nwould be great, along with a guess as to age.  I of<br/>\ncourse assume they are both edo.<br/>\n<br/>\nThe photos are stored in the nihontostudy photo folder<br/>\nunder &quot;mantis dude&quot;. Here is the link<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/9zvf5\">http://tinyurl.com/9zvf5</a>  or long link is<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://photos.groups.yahoo.com/group/nihontostudy/lst?.dir=/Mantis+dude&.src=gr&.order=&.view=t&.done=http%3a//briefcase.yahoo.com/\">http://photos.groups.yahoo.com/group/nihontostudy/lst?.dir=/Mantis+dude&.src=gr&.order=&.view=t&.done=http%3a//briefcase.yahoo.com/</a><br/>\n<br/>\nThanks.<br/>\nKen<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________ <br/>\nYahoo! Mail - PC Magazine Editors&#39; Choice 2005 <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mail.yahoo.com\">http://mail.yahoo.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 66909074,
+            "authorName": "Gordon Robson",
+            "from": "Gordon Robson &lt;robsongo@...&gt;",
+            "profile": "robsongord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Re: Yoshihiko",
+            "postDate": "1128339545",
+            "msgId": 3377,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDgwODVmMjU4NjgyNWQ0MDc5MTYyZDUyZmFmNDFiNzMyQHN3dS5hYy5qcD4=",
+                "inReplyToHeader": "PDAwNDMwMWM1YzgwMyQyZmFkYmVlMCQwMjI5ZDljYkB0aG9tYXNmYW1pbHk+",
+                "referencesHeader": "PGRob2E3Nys2cGxkQGVHcm91cHMuY29tPiA8MDQzNjAxYzVjN2RhJGRlYjZmZjYwJGJmNWFmYTA0QDM5NzQ5MDgwMDAxPiA8YTg5YjlmYTIxMmQ1YmNkYjVhMzBhNmIwY2ZlMDdiZDJAc3d1LmFjLmpwPiA8MDA0MzAxYzVjODAzJDJmYWRiZWUwJDAyMjlkOWNiQHRob21hc2ZhbWlseT4="
+            },
+            "prevInTopic": 3376,
+            "nextInTopic": 3378,
+            "prevInTime": 3376,
+            "nextInTime": 3378,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Nah, you have a forked tongue white man. Gordon",
+            "messageBody": "<div id=\"ygrps-yiv-1972599579\">Nah, you have a forked tongue white man.<br/>\n<br/>\nGordon<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On 2005/10/03, at 19:13, Barry Thomas wrote:<br/>\n<br/>\n&gt; I do not think the first two characters are Sôshô - &quot;grass&quot; writing.  I<br/>\n&gt; immediately read the second one as -TO, as in GOTO  (GÔTÔ????).  <br/>\n&gt; Rather, I think<br/>\n&gt; they are a cursive script that is a simplifcation of the Kaishô or <br/>\n&gt; &quot;block&quot; form.<br/>\n&gt; Sôshô is a very much more &quot;simplified&quot; form and usually completely<br/>\n&gt; unrecognisable without a lot of work  (I think this is a &quot;straight&quot; <br/>\n&gt; comment and<br/>\n&gt; hope I&#39;m not talking with the forked tongue of an empty vessel!!<br/>\n&gt;<br/>\n&gt; Regards,<br/>\n&gt;<br/>\n&gt; Barry Thomas<br/>\n&gt;<br/>\n&gt; ----- Original Message -----<br/>\n&gt; From: &quot;Gordon Robson&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:robsongo@...\">robsongo@...</a>&gt;<br/>\n&gt; To: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>&gt;<br/>\n&gt; Sent: Monday, October 03, 2005 6:30 PM<br/>\n&gt; Subject: Re: [nihontostudy] Re: Yoshihiko<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Hi Jim,<br/>\n&gt;<br/>\n&gt; I would suspect you could find it in a special grass writing guide.<br/>\n&gt; There are guidelines for just how to simplify or make more abstract,<br/>\n&gt; but I do not posses one.<br/>\n&gt;<br/>\n&gt; Gordon<br/>\n&gt;<br/>\n&gt; On 2005/10/03, at 14:25, Jim Gilbert wrote:<br/>\n&gt;<br/>\n&gt;&gt; John,<br/>\n&gt;&gt; The kanji for Saito inscribed on the guard Rich posted match the ones<br/>\n&gt;&gt; illustrated in the photos in Wakayama.  The text version of those<br/>\n&gt;&gt; kanji in Wakayama match the ones in Haynes.  The carved versions of<br/>\n&gt;&gt; the kanji do look quite different from the printed ones, hence your<br/>\n&gt;&gt; confusion.<br/>\n&gt;&gt;<br/>\n&gt;&gt; The modern text version of the first kanji is so different from the<br/>\n&gt;&gt; carved one that I wouldn&#39;t recognize it on my own.  The second kanji<br/>\n&gt;&gt; is a shorthand version of the printed example, but would be very<br/>\n&gt;&gt; difficult to recognize without textual context.  I&#39;d be interested in<br/>\n&gt;&gt; knowing the orthographic history of the first kanji -- it doesn&#39;t look<br/>\n&gt;&gt; like a post-war simplification.  Does anyone know?<br/>\n&gt;&gt;<br/>\n&gt;&gt; Jim<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Re: Yoshihiko",
+            "postDate": "1128334439",
+            "msgId": 3376,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNDMwMWM1YzgwMyQyZmFkYmVlMCQwMjI5ZDljYkB0aG9tYXNmYW1pbHk+",
+                "referencesHeader": "PGRob2E3Nys2cGxkQGVHcm91cHMuY29tPiA8MDQzNjAxYzVjN2RhJGRlYjZmZjYwJGJmNWFmYTA0QDM5NzQ5MDgwMDAxPiA8YTg5YjlmYTIxMmQ1YmNkYjVhMzBhNmIwY2ZlMDdiZDJAc3d1LmFjLmpwPg=="
+            },
+            "prevInTopic": 3375,
+            "nextInTopic": 3377,
+            "prevInTime": 3375,
+            "nextInTime": 3377,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I do not think the first two characters are Sôshô - grass writing.  I immediately read the second one as -TO, as in GOTO  (GÔTÔ????).  Rather, I think ",
+            "messageBody": "<div id=\"ygrps-yiv-369642879\">I do not think the first two characters are Sôshô - &quot;grass&quot; writing.  I<br/>\nimmediately read the second one as -TO, as in GOTO  (GÔTÔ????).  Rather, I think<br/>\nthey are a cursive script that is a simplifcation of the Kaishô or &quot;block&quot; form.<br/>\nSôshô is a very much more &quot;simplified&quot; form and usually completely<br/>\nunrecognisable without a lot of work  (I think this is a &quot;straight&quot; comment and<br/>\nhope I&#39;m not talking with the forked tongue of an empty vessel!!<br/>\n<br/>\nRegards,<br/>\n<br/>\nBarry Thomas<br/>\n<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message -----<br/>\nFrom: &quot;Gordon Robson&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:robsongo@...\">robsongo@...</a>&gt;<br/>\nTo: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>&gt;<br/>\nSent: Monday, October 03, 2005 6:30 PM<br/>\nSubject: Re: [nihontostudy] Re: Yoshihiko<br/>\n<br/>\n<br/>\nHi Jim,<br/>\n<br/>\nI would suspect you could find it in a special grass writing guide.<br/>\nThere are guidelines for just how to simplify or make more abstract,<br/>\nbut I do not posses one.<br/>\n<br/>\nGordon<br/>\n<br/>\nOn 2005/10/03, at 14:25, Jim Gilbert wrote:<br/>\n<br/>\n&gt; John,<br/>\n&gt; The kanji for Saito inscribed on the guard Rich posted match the ones<br/>\n&gt; illustrated in the photos in Wakayama.  The text version of those<br/>\n&gt; kanji in Wakayama match the ones in Haynes.  The carved versions of<br/>\n&gt; the kanji do look quite different from the printed ones, hence your<br/>\n&gt; confusion.<br/>\n&gt;<br/>\n&gt; The modern text version of the first kanji is so different from the<br/>\n&gt; carved one that I wouldn&#39;t recognize it on my own.  The second kanji<br/>\n&gt; is a shorthand version of the printed example, but would be very<br/>\n&gt; difficult to recognize without textual context.  I&#39;d be interested in<br/>\n&gt; knowing the orthographic history of the first kanji -- it doesn&#39;t look<br/>\n&gt; like a post-war simplification.  Does anyone know?<br/>\n&gt;<br/>\n&gt; Jim </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 66909074,
+            "authorName": "Gordon Robson",
+            "from": "Gordon Robson &lt;robsongo@...&gt;",
+            "profile": "robsongord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Re: Yoshihiko",
+            "postDate": "1128328253",
+            "msgId": 3375,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGE4OWI5ZmEyMTJkNWJjZGI1YTMwYTZiMGNmZTA3YmQyQHN3dS5hYy5qcD4=",
+                "inReplyToHeader": "PDA0MzYwMWM1YzdkYSRkZWI2ZmY2MCRiZjVhZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PGRob2E3Nys2cGxkQGVHcm91cHMuY29tPiA8MDQzNjAxYzVjN2RhJGRlYjZmZjYwJGJmNWFmYTA0QDM5NzQ5MDgwMDAxPg=="
+            },
+            "prevInTopic": 3374,
+            "nextInTopic": 3376,
+            "prevInTime": 3374,
+            "nextInTime": 3376,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Jim, I would suspect you could find it in a special grass writing guide. There are guidelines for just how to simplify or make more abstract, but I do not",
+            "messageBody": "<div id=\"ygrps-yiv-1206663897\">Hi Jim,<br/>\n<br/>\nI would suspect you could find it in a special grass writing guide. <br/>\nThere are guidelines for just how to simplify or make more abstract, <br/>\nbut I do not posses one.<br/>\n<br/>\nGordon<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On 2005/10/03, at 14:25, Jim Gilbert wrote:<br/>\n<br/>\n&gt; John,<br/>\n&gt; The kanji for Saito inscribed on the guard Rich posted match the ones <br/>\n&gt; illustrated in the photos in Wakayama.  The text version of those <br/>\n&gt; kanji in Wakayama match the ones in Haynes.  The carved versions of <br/>\n&gt; the kanji do look quite different from the printed ones, hence your <br/>\n&gt; confusion.<br/>\n&gt;<br/>\n&gt; The modern text version of the first kanji is so different from the <br/>\n&gt; carved one that I wouldn&#39;t recognize it on my own.  The second kanji <br/>\n&gt; is a shorthand version of the printed example, but would be very <br/>\n&gt; difficult to recognize without textual context.  I&#39;d be interested in <br/>\n&gt; knowing the orthographic history of the first kanji -- it doesn&#39;t look <br/>\n&gt; like a post-war simplification.  Does anyone know?<br/>\n&gt;<br/>\n&gt; Jim<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;   Would someone please put me straight?  The three final kanji on the<br/>\n&gt;   illustration certainly correspond with the alternative form for<br/>\n&gt;   YOSHIHIKO, as given under H 11559.0 in Haynes&#39; Index ....But the<br/>\n&gt;   first two kanji do not correspond to those which he gives for<br/>\n&gt;   SAITO.  Where am I going wrong; is this an alternative form of the<br/>\n&gt;   family name?<br/>\n&gt;<br/>\n&gt;   Regards, John L.<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Re: Yoshihiko",
+            "postDate": "1128317128",
+            "msgId": 3374,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDA0MzYwMWM1YzdkYSRkZWI2ZmY2MCRiZjVhZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PGRob2E3Nys2cGxkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3373,
+            "nextInTopic": 3375,
+            "prevInTime": 3373,
+            "nextInTime": 3375,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "John, The kanji for Saito inscribed on the guard Rich posted match the ones illustrated in the photos in Wakayama.  The text version of those kanji in Wakayama",
+            "messageBody": "<div id=\"ygrps-yiv-1478044490\">John,<br/>\nThe kanji for Saito inscribed on the guard Rich posted match the ones illustrated in the photos in Wakayama.  The text version of those kanji in Wakayama match the ones in Haynes.  The carved versions of the kanji do look quite different from the printed ones, hence your confusion.  <br/>\n<br/>\nThe modern text version of the first kanji is so different from the carved one that I wouldn&#39;t recognize it on my own.  The second kanji is a shorthand version of the printed example, but would be very difficult to recognize without textual context.  I&#39;d be interested in knowing the orthographic history of the first kanji -- it doesn&#39;t look like a post-war simplification.  Does anyone know?<br/>\n<br/>\nJim<br/>\n<br/>\n<br/>\n<br/>\n  Would someone please put me straight?  The three final kanji on the <br/>\n  illustration certainly correspond with the alternative form for <br/>\n  YOSHIHIKO, as given under H 11559.0 in Haynes&#39; Index ....But the <br/>\n  first two kanji do not correspond to those which he gives for <br/>\n  SAITO.  Where am I going wrong; is this an alternative form of the <br/>\n  family name?<br/>\n<br/>\n  Regards, John L.<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Re: Yoshihiko",
+            "postDate": "1128248622",
+            "msgId": 3373,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzM0ZCNTJFLjUwNUB3ZXN0bmV0LmNvbS5hdT4=",
+                "inReplyToHeader": "PGRob2E3Nys2cGxkQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGRob2E3Nys2cGxkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3372,
+            "nextInTopic": 3374,
+            "prevInTime": 3372,
+            "nextInTime": 3374,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "John, my understanding of Kanji is not deep enough to answer that one, in the Toso Kodogu Meiji Taikan, Wakayama has is it listed one way  but the oshigata is",
+            "messageBody": "<div id=\"ygrps-yiv-1582539892\">John, my understanding of Kanji is not deep enough to answer that one, <br/>\nin the Toso Kodogu Meiji Taikan, Wakayama has is it listed one way  but <br/>\nthe oshigata is as the image I posted. I assume the tsubako wrote them <br/>\nwith 2 different kanji that read the same??<br/>\n<br/>\nMaybe Jim or Gordon can clarify for us.<br/>\n<br/>\nRich<br/>\n<br/>\n<br/>\nDr John P Lissenden wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Would someone please put me straight?  The three final kanji on the <br/>\n&gt;illustration certainly correspond with the alternative form for <br/>\n&gt;YOSHIHIKO, as given under H 11559.0 in Haynes&#39; Index ....But the <br/>\n&gt;first two kanji do not correspond to those which he gives for <br/>\n&gt;SAITO.  Where am I going wrong; is this an alternative form of the <br/>\n&gt;family name?<br/>\n&gt;<br/>\n&gt;Regards, John L.<br/>\n&gt;  <br/>\n&gt;<br/>\n<br/>\n </span></blockquote>-- <br/>\n*Richard Turner - Nihonto Message Board*<br/>\n/for the discussion of all things Nihonto./<br/>\nwww.nihontomessageboard.com &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 123038749,
+            "authorName": "Dr John P Lissenden",
+            "from": "&quot;Dr John P Lissenden&quot; &lt;docliss@...&gt;",
+            "profile": "drjohnplissenden",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Yoshihiko",
+            "postDate": "1128246311",
+            "msgId": 3372,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRob2E3Nys2cGxkQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDQzM0Y4OTI1LjkwNzA2MDFAd2VzdG5ldC5jb20uYXU+"
+            },
+            "prevInTopic": 3371,
+            "nextInTopic": 3373,
+            "prevInTime": 3371,
+            "nextInTime": 3373,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Would someone please put me straight?  The three final kanji on the illustration certainly correspond with the alternative form for YOSHIHIKO, as given under H",
+            "messageBody": "<div id=\"ygrps-yiv-423575100\">Would someone please put me straight?  The three final kanji on the <br/>\nillustration certainly correspond with the alternative form for <br/>\nYOSHIHIKO, as given under H 11559.0 in Haynes&#39; Index ....But the <br/>\nfirst two kanji do not correspond to those which he gives for <br/>\nSAITO.  Where am I going wrong; is this an alternative form of the <br/>\nfamily name?<br/>\n<br/>\nRegards, John L.<br/>\n<br/>\n<br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, Richard Turner &lt;ikkanshi@w...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Hi Gordon, yes, that is him, as listed in the Toso Kodogu Meiji <br/>\n </span></blockquote>Taikan.<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; Cheers<br/>\n&gt; <br/>\n&gt; Rich<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; Gordon Robson wrote:<br/>\n&gt; <br/>\n&gt; &gt;I am pretty sure the last three kanji should be read Yoshihiko <br/>\n </span></blockquote>with a <br/>\n<blockquote><span title=\"ireply\"> &gt; &gt;kao.<br/>\n&gt; &gt;<br/>\n&gt; &gt;Gordon<br/>\n&gt; &gt;<br/>\n&gt; &gt;On 2005/10/02, at 10:26, Richard Turner wrote:<br/>\n&gt; &gt;<br/>\n&gt; &gt;  <br/>\n&gt; &gt;<br/>\n&gt; <br/>\n&gt; -- <br/>\n&gt; *Richard Turner - Nihonto Message Board*<br/>\n&gt; /for the discussion of all things Nihonto./<br/>\n&gt; www.nihontomessageboard.com <br/>\n </span></blockquote>&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n<blockquote><span title=\"qreply\"> &gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Yoshihiko",
+            "postDate": "1128237349",
+            "msgId": 3371,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzM0Y4OTI1LjkwNzA2MDFAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PDkzM2Q4MmNiNjliYWQ4NmZkMjM3NjhjYjk2Y2E5ZWEyQHN3dS5hYy5qcD4=",
+                "referencesHeader": "PDExMjgwMDgyNTIuMTY4LjczOTEwLm0xOUB5YWhvb2dyb3Vwcy5jb20+IDw4Qzc5MzVFOTQ0MDAzREMtMTJFQy02QTU4QG1ibGstZDQyLnN5c29wcy5hb2wuY29tPiA8NDMzREMyMDUuOTA3MDcwOUB3ZXN0bmV0LmNvbS5hdT4gPDAyZDcwMWM1YzZlZSQ1Yjc4MTY4MCRiZjVhZmEwNEAzOTc0OTA4MDAwMT4gPDQzM0YzNEY3LjYwOTA0MDlAd2VzdG5ldC5jb20uYXU+IDwwMmYyMDFjNWM2ZjAkMjBmOWY1MzAkYmY1YWZhMDRAMzk3NDkwODAwMDE+IDw0MzNGMzc0RS40MDYwMTAxQHdlc3RuZXQuY29tLmF1PiA8OTMzZDgyY2I2OWJhZDg2ZmQyMzc2OGNiOTZjYTllYTJAc3d1LmFjLmpwPg=="
+            },
+            "prevInTopic": 3370,
+            "nextInTopic": 3372,
+            "prevInTime": 3370,
+            "nextInTime": 3372,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Gordon, yes, that is him, as listed in the Toso Kodogu Meiji Taikan. Cheers Rich ... -- *Richard Turner - Nihonto Message Board* /for the discussion of all",
+            "messageBody": "<div id=\"ygrps-yiv-284193589\">Hi Gordon, yes, that is him, as listed in the Toso Kodogu Meiji Taikan.<br/>\n<br/>\nCheers<br/>\n<br/>\nRich<br/>\n<br/>\n<br/>\nGordon Robson wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;I am pretty sure the last three kanji should be read Yoshihiko with a <br/>\n&gt;kao.<br/>\n&gt;<br/>\n&gt;Gordon<br/>\n&gt;<br/>\n&gt;On 2005/10/02, at 10:26, Richard Turner wrote:<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n<br/>\n </span></blockquote>-- <br/>\n*Richard Turner - Nihonto Message Board*<br/>\n/for the discussion of all things Nihonto./<br/>\nwww.nihontomessageboard.com &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 66909074,
+            "authorName": "Gordon Robson",
+            "from": "Gordon Robson &lt;robsongo@...&gt;",
+            "profile": "robsongord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Yoshihiko",
+            "postDate": "1128236411",
+            "msgId": 3370,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDkzM2Q4MmNiNjliYWQ4NmZkMjM3NjhjYjk2Y2E5ZWEyQHN3dS5hYy5qcD4=",
+                "inReplyToHeader": "PDQzM0YzNzRFLjQwNjAxMDFAd2VzdG5ldC5jb20uYXU+",
+                "referencesHeader": "PDExMjgwMDgyNTIuMTY4LjczOTEwLm0xOUB5YWhvb2dyb3Vwcy5jb20+IDw4Qzc5MzVFOTQ0MDAzREMtMTJFQy02QTU4QG1ibGstZDQyLnN5c29wcy5hb2wuY29tPiA8NDMzREMyMDUuOTA3MDcwOUB3ZXN0bmV0LmNvbS5hdT4gPDAyZDcwMWM1YzZlZSQ1Yjc4MTY4MCRiZjVhZmEwNEAzOTc0OTA4MDAwMT4gPDQzM0YzNEY3LjYwOTA0MDlAd2VzdG5ldC5jb20uYXU+IDwwMmYyMDFjNWM2ZjAkMjBmOWY1MzAkYmY1YWZhMDRAMzk3NDkwODAwMDE+IDw0MzNGMzc0RS40MDYwMTAxQHdlc3RuZXQuY29tLmF1Pg=="
+            },
+            "prevInTopic": 3369,
+            "nextInTopic": 3371,
+            "prevInTime": 3369,
+            "nextInTime": 3371,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am pretty sure the last three kanji should be read Yoshihiko with a kao. Gordon ... [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-456488297\">I am pretty sure the last three kanji should be read Yoshihiko with a <br/>\nkao.<br/>\n<br/>\nGordon<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On 2005/10/02, at 10:26, Richard Turner wrote:<br/>\n<br/>\n&gt; Cheers mate, much appreciated. I wil report that answer.<br/>\n&gt;<br/>\n&gt; best<br/>\n&gt;<br/>\n&gt; Rich<br/>\n&gt;<br/>\n&gt; Jim Gilbert wrote:<br/>\n&gt;<br/>\n&gt;&gt; Ah, the three kanji style of mei at the top of the page... still <br/>\n&gt;&gt; Saito for the first two kanji.<br/>\n&gt;&gt;<br/>\n&gt;&gt; Jim<br/>\n&gt;&gt;  ----- Original Message -----<br/>\n&gt;&gt;  From: Richard Turner<br/>\n&gt;&gt;  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a><br/>\n&gt;&gt;  Sent: Saturday, October 01, 2005 9:16 PM<br/>\n&gt;&gt;  Subject: Re: [nihontostudy] Yoshihiko<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;  Hi Jim, thanks for that, I guess I should have added this sorry.<br/>\n&gt;&gt;<br/>\n&gt;&gt;  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/upload/images/TsubaMeiHelp.jpg\">http://www.nihontomessageboard.com/upload/images/TsubaMeiHelp.jpg</a><br/>\n&gt;&gt;<br/>\n&gt;&gt;  Cheers<br/>\n&gt;&gt;<br/>\n&gt;&gt;  Rich<br/>\n&gt;&gt;<br/>\n&gt;&gt;  Jim Gilbert wrote:<br/>\n&gt;&gt;<br/>\n&gt;&gt;&gt; Rich,<br/>\n&gt;&gt;&gt; The kanji didn&#39;t come through for me, but the examples at the bottom <br/>\n&gt;&gt;&gt; of the page in Wakayama read Saito Yoshihiko (kao).  Saito (long o) <br/>\n&gt;&gt;&gt; is the family name.<br/>\n&gt;&gt;&gt;<br/>\n&gt;&gt;&gt; Jim<br/>\n&gt;&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt; [Non-text portions of this message have been removed]<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt; Yahoo! Groups Links<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;<br/>\n&gt; -- <br/>\n&gt; *Richard Turner - Nihonto Message Board*<br/>\n&gt; /for the discussion of all things Nihonto./<br/>\n&gt; www.nihontomessageboard.com &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Yoshihiko",
+            "postDate": "1128216398",
+            "msgId": 3369,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzM0YzNzRFLjQwNjAxMDFAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PDAyZjIwMWM1YzZmMCQyMGY5ZjUzMCRiZjVhZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PDExMjgwMDgyNTIuMTY4LjczOTEwLm0xOUB5YWhvb2dyb3Vwcy5jb20+IDw4Qzc5MzVFOTQ0MDAzREMtMTJFQy02QTU4QG1ibGstZDQyLnN5c29wcy5hb2wuY29tPiA8NDMzREMyMDUuOTA3MDcwOUB3ZXN0bmV0LmNvbS5hdT4gPDAyZDcwMWM1YzZlZSQ1Yjc4MTY4MCRiZjVhZmEwNEAzOTc0OTA4MDAwMT4gPDQzM0YzNEY3LjYwOTA0MDlAd2VzdG5ldC5jb20uYXU+IDwwMmYyMDFjNWM2ZjAkMjBmOWY1MzAkYmY1YWZhMDRAMzk3NDkwODAwMDE+"
+            },
+            "prevInTopic": 3368,
+            "nextInTopic": 3370,
+            "prevInTime": 3368,
+            "nextInTime": 3370,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Cheers mate, much appreciated. I wil report that answer. best Rich ... -- *Richard Turner - Nihonto Message Board* /for the discussion of all things Nihonto./ ",
+            "messageBody": "<div id=\"ygrps-yiv-997578778\">Cheers mate, much appreciated. I wil report that answer.<br/>\n<br/>\nbest<br/>\n<br/>\nRich<br/>\n<br/>\nJim Gilbert wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Ah, the three kanji style of mei at the top of the page... still Saito for the first two kanji.<br/>\n&gt;<br/>\n&gt;Jim<br/>\n&gt;  ----- Original Message ----- <br/>\n&gt;  From: Richard Turner <br/>\n&gt;  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n&gt;  Sent: Saturday, October 01, 2005 9:16 PM<br/>\n&gt;  Subject: Re: [nihontostudy] Yoshihiko<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  Hi Jim, thanks for that, I guess I should have added this sorry.<br/>\n&gt;<br/>\n&gt;  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/upload/images/TsubaMeiHelp.jpg\">http://www.nihontomessageboard.com/upload/images/TsubaMeiHelp.jpg</a><br/>\n&gt;<br/>\n&gt;  Cheers<br/>\n&gt;<br/>\n&gt;  Rich<br/>\n&gt;<br/>\n&gt;  Jim Gilbert wrote:<br/>\n&gt;<br/>\n&gt;  &gt;Rich,<br/>\n&gt;  &gt;The kanji didn&#39;t come through for me, but the examples at the bottom of the page in Wakayama read Saito Yoshihiko (kao).  Saito (long o) is the family name.<br/>\n&gt;  &gt;<br/>\n&gt;  &gt;Jim<br/>\n&gt;  &gt;<br/>\n&gt;<br/>\n&gt;[Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; <br/>\n&gt;Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; <br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n<br/>\n </span></blockquote>-- <br/>\n*Richard Turner - Nihonto Message Board*<br/>\n/for the discussion of all things Nihonto./<br/>\nwww.nihontomessageboard.com &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Yoshihiko",
+            "postDate": "1128216308",
+            "msgId": 3368,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAyZjIwMWM1YzZmMCQyMGY5ZjUzMCRiZjVhZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PDExMjgwMDgyNTIuMTY4LjczOTEwLm0xOUB5YWhvb2dyb3Vwcy5jb20+IDw4Qzc5MzVFOTQ0MDAzREMtMTJFQy02QTU4QG1ibGstZDQyLnN5c29wcy5hb2wuY29tPiA8NDMzREMyMDUuOTA3MDcwOUB3ZXN0bmV0LmNvbS5hdT4gPDAyZDcwMWM1YzZlZSQ1Yjc4MTY4MCRiZjVhZmEwNEAzOTc0OTA4MDAwMT4gPDQzM0YzNEY3LjYwOTA0MDlAd2VzdG5ldC5jb20uYXU+"
+            },
+            "prevInTopic": 3367,
+            "nextInTopic": 3369,
+            "prevInTime": 3367,
+            "nextInTime": 3369,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ah, the three kanji style of mei at the top of the page... still Saito for the first two kanji. Jim ... From: Richard Turner To: nihontostudy@yahoogroups.com ",
+            "messageBody": "<div id=\"ygrps-yiv-1998595843\">Ah, the three kanji style of mei at the top of the page... still Saito for the first two kanji.<br/>\n<br/>\nJim<br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: Richard Turner <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n  Sent: Saturday, October 01, 2005 9:16 PM<br/>\n  Subject: Re: [nihontostudy] Yoshihiko<br/>\n<br/>\n<br/>\n  Hi Jim, thanks for that, I guess I should have added this sorry.<br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/upload/images/TsubaMeiHelp.jpg\">http://www.nihontomessageboard.com/upload/images/TsubaMeiHelp.jpg</a><br/>\n<br/>\n  Cheers<br/>\n<br/>\n  Rich<br/>\n<br/>\n  Jim Gilbert wrote:<br/>\n<br/>\n  &gt;Rich,<br/>\n  &gt;The kanji didn&#39;t come through for me, but the examples at the bottom of the page in Wakayama read Saito Yoshihiko (kao).  Saito (long o) is the family name.<br/>\n  &gt;<br/>\n  &gt;Jim<br/>\n  &gt;<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Yoshihiko",
+            "postDate": "1128215799",
+            "msgId": 3367,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzM0YzNEY3LjYwOTA0MDlAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PDAyZDcwMWM1YzZlZSQ1Yjc4MTY4MCRiZjVhZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PDExMjgwMDgyNTIuMTY4LjczOTEwLm0xOUB5YWhvb2dyb3Vwcy5jb20+IDw4Qzc5MzVFOTQ0MDAzREMtMTJFQy02QTU4QG1ibGstZDQyLnN5c29wcy5hb2wuY29tPiA8NDMzREMyMDUuOTA3MDcwOUB3ZXN0bmV0LmNvbS5hdT4gPDAyZDcwMWM1YzZlZSQ1Yjc4MTY4MCRiZjVhZmEwNEAzOTc0OTA4MDAwMT4="
+            },
+            "prevInTopic": 3366,
+            "nextInTopic": 3368,
+            "prevInTime": 3366,
+            "nextInTime": 3368,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Jim, thanks for that, I guess I should have added this sorry. http://www.nihontomessageboard.com/upload/images/TsubaMeiHelp.jpg Cheers Rich ... -- *Richard",
+            "messageBody": "<div id=\"ygrps-yiv-1509690053\">Hi Jim, thanks for that, I guess I should have added this sorry.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/upload/images/TsubaMeiHelp.jpg\">http://www.nihontomessageboard.com/upload/images/TsubaMeiHelp.jpg</a><br/>\n<br/>\nCheers<br/>\n<br/>\nRich<br/>\n<br/>\nJim Gilbert wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Rich,<br/>\n&gt;The kanji didn&#39;t come through for me, but the examples at the bottom of the page in Wakayama read Saito Yoshihiko (kao).  Saito (long o) is the family name.<br/>\n&gt;<br/>\n&gt;Jim<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  Group, there is a tsubako in the Toso Kodogu Meiji Taikan in book 3, <br/>\n&gt;  page 111. that signed ?? ?? Yoshihiko<br/>\n&gt;  Yoshi ? Hi ? Ko ? with Kao. I a looking at an exact same mei for a <br/>\n&gt;  friend but cannot make the first two kanji as they apear in th emei in <br/>\n&gt;  the book. Can anyone help please.<br/>\n&gt;<br/>\n&gt;  Cheers<br/>\n&gt;<br/>\n&gt;  Rich<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;[Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; <br/>\n&gt;Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; <br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n<br/>\n </span></blockquote>-- <br/>\n*Richard Turner - Nihonto Message Board*<br/>\n/for the discussion of all things Nihonto./<br/>\nwww.nihontomessageboard.com &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Origami !",
+            "postDate": "1128215692",
+            "msgId": 3366,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAyZGQwMWM1YzZlZSRiMWQ2ZmQyMCRiZjVhZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PDExMjgwMDgyNTIuMTY4LjczOTEwLm0xOUB5YWhvb2dyb3Vwcy5jb20+IDw4Qzc5MzVFOTQ0MDAzREMtMTJFQy02QTU4QG1ibGstZDQyLnN5c29wcy5hb2wuY29tPg=="
+            },
+            "prevInTopic": 3365,
+            "nextInTopic": 3367,
+            "prevInTime": 3365,
+            "nextInTime": 3367,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Rafael, I haven t heard of it.  Do you know what the kanji are? Nihon Token Hozon Kai I know. Jim Dear Friends, Does any one knows the this organization ",
+            "messageBody": "<div id=\"ygrps-yiv-814046822\">Rafael,<br/>\nI haven&#39;t heard of it.  Do you know what the kanji are?<br/>\n<br/>\nNihon Token Hozon Kai I know.<br/>\nJim<br/>\n<br/>\n<br/>\n<br/>\n  Dear Friends,<br/>\n<br/>\n<br/>\n  Does any one knows the this organization &quot; Nihonto Juto Hozon Kai &quot; ?<br/>\n  Is there any website about this organization ? They have good reputation in nihonto world ?<br/>\n<br/>\n  Thanks<br/>\n<br/>\n  Rafael - Brazil <br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Yoshihiko",
+            "postDate": "1128215547",
+            "msgId": 3365,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAyZDcwMWM1YzZlZSQ1Yjc4MTY4MCRiZjVhZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PDExMjgwMDgyNTIuMTY4LjczOTEwLm0xOUB5YWhvb2dyb3Vwcy5jb20+IDw4Qzc5MzVFOTQ0MDAzREMtMTJFQy02QTU4QG1ibGstZDQyLnN5c29wcy5hb2wuY29tPiA8NDMzREMyMDUuOTA3MDcwOUB3ZXN0bmV0LmNvbS5hdT4="
+            },
+            "prevInTopic": 3364,
+            "nextInTopic": 3366,
+            "prevInTime": 3364,
+            "nextInTime": 3366,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Rich, The kanji didn t come through for me, but the examples at the bottom of the page in Wakayama read Saito Yoshihiko (kao).  Saito (long o) is the family",
+            "messageBody": "<div id=\"ygrps-yiv-733818627\">Rich,<br/>\nThe kanji didn&#39;t come through for me, but the examples at the bottom of the page in Wakayama read Saito Yoshihiko (kao).  Saito (long o) is the family name.<br/>\n<br/>\nJim<br/>\n<br/>\n<br/>\n<br/>\n  Group, there is a tsubako in the Toso Kodogu Meiji Taikan in book 3, <br/>\n  page 111. that signed ?? ?? Yoshihiko<br/>\n  Yoshi ? Hi ? Ko ? with Kao. I a looking at an exact same mei for a <br/>\n  friend but cannot make the first two kanji as they apear in th emei in <br/>\n  the book. Can anyone help please.<br/>\n<br/>\n  Cheers<br/>\n<br/>\n  Rich<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Yoshihiko",
+            "postDate": "1128120837",
+            "msgId": 3364,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzM0RDMjA1LjkwNzA3MDlAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PDhDNzkzNUU5NDQwMDNEQy0xMkVDLTZBNThAbWJsay1kNDIuc3lzb3BzLmFvbC5jb20+",
+                "referencesHeader": "PDExMjgwMDgyNTIuMTY4LjczOTEwLm0xOUB5YWhvb2dyb3Vwcy5jb20+IDw4Qzc5MzVFOTQ0MDAzREMtMTJFQy02QTU4QG1ibGstZDQyLnN5c29wcy5hb2wuY29tPg=="
+            },
+            "prevInTopic": 3363,
+            "nextInTopic": 3365,
+            "prevInTime": 3363,
+            "nextInTime": 3365,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Group, there is a tsubako in the Toso Kodogu Meiji Taikan in book 3, page 111. that signed ?? ?? Yoshihiko Yoshi ? Hi ? Ko ? with Kao. I a looking at an exact",
+            "messageBody": "<div id=\"ygrps-yiv-1417547315\">Group, there is a tsubako in the Toso Kodogu Meiji Taikan in book 3, <br/>\npage 111. that signed ?? ?? Yoshihiko<br/>\nYoshi ? Hi ? Ko ? with Kao. I a looking at an exact same mei for a <br/>\nfriend but cannot make the first two kanji as they apear in th emei in <br/>\nthe book. Can anyone help please.<br/>\n<br/>\nCheers<br/>\n<br/>\nRich<br/>\n<br/>\n<br/>\n-- <br/>\n*Richard Turner - Nihonto Message Board*<br/>\n/for the discussion of all things Nihonto./<br/>\nwww.nihontomessageboard.com &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 71818517,
+            "authorName": "rbanit@aol.com",
+            "from": "rbanit@...",
+            "profile": "emucrawler",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Origami !",
+            "postDate": "1128033909",
+            "msgId": 3363,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDhDNzkzNUU5NDQwMDNEQy0xMkVDLTZBNThAbWJsay1kNDIuc3lzb3BzLmFvbC5jb20+",
+                "inReplyToHeader": "PDExMjgwMDgyNTIuMTY4LjczOTEwLm0xOUB5YWhvb2dyb3Vwcy5jb20+",
+                "referencesHeader": "PDExMjgwMDgyNTIuMTY4LjczOTEwLm0xOUB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3364,
+            "prevInTime": 3362,
+            "nextInTime": 3364,
+            "topicId": 3363,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Friends, Does any one knows the this organization  Nihonto Juto Hozon Kai  ? Is there any website about this organization ? They have good reputation in",
+            "messageBody": "<div id=\"ygrps-yiv-231412124\">Dear Friends,<br/>\n <br/>\n <br/>\nDoes any one knows the this organization &quot; Nihonto Juto Hozon Kai &quot; ?<br/>\nIs there any website about this organization ? They have good reputation in nihonto world ?<br/>\n <br/>\nThanks<br/>\n <br/>\nRafael - Brazil <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3362,
+    "nextTopicId": 3386
+}

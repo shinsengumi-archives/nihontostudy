@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Gimei Nobuiye?Reply Akiyama",
+            "postDate": "1107497309",
+            "msgId": 2637,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwM2EwMWM1MGE3ZiRmMzIyZGRjMCRkMTE1ZmEwNEBvZW1jb21wdXRlcj4=",
+                "referencesHeader": "PHMyMDBlNmYzLjAzOUB3bHUuY2E+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2636,
+            "nextInTime": 2638,
+            "topicId": 2637,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Arnold and all, It s Nobuie Tsuba Shu, 1926, Nakamura Kakudayu & Akiyama Kyusaku. Or the reprint with supplemental material from 1981, published by Token",
+            "messageBody": "<div id=\"ygrps-yiv-579084057\">Arnold and all,<br/>\n<br/>\nIt&#39;s &quot;Nobuie Tsuba Shu,&quot; 1926, Nakamura Kakudayu & Akiyama Kyusaku.<br/>\n<br/>\nOr the reprint with supplemental material from 1981, published by Token Shunju Shinbunsha, Tokyo.<br/>\n<br/>\nNot all currently recognized Nobuie tsuba are illustrated, but they&#39;re great books.<br/>\n<br/>\nJim <br/>\n<br/>\n<br/>\n<br/>\n  He<br/>\n  collected dozens and dozens of oshigata of Nobuiye, some very<br/>\n  unassuming, as was the found one I refereed to, and they were published<br/>\n  by a Mr. Nakayama, or Nakamura or something close to that (only my poor<br/>\n  brain as a reference here). <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2607,
+    "nextTopicId": 2638
+}

@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 23248771,
+            "authorName": "Bob Elder",
+            "from": "Bob Elder &lt;ecmas@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hataya Sensei, yabusame picture",
+            "postDate": "1098504258",
+            "msgId": 2340,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQxMDIzMDQwNDE4LjkyODI5LnFtYWlsQHdlYjEwNy5iaXoubWFpbC55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2339,
+            "nextInTime": 2341,
+            "topicId": 2340,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey Y all, check out Hataya SEnsei doing Yabusame in front of Pres Bush in Tokyo. He also polished the arrow head given to Bush by Koizumi. It s way cool! Bob",
+            "messageBody": "<div id=\"ygrps-yiv-322159078\">Hey Y&#39;all, check out Hataya SEnsei doing Yabusame in<br/>\nfront of Pres Bush in Tokyo. He also polished the<br/>\narrow head given to Bush by Koizumi. It&#39;s way cool!<br/>\nBob Elder</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 571,
+    "nextTopicId": 2316
+}

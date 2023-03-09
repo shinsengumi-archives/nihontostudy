@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Interesting tsuba",
+            "postDate": "1206215365",
+            "msgId": 5384,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNjMwMWM4OGM1NSRkNGY5NWQwMCQyMDFmODQ0YkByb24+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5382,
+            "nextInTime": 5385,
+            "topicId": 5384,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all - Would anyone care to comment on the tsuba I ve placed in my folder, Ron STL, at: It is an 8-lobed iron sukashi depicting 8-fans in positive silhouette",
+            "messageBody": "<div id=\"ygrps-yiv-190870408\">Hi all - <br/>\n<br/>\nWould anyone care to comment on the tsuba I&#39;ve placed in my folder, Ron STL, at: <br/>\n<br/>\nIt is an 8-lobed iron sukashi depicting 8-fans in positive silhouette sukashi, silver (probably shibuichi) fukurin. Measures 86mm x 85mm x 4.5mm. My thinking is possibly ko-Shoami. I say that because of the hitsu-ana shapes and the seppa-dai being more rounded than Kyo-sukashi. Momoyama in age? Hmmm...no &quot;answers&quot; but fun trying...anyone?<br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5380,
+    "nextTopicId": 5386
+}

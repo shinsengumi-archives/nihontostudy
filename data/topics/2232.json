@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 156179649,
+            "authorName": "bbmich3003",
+            "from": "&quot;bbmich3003&quot; &lt;brucemichener@...&gt;",
+            "profile": "bbmich3003",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: KOKUBO Kenichi. SUKASHI TSUBA (1968).",
+            "postDate": "1097852058",
+            "msgId": 2314,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNrb29hcStuNjc1QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDAxMzUwMWM0YTRiOCQ4YmY4ZTlhMCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 2232,
+            "nextInTopic": 0,
+            "prevInTime": 2313,
+            "nextInTime": 2315,
+            "topicId": 2232,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... KOKUBO Kenichi. SUKASHI TSUBA (1968)? ",
+            "messageBody": "<div id=\"ygrps-yiv-2129937970\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;David Zincavage&quot; &lt;jdz@i...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Does anyone know a source for the English-language index to:  <br/>\n </span></blockquote>KOKUBO Kenichi. SUKASHI TSUBA (1968)? &lt;<br/>\n<br/>\nHello David,,,,,,send me a message off-line and I will get a copy to <br/>\nyou,,,,,,,regards, Bruce.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "KOKUBO Kenichi. SUKASHI TSUBA (1968).",
+            "postDate": "1096306598",
+            "msgId": 2232,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxMzUwMWM0YTRiOCQ4YmY4ZTlhMCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2314,
+            "prevInTime": 2231,
+            "nextInTime": 2233,
+            "topicId": 2232,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know a source for the English-language index to:  KOKUBO Kenichi. SUKASHI TSUBA (1968)? [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1530446894\">Does anyone know a source for the English-language index to:  KOKUBO Kenichi. SUKASHI TSUBA (1968)?<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2310,
+    "nextTopicId": 2326
+}

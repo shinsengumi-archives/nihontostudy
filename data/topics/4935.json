@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 123364401,
+            "authorName": "nihontochicken",
+            "from": "&quot;nihontochicken&quot; &lt;rick@...&gt;",
+            "profile": "nihontochicken",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: UNIQUE SWORD FOUND IN ENGLAND",
+            "postDate": "1174607740",
+            "msgId": 4942,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGV0djUxcyttcTU4QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDAxMDEwMWM3NmExOSRiODRiN2NiMCQwNDAwYThjMEBiYXJyeXRvcGd1bj4="
+            },
+            "prevInTopic": 4935,
+            "nextInTopic": 0,
+            "prevInTime": 4940,
+            "nextInTime": 4943,
+            "topicId": 4935,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Wotta piece-o crap, totally out of polish.  Have them send it to me, and I ll open up a window and see what s really there. NC  ;o) ... ",
+            "messageBody": "<div id=\"ygrps-yiv-1665749870\">Wotta piece-o crap, totally out of polish.  Have them send it to me,<br/>\nand I&#39;ll open up a window and see what&#39;s really there.<br/>\n<br/>\nNC  ;o)<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;Barry Thomas&quot; &lt;warlord@...&gt; wrote:<br/>\n&gt;<br/>\n&gt; Dear Sword Volk,<br/>\n&gt; <br/>\n&gt; Check this out:<br/>\n&gt; <br/>\n&gt;<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.northantset.co.uk/viewarticle.aspx?sectionid=1117&ArticleID=1580775\">http://www.northantset.co.uk/viewarticle.aspx?sectionid=1117&ArticleID=1580775</a><br/>\n&gt; <br/>\n&gt; Regards,<br/>\n&gt; <br/>\n&gt; Barry Thomas.<br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "profile": "xe83fan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "UNIQUE SWORD FOUND IN ENGLAND",
+            "postDate": "1174303343",
+            "msgId": 4935,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxMDEwMWM3NmExOSRiODRiN2NiMCQwNDAwYThjMEBiYXJyeXRvcGd1bj4=",
+                "referencesHeader": "PGV0ZTRzdSs1MGxpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4942,
+            "prevInTime": 4933,
+            "nextInTime": 4937,
+            "topicId": 4935,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Sword Volk, Check this out: http://www.northantset.co.uk/viewarticle.aspx?sectionid=1117&ArticleID=1580775 Regards, Barry Thomas. [Non-text portions of",
+            "messageBody": "<div id=\"ygrps-yiv-161906770\">Dear Sword Volk,<br/>\n<br/>\nCheck this out:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.northantset.co.uk/viewarticle.aspx?sectionid=1117&ArticleID=1580775\">http://www.northantset.co.uk/viewarticle.aspx?sectionid=1117&ArticleID=1580775</a><br/>\n<br/>\nRegards,<br/>\n<br/>\nBarry Thomas.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4940,
+    "nextTopicId": 4943
+}

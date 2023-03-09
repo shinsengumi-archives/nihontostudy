@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 136909275,
+            "authorName": "Curran Campbell",
+            "from": "Curran Campbell &lt;neobliviscar@...&gt;",
+            "profile": "neobliviscar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Apologies...",
+            "postDate": "1073246193",
+            "msgId": 1388,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwMTA0MTk1NjMzLjc0MTYwLnFtYWlsQHdlYjk3MDcubWFpbC55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1387,
+            "nextInTime": 1389,
+            "topicId": 1388,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "List, Sorry for the public reply to Milt. Curran __________________________________ Do you Yahoo!? Find out what made the Top Yahoo! Searches of 2003 ",
+            "messageBody": "<div id=\"ygrps-yiv-796731087\">List,<br/>\n<br/>\nSorry for the public reply to Milt.<br/>\n<br/>\nCurran<br/>\n<br/>\n<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nFind out what made the Top Yahoo! Searches of 2003<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://search.yahoo.com/top2003\">http://search.yahoo.com/top2003</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1314,
+    "nextTopicId": 1390
+}

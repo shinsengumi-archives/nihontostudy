@@ -1,0 +1,43 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 346609023,
+        "photoId": 142544828,
+        "photoName": "DSC00455",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "taipan0723",
+        "modificationDate": 1072763048,
+        "creationDate": 1072763048,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/JCW4hYrtftNTrJpkVYw-/name/n_a",
+                "height": 72,
+                "width": 96,
+                "size": 2184,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/JCW4hYrtftNTrJpkVYw-/name/n_a",
+                "height": 360,
+                "width": 480,
+                "size": 28699,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/JCW4hYrtftNTrJpkVYw-/name/n_a",
+                "height": 450,
+                "width": 600,
+                "size": 38329,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Trying to stir up some sales...",
+            "postDate": "1248988757",
+            "msgId": 5608,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDYxMkVGMTg0QjU2QjQ0QjBCN0FGNTMxNEQxNzVBQjY0QHJvbj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5607,
+            "nextInTime": 5609,
+            "topicId": 5608,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi All - Recently, I ve placed four nice kogai and three kozuka on Danny Massey s site, nihontocraft.com, in hopes of raising a few bucks and also to throw a",
+            "messageBody": "<div id=\"ygrps-yiv-1196904807\">Hi All - <br/>\n<br/>\nRecently, I&#39;ve placed four nice kogai and three kozuka on Danny Massey&#39;s site, nihontocraft.com, in hopes of raising a few bucks and also to throw a little business Danny&#39;s way. Hard sell in today&#39;s economy but hey, have a look and maybe you&#39;ll find something you just gotta have! (That happens to me all the time!)<br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5602,
+    "nextTopicId": 5609
+}

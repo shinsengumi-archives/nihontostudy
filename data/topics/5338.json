@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 337418930,
+            "authorName": "miholl26",
+            "from": "&quot;miholl26&quot; &lt;miholl26@...&gt;",
+            "profile": "miholl26",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Charleston, SC dealer",
+            "postDate": "1204357642",
+            "msgId": 5338,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZxYjFtYStjdHE0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5337,
+            "nextInTime": 5339,
+            "topicId": 5338,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A couple of years ago I was in the Charleston, SC antiques district and ran across a weapons dealer with an impressive collection of Japanese blades and tsuba.",
+            "messageBody": "<div id=\"ygrps-yiv-897005657\">A couple of years ago I was in the Charleston, SC antiques district<br/>\nand ran across a weapons dealer with an impressive collection of<br/>\nJapanese blades and tsuba.  However, I cannot remember the name of the<br/>\nshop.  Can anyone point me in the right direction?  Thanks for any help.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5287,
+    "nextTopicId": 5340
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Looking for an article",
+            "postDate": "1210079891",
+            "msgId": 5411,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDc3NjJCM0U3LUE3QUQtNDM1Mi04NkQ0LTNCQkQ1MTExMEZCNEB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5407,
+            "nextInTime": 5413,
+            "topicId": 5411,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All- Some years ago there was an article I believe in the JSSUS that dealt with the specifics of how a smith applied for and received his court titles. I am",
+            "messageBody": "<div id=\"ygrps-yiv-94926792\">All-<br/>\n\tSome years ago there was an article I believe in the JSSUS that  <br/>\ndealt with the specifics of how a smith applied for and received his  <br/>\ncourt titles. I am not talking about the Art and the Sword Vol 7.  <br/>\nRather this was a stand alone article that covered the costs, the  <br/>\npeople and the application process at least in the Edo period as I  <br/>\nremember it.<br/>\n\tIf anyone remembers who wrote it or which issue it may have come  <br/>\nfrom I would greatly appreciate the point in a right direction.<br/>\nThanks,<br/>\n-t<br/>\n<br/>\nTom Helm<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:toryu@...\">toryu@...</a><br/>\n&quot;Moriamur, et in media arma ruamus&quot;<br/>\n- Vergil<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5407,
+    "nextTopicId": 5414
+}

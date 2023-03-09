@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 289184668,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;rsblade@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Large Japanese Art Auction",
+            "postDate": "1203168151",
+            "msgId": 5283,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZwNm8ybitlbGd2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5282,
+            "nextInTime": 5284,
+            "topicId": 5283,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Freeman s Auction of Philadelphia, etc is having a major auction on March 16-17 of Japanese and Oriental arts. Included is a large collection of over 100",
+            "messageBody": "<div id=\"ygrps-yiv-1507712114\">Freeman&#39;s Auction of Philadelphia, etc is having a major auction<br/>\non March 16-17 of Japanese and Oriental arts. Included is a <br/>\nlarge collection of over 100 pieces of lacquer, swords, and other<br/>\nitems.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.freemansauction.com/\">http://www.freemansauction.com/</a><br/>\n<br/>\nThey are an international auction company; taking online bids (ending<br/>\nbefore regular bidding); phone bids, gallery bids. This is not ebay -<br/>\nread their procedures, etc on the website. I&#39;ve dealt with them<br/>\nbefore and they are first rate. <br/>\n<br/>\nThe entire auction catalog will be online approx March 5 or 6 with<br/>\nphotos of all items. The mail catalog will be available soon. Check them<br/>\nout and register early to bid. They buy and sell internationally, with<br/>\na lot of Japanese buyers by phone.<br/>\n<br/>\nRich S</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5281,
+    "nextTopicId": 5285
+}

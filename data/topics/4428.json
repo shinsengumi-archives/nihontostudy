@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 278314026,
+            "authorName": "elliottshogun",
+            "from": "&quot;elliottshogun&quot; &lt;elliott@...&gt;",
+            "profile": "elliottshogun",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Photo Album",
+            "postDate": "1156649042",
+            "msgId": 4428,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVjcjM4aStyMDI0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4427,
+            "nextInTime": 4429,
+            "topicId": 4428,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I just put together a Photo Album. The Sukeyoshi Tsuba is the first one. The others are some of my best . Please enjoy. Elliott",
+            "messageBody": "<div id=\"ygrps-yiv-1854808529\">I just put together a Photo Album. The Sukeyoshi Tsuba is the first <br/>\none. The others are some of my &#39;best&#39;. Please enjoy.<br/>\n<br/>\nElliott</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4420,
+    "nextTopicId": 4429
+}

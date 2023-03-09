@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "hamon",
+            "postDate": "1067519092",
+            "msgId": 991,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNDAwMWMzOWVlNiQ2ODU3MTRmMCQwMzAwYThjMEByaWNoYXJkPg==",
+                "referencesHeader": "PDAwMDUwMWMzOWU3MSRlOGM0N2NiMCQzYzAwMTBhY0BreW91aW5udC5zaG93YS5zd3UuYWMuanA+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 990,
+            "nextInTime": 992,
+            "topicId": 991,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, is Fujimi Saigyo also know as Mount Fuji in suguha hamon. cheers Rich [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-583043542\">Hi all, is Fujimi Saigyo also know as Mount Fuji in suguha hamon.<br/>\n<br/>\ncheers<br/>\n<br/>\nRich <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 990,
+    "nextTopicId": 992
+}

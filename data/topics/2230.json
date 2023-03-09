@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "strange hole",
+            "postDate": "1096290596",
+            "msgId": 2230,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNqOTNmNCtwMHFvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2229,
+            "nextInTime": 2231,
+            "topicId": 2230,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "please klick........... http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=3749601878 can anyone tell me what sort of edge weapons fit this type of tsuba. ",
+            "messageBody": "<div id=\"ygrps-yiv-909104064\">please klick...........<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=3749601878\">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=3749601878</a><br/>\n<br/>\n<br/>\ncan anyone tell me what sort of edge weapons fit this type of tsuba.<br/>\nJudging from the pics, it looks authentic and not a modan crappola.<br/>\n<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2212,
+    "nextTopicId": 2231
+}

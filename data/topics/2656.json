@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "alangbale",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Christie&#39;s Museum Catalogue",
+            "postDate": "1108829552",
+            "msgId": 2656,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwOTQwMWM1MTY5ZCRkMGZmZjhjMCQ4MTlhOGNkNEBjb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2655,
+            "nextInTime": 2658,
+            "topicId": 2656,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have copies of Christie s Tosogu Museum catalogue of 10th November 2004, it illustrates fine 69 blades together wirh prices and is for sale at GBP22 plus",
+            "messageBody": "<div id=\"ygrps-yiv-1348845108\">I have copies of Christie&#39;s Tosogu Museum catalogue of 10th November 2004, it illustrates fine 69 blades together wirh prices and is for sale at GBP22 plus airmail postage of GBP3.00 for Europe or GBP6.00 for the USA. Paypal acceptable.<br/>\nAlan Bale<br/>\n  ----------<br/>\n<br/>\nNo virus found in this outgoing message.<br/>\nChecked by AVG Anti-Virus.<br/>\nVersion: 7.0.300 / Virus Database: 266.1.0 - Release Date: 18/02/2005<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2655,
+    "nextTopicId": 2658
+}

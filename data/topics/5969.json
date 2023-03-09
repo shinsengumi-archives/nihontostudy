@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 182675718,
+            "authorName": "",
+            "from": "toyama1_2000@...",
+            "profile": "toyama1_2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "Orlando Japanese Sword Show",
+            "postDate": "1403358781",
+            "msgId": 5969,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGxvNDJudCtzZDZkbmtAWWFob29Hcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5968,
+            "nextInTime": 5970,
+            "topicId": 5969,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just want to thank anyone here who attended our 3rd annual sword show. Had 6 new table holders this year. Fantastic lectures on cutting test swords, blade and",
+            "messageBody": "<div id=\"ygrps-yiv-1752049140\">Just want to thank anyone here who attended our 3rd annual sword show. Had 6 new table holders this year. Fantastic lectures on cutting test swords, blade and koshirae photography, Bizen school attributes and several demos. Joe Forcine and Bill Green took time from their busy schedules to give the talks. I sure learned a lot. Thanks again. Bob Elder<br><p><span><br class=\"ygrps-yiv-1752049140yui-cursor\"></span></p></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5965,
+    "nextTopicId": 5970
+}

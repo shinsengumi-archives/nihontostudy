@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Ping",
+            "postDate": "1160325243",
+            "msgId": 4509,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDdFQjc2M0Y1LTE1MzgtNDgwMS04MTI2LTExMEFCQzk1NDE4M0B0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4508,
+            "nextInTime": 4510,
+            "topicId": 4509,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "no text delete",
+            "messageBody": "<div id=\"ygrps-yiv-1343431788\">no text delete</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4506,
+    "nextTopicId": 4510
+}

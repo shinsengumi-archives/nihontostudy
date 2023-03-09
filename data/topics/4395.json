@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 278314026,
+            "authorName": "elliottshogun",
+            "from": "&quot;elliottshogun&quot; &lt;elliott@...&gt;",
+            "profile": "elliottshogun",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Novice course of study",
+            "postDate": "1155679418",
+            "msgId": 4395,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVidGdicStwaHFjQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4394,
+            "nextInTime": 4396,
+            "topicId": 4395,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Has anyone taken or is anyone familiar with the courses offered by Fred Fimio of the JSSC? I just joined the JSSC and am contemplating enrolling in his class. ",
+            "messageBody": "<div id=\"ygrps-yiv-994634786\">Has anyone taken or is anyone familiar with the courses offered by Fred <br/>\nFimio of the JSSC? I just joined the JSSC and am contemplating <br/>\nenrolling in his class.<br/>\n<br/>\nJust asking.<br/>\n<br/>\nElliott</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4380,
+    "nextTopicId": 4396
+}

@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "koshirae data file",
+            "postDate": "1051236539",
+            "msgId": 36,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMWQwMWMzMGFjZiRhMzE0NGFmMCQxZjAxMDAwYUB3aGl6MT4="
+            },
+            "prevInTopic": 35,
+            "nextInTopic": 0,
+            "prevInTime": 35,
+            "nextInTime": 37,
+            "topicId": 35,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi All, I added a Doc file to the Files section in case people dont have Excell http://groups.yahoo.com/group/nihontostudy/files/ cheers Rich ... Outgoing mail",
+            "messageBody": "<div id=\"ygrps-yiv-533816246\">Hi All, I added a Doc file to the Files section in case people dont have Excell<br/>\n<br/>\nhttp://groups.yahoo.com/group/nihontostudy/files/<br/>\n<br/>\ncheers<br/>\n<br/>\nRich<br/>\n<br/>\n<br/>\n---<br/>\nOutgoing mail is certified Virus Free.<br/>\nChecked by AVG anti-virus system (http://www.grisoft.com).<br/>\nVersion: 6.0.471 / Virus Database: 269 - Release Date: 10/04/2003<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "koshirae data file",
+            "postDate": "1051146514",
+            "msgId": 35,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxNTAwMWMzMDlmZSQwODQwOTgyMCRiYjY0M2I0MUBvZW1jb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 36,
+            "prevInTime": 34,
+            "nextInTime": 36,
+            "topicId": 35,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "After Bob R. clued me in that there is a place to post non-photo files, I uploaded that Excel spreadsheet of koshirae stats to the group web site at: ",
+            "messageBody": "<div id=\"ygrps-yiv-1352316347\">After Bob R. clued me in that there is a place to post non-photo files, I uploaded that Excel spreadsheet of koshirae stats to the group web site at:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/nihontostudy/files/\">http://groups.yahoo.com/group/nihontostudy/files/</a><br/>\n<br/>\nIt&#39;s called katana koshirae.xls.  It opened in an Explorer browser window for me, but it probably won&#39;t play for non-Microsoft users.<br/>\n<br/>\nJim<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 27,
+    "nextTopicId": 33
+}

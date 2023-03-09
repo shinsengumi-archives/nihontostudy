@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "maiorian",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "FINAL REDUCTIONS",
+            "postDate": "1259938276",
+            "msgId": 5630,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEE1NjI0OUExNkYyMDQyODM4ODk3RkYzQTlFMjEyRTY3QGFsYW4+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5629,
+            "nextInTime": 5631,
+            "topicId": 5630,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "FINAL REDUCTIONS More reductions on Used Books and Fittings. Sale ends Sunday night Alan Bale [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1380466508\">FINAL REDUCTIONS<br/>\n<br/>\nMore reductions on Used Books and Fittings. Sale ends Sunday night <br/>\n<br/>\nAlan Bale<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5629,
+    "nextTopicId": 5631
+}

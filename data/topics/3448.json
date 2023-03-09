@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 136909275,
+            "authorName": "Curran Campbell",
+            "from": "Curran Campbell &lt;neobliviscar@...&gt;",
+            "profile": "neobliviscar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Thanks to all those who offered to help.",
+            "postDate": "1131377850",
+            "msgId": 3448,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUxMTA3MTUzNzMwLjk5NTM0LnFtYWlsQHdlYjUwNDE0Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3447,
+            "nextInTime": 3449,
+            "topicId": 3448,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, Thanks. I got the translation help I needed. Much appreciated, as I recieved several offers of help. That said, I was slightly embarrassed, as it turned ",
+            "messageBody": "<div id=\"ygrps-yiv-936026843\">All,<br/>\n<br/>\nThanks. I got the translation help I needed.<br/>\nMuch appreciated, as I recieved several offers of<br/>\nhelp.<br/>\n<br/>\nThat said, I was slightly embarrassed, as it turned<br/>\nout to be rather simple. Should have been able to get<br/>\nit myself. Sideorder of humility with my morning<br/>\ncoffee.<br/>\n<br/>\nRespectfully,<br/>\n<br/>\nCurran<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________ <br/>\nYahoo! FareChase: Search multiple travel sites in one click.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://farechase.yahoo.com\">http://farechase.yahoo.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3443,
+    "nextTopicId": 3452
+}

@@ -1,0 +1,31 @@
+{
+    "userId": 85349368,
+    "authorName": "Deron Douglas - DDP",
+    "from": "Deron Douglas - DDP &lt;deron@...&gt;",
+    "profile": "deron_vfr750",
+    "replyTo": "LIST",
+    "senderId": "LVgNA_nHNH-MSOyh9Ih7F-w0akrPYeOiMgZzPULvzBEXH1mpG_V8beg5nshnDvaaNmWTZRtkDI-QhXKH0wvLwbsNjBEq5D9HUihhtlkqXS0YfCZABYMmQkTO_A",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "12"
+    },
+    "subject": "NihontoAuctions Update",
+    "postDate": "1116901760",
+    "msgId": 3003,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDYyOTM1ODY1OS4yMDA1MDUyMzIyMjkyMEBkb3VibGUtZHJhZ29uLWVib29rcy5jb20+",
+        "inReplyToHeader": "PDExMTY2OTk1OTguNDExLjYzMDM0Lm0xOUB5YWhvb2dyb3Vwcy5jb20+",
+        "referencesHeader": "PDExMTY2OTk1OTguNDExLjYzMDM0Lm0xOUB5YWhvb2dyb3Vwcy5jb20+"
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 3002,
+    "nextInTime": 3004,
+    "topicId": 3003,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Greetings, I ve been working with Rich Turner most of the weekend on the Reserve trigger. And it looks like we have the problem fixed. This week, after the",
+    "rawEmail": "Return-Path: &lt;deron@...&gt;\r\nX-Sender: deron@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 7891 invoked from network); 24 May 2005 02:28:34 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m24.grp.scd.yahoo.com with QMQP; 24 May 2005 02:28:34 -0000\r\nReceived: from unknown (HELO smtp102.rog.mail.re2.yahoo.com) (206.190.36.80)\n  by mta5.grp.scd.yahoo.com with SMTP; 24 May 2005 02:28:34 -0000\r\nReceived: from unknown (HELO DERON) (derond@...@69.192.254.217 with plain)\n  by smtp102.rog.mail.re2.yahoo.com with SMTP; 24 May 2005 02:28:33 -0000\r\nDate: Mon, 23 May 2005 22:29:20 -0400\r\nX-Mailer: The Bat! (v3.0.1.33) Professional\r\nOrganization: DDP\r\nX-Priority: 3 (Normal)\r\nMessage-ID: &lt;629358659.20050523222920@...&gt;\r\nTo: nihontostudy@yahoogroups.com\r\nIn-Reply-To: &lt;1116699598.411.63034.m19@yahoogroups.com&gt;\r\nReferences: &lt;1116699598.411.63034.m19@yahoogroups.com&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:12:0\r\nFrom: Deron Douglas - DDP &lt;deron@...&gt;\r\nReply-To: Deron Douglas - DDP &lt;deron@...&gt;\r\nSubject: NihontoAuctions Update\r\nX-Yahoo-Group-Post: member; u=85349368\r\nX-Yahoo-Profile: deron_vfr750\r\n\r\nGreetings,\nI&#39;ve been working with Rich Turner most of the weekend on the Reserve trigger. And it looks like we have the problem fixed. This week, after the last auction ends, I will place the NihontoAuctions website into test mode and allow our testers to go over the system one final time. While they are doing this I will be setting up the new server and domain name.\n\nAll auctions and bids as well as user names and passwords will be transferred to the new server.\n\nOnce the testers give me the green light, I will open www.NihontoAuctions.com up for business. \n\nAs of this date, I&#39;m happy with all the changes we&#39;ve made and feel comfortable that everything is working as planned. When I first introduced NihontoAuctions two weeks ago we didn&#39;t have all the new things we have now. The system was stable but not as robust as we would have liked. With the creation of more features (as a direct result from the Nihonto Community), we introduced some additional problems, that have since been fixed.\n\nI think we&#39;re set to go!\n\nI will post again when the new site is up and running and would like to invite everyone to join us at www.NihontoAuctions.com.\n\nThank you for the band-width.\n\nCheers,\nDeron\n\n\n"
+}

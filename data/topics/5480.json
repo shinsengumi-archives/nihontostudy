@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 27642611,
+            "authorName": "Richard George",
+            "from": "Richard George &lt;rkg@...&gt;",
+            "profile": "rkgatteleport",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] need help",
+            "postDate": "1226356162",
+            "msgId": 5481,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ5MThCNUMyLjcwNjA1MDdAdGVsZXBvcnQuY29tPg==",
+                "inReplyToHeader": "PGdmYTAwZytoaHJkQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGdmYTAwZytoaHJkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5480,
+            "nextInTopic": 0,
+            "prevInTime": 5480,
+            "nextInTime": 5482,
+            "topicId": 5480,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, I believe this list is set up to not allow images to be sent out.  You can either put them in the list s folder on yahoo and post with the file names in",
+            "messageBody": "<div id=\"ygrps-yiv-2036593570\">Hi,<br/>\n<br/>\nI believe this list is set up to not allow images to be sent out.  You <br/>\ncan either put them in the list&#39;s folder on yahoo and post with the file <br/>\nnames in the message, or you<br/>\ncan post the images on some other photo sharing site (like flikr), and <br/>\npost links to them.<br/>\n<br/>\nbest,<br/>\n<br/>\nrkg<br/>\n(Richard George)<br/>\n<blockquote><span title=\"qreply\"> &gt; Hi ! Im new in this group.I intend to buy a sword and need help from<br/>\n&gt; anyone here before buying it.<br/>\n&gt;<br/>\n&gt; I have a few photos of it but unfortunately i cant upload it.Any advice<br/>\n&gt; to upload it so that someone<br/>\n&gt;<br/>\n&gt; can comment on the photos<br/>\n&gt;<br/>\n&gt; thanks<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; ------------------------------------<br/>\n&gt;<br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 125749645,
+            "authorName": "rahim_7007",
+            "from": "&quot;rahim_7007&quot; &lt;rahim_7007@...&gt;",
+            "profile": "rahim_7007",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "need help",
+            "postDate": "1226343248",
+            "msgId": 5480,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdmYTAwZytoaHJkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5481,
+            "prevInTime": 5479,
+            "nextInTime": 5481,
+            "topicId": 5480,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi ! Im new in this group.I intend to buy a sword and need help from anyone here before buying it. I have a few photos of it but unfortunately i cant upload",
+            "messageBody": "<div id=\"ygrps-yiv-2138462025\">Hi ! Im new in this group.I intend to buy a sword and need help from<br/>\nanyone here before buying it.<br/>\n<br/>\nI have a few photos of it but unfortunately i cant upload it.Any advice<br/>\nto upload it so that someone<br/>\n<br/>\ncan comment on the photos<br/>\n<br/>\nthanks</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5464,
+    "nextTopicId": 1871
+}

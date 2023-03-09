@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Nobuie",
+            "postDate": "1159018769",
+            "msgId": 4489,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVmM2RlaCs3MG1zQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4488,
+            "nextInTime": 4491,
+            "topicId": 4489,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone by chance have a copy of the Nakamura/Nobuie rubbings book from 1981 available for sale?  I have the original but would like a copy of the reprint.",
+            "messageBody": "<div id=\"ygrps-yiv-64643779\">Does anyone by chance have a copy of the Nakamura/Nobuie rubbings book <br/>\nfrom 1981 available for sale?  I have the original but would like a <br/>\ncopy of the reprint.<br/>\nI am also looking for a copy of the book &#39;Ko Kogai&#39;.<br/>\nThanks much!<br/>\nPete Klein</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4488,
+    "nextTopicId": 4491
+}

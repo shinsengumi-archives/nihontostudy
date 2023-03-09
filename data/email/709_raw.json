@@ -1,0 +1,29 @@
+{
+    "userId": 77400184,
+    "authorName": "alchemyst",
+    "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+    "profile": "alchemyst",
+    "replyTo": "LIST",
+    "senderId": "zf6W04clZx72M8EeZi3WW5BHC_IVQFrgssoP0lly9VVTbYNOhK7Z1RpFlXBc5L0r_oQkM1p9AriPmbCyliS3kLlS3cG2toMe",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "JSSUS website URL",
+    "postDate": "1061920365",
+    "msgId": 709,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGJpZzZwZCs4ODNyQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 708,
+    "nextInTime": 710,
+    "topicId": 709,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Seems the webhost for the JSSUS doesn t default to www.jssus.org anymore. The new URL is: http://www.jssus.org/index.html Rich S",
+    "rawEmail": "Return-Path: &lt;alchemyst@...&gt;\r\nX-Sender: alchemyst@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 10277 invoked from network); 26 Aug 2003 17:52:55 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m17.grp.scd.yahoo.com with QMQP; 26 Aug 2003 17:52:55 -0000\r\nReceived: from unknown (HELO n19.grp.scd.yahoo.com) (66.218.66.74)\n  by mta1.grp.scd.yahoo.com with SMTP; 26 Aug 2003 17:52:55 -0000\r\nReceived: from [66.218.67.172] by n19.grp.scd.yahoo.com with NNFMP; 26 Aug 2003 17:52:45 -0000\r\nDate: Tue, 26 Aug 2003 17:52:45 -0000\r\nTo: nihontostudy@yahoogroups.com\r\nSubject: JSSUS website URL\r\nMessage-ID: &lt;big6pd+883r@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 132\r\nX-Mailer: Yahoo Groups Message Poster\r\nFrom: &quot;alchemyst&quot; &lt;alchemyst@...&gt;\r\nX-Yahoo-Group-Post: member; u=77400184\r\nX-Yahoo-Profile: alchemyst\r\n\r\nSeems the webhost for the JSSUS doesn&#39;t default to \nwww.jssus.org anymore. The new URL is:\n\nhttp://www.jssus.org/index.html\n\nRich S\n\n\n"
+}

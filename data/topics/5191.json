@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 262825586,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Help with Attribution translation",
+            "postDate": "1192760790",
+            "msgId": 5192,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ3MTgxNUQ2LjUwODAzMDdAYW1uZXQubmV0LmF1Pg==",
+                "inReplyToHeader": "PDE4MzI0MC42MzAzMC5xbUB3ZWI1MjMwNi5tYWlsLnJlMi55YWhvby5jb20+",
+                "referencesHeader": "PDE4MzI0MC42MzAzMC5xbUB3ZWI1MjMwNi5tYWlsLnJlMi55YWhvby5jb20+"
+            },
+            "prevInTopic": 5191,
+            "nextInTopic": 0,
+            "prevInTime": 5191,
+            "nextInTime": 5193,
+            "topicId": 5191,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This is the kozuka Curran is referring to http://www4.ocn.ne.jp/~y-kimura/10-126.htm I am at work and have nothing here to help. Rich ... [Non-text portions of",
+            "messageBody": "<div id=\"ygrps-yiv-1748674047\">This is the kozuka Curran is referring to<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www4.ocn.ne.jp/~y-kimura/10-126.htm\">http://www4.ocn.ne.jp/~y-kimura/10-126.htm</a><br/>\n<br/>\nI am at work and have nothing here to help.<br/>\n<br/>\nRich<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt;<br/>\n&gt; Please see the kozuka in this link:<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www4.ocn.ne.jp/~y-kimura/10.htm\">http://www4.ocn.ne.jp/~y-kimura/10.htm</a> <br/>\n&gt; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www4.ocn.ne.jp/%7Ey-kimura/10.htm\">http://www4.ocn.ne.jp/%7Ey-kimura/10.htm</a>&gt;<br/>\n&gt;<br/>\n&gt; It is attributed to: &quot;ü&quot;Z OEõ&#39;PZ(&gt;<br/>\n&gt; I believe this can be read: (Mino) Kozenji<br/>\n&gt; Or can it be read as: (Mino) Mitsuyoshi-ji ?<br/>\n&gt;<br/>\n&gt; Which is the correct reading, and what information can<br/>\n&gt; anyone share about this attribution/school?<br/>\n&gt;<br/>\n&gt; Sincerely,<br/>\n&gt;<br/>\n&gt; Curran<br/>\n&gt;<br/>\n&gt; __________________________________________________<br/>\n&gt; Do You Yahoo!?<br/>\n&gt; Tired of spam? Yahoo! Mail has the best spam protection around<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://mail.yahoo.com\">http://mail.yahoo.com</a> &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://mail.yahoo.com\">http://mail.yahoo.com</a>&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n<br/>\n<br/>\n </span></blockquote>[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 136909275,
+            "authorName": "Curran Campbell",
+            "from": "Curran Campbell &lt;neobliviscar@...&gt;",
+            "profile": "neobliviscar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Help with Attribution translation",
+            "postDate": "1192756698",
+            "msgId": 5191,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDE4MzI0MC42MzAzMC5xbUB3ZWI1MjMwNi5tYWlsLnJlMi55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5192,
+            "prevInTime": 5190,
+            "nextInTime": 5192,
+            "topicId": 5191,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "List, Please see the kozuka in this link: http://www4.ocn.ne.jp/~y-kimura/10.htm It is attributed to:           ”ü”Z  Œõ‘PŽ› I believe this can be",
+            "messageBody": "<div id=\"ygrps-yiv-1658556651\">List,<br/>\n<br/>\nPlease see the kozuka in this link:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www4.ocn.ne.jp/~y-kimura/10.htm\">http://www4.ocn.ne.jp/~y-kimura/10.htm</a><br/>\n<br/>\nIt is attributed to:           üZ  õP<br/>\nI believe this can be read:   (Mino) Kozenji<br/>\nOr can it be read as:         (Mino) Mitsuyoshi-ji ?<br/>\n<br/>\nWhich is the correct reading, and what information can<br/>\nanyone share about this attribution/school?<br/>\n<br/>\n<br/>\nSincerely,<br/>\n<br/>\nCurran<br/>\n<br/>\n<br/>\n__________________________________________________<br/>\nDo You Yahoo!?<br/>\nTired of spam?  Yahoo! Mail has the best spam protection around <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mail.yahoo.com\">http://mail.yahoo.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4675,
+    "nextTopicId": 5193
+}

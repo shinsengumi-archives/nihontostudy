@@ -1,0 +1,29 @@
+{
+    "userId": 134498325,
+    "authorName": "Tom Helm",
+    "from": "Tom Helm &lt;junkmail@...&gt;",
+    "profile": "soshuju",
+    "replyTo": "LIST",
+    "senderId": "uqecwCderj0B5WLVUbmfpSI9C560w19-r0O5DuCMbMwPf27qSl72N10RYiS2ZOEqeb3lJj5UtgUhcTKv38_XcOSxaIPoNb3-",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Ping",
+    "postDate": "1160325243",
+    "msgId": 4509,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDdFQjc2M0Y1LTE1MzgtNDgwMS04MTI2LTExMEFCQzk1NDE4M0B0b3J5dS1tb24uY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 4508,
+    "nextInTime": 4510,
+    "topicId": 4509,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "no text delete",
+    "rawEmail": "Return-Path: &lt;toryu@...&gt;\r\nX-Sender: toryu@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 3564 invoked from network); 8 Oct 2006 16:27:31 -0000\r\nReceived: from unknown (66.218.66.172)\n  by m38.grp.scd.yahoo.com with QMQP; 8 Oct 2006 16:27:31 -0000\r\nReceived: from unknown (HELO smtpout04-04.prod.mesa1.secureserver.net) (64.202.165.199)\n  by mta4.grp.scd.yahoo.com with SMTP; 8 Oct 2006 16:27:31 -0000\r\nReceived: (qmail 14129 invoked from network); 8 Oct 2006 16:27:09 -0000\r\nReceived: from unknown (71.132.154.163)\n  by smtpout04-04.prod.mesa1.secureserver.net (64.202.165.199) with ESMTP; 08 Oct 2006 16:27:09 -0000\r\nMime-Version: 1.0 (Apple Message framework v752.2)\r\nContent-Transfer-Encoding: 7bit\r\nMessage-Id: &lt;7EB763F5-1538-4801-8126-110ABC954183@...&gt;\r\nContent-Type: text/plain; charset=US-ASCII; format=flowed\r\nTo: nihontostudy@yahoogroups.com\r\nDate: Sun, 8 Oct 2006 09:34:03 -0700\r\nX-Mailer: Apple Mail (2.752.2)\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nX-eGroups-From: Tom Helm &lt;toryu@...&gt;\r\nFrom: Tom Helm &lt;junkmail@...&gt;\r\nSubject: Ping\r\nX-Yahoo-Group-Post: member; u=134498325; y=dZzRetQWLhupkO-KfksFff5nG4KulUIxFbDLYhFP4xasZg\r\nX-Yahoo-Profile: soshuju\r\n\r\nno text delete\n\n"
+}

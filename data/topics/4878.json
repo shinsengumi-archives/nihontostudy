@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 226990576,
+            "authorName": "wenmass3@bellsouth.net",
+            "from": "&lt;wenmass3@...&gt;",
+            "profile": "nihontocraft",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New Nihonto Article",
+            "postDate": "1171992240",
+            "msgId": 4878,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDcwMjIwMTcyNDAwLlpYTUwxNTQ0LmlibTY5YWVjLmJlbGxzb3V0aC5uZXRAbWFpbC5iZWxsc291dGgubmV0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4877,
+            "nextInTime": 4879,
+            "topicId": 4878,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greetings to all, I have just added a new article,  Isoroku Yamamoto and the sword-smith Sadayoshi Amada by Junichiro Watanabe,  to the web site.   Please",
+            "messageBody": "<div id=\"ygrps-yiv-1787151773\">Greetings to all,<br/>\n<br/>\nI have just added a new article,  &quot;Isoroku Yamamoto and the sword-smith <br/>\nSadayoshi Amada&quot;<br/>\nby Junichiro Watanabe,  to the web site.   Please take a look if you have <br/>\nany interest.  Thanks<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontocraft.com/japanese_sword_home.html\">http://www.nihontocraft.com/japanese_sword_home.html</a><br/>\n<br/>\n<br/>\nBest regards,<br/>\nDanny Massey</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4874,
+    "nextTopicId": 4875
+}

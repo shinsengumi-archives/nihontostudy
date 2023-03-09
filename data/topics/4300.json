@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Alexander Mosle&#39;",
+            "postDate": "1151097726",
+            "msgId": 4300,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU3aG0xdSt0aTc2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4299,
+            "nextInTime": 4301,
+            "topicId": 4300,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone here have a copy of Transactions of the Japan Society of London vol VIII which has an address by Alexander Mosle on Goto fittings?  I have been",
+            "messageBody": "<div id=\"ygrps-yiv-1960044630\">Does anyone here have a copy of &#39;Transactions of the Japan Society of <br/>\nLondon&#39; vol VIII which has an address by Alexander Mosle on Goto <br/>\nfittings?  I have been attempting to find this for some time and any <br/>\nhelp would be most appreciated.  Thanks much!<br/>\nPete Klein<br/>\nFt. Lauderdale, Fl.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4299,
+    "nextTopicId": 4259
+}

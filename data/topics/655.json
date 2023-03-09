@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 150823600,
+            "authorName": "paul bowman",
+            "from": "=?iso-8859-1?q?paul=20bowman?= &lt;bowman1955@...&gt;",
+            "profile": "bowman1955",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Mumei Hizen blades",
+            "postDate": "1060634466",
+            "msgId": 655,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMwODExMjA0MTA2LjUzODUzLnFtYWlsQHdlYjIwNTAxLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 654,
+            "nextInTime": 656,
+            "topicId": 655,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear All, I am seeking opinion and others experience. I have had many long and very enjoyable conversations with Roger Robertshaw about a katana blade I",
+            "messageBody": "<div id=\"ygrps-yiv-439426990\">Dear All,<br/>\nI am seeking opinion and others experience. I have had many long and very enjoyable conversations with Roger Robertshaw about a katana blade I currently own. It appears to be an early Tadayoshi blade. This is confirmed by a sayagaki and a presentation inscription dated 1922.<br/>\nI am reasonably confident that it is indeed early Hizen work. However Roger is rightly sceptical about the existence of unsigned Hizen work being attributed to the mainline school. With a nagasa of 65.2cm. there is just the possibility that it is O-suriage and has lost the original signature. Alternatively it could be that it was never signed. I intend to submit the blade at the forthcoming NTHK shinsa in London. Does anyone know of unsigned Tadayoshi blades that have received papers?<br/>\nany opinions and information much appreciated<br/>\nthanks<br/>\nPaul<br/>\n<br/>\n<br/>\n---------------------------------<br/>\nWant to chat instantly with your online friends? Get the FREE Yahoo!Messenger<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 652,
+    "nextTopicId": 656
+}

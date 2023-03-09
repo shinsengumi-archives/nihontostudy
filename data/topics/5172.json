@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 79557236,
+            "authorName": "homo_warrior",
+            "from": "&quot;homo_warrior&quot; &lt;good-sale@...&gt;",
+            "profile": "homo_warrior",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Don Myra of Gaijin&#39;s Guide / Polish",
+            "postDate": "1190827393",
+            "msgId": 5172,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZkZTRpMStvcTlsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5170,
+            "nextInTime": 5173,
+            "topicId": 5172,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, if anyone has had a sword polished by Don Myra of Gaijin s Guide (Port Alberni, BC Canada) or bought some of his DVDs within the last 2 years, please",
+            "messageBody": "<div id=\"ygrps-yiv-727274713\">Hello,<br/>\n<br/>\nif anyone has had a sword polished by Don Myra of Gaijin&#39;s Guide (Port<br/>\nAlberni, BC Canada) or bought some of his DVDs within the last 2<br/>\nyears, please kindly contact me by e-mail at <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:swordpolish@...\">swordpolish@...</a><br/>\n<br/>\nThank you,<br/>\n<br/>\nChristian</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5169,
+    "nextTopicId": 5173
+}

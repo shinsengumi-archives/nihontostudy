@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "I Just Wanted to Wish All...",
+            "postDate": "1136032192",
+            "msgId": 3650,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRwNXRrMCtwbzYwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3649,
+            "nextInTime": 3651,
+            "topicId": 3650,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Chinese (Cantonese) Gung hay fat choy (a New Year greeting meaning, May you become prosperous. ) Sun nien fai lok (meaning, Happy new year ) Chinese",
+            "messageBody": "<div id=\"ygrps-yiv-213053144\">Chinese (Cantonese)<br/>\nGung hay fat choy (a New Year greeting meaning, &quot;May you become <br/>\nprosperous.&quot;) <br/>\nSun nien fai lok (meaning, &quot;Happy new year&quot;)<br/>\nChinese (Mandarin)<br/>\nXin nian yu kuai<br/>\nDanish<br/>\nGodt Nytår<br/>\nDutch<br/>\nGelukkig nieuwjaar<br/>\nFarsi<br/>\nAide shoma mobarak<br/>\nFrench<br/>\nBonne année<br/>\nGaelic<br/>\nAith-bhliain Fe Nhaise Dhuit<br/>\nGerman<br/>\nGutes Neues Jahr<br/>\nHawaiian<br/>\nHauoli Makahiki Hou<br/>\nHebrew<br/>\nShanah tovah<br/>\nHmong<br/>\nNyob zoo xyoo tshiab<br/>\nIndonesian<br/>\nelamat Tahun Baru<br/>\n Italian<br/>\nBuon Capo d&#39;Anno<br/>\nJapanese<br/>\nAkemashite Omedetou Gozaimasu<br/>\nNorwegian<br/>\nGodt Nyttår<br/>\nPilipino (Tagalog)<br/>\nMaligayang Bagong Taon<br/>\nPolish<br/>\nSzczesliwego Nowego roku<br/>\nPortuguese<br/>\nFeliz ano novo<br/>\nRomanian<br/>\nLa Multi Ani <br/>\nRussian<br/>\nS Novym Godom<br/>\nSpanish<br/>\nFeliz Año Nuevo<br/>\nSudanese<br/>\nWilujeng Tahun Baru<br/>\nSwedish<br/>\nGott Nytt År<br/>\nTurkish<br/>\nYeni Yiliniz Kutlu Olsun<br/>\nWelsh<br/>\nBlwyddyn Newydd Dda</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3647,
+    "nextTopicId": 3651
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 213364357,
+            "authorName": "excelsiorilluminati",
+            "from": "&quot;excelsiorilluminati&quot; &lt;excelsiorilluminati@...&gt;",
+            "profile": "excelsiorilluminati",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Brass Zogan",
+            "postDate": "1144105154",
+            "msgId": 4089,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGUwczljMithNzB0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4088,
+            "nextInTime": 4090,
+            "topicId": 4089,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello All, I was just reading the article by John Berta dealing with brass inlay in tsuba. Some fine examples were included in the article. When I started to",
+            "messageBody": "<div id=\"ygrps-yiv-1742024893\">Hello All, I was just reading the article by John Berta dealing with <br/>\nbrass inlay in tsuba. Some fine examples were included in the article. <br/>\nWhen I started to read it I was hoping, aha, maybe I&#39;&#39;ll finally be <br/>\nable to peghole a simple tsuba I have. I&#39;m afraid the tsuba is too <br/>\nsimple and displays too few characteristics for me to attribute it to <br/>\nany school. So, I leave it up to you all. I hope someone may enlighten <br/>\nme. Thanks, John<br/>\n<br/>\nThe two sides are at: John&#39;s Stuff, BrassZogan1 & 2</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4086,
+    "nextTopicId": 4090
+}

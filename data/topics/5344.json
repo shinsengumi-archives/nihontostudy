@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Bauer Collection catalogue",
+            "postDate": "1204486786",
+            "msgId": 5345,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNGMwMWM4N2M5ZCQyYmVhZmZiMCRhZjE2ODQ0YkByb24+"
+            },
+            "prevInTopic": 5344,
+            "nextInTopic": 0,
+            "prevInTime": 5344,
+            "nextInTime": 5346,
+            "topicId": 5344,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The info has been sent to me...thanks! Ron STL ... From: Ron Hartmann To: TOKEN ; nihontostudy ; nihonto@yahoogroups.com Sent: Sunday, March 02, 2008 11:57 AM ",
+            "messageBody": "<div id=\"ygrps-yiv-413561265\">The info has been sent to me...thanks!<br/>\n<br/>\nRon <br/>\nSTL<br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: Ron Hartmann <br/>\n  To: TOKEN ; nihontostudy ; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihonto@yahoogroups.com\">nihonto@yahoogroups.com</a> <br/>\n  Sent: Sunday, March 02, 2008 11:57 AM<br/>\n  Subject: Bauer Collection catalogue<br/>\n<br/>\n<br/>\n  For anyone owning a copy of the Bauer Collection catalogue, I&#39;m curious what is shown on p.428 regarding a fittings maker named Hironori. A scan of that page or entry would be great, if possible. If so, send it off-list to: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:swords@...\">swords@...</a> <br/>\n<br/>\n  Thanks! <br/>\n<br/>\n  Ron<br/>\n  STL<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Bauer Collection catalogue",
+            "postDate": "1204480671",
+            "msgId": 5344,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMmEwMWM4N2M4ZSRlZjE4MGMzMCRhZjE2ODQ0YkByb24+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5345,
+            "prevInTime": 5343,
+            "nextInTime": 5345,
+            "topicId": 5344,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For anyone owning a copy of the Bauer Collection catalogue, I m curious what is shown on p.428 regarding a fittings maker named Hironori. A scan of that page",
+            "messageBody": "<div id=\"ygrps-yiv-1661637196\">For anyone owning a copy of the Bauer Collection catalogue, I&#39;m curious what is shown on p.428 regarding a fittings maker named Hironori. A scan of that page or entry would be great, if possible. If so, send it off-list to: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:swords@...\">swords@...</a> <br/>\n<br/>\nThanks! <br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5340,
+    "nextTopicId": 5352
+}

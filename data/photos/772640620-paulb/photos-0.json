@@ -1,0 +1,43 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 772640620,
+        "photoId": 632957900,
+        "photoName": "AZakasaka",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "bowman1955",
+        "modificationDate": 1058373554,
+        "creationDate": 1058373554,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/yr0BZBTqedPXz2U.kig-/name/n_a",
+                "height": 96,
+                "width": 91,
+                "size": 3058,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/yr0BZBTqedPXz2U.kig-/name/n_a",
+                "height": 480,
+                "width": 454,
+                "size": 33095,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/yr0BZBTqedPXz2U.kig-/name/n_a",
+                "height": 800,
+                "width": 756,
+                "size": 72714,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

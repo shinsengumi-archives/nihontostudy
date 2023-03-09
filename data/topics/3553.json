@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "a nice looking monkey tsuba",
+            "postDate": "1133587687",
+            "msgId": 3553,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRtcmFkNyt2NzQ4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3552,
+            "nextInTime": 3554,
+            "topicId": 3553,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "ye all, There are some nice looking pics of a monkey tsuba posted on the other sword/tsuba discussion list (  http://groups.yahoo.com/group/nihonto/  ) under",
+            "messageBody": "<div id=\"ygrps-yiv-1041683515\">ye all,<br/>\nThere are some nice looking pics of a monkey tsuba posted on the other <br/>\nsword/tsuba discussion list (  <a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/nihonto/\">http://groups.yahoo.com/group/nihonto/</a>  )<br/>\n<br/>\nunder folder named &quot; monkey tsuba ).<br/>\nTake a look see.<br/>\n<br/>\nMilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3551,
+    "nextTopicId": 3557
+}

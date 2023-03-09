@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "alangbale",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sword Book List",
+            "postDate": "1085852273",
+            "msgId": 1911,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxODQwMWM0NDVhMyRhYzkyMjA2MCQ1YTc4MDYzZUBjb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1910,
+            "nextInTime": 1912,
+            "topicId": 1911,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have just put out a list of out of print and rare sword & tsuba books, email me for a copy if you want one.. Alan [Non-text portions of this message have",
+            "messageBody": "<div id=\"ygrps-yiv-1954663175\">I have just put out a list of out of print and rare sword & tsuba books, email me for a copy if you want one..<br/>\n<br/>\nAlan<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1910,
+    "nextTopicId": 1912
+}

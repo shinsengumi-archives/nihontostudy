@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 118577581,
+            "authorName": "TINLCUnit486",
+            "from": "&quot;TINLCUnit486&quot; &lt;tinlcunit486@...&gt;",
+            "profile": "TINLCUnit486",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Paging John Kurata / Ricecracker",
+            "postDate": "1256684769",
+            "msgId": 5620,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhjN3VkMStlczNnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5619,
+            "nextInTime": 5621,
+            "topicId": 5620,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have contacted you by email and by telephone regarding a sword that I would like to be identified and appraised. I haven t received a reply from you. Please",
+            "messageBody": "<div id=\"ygrps-yiv-904399133\">I have contacted you by email and by telephone regarding a sword that I would like to be identified and appraised. I haven&#39;t received a reply from you. Please let me know if you are/are not interested. I&#39;ll be glad to leave you alone and look somewhere else.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5619,
+    "nextTopicId": 5621
+}

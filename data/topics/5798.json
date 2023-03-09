@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 347370118,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Re: NTHK&#39;s 100th Anniversary",
+            "postDate": "1286923801",
+            "msgId": 5799,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDRDQjRFNjE5LjgwMzA1MDJAZ21haWwuY29tPg==",
+                "inReplyToHeader": "PDhBQTE3MjcwLTBDQ0MtNEI3OC1CQTZDLTBFODI4RTBBRjk3OEBzd3UuYWMuanA+",
+                "referencesHeader": "PDhBQTE3MjcwLTBDQ0MtNEI3OC1CQTZDLTBFODI4RTBBRjk3OEBzd3UuYWMuanA+"
+            },
+            "prevInTopic": 5798,
+            "nextInTopic": 0,
+            "prevInTime": 5798,
+            "nextInTime": 5800,
+            "topicId": 5798,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I wish I was going to be there, happy Birthday NTHK and my very best to all the boys :) Rich",
+            "messageBody": "<div id=\"ygrps-yiv-172371986\">I wish I was going to be there, happy Birthday NTHK and my very best <br/>\nto all the boys :)<br/>\n<br/>\nRich<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On 13/10/2010 5:30 AM, Gordon Robson wrote:<br/>\n&gt; Hi all,<br/>\n&gt;<br/>\n&gt; I just wanted to give a heads up to those coming over for the Dai-<br/>\n&gt; Tôken-Ichi at the end of the month. This year marks the 100th<br/>\n&gt; anniversary of the founding of the NTHK. We will be holding the<br/>\n&gt; following event not far from the site of the DTI: The event is on<br/>\n&gt; Sunday, the 31st of October at the ANA Intercontinental Tokyo Hotel<br/>\n&gt; near Roppongi Itchôme station on the Namboku line; however, it should<br/>\n&gt; be a short taxi ride from the DTI. There will be a display of<br/>\n&gt; important swords from 2 until 4 and a dinner party from 4 until 6. The<br/>\n&gt; display is ¥5,000 and the dinner is also ¥5,000. We will also be<br/>\n&gt; giving everyone a copy of the first volume of the Yûshûtô Zuroku. If I<br/>\n&gt; know how many of you will be coming, I will try to toss in the<br/>\n&gt; translation. I hope some of you can make this. It should be fun. I<br/>\n&gt; will be at the DTI in the morning and anyone who wants to go can grab<br/>\n&gt; me and I will arrange transportation.<br/>\n&gt;<br/>\n&gt; Gordon </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 66909074,
+            "authorName": "Gordon Robson",
+            "from": "Gordon Robson &lt;robsongo@...&gt;",
+            "profile": "robsongord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: NTHK&#39;s 100th Anniversary",
+            "postDate": "1286919000",
+            "msgId": 5798,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDhBQTE3MjcwLTBDQ0MtNEI3OC1CQTZDLTBFODI4RTBBRjk3OEBzd3UuYWMuanA+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5799,
+            "prevInTime": 5797,
+            "nextInTime": 5799,
+            "topicId": 5798,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, I just wanted to give a heads up to those coming over for the Dai- Tôken-Ichi at the end of the month. This year marks the 100th anniversary of the",
+            "messageBody": "<div id=\"ygrps-yiv-32387228\">Hi all,<br/>\n<br/>\nI just wanted to give a heads up to those coming over for the Dai- <br/>\nTôken-Ichi at the end of the month. This year marks the 100th  <br/>\nanniversary of the founding of the NTHK.  We will be holding the  <br/>\nfollowing event not far from the site of the DTI: The event is on  <br/>\nSunday, the 31st of October at the ANA Intercontinental Tokyo Hotel  <br/>\nnear Roppongi Itchôme station on the Namboku line; however, it should  <br/>\nbe a short taxi ride from the DTI. There will be a display of  <br/>\nimportant swords from 2 until 4 and a dinner party from 4 until 6. The  <br/>\ndisplay is ¥5,000 and the dinner is also ¥5,000. We will also be  <br/>\ngiving everyone a copy of the first volume of the Yûshûtô Zuroku. If I  <br/>\nknow how many of you will be coming, I will try to toss in the  <br/>\ntranslation. I hope some of you can make this. It should be fun. I  <br/>\nwill be at the DTI in the morning and anyone who wants to go can grab  <br/>\nme and I will arrange transportation.<br/>\n<br/>\nGordon</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5755,
+    "nextTopicId": 5800
+}

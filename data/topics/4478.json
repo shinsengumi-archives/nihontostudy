@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 79557236,
+            "authorName": "homo_warrior",
+            "from": "&quot;homo_warrior&quot; &lt;good-sale@...&gt;",
+            "profile": "homo_warrior",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Don Myra of Gaijin&#39;s Guide",
+            "postDate": "1158641356",
+            "msgId": 4478,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVlbnNzYytpMzJmQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4477,
+            "nextInTime": 4479,
+            "topicId": 4478,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, does anybody know what has happened to Don Myra s Gaijin Sword Polishing Webpage? It seems to have been deleted. Also I had tried to reach Don by e-mail",
+            "messageBody": "<div id=\"ygrps-yiv-1479894927\">Hello,<br/>\n<br/>\ndoes anybody know what has happened to Don Myra&#39;s Gaijin Sword<br/>\nPolishing Webpage? It seems to have been deleted.<br/>\n<br/>\nAlso I had tried to reach Don by e-mail but my mails keep on getting<br/>\nbounced back. If anyone knows what has happened to Don or been in<br/>\ntouch with him recently please kindly let me know!<br/>\n<br/>\nThank you,<br/>\n<br/>\nMax</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4475,
+    "nextTopicId": 4479
+}

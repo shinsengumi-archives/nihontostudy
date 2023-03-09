@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 331541136,
+            "authorName": "Mark Cinque",
+            "from": "Mark Cinque &lt;mrcinque@...&gt;",
+            "profile": "mrcinque",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "postDate": "1350979486",
+            "msgId": 5917,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzNTA5Nzk0ODYuOTcwMjAuWWFob29NYWlsTmVvQHdlYjQ0OTEwLm1haWwuc3AxLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5916,
+            "nextInTime": 5918,
+            "topicId": 5917,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.pikaspart.com/inc/lwbno54q.php [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1938154697\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.pikaspart.com/inc/lwbno54q.php\">http://www.pikaspart.com/inc/lwbno54q.php</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5916,
+    "nextTopicId": 5918
+}

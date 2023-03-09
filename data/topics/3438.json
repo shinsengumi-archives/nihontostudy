@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Christie&#39;s Nov. 9th Auction",
+            "postDate": "1130502524",
+            "msgId": 3438,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRqdDVocytmZDZrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3437,
+            "nextInTime": 3439,
+            "topicId": 3438,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.christies.com/LotFinder/search/lotsummary.asp?intSaleID=19419 Large collection of tosogu.  Appears to be from a high end European collection.  I",
+            "messageBody": "<div id=\"ygrps-yiv-55811659\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.christies.com/LotFinder/search/lotsummary.asp?intSaleID=19419\">http://www.christies.com/LotFinder/search/lotsummary.asp?intSaleID=19419</a><br/>\n<br/>\nLarge collection of tosogu.  Appears to be from a high end European <br/>\ncollection.  I wish I could go to this one but I&#39;m paying off my date <br/>\nwith Wilma (LOL)!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3434,
+    "nextTopicId": 3439
+}

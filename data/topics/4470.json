@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 136909275,
+            "authorName": "Curran Campbell",
+            "from": "Curran Campbell &lt;neobliviscar@...&gt;",
+            "profile": "neobliviscar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Auction Catalog Reference List",
+            "postDate": "1158428761",
+            "msgId": 4471,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYwOTE2MTc0NjAxLjg1MjgwLnFtYWlsQHdlYjUyMzExLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGVlZ3ZtYys1aWljQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4470,
+            "nextInTopic": 0,
+            "prevInTime": 4470,
+            "nextInTime": 4472,
+            "topicId": 4470,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Peter, Thank you for sharing this list. Curran ... __________________________________________________ Do You Yahoo!? Tired of spam?  Yahoo! Mail has the best",
+            "messageBody": "<div id=\"ygrps-yiv-43517080\">Peter,<br/>\n<br/>\nThank you for sharing this list.<br/>\n<br/>\nCurran<br/>\n<br/>\n<br/>\n--- klepet33319 &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Ppeterdds@...\">Ppeterdds@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; I have created a list of auction catalogs which I<br/>\n&gt; have found to be of <br/>\n&gt; help to me in the study of fittings.  It can be<br/>\n&gt; found at:<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://tosogu.blogspot.com/\">http://tosogu.blogspot.com/</a><br/>\n&gt; under the above title.  Please feel free to take a<br/>\n&gt; look and I <br/>\n&gt; hope it is of some help.<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________________________<br/>\nDo You Yahoo!?<br/>\nTired of spam?  Yahoo! Mail has the best spam protection around <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mail.yahoo.com\">http://mail.yahoo.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Auction Catalog Reference List",
+            "postDate": "1158414860",
+            "msgId": 4470,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVlZ3ZtYys1aWljQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4471,
+            "prevInTime": 4469,
+            "nextInTime": 4471,
+            "topicId": 4470,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have created a list of auction catalogs which I have found to be of help to me in the study of fittings.  It can be found at: http://tosogu.blogspot.com/ ",
+            "messageBody": "<div id=\"ygrps-yiv-931892260\">I have created a list of auction catalogs which I have found to be of <br/>\nhelp to me in the study of fittings.  It can be found at:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tosogu.blogspot.com/\">http://tosogu.blogspot.com/</a><br/>\nunder the above title.  Please feel free to take a look and I <br/>\nhope it is of some help.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4466,
+    "nextTopicId": 4473
+}

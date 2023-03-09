@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 77400184,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "JSSUS website URL",
+            "postDate": "1061920365",
+            "msgId": 709,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJpZzZwZCs4ODNyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 708,
+            "nextInTime": 710,
+            "topicId": 709,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Seems the webhost for the JSSUS doesn t default to www.jssus.org anymore. The new URL is: http://www.jssus.org/index.html Rich S",
+            "messageBody": "<div id=\"ygrps-yiv-2038592936\">Seems the webhost for the JSSUS doesn&#39;t default to <br/>\nwww.jssus.org anymore. The new URL is:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.jssus.org/index.html\">http://www.jssus.org/index.html</a><br/>\n<br/>\nRich S</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 706,
+    "nextTopicId": 710
+}

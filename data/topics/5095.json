@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Ko Kogai",
+            "postDate": "1183214175",
+            "msgId": 5095,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGY2NXBvdis2M2JzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5094,
+            "nextInTime": 5097,
+            "topicId": 5095,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "With all of this book talk -- I have been looking for a copy of Ko Kogai .  If anyone has one available drop me a line. Thanks much! Pete Klein",
+            "messageBody": "<div id=\"ygrps-yiv-1254829286\">With all of this book talk -- I have been looking for a copy of &#39;Ko <br/>\nKogai&#39;.  If anyone has one available drop me a line.<br/>\nThanks much!<br/>\nPete Klein</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5090,
+    "nextTopicId": 5097
+}

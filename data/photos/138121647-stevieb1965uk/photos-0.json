@@ -1,0 +1,84 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 138121647,
+        "photoId": 508560519,
+        "photoName": "aizu shoami 1",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "stevieb1965uk",
+        "modificationDate": 1101681686,
+        "creationDate": 1101681686,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/B4xErRHpetn1Zep30lc-/name/n_a",
+                "height": 96,
+                "width": 85,
+                "size": 1464,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/B4xErRHpetn1Zep30lc-/name/n_a",
+                "height": 480,
+                "width": 424,
+                "size": 17490,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/B4xErRHpetn1Zep30lc-/name/n_a",
+                "height": 800,
+                "width": 706,
+                "size": 41289,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 138121647,
+        "photoId": 855790067,
+        "photoName": "aizu shoami 2",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "stevieb1965uk",
+        "modificationDate": 1101681688,
+        "creationDate": 1101681688,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/7_dW6qzkf9QQPmAHi6A-/name/n_a",
+                "height": 96,
+                "width": 85,
+                "size": 1583,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/7_dW6qzkf9QQPmAHi6A-/name/n_a",
+                "height": 480,
+                "width": 427,
+                "size": 18150,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/7_dW6qzkf9QQPmAHi6A-/name/n_a",
+                "height": 800,
+                "width": 711,
+                "size": 43005,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 136909275,
+            "authorName": "Curran Campbell",
+            "from": "Curran Campbell &lt;neobliviscar@...&gt;",
+            "profile": "neobliviscar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] tsuba shape in the form of padlock+ cable",
+            "postDate": "1072673224",
+            "msgId": 1303,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMxMjI5MDQ0NzA0LjM4MjYyLnFtYWlsQHdlYjk3MDYubWFpbC55YWhvby5jb20+",
+                "inReplyToHeader": "PGJzbzdqNCs0YnBuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1302,
+            "nextInTopic": 0,
+            "prevInTime": 1302,
+            "nextInTime": 1304,
+            "topicId": 1302,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Milt, Funky desu. Curran ... __________________________________ Do you Yahoo!? New Yahoo! Photos - easier uploading and sharing. http://photos.yahoo.com/",
+            "messageBody": "<div id=\"ygrps-yiv-735946375\">Milt,<br/>\n<br/>\nFunky desu.<br/>\n<br/>\nCurran<br/>\n<br/>\n<br/>\n--- bungotakadasword &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:MuramasaIII@...\">MuramasaIII@...</a>&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; please klick............<br/>\n&gt; <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/2taz5\">http://tinyurl.com/2taz5</a><br/>\n&gt; <br/>\n&gt; <br/>\n&gt; what &quot; japanese term &quot; would you use to describe the<br/>\n&gt; shape of this <br/>\n&gt; tsuba by Yoshihide ( late Edo )  ?<br/>\n&gt; <br/>\n&gt; Thank you all in advance.....<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; milt<br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________<br/>\nDo you Yahoo!?<br/>\nNew Yahoo! Photos - easier uploading and sharing.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://photos.yahoo.com/\">http://photos.yahoo.com/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "tsuba shape in the form of padlock+ cable",
+            "postDate": "1072669092",
+            "msgId": 1302,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJzbzdqNCs0YnBuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1303,
+            "prevInTime": 1301,
+            "nextInTime": 1303,
+            "topicId": 1302,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "please klick............ http://tinyurl.com/2taz5 what  japanese term  would you use to describe the shape of this tsuba by Yoshihide ( late Edo )  ? Thank",
+            "messageBody": "<div id=\"ygrps-yiv-504207429\">please klick............<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/2taz5\">http://tinyurl.com/2taz5</a><br/>\n<br/>\n<br/>\nwhat &quot; japanese term &quot; would you use to describe the shape of this <br/>\ntsuba by Yoshihide ( late Edo )  ?<br/>\n<br/>\nThank you all in advance.....<br/>\n<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1301,
+    "nextTopicId": 1316
+}

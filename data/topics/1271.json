@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "very long inscription",
+            "postDate": "1071873901",
+            "msgId": 1271,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYjEwMWMzYzY4MSRiY2RlNmM0MCQwMzAwYThjMEByaWNoYXJkPg==",
+                "referencesHeader": "PDFlOS4xNWJkNGJlMC4yZDE0YjRhOEBhb2wuY29tPiA8MDAzYTAxYzNjNjdkJGI2MjBhNDMwJDAzMDBhOGMwQHJpY2hhcmQ+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1270,
+            "nextInTime": 1272,
+            "topicId": 1271,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, anyone care to have a go at this ? http://members5.boardhost.com/Nihon-To/msg/8477.html Rich [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-2060847611\">All, anyone care to have a go at this ?<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://members5.boardhost.com/Nihon-To/msg/8477.html\">http://members5.boardhost.com/Nihon-To/msg/8477.html</a><br/>\n<br/>\nRich<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1267,
+    "nextTopicId": 1293
+}

@@ -1,0 +1,30 @@
+{
+    "userId": 123364401,
+    "authorName": "nihontochicken",
+    "from": "&quot;nihontochicken&quot; &lt;rick@...&gt;",
+    "profile": "nihontochicken",
+    "replyTo": "LIST",
+    "senderId": "YcXVUeLGxMakjxywV-YygfrsmUBNtLjqunfazO86nU-bLUQ-gvQfEuF8pN7WrMSDdS2A_eMAa1YIZVDD4y267wuHJMeNr1BzB2nw",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: Hinzento",
+    "postDate": "1052022543",
+    "msgId": 167,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGI5MjR1Zit0cTNwQGVHcm91cHMuY29tPg==",
+        "inReplyToHeader": "PFBpbmUuU09MLjMuOTYuMTAzMDUwMzEyMTExMS4xMzM2NEYtMTAwMDAwQG1zZXJ2ZXIud2x1LmNhPg=="
+    },
+    "prevInTopic": 165,
+    "nextInTopic": 196,
+    "prevInTime": 166,
+    "nextInTime": 168,
+    "topicId": 112,
+    "numMessagesInTopic": 16,
+    "msgSnippet": "Arnold (and Folk) - It s so good to hear from you, Arnold.  I appreciate your delving through the massive week s input to nihonto ramblings and picking the ",
+    "rawEmail": "Return-Path: &lt;rick@...&gt;\r\nX-Sender: rick@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (EGP: mail-8_2_6_6); 4 May 2003 04:29:10 -0000\r\nReceived: (qmail 46121 invoked from network); 4 May 2003 04:29:08 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m1.grp.scd.yahoo.com with QMQP; 4 May 2003 04:29:08 -0000\r\nReceived: from unknown (HELO n25.grp.scd.yahoo.com) (66.218.66.81)\n  by mta1.grp.scd.yahoo.com with SMTP; 4 May 2003 04:29:08 -0000\r\nReceived: from [66.218.66.143] by n25.grp.scd.yahoo.com with NNFMP; 04 May 2003 04:29:06 -0000\r\nDate: Sun, 04 May 2003 04:29:03 -0000\r\nTo: nihontostudy@yahoogroups.com\r\nSubject: Re: Hinzento\r\nMessage-ID: &lt;b924uf+tq3p@...&gt;\r\nIn-Reply-To: &lt;Pine.SOL.3.96.1030503121111.13364F-100000@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 2123\r\nX-Mailer: Yahoo Groups Message Poster\r\nFrom: &quot;nihontochicken&quot; &lt;rick@...&gt;\r\nX-Yahoo-Group-Post: member; u=123364401\r\nX-Yahoo-Profile: nihontochicken\r\n\r\nArnold (and Folk) -\n\nIt&#39;s so good to hear from you, Arnold.  I appreciate your delving \nthrough the massive week&#39;s input to nihonto ramblings and picking the \nwheat from the chaff.  I hope I don&#39;t pop a bubble here, but \nre &quot;flexibility&quot;, the thickness of the kawagane vs. the shingane \ndoesn&#39;t make any difference from a metallurgical viewpoint.  It is \nperhaps surprising that all iron and steels have the same Young&#39;s \nmodulus (ratio of strain to stress in the elastic region).  This is \nperhaps amazing, in that, say, low carbon steel (as in shingane) is \nmostly pearlite embedded in body centered cubic iron matrix, whereas \nquench hardened kawagane and hagane is mostly acicular needles of \nmartensite, body centered tetragonal unit cell.  And yet (to me, \ncounterintuitively), the Youngs moduli are the same.  For the same \nelastic stress, the same elastic strain (bending) results.  Now, this \napplies only up to the elastic limit in the gross sense.  That is, at \na certain point, soft steel will permanently bend at a lower applied \nstress than a hard steel.  But as long as neither&#39;s elastic limit is \nexceeded, the &quot;flexibility&quot; is identical.  As a personal note, I have \nread supposed old Japanese comments that western swords are &quot;too \nflexible&quot;.  Again, this makes no sense below the elastic limit.  All \niron and steel acts the same below the elastic limit.  The difference \nis that, at a certain stress, Japanese blades will permanently bend, \nwhereas the overall harder European blades will not.  Then again, the \nEuropean blades may be more prone to brittle fracture.  But this very \nmuch depends on the quality of the individual Japanese and European \nblades being compared.  But, in general, European swords are no \nmore &quot;flexible&quot; than Japanese blades, and no Japanese swords are \nmore &quot;flexible&quot; than any others; it only depends (roughly) on the \ncross-section vs. length, up to the point the blades are permanently \nbent.  And, generally, Japanese blades (hard edge, soft core) will \npermanently bend before European swords (spring steel throughout) \nwill (but, then again, maybe not fracture).\n\nNC\n\n\n"
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162860323,
+            "authorName": "apedraza@valornewmedia.com",
+            "from": "&lt;apedraza@...&gt;",
+            "profile": "necromage.geo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Chicago",
+            "postDate": "1108388402",
+            "msgId": 2643,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDBNS3oxbS0xRDBnVVAwWUpDLTAwMDhMd0BtcmVsYXkucGVyZm9yYS5uZXQ+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2642,
+            "nextInTime": 2644,
+            "topicId": 2643,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Friends, I ve been in Chicago on personal business since late Thursday. Heading back home today, but in no hurry to drive out, so I have a free day. Is ",
+            "messageBody": "<div id=\"ygrps-yiv-145033686\">Dear Friends,<br/>\n<br/>\nI&#39;ve been in Chicago on personal business since late Thursday. Heading<br/>\nback home today, but in no hurry to drive out, so I have a free day. Is<br/>\nthere any really good nihonto collection in a local museum that would<br/>\nbe worth visiting today? I&#39;m completely ignorant of what Chicago has to<br/>\noffer in this sense. I&#39;ll check email within the next couple of hours<br/>\n(it is 7:30 CT as I write this) for any responses.<br/>\n<br/>\nDomo arigato!!!<br/>\n<br/>\nBest Regards,<br/>\n<br/>\nAndres Pedraza</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2639,
+    "nextTopicId": 2644
+}

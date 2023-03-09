@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70933495,
+            "authorName": "David McDonald",
+            "from": "David McDonald &lt;jswords@...&gt;",
+            "profile": "jswords03",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Seppa article",
+            "postDate": "1240456453",
+            "msgId": 5567,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ5RUZERDA1LjQwODAyMDlAbWNuLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5566,
+            "nextInTime": 5568,
+            "topicId": 5567,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear All I am writing a small article on seppa and found a note to the book Kinko: Tsubako: Katana no Kodogu by Mr. Kamiya Monichiro, Tokuma publishing co,",
+            "messageBody": "<div id=\"ygrps-yiv-1476102153\">Dear All<br/>\n<br/>\nI am writing a small article on seppa and found a note to the book<br/>\n<br/>\nKinko: Tsubako: Katana no Kodogu by Mr. Kamiya Monichiro, Tokuma <br/>\npublishing co, Tokyo 1963<br/>\n<br/>\ndoes anyone have a copy of book?  Does it have anything about seppa?<br/>\n<br/>\n<br/>\nAlso if you have any strange seppa and are going to the Chicago show <br/>\nplease bring them so I can<br/>\ntake photos<br/>\n<br/>\nlater<br/>\ndavid<br/>\n<br/>\n-- <br/>\nDavid McDonald                  Collector of Japanese Swords and Old Iron <br/>\nPO Box 265                      WEB page - <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.montanairon.com\">http://www.montanairon.com</a> <br/>\nSidney MT  59270                email - <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jswords@...\">jswords@...</a> <br/>\n406-482-3243  evenings          I do tsukamaki (wrapping of sword hilts) <br/>\n<br/>\nOwner of White IH Cub & Super A Farmall, IH 100 & 130, 140, AC G  <br/>\nMcD type M, Monitor, Frost King and other stationary engines.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5542,
+    "nextTopicId": 5568
+}

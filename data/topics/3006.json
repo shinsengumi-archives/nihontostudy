@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "contact information for Robert E. Haynes",
+            "postDate": "1117172446",
+            "msgId": 3006,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAyY2IwMWM1NjI3ZSRhMWQ1OWU2MCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3005,
+            "nextInTime": 3007,
+            "topicId": 3006,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Could someone provide an email or postal address for Robert E. Haynes?  Please contact me off-list: david.zincavage@aya.yale.edu [Non-text portions of this",
+            "messageBody": "<div id=\"ygrps-yiv-512149804\">Could someone provide an email or postal address for Robert E. Haynes?  Please contact me off-list:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:david.zincavage@...\">david.zincavage@...</a><br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3005,
+    "nextTopicId": 3007
+}

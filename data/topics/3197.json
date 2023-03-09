@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 232233570,
+            "authorName": "ritcheys1",
+            "from": "&quot;ritcheys1&quot; &lt;ritcheys1@...&gt;",
+            "profile": "ritcheys1",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "sword secrets of the samurai",
+            "postDate": "1122678371",
+            "msgId": 3197,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRjZWNwMys2ZDAzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3196,
+            "nextInTime": 3198,
+            "topicId": 3197,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hi evry one this is a new web site  will be up and running very soon the new dvd is amazing www.samuraisecrets.com",
+            "messageBody": "<div id=\"ygrps-yiv-70364000\">hi evry one this is a new web site  will be up and running very soon <br/>\nthe new dvd is amazing www.samuraisecrets.com</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3111,
+    "nextTopicId": 3198
+}

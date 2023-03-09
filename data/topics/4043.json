@@ -1,0 +1,157 @@
+{
+    "totalMsgInTopic": 5,
+    "messages": [
+        {
+            "userId": 261557334,
+            "authorName": "emucrawler",
+            "from": "&quot;emucrawler&quot; &lt;zz1raf@...&gt;",
+            "profile": "emucrawler",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: help with mei on fuchi",
+            "postDate": "1143579843",
+            "msgId": 4054,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGUwYzhjMytlbDliQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PEJBWTExMS1GMzJBOUE5MUZFRThDMTU1QkQxODg5QjBERDBAcGh4LmdibD4="
+            },
+            "prevInTopic": 4049,
+            "nextInTopic": 0,
+            "prevInTime": 4053,
+            "nextInTime": 4055,
+            "topicId": 4043,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Mike, The last character eens to be KAO and not NAO as saied before. This character is used as trademark of . Sorry my poor english. I will try to",
+            "messageBody": "<div id=\"ygrps-yiv-332449595\">Dear Mike,<br/>\n<br/>\nThe last character eens to be &quot;KAO&quot; and not &quot;NAO&quot; as saied before.<br/>\nThis character is used as &quot;trademark of&quot;.<br/>\nSorry my poor english.<br/>\nI will try to decifrate the other characteres.<br/>\n<br/>\nBest Regards,<br/>\nRafael (Brasil-south america)<br/>\n<br/>\nps: I am an start colector (4 kodogu papered itens)</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 140648668,
+            "authorName": "Michael Vinehout",
+            "from": "&quot;Michael Vinehout&quot; &lt;mljvine@...&gt;",
+            "profile": "mvinehout",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Re: [nihontostudy] help with mei on fuchi",
+            "postDate": "1143498266",
+            "msgId": 4049,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTExMS1GMTkyNDgzODU3NjcwMUE0MDUzQjA4RkIwRDIwQHBoeC5nYmw+",
+                "inReplyToHeader": "PGFsYW5iYWxlJDIxMy4xLjMzLjIwOSQuMDAzODAxYzY1MTBhJGU4NDljN2IwJGQxMjEwMWQ1QGNvbXB1dGVyPg=="
+            },
+            "prevInTopic": 4045,
+            "nextInTopic": 4054,
+            "prevInTime": 4048,
+            "nextInTime": 4050,
+            "topicId": 4043,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thank You Alan, Mark & Tom and all who helped.  I appreciate it! Mike",
+            "messageBody": "<div id=\"ygrps-yiv-1441871487\">Thank You Alan, Mark & Tom and all who helped.  I appreciate it!<br/>\nMike</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Re: [nihontostudy] help with mei on fuchi",
+            "postDate": "1143416657",
+            "msgId": 4045,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJGMTI5QzRCLUI4NTktNEJCMS1BOUYzLUUxODVCNzgzOTc5NEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PEJBWTExMS1GMzJBOUE5MUZFRThDMTU1QkQxODg5QjBERDBAcGh4LmdibD4=",
+                "referencesHeader": "PEJBWTExMS1GMzJBOUE5MUZFRThDMTU1QkQxODg5QjBERDBAcGh4LmdibD4="
+            },
+            "prevInTopic": 4044,
+            "nextInTopic": 4049,
+            "prevInTime": 4044,
+            "nextInTime": 4046,
+            "topicId": 4043,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Mike - That would be Shoki BTW wrestling with the little demon... -t",
+            "messageBody": "<div id=\"ygrps-yiv-1886881134\">Mike -<br/>\n\tThat would be Shoki BTW wrestling with the little demon...<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "maiorian",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] help with mei on fuchi",
+            "postDate": "1143401070",
+            "msgId": 4044,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFsYW5iYWxlJDIxMy4xLjMzLjIwOSQuMDAzODAxYzY1MTBhJGU4NDljN2IwJGQxMjEwMWQ1QGNvbXB1dGVyPg==",
+                "referencesHeader": "PEJBWTExMS1GMzJBOUE5MUZFRThDMTU1QkQxODg5QjBERDBAcGh4LmdibD4="
+            },
+            "prevInTopic": 4043,
+            "nextInTopic": 4045,
+            "prevInTime": 4043,
+            "nextInTime": 4045,
+            "topicId": 4043,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Signed Kosetsuken Tomonao, worked in Mito, pupil of Hirano Tomomitsu, c.1846 Alan ... From: Michael Vinehout To: nihontostudy@yahoogroups.com Sent: Sunday,",
+            "messageBody": "<div id=\"ygrps-yiv-1348292376\">Signed Kosetsuken Tomonao, worked in Mito, pupil of Hirano Tomomitsu, c.1846<br/>\nAlan<br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: Michael Vinehout <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n  Sent: Sunday, March 26, 2006 7:19 PM<br/>\n  Subject: [nihontostudy] help with mei on fuchi<br/>\n<br/>\n<br/>\n  Jim & Alan and all,<br/>\n  Can you guys please take a look at the fuchi/kashira I have posted in <br/>\n  &quot;Mike&#39;s&quot; photo album.  I am struggling with the mei.  It is a very fine set <br/>\n  with a Oni theme,  it looks like a diety is grapping the oni on the kashira. <br/>\n    Any help with the mei or the theme would be greatly appreciated.  Here is <br/>\n  the link:<br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://ph.groups.yahoo.com/group/nihontostudy/photos/browse/e3cc\">http://ph.groups.yahoo.com/group/nihontostudy/photos/browse/e3cc</a><br/>\n<br/>\n  or please look in Mike&#39;s photo album in the Nihonto Study group.<br/>\n  Thanks, Mike<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n------------------------------------------------------------------------------<br/>\n  YAHOO! GROUPS LINKS <br/>\n<br/>\n    a..  Visit your group &quot;nihontostudy&quot; on the web.<br/>\n      <br/>\n    b..  To unsubscribe from this group, send an email to:<br/>\n     <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy-unsubscribe@yahoogroups.com\">nihontostudy-unsubscribe@yahoogroups.com</a><br/>\n      <br/>\n    c..  Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n------------------------------------------------------------------------------<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 140648668,
+            "authorName": "Michael Vinehout",
+            "from": "&quot;Michael Vinehout&quot; &lt;mljvine@...&gt;",
+            "profile": "mvinehout",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "help with mei on fuchi",
+            "postDate": "1143397161",
+            "msgId": 4043,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTExMS1GMzJBOUE5MUZFRThDMTU1QkQxODg5QjBERDBAcGh4LmdibD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4044,
+            "prevInTime": 4042,
+            "nextInTime": 4044,
+            "topicId": 4043,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Jim & Alan and all, Can you guys please take a look at the fuchi/kashira I have posted in Mike s photo album.  I am struggling with the mei.  It is a very",
+            "messageBody": "<div id=\"ygrps-yiv-131240822\">Jim & Alan and all,<br/>\nCan you guys please take a look at the fuchi/kashira I have posted in <br/>\n&quot;Mike&#39;s&quot; photo album.  I am struggling with the mei.  It is a very fine set <br/>\nwith a Oni theme,  it looks like a diety is grapping the oni on the kashira. <br/>\n  Any help with the mei or the theme would be greatly appreciated.  Here is <br/>\nthe link:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://ph.groups.yahoo.com/group/nihontostudy/photos/browse/e3cc\">http://ph.groups.yahoo.com/group/nihontostudy/photos/browse/e3cc</a><br/>\n<br/>\nor please look in Mike&#39;s photo album in the Nihonto Study group.<br/>\nThanks, Mike</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4053,
+    "nextTopicId": 4063
+}

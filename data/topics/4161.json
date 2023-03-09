@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "...Pack Securely",
+            "postDate": "1145598796",
+            "msgId": 4161,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDJDNTlDNEEzLTczNTYtNEU2OS05ODVGLTZENkQyN0VERDFBQ0B0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4160,
+            "nextInTime": 4162,
+            "topicId": 4161,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://news.yahoo.com/s/nm/20060420/od_nm/crime_denmark_dc_1 From another list. At least one person thinks we may see more interest in sword shipments.",
+            "messageBody": "<div id=\"ygrps-yiv-1730508521\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://news.yahoo.com/s/nm/20060420/od_nm/crime_denmark_dc_1\">http://news.yahoo.com/s/nm/20060420/od_nm/crime_denmark_dc_1</a><br/>\n<br/>\n From another list. At least one person thinks we may see more  <br/>\ninterest in sword shipments. Therefore...<br/>\n-t</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4151,
+    "nextTopicId": 4163
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "profile": "xe83fan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "SAMURAI SWORD MURDERS IN GERMANY",
+            "postDate": "1251075200",
+            "msgId": 5613,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEMzNURCQzZGRDI1MjQwMDVCRTE5Rjk4RTkyQ0MwREUwQEJBUlJZPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5612,
+            "nextInTime": 5614,
+            "topicId": 5613,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Brethren, One doesn t like to be partisan in the face of such tragedy, but I do wonder if German reporting is the same as here in Australia - i.e., a",
+            "messageBody": "<div id=\"ygrps-yiv-1784922792\">Dear Brethren,<br/>\n<br/>\nOne doesn&#39;t like to be partisan in the face of such tragedy, but I do wonder <br/>\nif German reporting is the same as here in Australia - i.e., a &quot;samurai&quot; <br/>\nsword is mostly a dreadful repro...<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://news.ninemsn.com.au/world/853392/baby-survives-camp-site-family-bloodbath\">http://news.ninemsn.com.au/world/853392/baby-survives-camp-site-family-bloodbath</a><br/>\n<br/>\nBarry Thomas.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5612,
+    "nextTopicId": 5614
+}

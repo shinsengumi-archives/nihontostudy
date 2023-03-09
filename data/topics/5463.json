@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 364854530,
+            "authorName": "csiliacus",
+            "from": "&quot;csiliacus&quot; &lt;polijster@...&gt;",
+            "profile": "csiliacus",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "members",
+            "postDate": "1224974139",
+            "msgId": 5463,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdlMDZ2cittdm1tQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5462,
+            "nextInTime": 5464,
+            "topicId": 5463,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hello, i am very new here. collecting swords for 30 years now. polishing for 25 years now and i am wondering if there are members here from brasil. hope to",
+            "messageBody": "<div id=\"ygrps-yiv-791329142\">hello,<br/>\n<br/>\ni am very new here.<br/>\ncollecting swords for 30 years now.<br/>\npolishing for 25 years now<br/>\nand i am wondering if there are members here from brasil.<br/>\n<br/>\nhope to here from you soon<br/>\n<br/>\nregards<br/>\nchristophe</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5462,
+    "nextTopicId": 5464
+}

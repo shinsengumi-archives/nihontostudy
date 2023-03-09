@@ -1,0 +1,75 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 70968620,
+            "authorName": "John Berta",
+            "from": "&quot;John Berta&quot; &lt;johnberta@...&gt;",
+            "profile": "gaigin2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Making a classic kinko tsuba",
+            "postDate": "1292874369",
+            "msgId": 5807,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDc5RjNGMjUzRjY0NzQ5Njk4MDQ2RTFDMEQxRDUyNkJGQE1ERz4=",
+                "referencesHeader": "PGllbzI1YitpZDNyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5806,
+            "nextInTopic": 0,
+            "prevInTime": 5806,
+            "nextInTime": 5808,
+            "topicId": 5806,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Brian; I had the pleasure to meet this gentlemen and handle this tsuba last year in Tokyo. He is a wonderful artist and does exceptional work. John ... ",
+            "messageBody": "<div id=\"ygrps-yiv-1747511969\">Hi Brian;<br/>\n<br/>\nI had the pleasure to meet this gentlemen and handle this tsuba last year in Tokyo.<br/>\n<br/>\nHe is a wonderful artist and does exceptional work.<br/>\n<br/>\nJohn<br/>\n<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: sigp210 <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n  Sent: Monday, December 20, 2010 9:01 AM<br/>\n  Subject: [nihontostudy] Making a classic kinko tsuba<br/>\n<br/>\n<br/>\n    <br/>\n  Just cross posting this for those who might not have seen it yet. It really is worth a view for anyone with an interest in this art.<br/>\n  Well done to Ford, and looking forward to the next few projects like this one.<br/>\n<br/>\n  Brian<br/>\n<br/>\n  Part 1 - <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=wGMj7o6AwnM\">http://www.youtube.com/watch?v=wGMj7o6AwnM</a><br/>\n  Part 2 - <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=pM0VnL30rDc\">http://www.youtube.com/watch?v=pM0VnL30rDc</a><br/>\n<br/>\n<br/>\n<br/>\n  <br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 76997891,
+            "authorName": "sigp210",
+            "from": "&quot;sigp210&quot; &lt;sigp210@...&gt;",
+            "profile": "sigp210",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Making a classic kinko tsuba",
+            "postDate": "1292864491",
+            "msgId": 5806,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGllbzI1YitpZDNyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5807,
+            "prevInTime": 5805,
+            "nextInTime": 5807,
+            "topicId": 5806,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just cross posting this for those who might not have seen it yet. It really is worth a view for anyone with an interest in this art. Well done to Ford, and",
+            "messageBody": "<div id=\"ygrps-yiv-1209872488\">Just cross posting this for those who might not have seen it yet. It really is worth a view for anyone with an interest in this art.<br/>\nWell done to Ford, and looking forward to the next few projects like this one.<br/>\n<br/>\nBrian<br/>\n<br/>\nPart 1 -  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=wGMj7o6AwnM\">http://www.youtube.com/watch?v=wGMj7o6AwnM</a><br/>\nPart 2 -  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=pM0VnL30rDc\">http://www.youtube.com/watch?v=pM0VnL30rDc</a></div>",
+            "specialLinks": [
+                {
+                    "url": "http://www.youtube.com/embed/wGMj7o6AwnM?wmode=opaque",
+                    "type": "VIDEO"
+                },
+                {
+                    "url": "http://www.youtube.com/embed/pM0VnL30rDc?wmode=opaque",
+                    "type": "VIDEO"
+                }
+            ]
+        }
+    ],
+    "prevTopicId": 5800,
+    "nextTopicId": 4848
+}

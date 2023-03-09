@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 212015209,
+            "authorName": "Robert Schleimer",
+            "from": "Robert Schleimer &lt;surfson@...&gt;",
+            "profile": "surfson8",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Info",
+            "postDate": "1266897592",
+            "msgId": 5659,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEVBMEEyMTY4LTc1RDUtNEEyOS1BRTJGLTNFQzQ5NUNCQkM1MUByY24uY29tPg==",
+                "inReplyToHeader": "PDEyMzI5QTIyMDFBNjQ2QkZBMEQ4NTQzMTkyRTIzQ0FFQGFsYW4+",
+                "referencesHeader": "PDEyMzI5QTIyMDFBNjQ2QkZBMEQ4NTQzMTkyRTIzQ0FFQGFsYW4+"
+            },
+            "prevInTopic": 5658,
+            "nextInTopic": 0,
+            "prevInTime": 5658,
+            "nextInTime": 5660,
+            "topicId": 5658,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "m-kenji@parkcity.ne.jp ... [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1718175383\"><a rel=\"nofollow\" target=\"_blank\" href=\"mailto:m-kenji@...\">m-kenji@...</a><br/>\n<blockquote><span title=\"qreply\"> On Feb 22, 2010, at 2:00 PM, Alan Bale wrote:<br/>\n<br/>\n&gt; Can anyone on the list tell me what the turn around time for  <br/>\n&gt; mukansa polishing in Japan is now?<br/>\n&gt;<br/>\n&gt; Also I have lost Ken Mishima&#39;s email address and it does not seem  <br/>\n&gt; to be on his website.<br/>\n&gt;<br/>\n&gt; Alan<br/>\n&gt;<br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n&gt; <br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "maiorian",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Info",
+            "postDate": "1266868814",
+            "msgId": 5658,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEyMzI5QTIyMDFBNjQ2QkZBMEQ4NTQzMTkyRTIzQ0FFQGFsYW4+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5659,
+            "prevInTime": 5657,
+            "nextInTime": 5659,
+            "topicId": 5658,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can anyone on the list tell me what the turn around time for mukansa polishing in Japan is now? Also I have lost Ken Mishima s email address and it does not",
+            "messageBody": "<div id=\"ygrps-yiv-1098708459\">Can anyone on the list tell me what the turn around time for mukansa polishing in Japan is now? <br/>\n<br/>\nAlso I have lost Ken Mishima&#39;s email address and it does not seem to be on his website.<br/>\n<br/>\nAlan<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4831,
+    "nextTopicId": 5660
+}

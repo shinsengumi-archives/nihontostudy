@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Commercial Message- on eBay",
+            "postDate": "1213632802",
+            "msgId": 5421,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGczNjNmMisyM2JvQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDE2MzAyMy4zNTcxOS5xbUB3ZWI1MjMwMi5tYWlsLnJlMi55YWhvby5jb20+"
+            },
+            "prevInTopic": 5420,
+            "nextInTopic": 0,
+            "prevInTime": 5420,
+            "nextInTime": 5422,
+            "topicId": 5420,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://search.ebay.com/_W0QQsassZmuramasa-iiiQQhtZ-1 priced to suit most budget. Bid often and early or make offers I can t refuse. All for good cause to",
+            "messageBody": "<div id=\"ygrps-yiv-508263699\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://search.ebay.com/_W0QQsassZmuramasa-iiiQQhtZ-1\">http://search.ebay.com/_W0QQsassZmuramasa-iiiQQhtZ-1</a><br/>\n<br/>\npriced to suit most budget.<br/>\nBid often and early or make offers I can&#39;t refuse.<br/>\nAll for good cause to finance law school education ( unless you have<br/>\nsome issues with lawyers )<br/>\n<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 136909275,
+            "authorName": "Curran Campbell",
+            "from": "Curran Campbell &lt;neobliviscar@...&gt;",
+            "profile": "neobliviscar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Crass Commercial Message- on eBay",
+            "postDate": "1212604135",
+            "msgId": 5420,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDE2MzAyMy4zNTcxOS5xbUB3ZWI1MjMwMi5tYWlsLnJlMi55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5421,
+            "prevInTime": 5419,
+            "nextInTime": 5421,
+            "topicId": 5420,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "If anyone is interested, I ve listed a few items on ebay and will try to list a few more in the next few days. Follow link: ",
+            "messageBody": "<div id=\"ygrps-yiv-869252528\">If anyone is interested, I&#39;ve listed a few items on ebay and will try to list a few more in the next few days.<br/>\n<br/>\nFollow link:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/Tsuba-for-Japanese-Sword-Higo-Mon-NBTHK-Hozon-papers_W0QQitemZ320259674879QQihZ011QQcategoryZ73466QQssPageNameZWDVWQQrdZ1QQcmdZViewItem\">http://cgi.ebay.com/Tsuba-for-Japanese-Sword-Higo-Mon-NBTHK-Hozon-papers_W0QQitemZ320259674879QQihZ011QQcategoryZ73466QQssPageNameZWDVWQQrdZ1QQcmdZViewItem</a><br/>\n<br/>\nor search for seller:   nycurran<br/>\n<br/>\nLink:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://search.ebay.com/_W0QQsassZnycurran\">http://search.ebay.com/_W0QQsassZnycurran</a><br/>\n<br/>\n<br/>\nApologies for the capitalism. Raising some funds to pay for my wife&#39;s silver collecting. Don&#39;t tell Mr. Nihontochicken, or I&#39;ll get a lecture on hand hammered silver.<br/>\n<br/>\nCurran</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5419,
+    "nextTopicId": 5369
+}

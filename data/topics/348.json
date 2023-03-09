@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: 1905 article: THE SWORD OF JAPAN",
+            "postDate": "1055270307",
+            "msgId": 348,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMjIwMWMzMmY3ZiQ3ZDE5NTRiMCQyMTAxMTBhY0BUSElOS1BBRD4=",
+                "referencesHeader": "PFBpbmUuU09MLjMuOTYuMTAzMDYxMDE0MTU1OC41NDAyQy0xMDAwMDBAbXNlcnZlci53bHUuY2E+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 347,
+            "nextInTime": 349,
+            "topicId": 348,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I recently created a personal webpage for the distribution of a variety of sorts of materials related to personal interests.  I have uploaded to this page a",
+            "messageBody": "<div id=\"ygrps-yiv-1308401818\">I recently created a personal webpage for the distribution of a variety of sorts of materials related to personal interests.  I have uploaded to this page a 1905 article by one F.J. Norman, a former British cavalry officer, who was stationed in Japan in 1889, and was possibly, as he states himself, the first European to study Japanese fencing.  The article, which appeared in Badminton magazine, includes a number of period photos.  One will probably have to enlarge it once or twice, and then scroll up and down in order to read it.     <br/>\n<br/>\nSee &quot;Japanese Swords&quot; at:  www.zincavage.org<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 347,
+    "nextTopicId": 349
+}

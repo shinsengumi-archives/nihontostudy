@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Kantei Bid:",
+            "postDate": "1142598662",
+            "msgId": 4001,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGR2ZWE2NitzNjNuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4000,
+            "nextInTime": 4002,
+            "topicId": 4001,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "No. 52, 2nd.",
+            "messageBody": "<div id=\"ygrps-yiv-263621234\">No. 52, 2nd.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3999,
+    "nextTopicId": 3861
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "swords STL test2",
+            "postDate": "1141079122",
+            "msgId": 3825,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTEwMWM2M2JlYyRiNmNkZjc3MCQxMmE0OTRjZUByb24+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3824,
+            "nextInTime": 3826,
+            "topicId": 3825,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sorry...no response required. testing again... (my replies went to my spam folder for some reason!?!)  Ron STL [Non-text portions of this message have been",
+            "messageBody": "<div id=\"ygrps-yiv-136517173\">Sorry...no response required. testing again... (my replies went to my spam folder for some reason!?!)  Ron STL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3824,
+    "nextTopicId": 3826
+}

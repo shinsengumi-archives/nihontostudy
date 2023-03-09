@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: something new",
+            "postDate": "1172505014",
+            "msgId": 4911,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVydXZqbSthbDc3QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGVydXVwcCtrazBpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4910,
+            "nextInTopic": 0,
+            "prevInTime": 4910,
+            "nextInTime": 4913,
+            "topicId": 4910,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... the wikipedia link is corrupted......... here s the tiny tim...... http://tinyurl.com/yrxoaa milt",
+            "messageBody": "<div id=\"ygrps-yiv-1075765997\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;bungotakadasword&quot; <br/>\n&lt;MuramasaIII@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; May be ye all know this already but..............<br/>\n&gt; <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://en.wikipedia.org/wiki/Man&#39;y%C5%8Dgana\">http://en.wikipedia.org/wiki/Man&#39;y%C5%8Dgana</a><br/>\n&gt; <br/>\n&gt; for a possible example..........<br/>\n&gt; <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.esnips.com/doc/a5e23e52-6523-4940-8643-6fa47727e1f7/sleep6\">http://www.esnips.com/doc/a5e23e52-6523-4940-8643-6fa47727e1f7/sleep6</a><br/>\n&gt; <br/>\n&gt; milt<br/>\n&gt;<br/>\n </span></blockquote> the wikipedia link is corrupted.........<br/>\nhere&#39;s the tiny tim......<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/yrxoaa\">http://tinyurl.com/yrxoaa</a><br/>\n<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "something new",
+            "postDate": "1172504185",
+            "msgId": 4910,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVydXVwcCtrazBpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4911,
+            "prevInTime": 4909,
+            "nextInTime": 4911,
+            "topicId": 4910,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "May be ye all know this already but.............. http://en.wikipedia.org/wiki/Man y%C5%8Dgana for a possible example.......... ",
+            "messageBody": "<div id=\"ygrps-yiv-1231517767\">May be ye all know this already but..............<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://en.wikipedia.org/wiki/Man&#39;y%C5%8Dgana\">http://en.wikipedia.org/wiki/Man&#39;y%C5%8Dgana</a><br/>\n<br/>\nfor a possible example..........<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.esnips.com/doc/a5e23e52-6523-4940-8643-6fa47727e1f7/sleep6\">http://www.esnips.com/doc/a5e23e52-6523-4940-8643-6fa47727e1f7/sleep6</a><br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4906,
+    "nextTopicId": 4913
+}

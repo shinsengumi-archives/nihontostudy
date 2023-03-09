@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 271477297,
+            "authorName": "Andres Pedraza",
+            "from": "Andres Pedraza &lt;apedraza93@...&gt;",
+            "profile": "apedraza_93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "So much for netsuke collecting",
+            "postDate": "1224567807",
+            "msgId": 5462,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ4ZmQ2YzAyLjI2ODY0NjBhLjYxOTUuZmZmZmE5ZmNAbXguZ29vZ2xlLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5461,
+            "nextInTime": 5463,
+            "topicId": 5462,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://tech.yahoo.com/news/ap/20081021/ap_on_hi_te/ebay_ivory_ban Best, Andy",
+            "messageBody": "<div id=\"ygrps-yiv-575312718\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://tech.yahoo.com/news/ap/20081021/ap_on_hi_te/ebay_ivory_ban\">http://tech.yahoo.com/news/ap/20081021/ap_on_hi_te/ebay_ivory_ban</a><br/>\n<br/>\nBest,<br/>\n<br/>\nAndy</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5461,
+    "nextTopicId": 5463
+}

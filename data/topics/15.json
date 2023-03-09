@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Info required",
+            "postDate": "1051097455",
+            "msgId": 16,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGI4NXRoZitlYjNmQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDAwM2QwMWMzMDk4NiRmZDgwYTUwMCQwMzAwYThjMEByaWNoYXJkPg=="
+            },
+            "prevInTopic": 15,
+            "nextInTopic": 0,
+            "prevInTime": 15,
+            "nextInTime": 17,
+            "topicId": 15,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks Rich S, all better now :-) Rich T",
+            "messageBody": "<div id=\"ygrps-yiv-702524195\">Thanks Rich S, all better now :-)<br/>\n<br/>\nRich T</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Info required",
+            "postDate": "1051095387",
+            "msgId": 15,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwM2QwMWMzMDk4NiRmZDgwYTUwMCQwMzAwYThjMEByaWNoYXJkPg==",
+                "referencesHeader": "PGI4NXBjYys5amxhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 16,
+            "prevInTime": 14,
+            "nextInTime": 16,
+            "topicId": 15,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, back at home now, can someone forward me the Yahoo address of this group please, I want to update my book marks and can t find it searching through",
+            "messageBody": "<div id=\"ygrps-yiv-1748844769\">Hi all, back at home now, can someone forward me the Yahoo address of this group please, I want to update my book marks and can&#39;t find it searching through Yahoo groups.<br/>\n<br/>\ncheers<br/>\n<br/>\nRich<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10,
+    "nextTopicId": 4
+}

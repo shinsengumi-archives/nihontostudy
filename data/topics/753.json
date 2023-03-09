@@ -1,0 +1,97 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] some old snap shots",
+            "postDate": "1063225932",
+            "msgId": 758,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGMwMWMzNzdkYSQ5ZWJiZjVjMCRjZjRmNGJhYkBvZW1jb21wdXRlcj4=",
+                "referencesHeader": "PDAwMzcwMWMzNzc2MyRhYTMzZTA2MCQ5MTRmNGJhYkBvZW1jb21wdXRlcj4gPGEwNTIxMDYwNGJiODUwM2NjM2Q2Y0BbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 756,
+            "nextInTopic": 0,
+            "prevInTime": 757,
+            "nextInTime": 759,
+            "topicId": 753,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "That s a rare one.  Most of those pictures were taken in Yamanashi prefecture in the late 90 s.  The breakfast photo was at Hagihara-sensei s brother s inn in",
+            "messageBody": "<div id=\"ygrps-yiv-1184211148\">That&#39;s a rare one.  Most of those pictures were taken in Yamanashi prefecture in the late &#39;90&#39;s.  The breakfast photo was at Hagihara-sensei&#39;s brother&#39;s inn in Enzan.  The other guy is Joe Bott who is also from the LA area and is a very long time collector.<br/>\n  Breakfast in his pajamas has to be my favorite shot...<br/>\n  -t<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] some old snap shots",
+            "postDate": "1063211896",
+            "msgId": 756,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwNGJiODUwM2NjM2Q2Y0BbMTkyLjE2OC4xNzMuMTY2XT4=",
+                "inReplyToHeader": "PDAwMzcwMWMzNzc2MyRhYTMzZTA2MCQ5MTRmNGJhYkBvZW1jb21wdXRlcj4=",
+                "referencesHeader": "PDAwMzcwMWMzNzc2MyRhYTMzZTA2MCQ5MTRmNGJhYkBvZW1jb21wdXRlcj4="
+            },
+            "prevInTopic": 753,
+            "nextInTopic": 758,
+            "prevInTime": 755,
+            "nextInTime": 757,
+            "topicId": 753,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Breakfast in his pajamas has to be my favorite shot... -t [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1483835520\">Breakfast in his pajamas has to be my favorite shot...<br/>\n-t<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "some old snap shots",
+            "postDate": "1063174842",
+            "msgId": 753,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMzcwMWMzNzc2MyRhYTMzZTA2MCQ5MTRmNGJhYkBvZW1jb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 756,
+            "prevInTime": 752,
+            "nextInTime": 754,
+            "topicId": 753,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://tinyurl.com/mtxh from some of his travels. [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1992180844\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/mtxh\">http://tinyurl.com/mtxh</a><br/>\n<br/>\nfrom some of his travels.  <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 754,
+    "nextTopicId": 760
+}

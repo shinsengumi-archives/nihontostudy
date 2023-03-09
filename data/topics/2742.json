@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 125654407,
+            "authorName": "Kenneth Wilson",
+            "from": "Kenneth Wilson &lt;kdw21620@...&gt;",
+            "profile": "kdw21620",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "ignore my message sent",
+            "postDate": "1112669925",
+            "msgId": 2742,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwNDA1MDI1ODQ1LjI2MzIxLnFtYWlsQHdlYjUxNDA3Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "NjY2Nw=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2740,
+            "nextInTime": 2743,
+            "topicId": 2742,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "wasn t supposed to go to group sorry Ken __________________________________ Yahoo! Messenger Show us what our next emoticon should look like. Join the fun. ",
+            "messageBody": "<div id=\"ygrps-yiv-1586356417\">wasn&#39;t supposed to go to group sorry<br/>\n<br/>\nKen<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________ <br/>\nYahoo! Messenger <br/>\nShow us what our next emoticon should look like. Join the fun. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.advision.webevents.yahoo.com/emoticontest\">http://www.advision.webevents.yahoo.com/emoticontest</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2739,
+    "nextTopicId": 2743
+}

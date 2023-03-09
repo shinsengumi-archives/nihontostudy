@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 75493453,
+            "authorName": "Cary Condell",
+            "from": "Cary Condell &lt;condell@...&gt;",
+            "profile": "ccikkyudo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "eBay seller",
+            "postDate": "1075603187",
+            "msgId": 1593,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwMUM2NkYzLjEwMzA2MDlAaWtreXVkby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1592,
+            "nextInTime": 1595,
+            "topicId": 1593,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can someone contact me off-list and inform me who the individual is who uses the eBAY seller name: Showa22. Thank you in advance. -- Cary Condell Condell &",
+            "messageBody": "<div id=\"ygrps-yiv-290343342\">Can someone contact me off-list and inform me who the<br/>\nindividual is who uses the eBAY seller name: Showa22.<br/>\n<br/>\nThank you in advance.<br/>\n-- <br/>\nCary Condell<br/>\n<br/>\nCondell & Co., Ltd.<br/>\nP.O. Box 590115<br/>\nSan Francisco, CA 94159<br/>\n<br/>\nTel. 415-751-3784<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:condell@...\">condell@...</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ikkyudo.com\">http://www.ikkyudo.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1592,
+    "nextTopicId": 1595
+}

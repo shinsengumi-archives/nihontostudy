@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 123038749,
+            "authorName": "Dr John P Lissenden",
+            "from": "&quot;Dr John P Lissenden&quot; &lt;docliss@...&gt;",
+            "profile": "drjohnplissenden",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Kanteisho for kodogu ...",
+            "postDate": "1119871164",
+            "msgId": 3061,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ5b25icyticzhyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3060,
+            "nextInTime": 3062,
+            "topicId": 3061,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi While realising that the award of kanteisho certificates by the NTHK or NBTHK for kodogu is an inexact science, I have a question to ask concerning this. Is",
+            "messageBody": "<div id=\"ygrps-yiv-1318079959\">Hi<br/>\n<br/>\nWhile realising that the award of kanteisho certificates by the NTHK <br/>\nor NBTHK for kodogu is an inexact science, I have a question to ask <br/>\nconcerning this.<br/>\n<br/>\nIs the award of the various grades of such certificates based purely <br/>\nupon the quality of the piece being adjudged, or do they take into <br/>\naccount the accepted reputation of the maker?  Put another way, is it <br/>\nreasonable to assume that all kodogu adjudged, for example, as <br/>\nTokubetsu Hozon might be of roughly the same quality,irrespective of <br/>\nthe maker, or might such an artefact by an artist considered as Meijin <br/>\npossibly be superior to one, graded as Tokubetsu Kicho, by a lesser <br/>\nartist?<br/>\n<br/>\nHave I made clear that rather complicated question?<br/>\n<br/>\nRegards, JPL.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3056,
+    "nextTopicId": 3054
+}

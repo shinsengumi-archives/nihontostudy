@@ -1,0 +1,30 @@
+{
+    "userId": 122856650,
+    "authorName": "Richard Turner",
+    "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+    "profile": "retalt",
+    "replyTo": "LIST",
+    "senderId": "NrHZJP35bpBkPP2E2wfWOwYSvXSrdsSjMqTr1BzZh2I56Y6zadOhWp9p2jkayIpHspdUzNDk2adfDY5oRD_RekkSYDMmopifi2lgSKnY10Dz",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "test",
+    "postDate": "1060915485",
+    "msgId": 662,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDAxODAwMWMzNjJkNyQzNjlkZDU3MCQxZjAxMDAwYUB3aGl6MT4=",
+        "referencesHeader": "PDExOS4yNzhhMDViNy4yYzZhZjE3YkBhb2wuY29tPiA8eG84aGU0bXo1Z3guZnNmQHhoYXNjLmNvbT4gPDAwYTkwMWMzNjFhMiRlNzE2NGIyMCRmMGM1ZmVhOUBzaWdudXA+"
+    },
+    "prevInTopic": 621,
+    "nextInTopic": 793,
+    "prevInTime": 661,
+    "nextInTime": 663,
+    "topicId": 621,
+    "numMessagesInTopic": 12,
+    "msgSnippet": "test ... Outgoing mail is certified Virus Free. Checked by AVG anti-virus system (http://www.grisoft.com). Version: 6.0.507 / Virus Database: 304 - Release",
+    "rawEmail": "Return-Path: &lt;ikkanshi@...&gt;\r\nX-Sender: ikkanshi@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 81715 invoked from network); 15 Aug 2003 02:43:10 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m1.grp.scd.yahoo.com with QMQP; 15 Aug 2003 02:43:10 -0000\r\nReceived: from unknown (HELO mulgara.westnet.com.au) (203.10.1.6)\n  by mta2.grp.scd.yahoo.com with SMTP; 15 Aug 2003 02:43:10 -0000\r\nReceived: from whiz1 (unknown [202.72.134.158])\n\tby mulgara.westnet.com.au (Postfix) with ESMTP id 897003353F\n\tfor &lt;nihontostudy@yahoogroups.com&gt;; Fri, 15 Aug 2003 10:43:01 +0800 (WST)\r\nMessage-ID: &lt;018001c362d7$369dd570$1f01000a@whiz1&gt;\r\nTo: &lt;nihontostudy@yahoogroups.com&gt;\r\nReferences: &lt;119.278a05b7.2c6af17b@...&gt; &lt;xo8he4mz5gx.fsf@...&gt; &lt;00a901c361a2$e7164b20$f0c5fea9@signup&gt;\r\nSubject: test\r\nDate: Fri, 15 Aug 2003 10:44:45 +0800\r\nMIME-Version: 1.0\r\nContent-Type: text/plain;\n\tcharset=&quot;iso-8859-1&quot;\r\nContent-Transfer-Encoding: 7bit\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 6.00.2800.1106\r\nX-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2800.1106\r\nFrom: &quot;Richard Turner&quot; &lt;ikkanshi@...&gt;\r\nX-Yahoo-Group-Post: member; u=122856650\r\nX-Yahoo-Profile: retalt\r\n\r\ntest\n\n\n---\nOutgoing mail is certified Virus Free.\nChecked by AVG anti-virus system (http://www.grisoft.com).\nVersion: 6.0.507 / Virus Database: 304 - Release Date: 4/08/2003\n\n"
+}

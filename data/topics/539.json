@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Namikawa Heibei Co.",
+            "postDate": "1058052906",
+            "msgId": 539,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwNGJiMzVjYjUxNGY3OEBbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 538,
+            "nextInTime": 540,
+            "topicId": 539,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Nice people, prompt service... Dear Customers We have renewed our website recently. Please check the following URL. ÝÝÝÝÝÝ",
+            "messageBody": "<div id=\"ygrps-yiv-272522536\">Nice people, prompt service...<br/>\n<br/>\nDear Customers<br/>\n<br/>\nWe have renewed our website recently.<br/>\nPlease check the following URL.<br/>\n<br/>\nÝÝÝÝÝÝ <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.namikawa-ltd.co.jp/english\">http://www.namikawa-ltd.co.jp/english</a><br/>\n<br/>\nWe have added more comments on our products<br/>\nand put more pictures.<br/>\nWe also made a shopping cart to make your shopping easier.<br/>\n<br/>\nSome of the items are not purchasable by the order form.<br/>\nWe will inform the price and availability if you send us a mail of inquiry.<br/>\n<br/>\nThank you very much for your attention.<br/>\n<br/>\nSincerely yours,<br/>\nNamikawa<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 511,
+    "nextTopicId": 540
+}

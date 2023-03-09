@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 278314026,
+            "authorName": "Elliott",
+            "from": "&quot;Elliott&quot; &lt;elliott@...&gt;",
+            "profile": "elliottshogun",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "E-mail address",
+            "postDate": "1162143495",
+            "msgId": 4589,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVpMm91Nys4c29mQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4588,
+            "nextInTime": 4590,
+            "topicId": 4589,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Richard, I am having a difficult time e-mailing you a large picture of the Mei of the Myochin Tsuba. Would you e-mail me at laura-elliott@comcast.net so that I",
+            "messageBody": "<div id=\"ygrps-yiv-1584331708\">Richard,<br/>\n<br/>\nI am having a difficult time e-mailing you a large picture of the Mei <br/>\nof the Myochin Tsuba.<br/>\n<br/>\nWould you e-mail me at <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:laura-elliott@...\">laura-elliott@...</a> so that I may obtain <br/>\nyour correct e-mail address? <br/>\n<br/>\nI have an e-mail address for you that didn&#39;t work. <br/>\n<br/>\nThanks,<br/>\n<br/>\nElliott</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4587,
+    "nextTopicId": 4597
+}

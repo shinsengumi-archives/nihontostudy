@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "test only",
+            "postDate": "1141077647",
+            "msgId": 3824,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGEwMWM2M2JlOSQ0NzE5MzE5MCQxMmE0OTRjZUByb24+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3823,
+            "nextInTime": 3825,
+            "topicId": 3824,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "test only...no responses necessary Ron STL [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1210021460\">test only...no responses necessary Ron STL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3809,
+    "nextTopicId": 3825
+}

@@ -1,0 +1,28 @@
+{
+    "userId": 48448737,
+    "authorName": "Barry Thomas",
+    "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+    "replyTo": "LIST",
+    "senderId": "w9LvQlX8W1gM7BIJDDaUuZjDp2gTvauSzhktDBXg-nQCit09T9_UKjmVsKt7qLpG_C9UUfbuXXlJnGOArjca2GlKDJe9I3Lh3ybq",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "TEST - PLEASE IGNORE",
+    "postDate": "1107601705",
+    "msgId": 2638,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDAwOTUwMWM1MGI3MyQwNWEwZGM2MCQwMTI5ZDljYkB0aG9tYXNmYW1pbHk+"
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 2641,
+    "prevInTime": 2637,
+    "nextInTime": 2639,
+    "topicId": 2638,
+    "numMessagesInTopic": 2,
+    "msgSnippet": "",
+    "rawEmail": "Return-Path: &lt;warlord@...&gt;\r\nX-Sender: warlord@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 91917 invoked from network); 5 Feb 2005 10:48:54 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m21.grp.scd.yahoo.com with QMQP; 5 Feb 2005 10:48:54 -0000\r\nReceived: from unknown (HELO mail.iinet.net.au) (203.59.3.40)\n  by mta5.grp.scd.yahoo.com with SMTP; 5 Feb 2005 10:48:54 -0000\r\nReceived: (qmail 25380 invoked from network); 5 Feb 2005 10:48:43 -0000\r\nReceived: from unknown (HELO thomasfamily) (203.173.28.58)\n  by mail.iinet.net.au with SMTP; 5 Feb 2005 10:48:43 -0000\r\nMessage-ID: &lt;009501c50b73$05a0dc60$0129d9cb@thomasfamily&gt;\r\nTo: &lt;nihonto@yahoogroups.com&gt;\r\nCc: &lt;token_kenkyu_kai@...&gt;,\n\t&lt;nihontostudy@yahoogroups.com&gt;\r\nDate: Sat, 5 Feb 2005 22:08:25 +1100\r\nMIME-Version: 1.0\r\nContent-Type: text/plain;\n\tcharset=&quot;iso-8859-1&quot;\r\nContent-Transfer-Encoding: 7bit\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 5.00.2615.200\r\nX-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200\r\nX-eGroups-Remote-IP: 203.59.3.40\r\nFrom: &quot;Barry Thomas&quot; &lt;warlord@...&gt;\r\nSubject: TEST - PLEASE IGNORE\r\nX-Yahoo-Group-Post: member; u=48448737\r\n\r\n\n\n\n"
+}

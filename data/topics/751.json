@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 119415193,
+            "authorName": "Bob R",
+            "from": "Bob R &lt;gentleman9@...&gt;",
+            "profile": "gentleman9",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Kubikiri Asaemon Token Oshigata & Satsuma Koshirae for sale",
+            "postDate": "1063104450",
+            "msgId": 751,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMwOTA5MTA0NzMwLjI2ODI4LnFtYWlsQHdlYjQxMDAyLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDAxYWIwMWMzNzZiMCQ3ODY1Yjk0MCQ3YzNiZmVhOUBIQU1NRVI+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 750,
+            "nextInTime": 752,
+            "topicId": 751,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Guys and Gals, Sorry for the crass commercialism but some had mentioned interest in the two books I just put up on Ebay and I thought I d give everyone a fair",
+            "messageBody": "<div id=\"ygrps-yiv-1959109140\">Guys and Gals,<br/>\n<br/>\nSorry for the crass commercialism but some had<br/>\nmentioned interest in the two books I just put up on<br/>\nEbay and I thought I&#39;d give everyone a fair chance at<br/>\nthem. <br/>\n<br/>\nSATSUMA KOSHIRAE:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/mpmb\">http://tinyurl.com/mpmb</a><br/>\n<br/>\nKubikiri Asaemon Token Oshigata 2 Vol Set:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/mpmd\">http://tinyurl.com/mpmd</a><br/>\n<br/>\nThanks for looking.<br/>\n<br/>\nBob R<br/>\n<br/>\n=====<br/>\nCheck out &quot;Cowboy&quot; Bob&#39;s Books & Things at:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://asia.geocities.com/gentleman9/index.html\">http://asia.geocities.com/gentleman9/index.html</a><br/>\n<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! SiteBuilder - Free, easy-to-use web site design software<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://sitebuilder.yahoo.com\">http://sitebuilder.yahoo.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 750,
+    "nextTopicId": 752
+}

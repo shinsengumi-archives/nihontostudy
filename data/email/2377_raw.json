@@ -1,0 +1,29 @@
+{
+    "userId": 122856650,
+    "authorName": "Richard Turner",
+    "from": "Richard Turner &lt;ikkanshi@...&gt;",
+    "profile": "retalt",
+    "replyTo": "LIST",
+    "senderId": "phtRvPzh_xYmY-2EWWF_4DziUiuP5RWIYFNfgAfopAppqS3NpCzQ_I7ktopyI_wLBU5NwNI6ELX-PrIZd3YTPa6Lda1rdT_MOTBNhZiUaw",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Virus Alert- read carefully",
+    "postDate": "1099447717",
+    "msgId": 2377,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDQxODgzREE1LjYwNzAwMDBAd2VzdG5ldC5jb20uYXU+"
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 2376,
+    "nextInTime": 2378,
+    "topicId": 2377,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Heads up boys and girls ******************* Virus Alert ******************* Please be aware of the latest computer virus which has been named Beagle.AZ.",
+    "rawEmail": "Return-Path: &lt;ikkanshi@...&gt;\r\nX-Sender: ikkanshi@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 21737 invoked from network); 3 Nov 2004 02:10:37 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m23.grp.scd.yahoo.com with QMQP; 3 Nov 2004 02:10:37 -0000\r\nReceived: from unknown (HELO vscan01.westnet.com.au) (203.10.1.131)\n  by mta2.grp.scd.yahoo.com with SMTP; 3 Nov 2004 02:10:36 -0000\r\nReceived: from localhost (localhost.localdomain [127.0.0.1])\n\tby localhost (Postfix) with ESMTP id EEE026FACC;\n\tWed,  3 Nov 2004 10:09:43 +0800 (WST)\r\nReceived: from vscan01.westnet.com.au ([127.0.0.1])\n by localhost (vscan01.westnet.com.au [127.0.0.1]) (amavisd-new, port 10024)\n with ESMTP id 32191-10; Wed,  3 Nov 2004 10:09:43 +0800 (WST)\r\nReceived: from [192.168.0.14] (dsl-202-72-174-100.wa.westnet.com.au [202.72.174.100])\n\tby vscan01.westnet.com.au (Postfix) with ESMTP id 1F0C66FAB9;\n\tWed,  3 Nov 2004 10:09:43 +0800 (WST)\r\nMessage-ID: &lt;41883DA5.6070000@...&gt;\r\nDate: Wed, 03 Nov 2004 10:08:37 +0800\r\nUser-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.2) Gecko/20040804 Netscape/7.2 (ax)\r\nX-Accept-Language: en-us, en\r\nMIME-Version: 1.0\r\nTo: token_kenkyu_kai@..., nihontostudy@yahoogroups.com,\n\t&quot;&#39;nihonto@yahoogroups.com &#39;&quot; &lt;nihonto@yahoogroups.com&gt;\r\nX-eGroups-Remote-IP: 203.10.1.131\r\nFrom: Richard Turner &lt;ikkanshi@...&gt;\r\nReply-To: ikkanshi@...\r\nSubject: Virus Alert- read carefully\r\nX-Yahoo-Group-Post: member; u=122856650\r\nX-Yahoo-Profile: retalt\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: quoted-printable\r\n\r\nHeads up boys and girls\n\n\n******************* Virus Alert *****************=\r\n**\n\n\nPlease be aware of the latest computer virus which has been named \nBea=\r\ngle.AZ. Bagle.AZ is a new variant of the Bagle worm spreading rapidly \nover=\r\n the Internet. If you have received any email that contains this \nvirus, de=\r\nlete it immediately. Do not forward to others, and do not open \nthe attachm=\r\nent. You will be able to identify the virus because it will \narrive in an e=\r\nmail with the following attributes:\nSubject: will contain either...\n=B7    =\r\n     Re:\n=B7         Re: Hello\n=B7         Re: Thank you!\n=B7         Re: T=\r\nhanks :)\n=B7         Re: Hi\nBody: will contain either...\n=B7         * :)\n=\r\n=B7         * :)\nAttachment: will contain either...\n=B7         Price\n=B7  =\r\n       price\n=B7         Joke\nIf the attachment is executed, it opens two d=\r\nifferent Internet protocol\nports on your computer that are designed to allo=\r\nw your machine to function\nas a relay to send spam email.\n\n\n\n[Non-text port=\r\nions of this message have been removed]\n\n\n"
+}

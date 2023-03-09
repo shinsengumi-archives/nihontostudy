@@ -1,0 +1,29 @@
+{
+    "userId": 70790403,
+    "authorName": "Jim Gilbert",
+    "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+    "profile": "yamaimojg",
+    "replyTo": "LIST",
+    "senderId": "SZe17Qoiyt7waa4J212uhLcmzfq497bULtC8DnDi78Kd1jGPSDLxSzaXWT1I5qc30fldkFt1MQa11U_PjnDsYjV77yDm5EJRQOpCIsiG",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "list administration stuff",
+    "postDate": "1051840168",
+    "msgId": 140,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDAwYjMwMWMzMTA0ZCQxMjE5OWFlMCRlZTc3ZDAzZkBvZW1jb21wdXRlcj4="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 139,
+    "nextInTime": 141,
+    "topicId": 140,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Thanks to everyone who responded off line to help with the development of a set of rules for managing the list.  Based on results of that discussion I posted a",
+    "rawEmail": "Return-Path: &lt;jggilbert@...&gt;\r\nX-Sender: jggilbert@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (EGP: mail-8_2_6_6); 2 May 2003 01:47:47 -0000\r\nReceived: (qmail 75725 invoked from network); 2 May 2003 01:47:47 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m5.grp.scd.yahoo.com with QMQP; 2 May 2003 01:47:47 -0000\r\nReceived: from unknown (HELO conure.mail.pas.earthlink.net) (207.217.120.54)\n  by mta1.grp.scd.yahoo.com with SMTP; 2 May 2003 01:47:47 -0000\r\nReceived: from dialup-63.208.119.238.dial1.weehawken1.level3.net ([63.208.119.238] helo=oemcomputer)\n\tby conure.mail.pas.earthlink.net with smtp (Exim 3.33 #1)\n\tid 19BPeL-0002ko-00\n\tfor nihontostudy@yahoogroups.com; Thu, 01 May 2003 18:47:46 -0700\r\nMessage-ID: &lt;00b301c3104d$12199ae0$ee77d03f@oemcomputer&gt;\r\nTo: &lt;nihontostudy@yahoogroups.com&gt;\r\nSubject: list administration stuff\r\nDate: Thu, 1 May 2003 21:49:28 -0400\r\nMIME-Version: 1.0\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 6.00.2800.1106\r\nX-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106\r\nFrom: &quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;\r\nX-Yahoo-Group-Post: member; u=70790403\r\nX-Yahoo-Profile: yamaimojg\r\nContent-Type: text/plain; charset=US-ASCII\r\nContent-Transfer-Encoding: 7bit\r\n\r\nThanks to everyone who responded off line to help with the development of a set of rules for managing the list.  Based on results of that discussion I posted a text file to:\n\nhttp://groups.yahoo.com/group/nihontostudy/files/\n\nthat will be sent out to new members subscribing to the nihontostudy list.  Please take a look at it when you have a chance and let me know off line if there&#39;s anything you have a problem living with.\n\nI don&#39;t think that this kind of stuff is necessary with the current group, but since membership is open we will need to have some basic rules in place to avoid the nonsense that can happen on email lists.\n\nThanks,\nJim\n \n\n[Non-text portions of this message have been removed]\n\n\n"
+}

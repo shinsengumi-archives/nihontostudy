@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "postDate": "1064459434",
+            "msgId": 829,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwZmJiOTgwYWJhZmQ3MUBbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 828,
+            "nextInTime": 830,
+            "topicId": 829,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Gentlemen- I spoke with Alan H. today and he has finally been down in the basement and has checked his stock. Unfortunately he has only TEN copies of number",
+            "messageBody": "<div id=\"ygrps-yiv-1033141506\">Gentlemen-<br/>\n\tI spoke with Alan H. today and he has finally been down in <br/>\nthe basement and has checked his stock. Unfortunately he has only TEN <br/>\ncopies of number two. The first ten gentlemen who responded to me <br/>\nwill each get a set of 2-4,6-9. You know who you are.<br/>\n\tI can get 3,4,6-9 for $100 plus shipping if you didn&#39;t get <br/>\nthe above message privately,but are still interested in these books, <br/>\nPlease contact me OFF LIST,<br/>\nTom</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 828,
+    "nextTopicId": 831
+}

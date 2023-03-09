@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 289184668,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;rsblade@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Freeman&#39;s Asian Arts auction online",
+            "postDate": "1204918081",
+            "msgId": 5354,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZxczUwMStrazA0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5353,
+            "nextInTime": 5355,
+            "topicId": 5354,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The full catalog with all items pictured of the Freeman s Auction of Asian Arts in now online. The swords and lacquer starts at about item 780, p 15-18 of the",
+            "messageBody": "<div id=\"ygrps-yiv-477372477\">The full catalog with all items pictured of the Freeman&#39;s Auction of<br/>\nAsian Arts in now online. The swords and lacquer starts<br/>\nat about item 780, p 15-18 of the online catalog.<br/>\n<br/>\nRemember you must register in advance. Freeman&#39;s<br/>\nis more like Sotheby&#39;s, etc. It is not ebay.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.freemansauction.com\">http://www.freemansauction.com</a><br/>\n<br/>\nRich S</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5352,
+    "nextTopicId": 5355
+}

@@ -1,0 +1,84 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 194899378,
+        "photoId": 679965313,
+        "photoName": "Obverse of tsuba",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "drjohnplissenden",
+        "modificationDate": 1157464792,
+        "creationDate": 1157464792,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/xJA57.zqfdiQOhyTj50-/name/n_a",
+                "height": 72,
+                "width": 96,
+                "size": 2029,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/xJA57.zqfdiQOhyTj50-/name/n_a",
+                "height": 300,
+                "width": 400,
+                "size": 15079,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/xJA57.zqfdiQOhyTj50-/name/n_a",
+                "height": 300,
+                "width": 400,
+                "size": 15079,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 194899378,
+        "photoId": 611516635,
+        "photoName": "Detail",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "drjohnplissenden",
+        "modificationDate": 1157464793,
+        "creationDate": 1157464793,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/nUd4ZwPqe9DDk0boc3g-/name/n_a",
+                "height": 96,
+                "width": 78,
+                "size": 6638,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/nUd4ZwPqe9DDk0boc3g-/name/n_a",
+                "height": 127,
+                "width": 103,
+                "size": 11666,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/nUd4ZwPqe9DDk0boc3g-/name/n_a",
+                "height": 127,
+                "width": 103,
+                "size": 11666,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

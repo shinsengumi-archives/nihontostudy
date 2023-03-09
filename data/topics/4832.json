@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 226990576,
+            "authorName": "wenmass3@bellsouth.net",
+            "from": "&lt;wenmass3@...&gt;",
+            "profile": "nihontocraft",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Ryuminsai Kanetomo Article",
+            "postDate": "1169323061",
+            "msgId": 4832,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDcwMTIwMTk1NzQxLkRQRk0xNTIwMy5pYm02NGFlYy5iZWxsc291dGgubmV0QG1haWwuYmVsbHNvdXRoLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4831,
+            "nextInTime": 4834,
+            "topicId": 4832,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greetings to all, I have just added an article about the Gendai smith, Ryuminsai Kanetomo to the website. Please take a look if you have any interest. ",
+            "messageBody": "<div id=\"ygrps-yiv-2138485606\">Greetings to all,<br/>\n<br/>\nI have just added an article about the Gendai smith, Ryuminsai Kanetomo to the website. Please take a look if you have any <br/>\ninterest. <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontocraft.com/japanese_sword_home.html\">http://www.nihontocraft.com/japanese_sword_home.html</a><br/>\n<br/>\n<br/>\nDanny Massey <br/>\nwww.nihontocraft.com</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4827,
+    "nextTopicId": 4834
+}

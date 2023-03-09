@@ -1,0 +1,50 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 479770457,
+        "photoId": 821808830,
+        "photoName": "Heavy Sori Tachi",
+        "photoFilename": "DSC00790A.jpg",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "atarbaktar",
+        "modificationDate": 1285551470,
+        "creationDate": 1285551470,
+        "position": 0,
+        "commentCount": 1,
+        "ordinal": 0,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/Jq4jAY_keNC5UtPR4qM-/name/DSC00790A.jpg",
+                "height": 72,
+                "width": 96,
+                "size": 13799,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/Jq4jAY_keNC5UtPR4qM-/name/DSC00790A.jpg",
+                "height": 360,
+                "width": 480,
+                "size": 23024,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/Jq4jAY_keNC5UtPR4qM-/name/DSC00790A.jpg",
+                "height": 480,
+                "width": 640,
+                "size": 29696,
+                "photoType": "hr"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/or/Jq4jAY_keNC5UtPR4qM-/name/DSC00790A.jpg",
+                "height": 480,
+                "width": 640,
+                "size": 29309,
+                "photoType": "or"
+            }
+        ]
+    }
+]

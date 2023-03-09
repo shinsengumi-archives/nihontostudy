@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 152314622,
+            "authorName": "Jim Meyer",
+            "from": "&quot;Jim Meyer&quot; &lt;tantojim@...&gt;",
+            "profile": "tantojim",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Paperback Koop & Inada: Japanese Names and How to Read Them",
+            "postDate": "1072312337",
+            "msgId": 1299,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PCF+IVVFTkVSa1ZDTURrQUFRQUNBQUFBQUFBQUFBQUFBQUFBQUJnQUFBQUFBQUFBL1JoVTdIQ2x1azZTak81SFdJUS9aY0tBQUFBUUFBQUExd1BwL0RnaW5VMjdYZWY0cnFqcVBBRUFBQUFBQGNvbWNhc3QubmV0Pg==",
+                "inReplyToHeader": ""
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1298,
+            "nextInTime": 1300,
+            "topicId": 1299,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello All, Amazon.com keeps pushing back the release date of Koop & Inada s book in paperback.  Does anyone know when it will be out? Thanks, Jim ",
+            "messageBody": "<div id=\"ygrps-yiv-660798732\">Hello All,<br/>\n<br/>\n <br/>\n<br/>\nAmazon.com keeps pushing back the release date of Koop & Inada&#39;s book in<br/>\npaperback.  Does anyone know when it will be out?<br/>\n<br/>\n <br/>\n<br/>\nThanks,<br/>\n<br/>\nJim<br/>\n<br/>\n <br/>\n<br/>\n_____________________________________________________<br/>\n<br/>\nBladeShark<br/>\n<br/>\n <br/>\n<br/>\n*\tKanji character tables<br/>\n*\t<a rel=\"nofollow\" target=\"_blank\" href=\"http://bladeshark.com/\">http://bladeshark.com/</a><br/>\n*\temail: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:tantojim@...\">tantojim@...</a><br/>\n<br/>\n <br/>\n<br/>\n <br/>\n<br/>\n <br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1295,
+    "nextTopicId": 1300
+}

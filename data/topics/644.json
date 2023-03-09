@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "stolen sword",
+            "postDate": "1060148973",
+            "msgId": 644,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwM2JiNTY0NTY4ODg3YkBbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 643,
+            "nextInTime": 645,
+            "topicId": 644,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Posted recently to another list, please let us know if you encounter this sword. -t It is embarrassing for me to tell you that I have lost a valuable sword. It",
+            "messageBody": "<div id=\"ygrps-yiv-1006006662\">Posted recently to another list, please let us know if you encounter <br/>\nthis sword.<br/>\n-t<br/>\n<br/>\nIt is embarrassing for me to tell you that I have lost a valuable sword.<br/>\nIt was sent Global Express Mail .  It was routed to Mexico instead of to<br/>\nTokyo, according to EMS in San Francisco. We are still awaiting response<br/>\nfrom Mexico but it should be shortly.<br/>\nIn the meantime if this has been lost or stolen someone may attempt to have<br/>\nit valued or try to sell it at the S.F. Taikai.<br/>\nIf approached please alert security.  I will be there with full description<br/>\nand oshigata and photo.<br/>\nShinsakuto signed: Musashi no Kuni ju Kato Chozaemon Sanehira saku<br/>\nDated: Showa 47, Feb. (1972)<br/>\n28.11 nagasa, width 1.38in  .79 sori<br/>\nhorimono: Bohi on both sides<br/>\nFull polish<br/>\nIn shirasaya, The saya is in an unusual  white cloth bag with tie string.<br/>\nIt was appraised at 480,000 yen or now something over $4000. dollars.<br/>\nYour help would be most appreciated.<br/>\n<br/>\nsincerely<br/>\nBill De La Grange<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:grange@...\">grange@...</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 643,
+    "nextTopicId": 635
+}

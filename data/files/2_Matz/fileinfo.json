@@ -1,0 +1,50 @@
+[
+    {
+        "fileName": "Assistance needed",
+        "description": "",
+        "ownerName": "matz_andersson",
+        "pathURI": "/Matz/Assistance%20needed",
+        "downloadURL": "https://xa.yimg.com/df/nihontostudy/Assistance+needed?token=xKEGEmOAyN-MpuQWjOiulsZnvCG9oFMopserUp3UeXOC87f2Fn2bcq_7YUDG4jyEdHKu65KWo3jWtm8f5KUE5oTQtNarh49OJxj5rxxj3ssp9dyEK_1I&type=download",
+        "userID": 198862383,
+        "createdTime": 1176242175,
+        "type": 0,
+        "size": 246,
+        "mimeType": "text/plain",
+        "option": 0,
+        "fileOptionFlags": [
+            "SF_OPT_NONE"
+        ]
+    },
+    {
+        "fileName": "PICT0002.JPG",
+        "description": "",
+        "ownerName": "matz_andersson",
+        "pathURI": "/Matz/PICT0002.JPG",
+        "downloadURL": "https://xa.yimg.com/df/nihontostudy/PICT0002.JPG?token=7tyxHhAxTa7il1E8KPMc9b3SPsVQAgS6ub4HfY3xNkkRhillxR9gi6A4Ht7F_P5jxP_s4ZCAJIk5Um8etFRo4zA4dlgIfu8WL3sODBKK-Xw&type=download",
+        "userID": 198862383,
+        "createdTime": 1176219476,
+        "type": 0,
+        "size": 190365,
+        "mimeType": "image/jpeg",
+        "option": 0,
+        "fileOptionFlags": [
+            "SF_OPT_NONE"
+        ]
+    },
+    {
+        "fileName": "PICT0005.JPG",
+        "description": "",
+        "ownerName": "matz_andersson",
+        "pathURI": "/Matz/PICT0005.JPG",
+        "downloadURL": "https://xa.yimg.com/df/nihontostudy/PICT0005.JPG?token=B6tVuNF7aPm8IsuyGAZJE8pUJ4PmF-sAiVZE4o9XvoaqrXIabfpafkZYzgG8PJqe6_4dwmv4qvYW-32D8xymXzBpFnO0-YqaL3gpTggj-xQ&type=download",
+        "userID": 198862383,
+        "createdTime": 1176219458,
+        "type": 0,
+        "size": 452862,
+        "mimeType": "image/jpeg",
+        "option": 0,
+        "fileOptionFlags": [
+            "SF_OPT_NONE"
+        ]
+    }
+]

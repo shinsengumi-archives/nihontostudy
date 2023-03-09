@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Kogai",
+            "postDate": "1158447618",
+            "msgId": 4473,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVlaHZtMitvMW1xQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4472,
+            "nextInTime": 4474,
+            "topicId": 4473,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am curious about kogai attributions.  When I see mumei pre-Edo kogai it seems that they fall into Ko Mino, Ko Kinko, sometimes Ko Goto but many to Goto",
+            "messageBody": "<div id=\"ygrps-yiv-1975644274\">I am curious about kogai attributions.  When I see mumei pre-Edo kogai <br/>\nit seems that they fall into Ko Mino, Ko Kinko, sometimes Ko Goto but <br/>\nmany to Goto Sojou.  (I believe many came from the fittings Museum <br/>\nCollection).  What are the differentiating qualities to catagorize the <br/>\nschools and why is it that so many seem to be attributed to Sojou?  <br/>\nThanks for the help!<br/>\nPete Klein</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4470,
+    "nextTopicId": 4475
+}

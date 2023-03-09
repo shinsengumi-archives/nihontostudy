@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 102068091,
+            "authorName": "Henry Lee",
+            "from": "&quot;Henry Lee&quot; &lt;leehenrysg@...&gt;",
+            "profile": "leehenrysg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Can any one help to Identify this Sword",
+            "postDate": "1062749771",
+            "msgId": 740,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJqOWdvYisyZWY4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 739,
+            "nextInTime": 741,
+            "topicId": 740,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, Can any one help to identify this sword. the photo as following link: http://f1.pg.photos.yahoo.com/ph/leehenrysg/lst?.dir=/Japanese+Swords& .view=t Thank",
+            "messageBody": "<div id=\"ygrps-yiv-556637641\">Hi,<br/>\n<br/>\nCan any one help to identify this sword. the photo as following link:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://f1.pg.photos.yahoo.com/ph/leehenrysg/lst?.dir=/Japanese+Swords&\">http://f1.pg.photos.yahoo.com/ph/leehenrysg/lst?.dir=/Japanese+Swords&</a><br/>\n.view=t<br/>\n<br/>\nThank you</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 720,
+    "nextTopicId": 730
+}

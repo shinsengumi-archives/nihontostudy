@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 71981347,
+            "authorName": "Robert Gilmore",
+            "from": "Robert Gilmore &lt;rgilmore82@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Looking for Ian Bottomley",
+            "postDate": "1061575717",
+            "msgId": 691,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNGNDY1QzI1LjcwMTAzMDRAZWFydGhsaW5rLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 690,
+            "nextInTime": 692,
+            "topicId": 691,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear folks, Our local arms museum is trying to get in touch with Ian Bottomley, but the e-mail address I have for him is out of date.  Could someone please ",
+            "messageBody": "<div id=\"ygrps-yiv-949701240\">Dear folks,<br/>\n<br/>\nOur local arms museum is trying to get in touch with Ian Bottomley, but <br/>\nthe e-mail address I have for him is out of date.  Could someone please <br/>\nprovide me with a current email address privately, please?<br/>\n <br/>\nThanks,<br/>\n<br/>\nBob<br/>\n<br/>\n-- <br/>\nRobert J. Gilmore, MS, DVM<br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:rgilmore82@...\">rgilmore82@...</a>&gt; office<br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:rgilmore@...\">rgilmore@...</a>&gt; home</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 689,
+    "nextTopicId": 693
+}

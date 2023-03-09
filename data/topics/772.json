@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Merchant&#39;s reminder...",
+            "postDate": "1063469630",
+            "msgId": 772,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNDcwMWMzN2ExMiQwNWRmODMwMCQwMjVjOTRjZUByb25oYXJ0bWFubj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 771,
+            "nextInTime": 773,
+            "topicId": 772,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all - Seems like the three pair of menuki I m peddling on Ebay are not getting much interest so I thought a take a look email might help. Auction ends",
+            "messageBody": "<div id=\"ygrps-yiv-1793953845\">Hi all - <br/>\n<br/>\nSeems like the three pair of menuki I&#39;m peddling on Ebay are not getting much interest so I thought a &quot;take a look&quot; email might help. Auction ends Sunday evening so have a look-see, okay? Thanks!<br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/mmu0\">http://tinyurl.com/mmu0</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/mmu7\">http://tinyurl.com/mmu7</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/mmua\">http://tinyurl.com/mmua</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 761,
+    "nextTopicId": 774
+}

@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 331541136,
+            "authorName": "Mark Cinque",
+            "from": "Mark Cinque &lt;mrcinque@...&gt;",
+            "profile": "mrcinque",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "postDate": "1345025863",
+            "msgId": 5912,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzNDUwMjU4NjMuNjg3OC5ZYWhvb01haWxOZW9Ad2ViNDQ5MDQubWFpbC5zcDEueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5911,
+            "nextInTime": 5913,
+            "topicId": 5912,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.austinadamec.com/wp-content/themes/twentyten/mysearch.php?extra238.html [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1425571945\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.austinadamec.com/wp-content/themes/twentyten/mysearch.php?extra238.html\">http://www.austinadamec.com/wp-content/themes/twentyten/mysearch.php?extra238.html</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5905,
+    "nextTopicId": 5913
+}

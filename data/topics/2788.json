@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 63514443,
+            "authorName": "lshobie",
+            "from": "&quot;lshobie&quot; &lt;lshobie@...&gt;",
+            "profile": "lshobie",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Another sword for sale.",
+            "postDate": "1113443917",
+            "msgId": 2788,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQza2lvZCs2aHN0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2787,
+            "nextInTime": 2789,
+            "topicId": 2788,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Guys/Gals, A recent purchase of a very nice item is nudging me to sell off some of my swords and fittings. I have just listed a top quality sword in very",
+            "messageBody": "<div id=\"ygrps-yiv-525153733\">Hi Guys/Gals,<br/>\nA recent purchase of a very nice item is nudging me to sell off some <br/>\nof my swords and fittings.<br/>\n<br/>\nI have just listed a top quality sword in very beautifal and near <br/>\nperfect mounts. It has been totally restored in Japan and is a very <br/>\nnice package to say the least.<br/>\n<br/>\nI had it listed on my site for $6500.00, I lowered the buy it now to <br/>\naround $4900.00 on ebay.<br/>\n<br/>\nHere is the link: <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=6525520571\">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=6525520571</a><br/>\n<br/>\nFree shipping in North America, and a discount on shipping to <br/>\nanywhere else.<br/>\n<br/>\nThanks for looking.<br/>\n<br/>\nLouis Skebo<br/>\nwww.japaneseswordcollector.com</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2787,
+    "nextTopicId": 2789
+}

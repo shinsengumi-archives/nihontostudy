@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 212015209,
+            "authorName": "surfson8",
+            "from": "&quot;surfson8&quot; &lt;surfson@...&gt;",
+            "profile": "surfson8",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Emailing: Shintogo",
+            "postDate": "1234322957",
+            "msgId": 5535,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdtdGdtZCs2dnIzQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PEIyMDNFNTIzQjdDRjQ4MTdCODE4Mzg1M0I3NzdGNUI4QHJvbj4="
+            },
+            "prevInTopic": 5534,
+            "nextInTopic": 0,
+            "prevInTime": 5534,
+            "nextInTime": 5536,
+            "topicId": 5534,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Ron.   No photo attached in the message I received.   Please send to surfson@rcn.com Bob ... lacquer attribution on a little hirazukuri ko-wakizashi that s",
+            "messageBody": "<div id=\"ygrps-yiv-1044437846\">Hi Ron.   No photo attached in the message I received.   Please send to <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:surfson@...\">surfson@...</a>   <br/>\nBob<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;Ron Hartmann&quot; &lt;swords@...&gt; wrote:<br/>\n&gt;<br/>\n&gt; Hi all - <br/>\n&gt; <br/>\n&gt; Silly thing to be pondering late night before driving to Tampa, but...I&#39;m curious about a red <br/>\nlacquer attribution on a little hirazukuri ko-wakizashi that&#39;s here. It looks like it&#39;s an <br/>\nattribution to Shintogo Kuni--- (not mitsu?) and the ura seems to be a Honami inscription. <br/>\nAnybody care to translate this inscription tonight??? Poor sword has been sandpapered but is <br/>\nin interesting kinko fitted mounts. If not Kunimitsu, who then???  Just a last ditch exercise <br/>\nthat would be nice to solve. <br/>\n&gt; <br/>\n&gt; Ron<br/>\n&gt; STL<br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Emailing: Shintogo",
+            "postDate": "1234320113",
+            "msgId": 5534,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEIyMDNFNTIzQjdDRjQ4MTdCODE4Mzg1M0I3NzdGNUI4QHJvbj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5535,
+            "prevInTime": 5533,
+            "nextInTime": 5535,
+            "topicId": 5534,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all - Silly thing to be pondering late night before driving to Tampa, but...I m curious about a red lacquer attribution on a little hirazukuri ko-wakizashi",
+            "messageBody": "<div id=\"ygrps-yiv-85804195\">Hi all - <br/>\n<br/>\nSilly thing to be pondering late night before driving to Tampa, but...I&#39;m curious about a red lacquer attribution on a little hirazukuri ko-wakizashi that&#39;s here. It looks like it&#39;s an attribution to Shintogo Kuni--- (not mitsu?) and the ura seems to be a Honami inscription. Anybody care to translate this inscription tonight??? Poor sword has been sandpapered but is in interesting kinko fitted mounts. If not Kunimitsu, who then???  Just a last ditch exercise that would be nice to solve. <br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4858,
+    "nextTopicId": 5530
+}

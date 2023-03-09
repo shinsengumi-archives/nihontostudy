@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 119415193,
+            "authorName": "Bob R",
+            "from": "Bob R &lt;gentleman9@...&gt;",
+            "profile": "gentleman9",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Dont expect Yahoo to assist with hacked accounts",
+            "postDate": "1115168624",
+            "msgId": 2933,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwNTA0MDEwMzQ0LjIwODY5LnFtYWlsQHdlYjQxMDAzLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2932,
+            "nextInTime": 2934,
+            "topicId": 2933,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "To all, I apologize for the unanswered emails if anyone has sent any. My account was hijacked a few months ago, I would like to remind everyone to change your",
+            "messageBody": "<div id=\"ygrps-yiv-1953020577\">To all,<br/>\n<br/>\nI apologize for the unanswered emails if anyone has<br/>\nsent any. My account was hijacked a few months ago, I<br/>\nwould like to remind everyone to change your passwords<br/>\nmore frequently than I did and dont expect yahoo to<br/>\nassist you with regaining control of your accounts.<br/>\nAny personal emails anyone has sent since......ohh<br/>\nNovember please send them again. <br/>\n<br/>\nBob R<br/>\n<br/>\n__________________________________________________<br/>\nDo You Yahoo!?<br/>\nTired of spam?  Yahoo! Mail has the best spam protection around <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mail.yahoo.com\">http://mail.yahoo.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2921,
+    "nextTopicId": 2934
+}

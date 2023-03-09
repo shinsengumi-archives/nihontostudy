@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 85349368,
+            "authorName": "deron@double-dragon-ebooks.com",
+            "from": "deron@...",
+            "profile": "deron_vfr750",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: [nihontostudy] Digest Number 830",
+            "postDate": "1155417041",
+            "msgId": 4383,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYwODEyMjExMDQxLjI2MDM3LnFtYWlsQG5zMzkud2VibWFzdGVycy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4382,
+            "nextInTime": 4384,
+            "topicId": 4383,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am out of the office and will return August 21st, 2006. Cheers, Deron Douglas Publisher, Double Dragon Publishing Inc.",
+            "messageBody": "<div id=\"ygrps-yiv-411389835\">I am out of the office and will return August 21st, 2006. <br/>\n<br/>\nCheers,<br/>\nDeron Douglas<br/>\nPublisher, Double Dragon Publishing Inc.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4379,
+    "nextTopicId": 4384
+}

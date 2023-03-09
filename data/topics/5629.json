@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 271477297,
+            "authorName": "Andres Pedraza",
+            "from": "Andres Pedraza &lt;apedraza93@...&gt;",
+            "profile": "apedraza_93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Advice needed",
+            "postDate": "1259610828",
+            "msgId": 5629,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDZhODlhNjJmMDkxMTMwMTE1M3Q2YmI5NGU1MnRlYzE3NDM4ZjlhYzUwMjVhQG1haWwuZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5628,
+            "nextInTime": 5630,
+            "topicId": 5629,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, Thinking of getting myself a Xmas present. Short on budget this time around so it ll be a book and not a sword. I already have Connoisseur s Book of ",
+            "messageBody": "<div id=\"ygrps-yiv-1212074417\">All,<br/>\n<br/>\nThinking of getting myself a Xmas present. Short on budget this time around<br/>\nso it&#39;ll be a book and not a sword. I already have Connoisseur&#39;s Book of<br/>\nJapanese Swords &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/yj4tzqr\">http://tinyurl.com/yj4tzqr</a>&gt;, is it worthwhile to get Modern<br/>\nJapanese Swords and Swordsmiths: From 1868 to the<br/>\nPresent&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/yfj4d8w\">http://tinyurl.com/yfj4d8w</a>&gt;?<br/>\nIf you&#39;re familiar with the latter, let me know if it&#39;s worth it, or maybe<br/>\nmake a recommendation on a better choice?<br/>\n<br/>\nBest,<br/>\n<br/>\nAndres<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5628,
+    "nextTopicId": 5630
+}

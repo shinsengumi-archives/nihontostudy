@@ -1,0 +1,29 @@
+{
+    "userId": 93921012,
+    "authorName": "Alan Bale",
+    "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+    "profile": "alangbale",
+    "replyTo": "LIST",
+    "senderId": "MWwGQaVM0kvWueCHJpRK98nd16SwgkQ0wAT9Mn8Q2YhpD4bG2NVbV7quVVFJ4J43-43-xfJUYYlxeOGUK_KD5ZC4IPuaIiXj",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "7"
+    },
+    "subject": "test",
+    "postDate": "1111580450",
+    "msgId": 2734,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDAxZTgwMWM1MmZhMiRjMDJmNGQyMCRlMDQ0NGVkNUBjb21wdXRlcj4="
+    },
+    "prevInTopic": 2704,
+    "nextInTopic": 3097,
+    "prevInTime": 2733,
+    "nextInTime": 2735,
+    "topicId": 621,
+    "numMessagesInTopic": 12,
+    "msgSnippet": "No virus found in this outgoing message. Checked by AVG Anti-Virus. Version: 7.0.308 / Virus Database: 266.7.4 - Release Date: 18/03/2005 [Non-text portions of",
+    "rawEmail": "Return-Path: &lt;abale@...&gt;\r\nX-Sender: abale@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 93143 invoked from network); 23 Mar 2005 12:21:05 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m24.grp.scd.yahoo.com with QMQP; 23 Mar 2005 12:21:05 -0000\r\nReceived: from unknown (HELO perdition4.onetel.net.uk) (212.67.120.104)\n  by mta5.grp.scd.yahoo.com with SMTP; 23 Mar 2005 12:21:05 -0000\r\nReceived: (qmail 30002 invoked from network); 23 Mar 2005 12:26:20 -0000\r\nReceived: from unknown (HELO computer) (213.78.76.50)\n  by perd4 with SMTP; 23 Mar 2005 12:26:20 -0000\r\nReceived: from 127.0.0.1 (AVG SMTP 7.0.308 [266.7.4]); Wed, 23 Mar 2005 12:20:50 +0000\r\nMessage-ID: &lt;01e801c52fa2$c02f4d20$e0444ed5@computer&gt;\r\nTo: &quot;Study Group&quot; &lt;nihontostudy@yahoogroups.com&gt;\r\nDate: Wed, 23 Mar 2005 12:20:50 -0000\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 6.00.2800.1409\r\nX-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409\r\nMime-Version: 1.0\r\nX-eGroups-Msg-Info: 1:7:0\r\nFrom: &quot;Alan Bale&quot; &lt;abale@...&gt;\r\nSubject: test\r\nX-Yahoo-Group-Post: member; u=93921012\r\nX-Yahoo-Profile: alangbale\r\nContent-Type: text/plain; charset=US-ASCII\r\nContent-Transfer-Encoding: 7bit\r\n\r\nNo virus found in this outgoing message.\nChecked by AVG Anti-Virus.\nVersion: 7.0.308 / Virus Database: 266.7.4 - Release Date: 18/03/2005\n\n\n[Non-text portions of this message have been removed]\n\n\n"
+}

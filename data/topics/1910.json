@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 147951218,
+            "authorName": "blade_ben12",
+            "from": "&quot;blade_ben12&quot; &lt;blade_ben12@...&gt;",
+            "profile": "blade_ben12",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Need help judging Katana age",
+            "postDate": "1085642903",
+            "msgId": 1910,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM5NDVhbitsMzE1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1909,
+            "nextInTime": 1911,
+            "topicId": 1910,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, I m new to this group and I have a question regarding a recently purchased Katana. I purchased the sword from a WW2 veteran who was stationed in Japan",
+            "messageBody": "<div id=\"ygrps-yiv-1211294304\">Hi,<br/>\nI&#39;m new to this group and I have a question regarding a recently <br/>\npurchased Katana. I purchased the sword from a WW2 veteran who was <br/>\nstationed in Japan during and post surrender. My question is that I <br/>\ndon&#39;t know how old the sword is, even though I can see that it&#39;s <br/>\nextremely old but I can&#39;t put an exact date on the sword. If anyone <br/>\ncan help me with this matter I would be deeply grateful. I uploaded <br/>\nclose up pictures of the sword into the folder &quot;Bladeben Katana&quot; in <br/>\nthe photo section. The sword is 25.5 inches in total length and the <br/>\nblade is 20.5 inches long. Also, if anyone can tell me from the <br/>\nshape, hamon pattern etc. who might have made the sword? I ask this <br/>\nas the tang is not signed or might have been but lost over time. I <br/>\neagerly await any responses.<br/>\n<br/>\nThanks<br/>\nBen (bladeben)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1904,
+    "nextTopicId": 1911
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 63514443,
+            "authorName": "lshobie",
+            "from": "&quot;lshobie&quot; &lt;lshobie@...&gt;",
+            "profile": "lshobie",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Commercial Message, scrolls, woodblock, and tanto added to my site.",
+            "postDate": "1143921868",
+            "msgId": 4081,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGUwbW1jYys5cDY0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4080,
+            "nextInTime": 4082,
+            "topicId": 4081,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi there, I have just added a wood block, 2 scrolls, and a Koto sunobe tanto to my website. Please have a look if interested. www.japaneseswordcollector.com ",
+            "messageBody": "<div id=\"ygrps-yiv-636835032\">Hi there,<br/>\n<br/>\nI have just added a wood block, 2 scrolls, and a Koto sunobe tanto to <br/>\nmy website.<br/>\n<br/>\nPlease have a look if interested.<br/>\n<br/>\nwww.japaneseswordcollector.com<br/>\n<br/>\nRegards<br/>\n<br/>\nLouis Skebo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4055,
+    "nextTopicId": 4076
+}

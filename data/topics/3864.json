@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 213364357,
+            "authorName": "excelsiorilluminati",
+            "from": "&quot;excelsiorilluminati&quot; &lt;excelsiorilluminati@...&gt;",
+            "profile": "excelsiorilluminati",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Jim&#39;s Kantei",
+            "postDate": "1141675586",
+            "msgId": 3864,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGR1aTRvMithbDVzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3863,
+            "nextInTime": 3865,
+            "topicId": 3864,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "That was definitely informative. It sure is nice when you have the reasoning behind an attribution. A thing so vexing with Kantei Sho papers. The whys and the",
+            "messageBody": "<div id=\"ygrps-yiv-874774627\">That was definitely informative. It sure is nice when you have the <br/>\nreasoning behind an attribution. A thing so vexing with Kantei Sho <br/>\npapers. The whys and the wherefores are the most interesting part. <br/>\nWould love to see more about any of the various bits and pieces. <br/>\nThanks, John</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3856,
+    "nextTopicId": 3871
+}

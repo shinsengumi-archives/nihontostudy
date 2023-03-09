@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Re: Sword Surrender Photo....",
+            "postDate": "1248454314",
+            "msgId": 5594,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEI5MjcwOEIwNDY5MDRCNzI5QUY4RkMwNzI3RjhBNUI0QHJvbj4=",
+                "referencesHeader": "PDAwZWEwMWNhMGFiMiRkZTc5MDUxMCQ2NjRhNGVkNUBhbGFuPiA8NEE2NkU5Q0UuNTA5MDEwM0BnbWFpbC5jb20+IDwwMDQwMDFjYTBiMDIkZWEyYWU0MDAkNTY0ZTRlZDVAYWxhbj4gPDRBNjk4Q0U3LjMwMzA5MDhAZ21haWwuY29tPiA8MDAwZDAxY2EwYzdkJDZjZmFjNmUwJDM3YzhhOGMwQHNlcnZlcj4="
+            },
+            "prevInTopic": 5593,
+            "nextInTopic": 0,
+            "prevInTime": 5593,
+            "nextInTime": 5595,
+            "topicId": 5593,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Interesting photo, Gary. Have copied it for my file. I still try to keep copies of any photos showing swords being found, surrendered, whatever. Neat history",
+            "messageBody": "<div id=\"ygrps-yiv-1634820920\">Interesting photo, Gary. Have copied it for my file. I still try to keep copies of any photos showing swords being found, surrendered, whatever. Neat history stuff!<br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: Gary Gabelhouse <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n  Sent: Friday, July 24, 2009 11:40 AM<br/>\n  Subject: [nihontostudy] Re: Sword Surrender Photo....<br/>\n<br/>\n<br/>\n    Hello All,<br/>\n<br/>\n  When doing research on an old UDT friend of mine who had died, I came across this photo. I thought some of you may find it interesting.<br/>\n<br/>\n  www.gabelhouse.com/WWII-1st-Sword-Surrender.htm<br/>\n<br/>\n  Take Care,<br/>\n  Gary Gabelhouse<br/>\n<br/>\n  [Non-text portions of this message have been removed]<br/>\n<br/>\n<br/>\n<br/>\n  <br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 5803177,
+            "authorName": "Gary Gabelhouse",
+            "from": "&quot;Gary Gabelhouse&quot; &lt;fairfield@...&gt;",
+            "profile": "garygabelhouse",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Sword Surrender Photo....",
+            "postDate": "1248453616",
+            "msgId": 5593,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGQwMWNhMGM3ZCQ2Y2ZhYzZlMCQzN2M4YThjMEBzZXJ2ZXI+",
+                "referencesHeader": "PDAwZWEwMWNhMGFiMiRkZTc5MDUxMCQ2NjRhNGVkNUBhbGFuPiA8NEE2NkU5Q0UuNTA5MDEwM0BnbWFpbC5jb20+IDwwMDQwMDFjYTBiMDIkZWEyYWU0MDAkNTY0ZTRlZDVAYWxhbj4gPDRBNjk4Q0U3LjMwMzA5MDhAZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5594,
+            "prevInTime": 5592,
+            "nextInTime": 5594,
+            "topicId": 5593,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello All, When doing research on an old UDT friend of mine who had died, I came across this photo.  I thought some of you may find it interesting. ",
+            "messageBody": "<div id=\"ygrps-yiv-2048561533\">Hello All,<br/>\n<br/>\nWhen doing research on an old UDT friend of mine who had died, I came across this photo.  I thought some of you may find it interesting.<br/>\n<br/>\nwww.gabelhouse.com/WWII-1st-Sword-Surrender.htm<br/>\n<br/>\nTake Care,<br/>\nGary Gabelhouse<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5588,
+    "nextTopicId": 5596
+}

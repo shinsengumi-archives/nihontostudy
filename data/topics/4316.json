@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 262825586,
+            "authorName": "Rich Turner",
+            "from": "Rich Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Well, hello stranger!",
+            "postDate": "1151982002",
+            "msgId": 4317,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ0QTlEOUIyLjEwMTAwQGFtbmV0Lm5ldC5hdT4=",
+                "inReplyToHeader": "PGU4Y2tncCtva3R2QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGU4Y2tncCtva3R2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4316,
+            "nextInTopic": 0,
+            "prevInTime": 4316,
+            "nextInTime": 4318,
+            "topicId": 4316,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "yes, definitely interested and happy to pay for whatever would be needed. Hi Jim, nice to see/read you Rich Richard Turner Nihontô Message Board ",
+            "messageBody": "<div id=\"ygrps-yiv-144737295\">yes, definitely interested and happy to pay for whatever would be needed.<br/>\n<br/>\nHi Jim, nice to see/read you<br/>\n<br/>\nRich<br/>\n<br/>\nRichard Turner<br/>\nNihontô Message Board<br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb\">http://www.nihontomessageboard.com/nmb</a>&gt;<br/>\n- /for the discussion and sharing of all things Nihontô/<br/>\n<br/>\n <br/>\n<br/>\n<br/>\n<br/>\nklepet33319 wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; And welcome back Jim.<br/>\n&gt;<br/>\n&gt; Yes, I would like to get a transcript of the whole &#39;book&#39; as it were if<br/>\n&gt; possible. There are several in the European NBTHK Collection book<br/>\n&gt; which I believe Hans put together. It would be a great reference. I<br/>\n&gt; am trying to track down obscure texts, etc. for research, my own and<br/>\n&gt; whoever is interested.<br/>\n&gt;<br/>\n&gt;  <br/>\n<br/>\n<br/>\n </span></blockquote>[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Well, hello stranger!",
+            "postDate": "1151980889",
+            "msgId": 4316,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU4Y2tncCtva3R2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4317,
+            "prevInTime": 4315,
+            "nextInTime": 4317,
+            "topicId": 4316,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "And welcome back Jim. Yes, I would like to get a transcript of the whole book as it were if possible.  There are several in the European NBTHK Collection",
+            "messageBody": "<div id=\"ygrps-yiv-1220103757\">And welcome back Jim.  <br/>\n<br/>\nYes, I would like to get a transcript of the whole &#39;book&#39; as it were if <br/>\npossible.  There are several in the European NBTHK Collection book <br/>\nwhich I believe Hans put together.  It would be a great reference.  I <br/>\nam trying to track down obscure texts, etc. for research, my own and <br/>\nwhoever is interested.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4309,
+    "nextTopicId": 4318
+}

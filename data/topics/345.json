@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 27642611,
+            "authorName": "Richard George",
+            "from": "Richard George &lt;rkg@...&gt;",
+            "profile": "rkgatteleport",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "yet more tsuba pic comparisons",
+            "postDate": "1055132185",
+            "msgId": 345,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNFRTQwQTE5LjMwNTA1MDZAdGVsZXBvcnQuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 344,
+            "nextInTime": 346,
+            "topicId": 345,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey guys, Since I had to get some pics of this excellent Tachikanagushi I just got, I decided to try the same experiment on it.  in the first picture, I used",
+            "messageBody": "<div id=\"ygrps-yiv-2082168970\">Hey guys,<br/>\n<br/>\nSince I had to get some pics of this excellent Tachikanagushi I just <br/>\ngot, I decided to try the same<br/>\nexperiment on it.  in the first picture, I used my skim lights, which I <br/>\nactually augmented with a third<br/>\nlight coming in at an angle coplanar with the lens:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://home.teleport.com/~rkg/photos/tsuba/tachi_front_small.JPG\">http://home.teleport.com/~rkg/photos/tsuba/tachi_front_small.JPG</a><br/>\n<br/>\nThe next one is with the ringlight - note that this shows the achilles <br/>\nheel of these really well - shiny surfaces reflect the light<br/>\ninto the lens and wash it out:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://home.teleport.com/~rkg/misc/tachi_front_ring_small.JPG\">http://home.teleport.com/~rkg/misc/tachi_front_ring_small.JPG</a><br/>\n<br/>\nand last is my usual &quot;scan&quot; shot - note that I&#39;d guess adjusting the <br/>\nbrightness would get you to about what the first shot<br/>\nlooked like:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://home.teleport.com/~rkg/misc/tachi_front_scan_small.JPG\">http://home.teleport.com/~rkg/misc/tachi_front_scan_small.JPG</a><br/>\n<br/>\nAgain, what I dislike about the scan is the loss of detail at the rim...<br/>\n<br/>\nenjoy,<br/>\n<br/>\nrkg<br/>\n(Richard George)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 344,
+    "nextTopicId": 346
+}

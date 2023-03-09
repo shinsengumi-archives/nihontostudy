@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 104538904,
+            "authorName": "cabbit10@comcast.net",
+            "from": "cabbit10@...",
+            "profile": "jaso1670",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Added more photos",
+            "postDate": "1078930495",
+            "msgId": 1717,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAzMTAyMDA0MTQ1NC4yOTA3NC4zOGViQGNvbWNhc3QubmV0Pg=="
+            },
+            "prevInTopic": 1714,
+            "nextInTopic": 0,
+            "prevInTime": 1716,
+            "nextInTime": 1718,
+            "topicId": 1714,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "It s a scam. -thom",
+            "messageBody": "<div id=\"ygrps-yiv-1152957611\">It&#39;s a scam.<br/>\n<br/>\n-thom<br/>\n<blockquote><span title=\"qreply\"> &gt; I added more photos in my folder showing the whole blade and closeups <br/>\n&gt; of the kissaki. <br/>\n&gt; I also recieved an email from a guy in Poland offering a wakasashi <br/>\n&gt; for $400. I do not know if it is a scam or legit. I&#39;m not interested<br/>\n&gt; since I just bought a sword but if any other members are interested I <br/>\n&gt; can forward the email to whom ever is interested. There are pics <br/>\n&gt; included. Let me know if interested and I will forward the email to <br/>\n&gt; any members of this group.<br/>\n&gt; <br/>\n&gt; Thanks<br/>\n&gt; Verne<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt;  <br/>\n&gt; Yahoo! Groups Links<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt;  <br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 88836486,
+            "authorName": "Verne",
+            "from": "&quot;Verne&quot; &lt;ren47@...&gt;",
+            "profile": "ren47",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Added more photos",
+            "postDate": "1078919914",
+            "msgId": 1714,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMybXZ0YSt0b2M5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1717,
+            "prevInTime": 1713,
+            "nextInTime": 1715,
+            "topicId": 1714,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I added more photos in my folder showing the whole blade and closeups of the kissaki. I also recieved an email from a guy in Poland offering a wakasashi for",
+            "messageBody": "<div id=\"ygrps-yiv-352710699\">I added more photos in my folder showing the whole blade and closeups <br/>\nof the kissaki. <br/>\nI also recieved an email from a guy in Poland offering a wakasashi <br/>\nfor $400. I do not know if it is a scam or legit. I&#39;m not interested<br/>\nsince I just bought a sword but if any other members are interested I <br/>\ncan forward the email to whom ever is interested. There are pics <br/>\nincluded. Let me know if interested and I will forward the email to <br/>\nany members of this group.<br/>\n<br/>\nThanks<br/>\nVerne</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1695,
+    "nextTopicId": 1718
+}

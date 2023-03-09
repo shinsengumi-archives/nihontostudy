@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 136909275,
+            "authorName": "Curran Campbell",
+            "from": "Curran Campbell &lt;neobliviscar@...&gt;",
+            "profile": "neobliviscar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Looking for Skip Holbrook",
+            "postDate": "1117165713",
+            "msgId": 3005,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwNTI3MDM0ODM0LjE0MDI5LnFtYWlsQHdlYjUwNDA4Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3004,
+            "nextInTime": 3006,
+            "topicId": 3005,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Could anyone please put me in touch with Skip Holbrook? Contact me off list. Thank you, Curran Campbell neobliviscar@yahoo.com ",
+            "messageBody": "<div id=\"ygrps-yiv-1999642299\">Could anyone please put me in touch with Skip<br/>\nHolbrook?<br/>\n<br/>\nContact me off list.<br/>\n<br/>\nThank you,<br/>\n<br/>\nCurran Campbell<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:neobliviscar@...\">neobliviscar@...</a><br/>\n<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________ <br/>\nDo you Yahoo!? <br/>\nYahoo! Small Business - Try our new Resources site<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://smallbusiness.yahoo.com/resources/\">http://smallbusiness.yahoo.com/resources/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3004,
+    "nextTopicId": 3006
+}

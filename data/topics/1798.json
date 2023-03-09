@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Being a merchant again...",
+            "postDate": "1081022354",
+            "msgId": 1798,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwODEwMWM0MTliNiQyNWU1Njc3MCQ0YjVjOTRjZUByb25oYXJ0bWFubj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1797,
+            "nextInTime": 1799,
+            "topicId": 1798,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all - Listed some basic books on Ebay if anyone is interested. If I can get my energy up for more listings, I hope to put a few swords up on Ebay next week.",
+            "messageBody": "<div id=\"ygrps-yiv-890680411\">Hi all - <br/>\n<br/>\nListed some basic books on Ebay if anyone is interested. If I can get my energy up for more listings, I hope to put a few swords up on Ebay next week. Will advise, if so.<br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/344tp\">http://tinyurl.com/344tp</a><br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1779,
+    "nextTopicId": 1799
+}

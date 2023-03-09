@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] yasuchika koz or is it ?",
+            "postDate": "1095977938",
+            "msgId": 2186,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAzZmIwMWM0YTFiYiQ1MmM5NThlMCQ0MDIxZmEwNEBvZW1jb21wdXRlcj4=",
+                "referencesHeader": "PGNpdWtrdCtlbDE2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2182,
+            "nextInTopic": 0,
+            "prevInTime": 2183,
+            "nextInTime": 2191,
+            "topicId": 2182,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Doesn t look promising. Jim please klick........... http://tinyurl.com/6cooa Bought this koz late Sunday at the Chicago show, too late for submitting to",
+            "messageBody": "<div id=\"ygrps-yiv-891940052\">Doesn&#39;t look promising.<br/>\n<br/>\nJim<br/>\n<br/>\n<br/>\n<br/>\n  please klick...........<br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/6cooa\">http://tinyurl.com/6cooa</a><br/>\n<br/>\n  Bought this koz late Sunday at the Chicago show, too late for <br/>\n  submitting to shinsa.<br/>\n<br/>\n  I have not seen this &quot; unusal &quot; Yasuchika  mei.<br/>\n  Knowing it&#39;s difficult to do internet kantei, but anyone seen this <br/>\n  type of mei before ?  fake-a-rama ?<br/>\n<br/>\n<br/>\n  milt<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "yasuchika koz or is it ?",
+            "postDate": "1095947741",
+            "msgId": 2182,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNpdWtrdCtlbDE2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2186,
+            "prevInTime": 2181,
+            "nextInTime": 2183,
+            "topicId": 2182,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "please klick........... http://tinyurl.com/6cooa Bought this koz late Sunday at the Chicago show, too late for submitting to shinsa. I have not seen this ",
+            "messageBody": "<div id=\"ygrps-yiv-1847126516\">please klick...........<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/6cooa\">http://tinyurl.com/6cooa</a><br/>\n<br/>\nBought this koz late Sunday at the Chicago show, too late for <br/>\nsubmitting to shinsa.<br/>\n<br/>\nI have not seen this &quot; unusal &quot; Yasuchika  mei.<br/>\nKnowing it&#39;s difficult to do internet kantei, but anyone seen this <br/>\ntype of mei before ?  fake-a-rama ?<br/>\n<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2164,
+    "nextTopicId": 2169
+}

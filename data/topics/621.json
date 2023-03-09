@@ -1,0 +1,358 @@
+{
+    "totalMsgInTopic": 12,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "test",
+            "postDate": "1120785232",
+            "msgId": 3097,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMjkwMWM1ODM1YSQ0ZjEzYTUzMCRlMmE0OTRjZUByb25oYXJ0bWFubj4="
+            },
+            "prevInTopic": 2734,
+            "nextInTopic": 0,
+            "prevInTime": 3096,
+            "nextInTime": 3098,
+            "topicId": 621,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sorry...trying to see if it is just very quiet out there or what. Had my computer worked on yesterday and it seem strange, no messages. No response needed.",
+            "messageBody": "<div id=\"ygrps-yiv-222218511\">Sorry...trying to see if it is just very &quot;quiet&quot; out there or what. Had my computer worked on yesterday and it seem strange, no messages. No response needed. If my &quot;mail&quot; comes through, I&#39;m satisfied.<br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "alangbale",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "test",
+            "postDate": "1111580450",
+            "msgId": 2734,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxZTgwMWM1MmZhMiRjMDJmNGQyMCRlMDQ0NGVkNUBjb21wdXRlcj4="
+            },
+            "prevInTopic": 2704,
+            "nextInTopic": 3097,
+            "prevInTime": 2733,
+            "nextInTime": 2735,
+            "topicId": 621,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "No virus found in this outgoing message. Checked by AVG Anti-Virus. Version: 7.0.308 / Virus Database: 266.7.4 - Release Date: 18/03/2005 [Non-text portions of",
+            "messageBody": "<div id=\"ygrps-yiv-1747219509\">No virus found in this outgoing message.<br/>\nChecked by AVG Anti-Virus.<br/>\nVersion: 7.0.308 / Virus Database: 266.7.4 - Release Date: 18/03/2005<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 164318475,
+            "authorName": "Robert Patterson",
+            "from": "&quot;Robert Patterson&quot; &lt;b_patt@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "test",
+            "postDate": "1110909988",
+            "msgId": 2704,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGIwMWM1Mjk4OSRiNWU3ZThhMCQxYWE4ZThkOEBjb21wdXRyZXJhdmVuPg=="
+            },
+            "prevInTopic": 2568,
+            "nextInTopic": 2734,
+            "prevInTime": 2703,
+            "nextInTime": 2705,
+            "topicId": 621,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "test",
+            "messageBody": "<div id=\"ygrps-yiv-1693631242\">test</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "test",
+            "postDate": "1105667960",
+            "msgId": 2568,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMjkwMWM0ZjlkYyRhYmJlNjcwMCRhMWE0OTRjZUByb25oYXJ0bWFubj4="
+            },
+            "prevInTopic": 2095,
+            "nextInTopic": 2704,
+            "prevInTime": 2567,
+            "nextInTime": 2569,
+            "topicId": 621,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "testing...no need to respond, anyone.  Just seeing if these get back to me. Ron STL [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1428054545\">testing...no need to respond, anyone.  Just seeing if these get back to me. <br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 135018472,
+            "authorName": "Matthew E. Hoyle",
+            "from": "&quot;Matthew E. Hoyle&quot; &lt;matthewhoyle@...&gt;",
+            "profile": "matthewhoyle2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "test",
+            "postDate": "1092949467",
+            "msgId": 2095,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYWUwMWM0ODYzMCQxZDUwMjNjMCQzMzI5ZWEzZUBob3lsZWRlc2t0b3A+",
+                "referencesHeader": "PGNmdDMxZCtzYXIyQGVHcm91cHMuY29tPiA8MDA2MjAxYzQ4NTc4JGViNzc0YjEwJDMzMjllYTNlQGhveWxlZGVza3RvcD4="
+            },
+            "prevInTopic": 1298,
+            "nextInTopic": 2568,
+            "prevInTime": 2094,
+            "nextInTime": 2096,
+            "topicId": 621,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "test, please ignore Matt",
+            "messageBody": "<div id=\"ygrps-yiv-212504358\">test, please ignore<br/>\n<br/>\nMatt</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 170020256,
+            "authorName": "davidbennettsr",
+            "from": "&quot;davidbennettsr&quot; &lt;davidbennettsr@...&gt;",
+            "profile": "davidbennettsr",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "test",
+            "postDate": "1072184554",
+            "msgId": 1298,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJzOWVkYSs4Z2dzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 985,
+            "nextInTopic": 2095,
+            "prevInTime": 1297,
+            "nextInTime": 1299,
+            "topicId": 621,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "",
+            "messageBody": "",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "test",
+            "postDate": "1067455740",
+            "msgId": 985,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwOWUwMWMzOWU1MiRlOGU0YzcwMCQ0MDVjOTRjZUByb25oYXJ0bWFubj4="
+            },
+            "prevInTopic": 939,
+            "nextInTopic": 1298,
+            "prevInTime": 984,
+            "nextInTime": 986,
+            "topicId": 621,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "No need to reply to this, just seeing if it comes through. Somehow I m missing the study group emails I do believe. Ron STL [Non-text portions of this message",
+            "messageBody": "<div id=\"ygrps-yiv-2025016275\">No need to reply to this, just seeing if it comes through. Somehow I&#39;m missing the study group emails I do believe.<br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] test",
+            "postDate": "1067218863",
+            "msgId": 939,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMjEwMWMzOWMyYiQ2MWU2ZmE4MCQwNzAwYThjMEB3aGl6MT4=",
+                "referencesHeader": "PDAwMGEwMWMzOWMyYSRmNWI3NWM2MCQ1MjVkOTRjZUByb25oYXJ0bWFubj4="
+            },
+            "prevInTopic": 938,
+            "nextInTopic": 985,
+            "prevInTime": 938,
+            "nextInTime": 940,
+            "topicId": 621,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I put one out yesterday ??, re a tsuba ID, was that not seen, I know Jim saw it Rich ... From: Ron Hartmann To: nihontostudy Sent: Monday, October 27, 2003",
+            "messageBody": "<div id=\"ygrps-yiv-1114465690\">I put one out yesterday ??, re a tsuba ID, was that not seen, I know Jim saw it<br/>\n<br/>\nRich<br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: Ron Hartmann <br/>\n  To: nihontostudy <br/>\n  Sent: Monday, October 27, 2003 9:38 AM<br/>\n  Subject: [nihontostudy] test<br/>\n<br/>\n<br/>\n  Just testing...haven&#39;t seem mail for quite awhile. Ron<br/>\n<br/>\n  [Non-text portions of this message have been removed]<br/>\n<br/>\n<br/>\n        Yahoo! Groups Sponsor <br/>\n              ADVERTISEMENT<br/>\n             <br/>\n       <br/>\n       <br/>\n<br/>\n<br/>\n  To unsubscribe from this group, send an email to:<br/>\n  nihontostudy-unsubscribe@yahoogroups.com<br/>\n<br/>\n<br/>\n<br/>\n  Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n  ---<br/>\n  Outgoing mail is certified Virus Free.<br/>\n  Checked by AVG anti-virus system (http://www.grisoft.com).<br/>\n  Version: 6.0.530 / Virus Database: 325 - Release Date: 22/10/2003<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "test",
+            "postDate": "1067218680",
+            "msgId": 938,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGEwMWMzOWMyYSRmNWI3NWM2MCQ1MjVkOTRjZUByb25oYXJ0bWFubj4="
+            },
+            "prevInTopic": 793,
+            "nextInTopic": 939,
+            "prevInTime": 937,
+            "nextInTime": 939,
+            "topicId": 621,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just testing...haven t seem mail for quite awhile. Ron [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1005185873\">Just testing...haven&#39;t seem mail for quite awhile. Ron<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "test",
+            "postDate": "1063855082",
+            "msgId": 793,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAzMTUwMWMzN2Q5MyQ3ODA0Yzk3MCQwNzAwYThjMEB3aGl6MT4=",
+                "referencesHeader": "PDIwMDMwOTE4MDIwNzU5LjY2MzA0LnFtYWlsQHdlYjk3MDUubWFpbC55YWhvby5jb20+IDwwMDEwMDFjMzdkOGIkMjgyZWQ1YjAkMDM1ZDk0Y2VAcm9uaGFydG1hbm4+IDwwMmRmMDFjMzdkOGYkMjUwMDdjNTAkMDcwMGE4YzBAd2hpejE+"
+            },
+            "prevInTopic": 662,
+            "nextInTopic": 938,
+            "prevInTime": 792,
+            "nextInTime": 794,
+            "topicId": 621,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "test ... Outgoing mail is certified Virus Free. Checked by AVG anti-virus system (http://www.grisoft.com). Version: 6.0.512 / Virus Database: 309 - Release",
+            "messageBody": "<div id=\"ygrps-yiv-1892806423\">test<br/>\n<br/>\n<br/>\n---<br/>\nOutgoing mail is certified Virus Free.<br/>\nChecked by AVG anti-virus system (http://www.grisoft.com).<br/>\nVersion: 6.0.512 / Virus Database: 309 - Release Date: 20/08/2003<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "test",
+            "postDate": "1060915485",
+            "msgId": 662,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxODAwMWMzNjJkNyQzNjlkZDU3MCQxZjAxMDAwYUB3aGl6MT4=",
+                "referencesHeader": "PDExOS4yNzhhMDViNy4yYzZhZjE3YkBhb2wuY29tPiA8eG84aGU0bXo1Z3guZnNmQHhoYXNjLmNvbT4gPDAwYTkwMWMzNjFhMiRlNzE2NGIyMCRmMGM1ZmVhOUBzaWdudXA+"
+            },
+            "prevInTopic": 621,
+            "nextInTopic": 793,
+            "prevInTime": 661,
+            "nextInTime": 663,
+            "topicId": 621,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "test ... Outgoing mail is certified Virus Free. Checked by AVG anti-virus system (http://www.grisoft.com). Version: 6.0.507 / Virus Database: 304 - Release",
+            "messageBody": "<div id=\"ygrps-yiv-1386930892\">test<br/>\n<br/>\n<br/>\n---<br/>\nOutgoing mail is certified Virus Free.<br/>\nChecked by AVG anti-virus system (http://www.grisoft.com).<br/>\nVersion: 6.0.507 / Virus Database: 304 - Release Date: 4/08/2003</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 75493453,
+            "authorName": "Cary Condell",
+            "from": "Cary Condell &lt;condell@...&gt;",
+            "profile": "ccikkyudo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "test",
+            "postDate": "1059428789",
+            "msgId": 621,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNGMjU5OUI1LjcwNjA4MDdAaWtreXVkby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 662,
+            "prevInTime": 620,
+            "nextInTime": 622,
+            "topicId": 621,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Test. -- Cary Condell Condell & Co., Ltd. P.O. Box 590115 San Francisco, CA 94159 Tel. 415-751-3784 condell@ikkyudo.com http://www.ikkyudo.com",
+            "messageBody": "<div id=\"ygrps-yiv-523556435\">Test.<br/>\n-- <br/>\nCary Condell<br/>\n<br/>\nCondell & Co., Ltd.<br/>\nP.O. Box 590115<br/>\nSan Francisco, CA 94159<br/>\n<br/>\nTel. 415-751-3784<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:condell@...\">condell@...</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ikkyudo.com\">http://www.ikkyudo.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3095,
+    "nextTopicId": 3096
+}

@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 152314622,
+            "authorName": "Jim Meyer",
+            "from": "&quot;Jim Meyer&quot; &lt;tantojim@...&gt;",
+            "profile": "tantojim",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: [nihontostudy] Book index wanted",
+            "postDate": "1087183641",
+            "msgId": 1932,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PCF+IVVFTkVSa1ZDTURrQUFRQUNBQUFBQUFBQUFBQUFBQUFBQUJnQUFBQUFBQUFBL1JoVTdIQ2x1azZTak81SFdJUS9aY0tBQUFBUUFBQUF0M1l1aUR3ajRVVzVHYitxb0lZdVN3RUFBQUFBQGNvbWNhc3QubmV0Pg==",
+                "inReplyToHeader": "PGNhZzlwZCtpMWZnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1931,
+            "nextInTopic": 0,
+            "prevInTime": 1931,
+            "nextInTime": 1933,
+            "topicId": 1931,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello Rich, Isn t it in the back of the book?  There is an English index in the back of both my Koto and Shinto books.  Maybe there were several editions? Jim ",
+            "messageBody": "<div id=\"ygrps-yiv-1596397149\">Hello Rich,<br/>\n<br/>\nIsn&#39;t it in the back of the book?  There is an English index in the back of<br/>\nboth my Koto and Shinto books.  Maybe there were several editions?<br/>\n<br/>\nJim<br/>\n<br/>\n_____________________________________________________<br/>\nBladeShark<br/>\n <br/>\n Kanji character tables<br/>\n <a rel=\"nofollow\" target=\"_blank\" href=\"http://bladeshark.com/\">http://bladeshark.com/</a><br/>\n email: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:tantojim@...\">tantojim@...</a><br/>\n <br/>\n<br/>\n<br/>\n-----Original Message-----<br/>\nFrom: alchemyst [mailto:<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:alchemyst@...\">alchemyst@...</a>] <br/>\nSent: Saturday, June 12, 2004 6:14 PM<br/>\nTo: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a><br/>\nSubject: [nihontostudy] Book index wanted<br/>\n<br/>\nI am trying to find an English index to the Nihonto Zuikan (two books<br/>\n...Shinto and Koto). Author was Kataoka Kinsaku. If you have one for <br/>\nsale or know where I can find one,<br/>\nI&#39;d appreciate dropping me a line.<br/>\n<br/>\nThanks<br/>\nRich S<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:alchemyst@...\">alchemyst@...</a><br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n <br/>\nYahoo! Groups Links</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 77400184,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Book index wanted",
+            "postDate": "1087089261",
+            "msgId": 1931,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNhZzlwZCtpMWZnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1932,
+            "prevInTime": 1930,
+            "nextInTime": 1932,
+            "topicId": 1931,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am trying to find an English index to the Nihonto Zuikan (two books ...Shinto and Koto). Author was Kataoka Kinsaku. If you have one for sale or know where I",
+            "messageBody": "<div id=\"ygrps-yiv-161632177\">I am trying to find an English index to the Nihonto Zuikan (two books<br/>\n...Shinto and Koto). Author was Kataoka Kinsaku. If you have one for <br/>\nsale or know where I can find one,<br/>\nI&#39;d appreciate dropping me a line.<br/>\n<br/>\nThanks<br/>\nRich S<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:alchemyst@...\">alchemyst@...</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1923,
+    "nextTopicId": 1933
+}

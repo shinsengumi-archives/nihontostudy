@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "iron menuki",
+            "postDate": "1177267083",
+            "msgId": 4999,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGYwZ2EyYit0NXFsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4996,
+            "nextInTime": 5001,
+            "topicId": 4999,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.esnips.com/web/menuki?docsPage=1#files iron menuki set by Shozui, take a look see. Yes, it passed NBTHK shinsa milt",
+            "messageBody": "<div id=\"ygrps-yiv-2091879110\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.esnips.com/web/menuki?docsPage=1#files\">http://www.esnips.com/web/menuki?docsPage=1#files</a><br/>\n<br/>\niron menuki set by Shozui, take a look see.<br/>\nYes, it passed NBTHK shinsa<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4995,
+    "nextTopicId": 5001
+}

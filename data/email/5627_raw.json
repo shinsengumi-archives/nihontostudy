@@ -1,0 +1,29 @@
+{
+    "userId": 70790980,
+    "authorName": "Ron Hartmann",
+    "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+    "profile": "sworddad",
+    "replyTo": "LIST",
+    "senderId": "YxQGNS-Fw8bmVpz-lhZ4LSUXCodcWW3aPPzX5xUiLg0j8NVhWwRm6i2It9y4iVrzAHKcb3UZJbU_VzN3Jstx0KbKJj2__QD7eTDuJQ",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "12"
+    },
+    "subject": "Testing, again...",
+    "postDate": "1258513021",
+    "msgId": 5627,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDI3NUI0MTc5NUZFOTRGOTk5NjhCRTUzODg2Mjk5OEJBQHJvbj4="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 5626,
+    "nextInTime": 5628,
+    "topicId": 5627,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Just a testing my email...Ron [Non-text portions of this message have been removed]",
+    "rawEmail": "Return-Path: &lt;swords@...&gt;\r\nX-Sender: swords@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nX-Received: (qmail 72128 invoked from network); 18 Nov 2009 02:56:45 -0000\r\nX-Received: from unknown (98.137.34.46)\n  by m3.grp.sp2.yahoo.com with QMQP; 18 Nov 2009 02:56:45 -0000\r\nX-Received: from unknown (HELO mta11.charter.net) (216.33.127.80)\n  by mta3.grp.sp2.yahoo.com with SMTP; 18 Nov 2009 02:56:45 -0000\r\nX-Received: from imp10 ([10.20.200.10]) by mta11.charter.net\n          (InterMail vM.7.09.02.04 201-2219-117-106-20090629) with ESMTP\n          id &lt;20091118025644.UYEB8038.mta11.charter.net@imp10&gt;;\n          Tue, 17 Nov 2009 21:56:44 -0500\r\nX-Received: from ron ([75.132.46.60])\n\tby imp10 with smtp.charter.net\n\tid 6Swj1d00J1HuT4j05Swk3W; Tue, 17 Nov 2009 21:56:44 -0500\r\nX-Authority-Analysis: v=1.0 c=1 a=DrJEuZxJUKKa5Pw8e0YA:9\n a=P-NI46o57c5gZJVKYa7On44pboAA:4 a=Ge1DZlbgMmved8hTne8A:9\n a=sJkGDdywP9jJFaIEotgA:7 a=6ck0VTpyoKLfH24eyIqR1VhbgIgA:4\r\nMessage-ID: &lt;275B41795FE94F99968BE538862998BA@ron&gt;\r\nTo: &lt;nihonto@yahoogroups.com&gt;,\n\t&quot;nihontostudy&quot; &lt;nihontostudy@yahoogroups.com&gt;\r\nDate: Tue, 17 Nov 2009 20:57:01 -0600\r\nMIME-Version: 1.0\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 6.00.2900.5843\r\nx-mimeole: Produced By Microsoft MimeOLE V6.00.2900.5579\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Ron Hartmann&quot; &lt;swords@...&gt;\r\nSubject: Testing, again...\r\nX-Yahoo-Group-Post: member; u=70790980; y=GO5iRblQS3R6ym1sZ_5qIGVrzPq_qR9B6WVhyGf4cWAOnpk\r\nX-Yahoo-Profile: sworddad\r\nContent-Type: text/plain; charset=US-ASCII\r\nContent-Transfer-Encoding: 7bit\r\n\r\nJust a testing my email...Ron\n\n[Non-text portions of this message have been removed]\n\n\n"
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "maiorian",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "Vacation",
+            "postDate": "1179895584",
+            "msgId": 5024,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFsYW5iYWxlJDIxMy43OC4xMjEuMzgkLjAzNTYwMWM3OWNmNSQ1NGFlYTI0MCQyNjc5NGVkNUBjb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5023,
+            "nextInTime": 5025,
+            "topicId": 5024,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am on vacation in Spain for the next two weeks, back on the 6th. Any enquiries/book orders will be dealt with then. Alan [Non-text portions of this message",
+            "messageBody": "<div id=\"ygrps-yiv-1539154384\">I am on vacation in Spain for the next two weeks, back on the 6th. Any enquiries/book orders will be dealt with then.<br/>\nAlan<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5022,
+    "nextTopicId": 5027
+}

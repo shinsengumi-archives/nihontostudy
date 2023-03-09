@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 85349368,
+            "authorName": "deron@double-dragon-ebooks.com",
+            "from": "deron@...",
+            "profile": "deron_vfr750",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "RE: [nihontostudy] Digest Number 583",
+            "postDate": "1122394496",
+            "msgId": 3183,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwNzI2MTYxNDU2LjY1ODUucW1haWxAbnMzOS53ZWJtYXN0ZXJzLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3182,
+            "nextInTime": 3184,
+            "topicId": 3183,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "********** auto responder ************ I will be out of the office until Aug 2nd, and will respond to your email at that time. Cheers, Deron",
+            "messageBody": "<div id=\"ygrps-yiv-648839780\">********** auto responder ************<br/>\nI will be out of the office until Aug 2nd, and will respond to your email at that time.<br/>\n<br/>\nCheers,<br/>\nDeron</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3179,
+    "nextTopicId": 3129
+}

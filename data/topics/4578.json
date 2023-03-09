@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 226990576,
+            "authorName": "wenmass3",
+            "from": "&quot;wenmass3&quot; &lt;wenmass3@...&gt;",
+            "profile": "nihontocraft",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "The Koto Bingo Mihara School by Allan H. Pressley",
+            "postDate": "1161912658",
+            "msgId": 4578,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTIwMWM2Zjk2NyQ4ZWFkY2I2MCQ2MTAxYThjMEBEYW5ueT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4577,
+            "nextInTime": 4579,
+            "topicId": 4578,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello all, I have just added a wonderful article by Allan H. Pressley to my web site. It is The Koto Bingo Mihara School .   Please take a look at the link ",
+            "messageBody": "<div id=\"ygrps-yiv-1217970284\">Hello all,<br/>\n<br/>\nI have just added a wonderful article by Allan H. Pressley to my web site. <br/>\nIt is &quot;The Koto Bingo Mihara School&quot;.   Please take a look at the link <br/>\nbelow.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontocraft.com/japanese_sword_articles.html\">http://www.nihontocraft.com/japanese_sword_articles.html</a><br/>\n<br/>\nBest regards,<br/>\nDanny Massey<br/>\nwww.nihontocraft.com</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4564,
+    "nextTopicId": 4513
+}

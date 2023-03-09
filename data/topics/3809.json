@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 191704382,
+            "authorName": "frkirk",
+            "from": "&quot;frkirk&quot; &lt;frkirk@...&gt;",
+            "profile": "frkirk",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Books Sold.  Kozuka still needed.",
+            "postDate": "1140534269",
+            "msgId": 3809,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGR0ZmE1dCtzZ3RyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3807,
+            "nextInTime": 3810,
+            "topicId": 3809,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The Wakayama Set has Sold. However, I am still looking for a good quality iron Kozuka to complete a higo koshirae.  Kozuka should measure between 1.4 and 1.5",
+            "messageBody": "<div id=\"ygrps-yiv-479768784\">The Wakayama Set has Sold.<br/>\nHowever, I am still looking for a good quality iron Kozuka to complete <br/>\na higo koshirae.  Kozuka should measure between 1.4 and 1.5 cm wide.  <br/>\nPlease contact me off list if you have something that may fit the bill.<br/>\nThanks <br/>\nKirk</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3806,
+    "nextTopicId": 3824
+}

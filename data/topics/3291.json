@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 132024470,
+            "authorName": "cyrus@ryumado.com",
+            "from": "&quot;cyrus@...&quot; &lt;cyrus@...&gt;",
+            "profile": "cccthoth",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Shameless commercial plug",
+            "postDate": "1125517430",
+            "msgId": 3291,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ4ZjgyYTk3YTBjNWIwNDFmMWJkNWEyNjUwMTFhOTM3QHJ5dW1hZG8uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3290,
+            "nextInTime": 3292,
+            "topicId": 3291,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Folks, Good to see everyone at the S.F. show. Major updates to both the sword and kodogu sections of the site. Have a look! Regards, Cyrus www.ryumado.com",
+            "messageBody": "<div id=\"ygrps-yiv-1446571319\">Hi Folks,<br/>\nGood to see everyone at the S.F. show.<br/>\nMajor updates to both the sword and kodogu sections of the site.<br/>\nHave a look!<br/>\nRegards,<br/>\nCyrus<br/>\nwww.ryumado.com</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3287,
+    "nextTopicId": 3278
+}

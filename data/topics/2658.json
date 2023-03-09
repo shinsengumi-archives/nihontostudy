@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sales page update",
+            "postDate": "1109039197",
+            "msgId": 2658,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyMUE5ODVELjkwMjA0MDZAd2VzdG5ldC5jb20uYXU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2656,
+            "nextInTime": 2659,
+            "topicId": 2658,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, I have updated the sales page with more offerings from our members. Take a look if you get a chance. Thanks for the band width Rich Link:",
+            "messageBody": "<div id=\"ygrps-yiv-1164916024\">All, I have updated the sales page with more offerings from our members. <br/>\nTake a look if you get a chance.<br/>\n<br/>\nThanks for the band width<br/>\n<br/>\nRich<br/>\n<br/>\nLink: <a rel=\"nofollow\" target=\"_blank\" href=\"http://members.westnet.com.au/whiz/richard/sale/nihonto_sales_page.htm\">http://members.westnet.com.au/whiz/richard/sale/nihonto_sales_page.htm</a><br/>\n<br/>\n-- <br/>\n<br/>\nRichard Turner<br/>\nNihontô Message Board<br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://members5.boardhost.com/Nihon-To/\">http://members5.boardhost.com/Nihon-To/</a>&gt;<br/>\n- /for the discussion and sharing of all things Nihontô/<br/>\n<br/>\n <br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2656,
+    "nextTopicId": 2659
+}

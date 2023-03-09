@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 164791783,
+            "authorName": "twostar57",
+            "from": "&quot;twostar57&quot; &lt;two.star@...&gt;",
+            "profile": "twostar57",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "modern blades",
+            "postDate": "1120391691",
+            "msgId": 3086,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRhOGptYitkaG41QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3085,
+            "nextInTime": 3087,
+            "topicId": 3086,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hi All...  I am looking for any info on where to acquire a modern day traditionally forged Japanese swords .  I see many websites that list them but they seem",
+            "messageBody": "<div id=\"ygrps-yiv-1729044284\">hi All...  I am looking for any info on where to acquire a modern day<br/>\ntraditionally forged Japanese swords .  I see many websites that list<br/>\nthem but they seem to vary widely as to quality and price lol .Being<br/>\ninsatiably curious I am just curious as to where one might obtain a<br/>\nmodern day live blade .  Any suggestions would be appreciated !<br/>\nThanks in advance <br/>\nThomas Smead</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3079,
+    "nextTopicId": 3090
+}

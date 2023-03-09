@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "maiorian",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Research question:",
+            "postDate": "1149274745",
+            "msgId": 4275,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFsYW5iYWxlJDIxMy43OC4xMjMuOSQuMDIzYjAxYzY4Njc2JDlmZGFiMDEwJDA5N2I0ZWQ1QGNvbXB1dGVyPg==",
+                "referencesHeader": "PGU1cGpvNys3cTlvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4274,
+            "nextInTopic": 0,
+            "prevInTime": 4274,
+            "nextInTime": 4276,
+            "topicId": 4274,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Her collection was sold by Sotheby s NY about 12-14 years ago, she has some very fine pieces. Alan ... From: klepet33319 To: nihontostudy@yahoogroups.com Sent:",
+            "messageBody": "<div id=\"ygrps-yiv-616203594\">Her collection was sold by Sotheby&#39;s NY about 12-14 years ago, she has some very fine pieces.<br/>\nAlan<br/>\n<blockquote><span title=\"qreply\">   ----- Original Message ----- <br/>\n  From: klepet33319 <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a> <br/>\n  Sent: Friday, June 02, 2006 3:59 PM<br/>\n  Subject: [nihontostudy] Research question:<br/>\n<br/>\n<br/>\n  By chance are any of the members of the board familiar with a <br/>\n  collector/scholar by the name of Ruth Schneidman?  I am attempting to <br/>\n  cross reference some annotations and her name is mentioned in a copy of <br/>\n  the &#39;Toso Soran&#39; by Torigoye.  Thanks much as always!<br/>\n  Pete Klein<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n  SPONSORED LINKS Buy fine art  Japanese translation  Japanese incense  <br/>\n        Fine art inkjet paper  Fine art printing  Fine art appraisal  <br/>\n<br/>\n<br/>\n------------------------------------------------------------------------------<br/>\n  YAHOO! GROUPS LINKS <br/>\n<br/>\n    a..  Visit your group &quot;nihontostudy&quot; on the web.<br/>\n      <br/>\n    b..  To unsubscribe from this group, send an email to:<br/>\n     <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy-unsubscribe@yahoogroups.com\">nihontostudy-unsubscribe@yahoogroups.com</a><br/>\n      <br/>\n    c..  Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n------------------------------------------------------------------------------<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Research question:",
+            "postDate": "1149260359",
+            "msgId": 4274,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU1cGpvNys3cTlvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4275,
+            "prevInTime": 4273,
+            "nextInTime": 4275,
+            "topicId": 4274,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "By chance are any of the members of the board familiar with a collector/scholar by the name of Ruth Schneidman?  I am attempting to cross reference some",
+            "messageBody": "<div id=\"ygrps-yiv-492370456\">By chance are any of the members of the board familiar with a <br/>\ncollector/scholar by the name of Ruth Schneidman?  I am attempting to <br/>\ncross reference some annotations and her name is mentioned in a copy of <br/>\nthe &#39;Toso Soran&#39; by Torigoye.  Thanks much as always!<br/>\nPete Klein</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4257,
+    "nextTopicId": 4278
+}

@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 262825586,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SPAM] [nihontostudy] NSR - 2006 KTK catalogues available",
+            "postDate": "1177112170",
+            "msgId": 4996,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ2Mjk0RTZBLjYwMDA0MDlAYW1uZXQubmV0LmF1Pg==",
+                "inReplyToHeader": "PDAwNWIwMWM3ODNhMiQxYzM1MTU1MCQ3NzAyODQ0YkByb24+",
+                "referencesHeader": "PDAwNWIwMWM3ODNhMiQxYzM1MTU1MCQ3NzAyODQ0YkByb24+"
+            },
+            "prevInTopic": 4995,
+            "nextInTopic": 0,
+            "prevInTime": 4995,
+            "nextInTime": 4999,
+            "topicId": 4995,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "And I was going to ask you for all the race results for the next six months Ron, oh well. Rich ... [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-966142941\">And I was going to ask you for all the race results for the next six <br/>\nmonths Ron, oh well.<br/>\n<br/>\nRich<br/>\n<br/>\nRon Hartmann wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; Good grief, life must be too hectic around here. It was pointed out to <br/>\n&gt; me that this is the 2006 KTK catalogue, not 2007 as I wrote! This is <br/>\n&gt; clear on the photos I referred to but please, be aware that it is the <br/>\n&gt; 2006 2nd convention of KTK catalogue.<br/>\n&gt;<br/>\n&gt; Sorry everyone...my careless error. (Thanks Andrew, for pointing this <br/>\n&gt; out to me.)<br/>\n&gt;<br/>\n&gt; Ron<br/>\n&gt; STL<br/>\n&gt;<br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n&gt;  <br/>\n<br/>\n<br/>\n </span></blockquote>[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "NSR - 2006 KTK catalogues available",
+            "postDate": "1177111067",
+            "msgId": 4995,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNWIwMWM3ODNhMiQxYzM1MTU1MCQ3NzAyODQ0YkByb24+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4996,
+            "prevInTime": 4994,
+            "nextInTime": 4996,
+            "topicId": 4995,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Good grief, life must be too hectic around here. It was pointed out to me that this is the 2006 KTK catalogue, not 2007 as I wrote! This is clear on the photos",
+            "messageBody": "<div id=\"ygrps-yiv-1311651517\">Good grief, life must be too hectic around here. It was pointed out to me that this is the 2006 KTK catalogue, not 2007 as I wrote! This is clear on the photos I referred to but please, be aware that it is the 2006 2nd convention of KTK catalogue. <br/>\n<br/>\nSorry everyone...my careless error. (Thanks Andrew, for pointing this out to me.)<br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4994,
+    "nextTopicId": 4999
+}

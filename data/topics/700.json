@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 77400184,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: opinion on tsuba",
+            "postDate": "1061746570",
+            "msgId": 701,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJpYXQyYStiY2hrQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGJpYXM4cCt1Njk1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 700,
+            "nextInTopic": 0,
+            "prevInTime": 700,
+            "nextInTime": 702,
+            "topicId": 700,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Not Nara nor Mito IMHO. Maybe one of the many Shoami, don t know. Looks like it s been dipped in heavy lacquer :-( Can probably remove it with acetone or",
+            "messageBody": "<div id=\"ygrps-yiv-719859303\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;bungotakadasword&quot; <br/>\n&lt;MuramasaIII@a...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=2551584689\">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=2551584689</a><br/>\n&gt; <br/>\n&gt; anyone has any idea as to &quot; school &quot; ?<br/>\n&gt; Nara ? Mito ? the all encompassing Shoami ?<br/>\n<br/>\n </span></blockquote>Not Nara nor Mito IMHO. Maybe one of the many<br/>\nShoami, don&#39;t know. Looks like it&#39;s been dipped<br/>\nin heavy lacquer :-( Can probably remove it with<br/>\nacetone or nail polish remover. Nice design tho.<br/>\n<br/>\nRich S<br/>\n------------------------------------------------------------<br/>\n Richard Stein, PhD          <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:alchemyst@...\">alchemyst@...</a><br/>\n      <br/>\n             The Japanese Sword Index<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.com/alchemyst/nihonto.htm\">http://www.geocities.com/alchemyst/nihonto.htm</a><br/>\n------------------------------------------------------------</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "opinion on tsuba",
+            "postDate": "1061745753",
+            "msgId": 700,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJpYXM4cCt1Njk1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 701,
+            "prevInTime": 699,
+            "nextInTime": 701,
+            "topicId": 700,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=2551584689 anyone has any idea as to  school  ? Nara ? Mito ? the all encompassing Shoami ? -M",
+            "messageBody": "<div id=\"ygrps-yiv-1271378893\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=2551584689\">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=2551584689</a><br/>\n<br/>\nanyone has any idea as to &quot; school &quot; ?<br/>\nNara ? Mito ? the all encompassing Shoami ?<br/>\n<br/>\n-M</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 692,
+    "nextTopicId": 702
+}

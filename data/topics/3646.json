@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 213364357,
+            "authorName": "excelsiorilluminati",
+            "from": "&quot;excelsiorilluminati&quot; &lt;excelsiorilluminati@...&gt;",
+            "profile": "excelsiorilluminati",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "translation",
+            "postDate": "1135958335",
+            "msgId": 3646,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRwM2xmdis3dW43QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3645,
+            "nextInTime": 3647,
+            "topicId": 3646,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello All, Does anyone or could someone provide a translation or at least a good synopsis of the article in Token Bijutsu No. 587 that refers to at the start;",
+            "messageBody": "<div id=\"ygrps-yiv-1047105140\">Hello All, Does anyone or could someone provide a translation or at<br/>\nleast a good synopsis of the article in Token Bijutsu No. 587 that<br/>\nrefers to at the start; single edged import (Korean?) swords and ends<br/>\nthe article at hairpin tachi. It looks like an interesting article.<br/>\nJohn</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3601,
+    "nextTopicId": 3647
+}

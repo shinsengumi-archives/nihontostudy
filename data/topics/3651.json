@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 213364357,
+            "authorName": "excelsiorilluminati",
+            "from": "&quot;excelsiorilluminati&quot; &lt;excelsiorilluminati@...&gt;",
+            "profile": "excelsiorilluminati",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "New Year",
+            "postDate": "1136079221",
+            "msgId": 3651,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRwN2JobCtxZ3RtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3652,
+            "prevInTime": 3650,
+            "nextInTime": 3652,
+            "topicId": 3651,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Have a Happy New Year everyone. John",
+            "messageBody": "<div id=\"ygrps-yiv-1085769741\">Have a Happy New Year everyone. John</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "ikkanshi@westnet.com.au",
+            "from": "ikkanshi@...",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] New Year",
+            "postDate": "8789",
+            "msgId": 3652,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNkYzQ5ZjRmNWYyMTAwMjA4MjZiM2IyYTA4Nzg5MTc2QHdlc3RuZXQuY29tLmF1Pg==",
+                "inReplyToHeader": "PGRwN2JobCtxZ3RtQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGRwN2JobCtxZ3RtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3651,
+            "nextInTopic": 0,
+            "prevInTime": 3651,
+            "nextInTime": 3653,
+            "topicId": 3651,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ditto, happy new year to you all. Best Richard",
+            "messageBody": "<div id=\"ygrps-yiv-1524150994\">Ditto, happy new year to you all.<br/>\n<br/>\nBest<br/>\n<br/>\nRichard<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On 01/01/2006, at 9:33 AM, excelsiorilluminati wrote:<br/>\n<br/>\n&gt; Have a Happy New Year everyone. John<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3650,
+    "nextTopicId": 3653
+}

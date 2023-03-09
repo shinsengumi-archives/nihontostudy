@@ -1,0 +1,84 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 429871276,
+        "photoId": 286521116,
+        "photoName": "Dave&#39;s Japanese Metal",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "bescat",
+        "modificationDate": 1125281601,
+        "creationDate": 1125281601,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/z8Rp5RbuctfBoG6.TzM-/name/n_a",
+                "height": 96,
+                "width": 64,
+                "size": 1576,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/z8Rp5RbuctfBoG6.TzM-/name/n_a",
+                "height": 480,
+                "width": 320,
+                "size": 23795,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/z8Rp5RbuctfBoG6.TzM-/name/n_a",
+                "height": 800,
+                "width": 533,
+                "size": 56797,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 429871276,
+        "photoId": 754614293,
+        "photoName": "Another photo turned sideways",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "bescat",
+        "modificationDate": 1125281736,
+        "creationDate": 1125281736,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/FT8To87rf9UzBGAbC1c-/name/n_a",
+                "height": 64,
+                "width": 96,
+                "size": 1774,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/FT8To87rf9UzBGAbC1c-/name/n_a",
+                "height": 320,
+                "width": 480,
+                "size": 29637,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/FT8To87rf9UzBGAbC1c-/name/n_a",
+                "height": 384,
+                "width": 576,
+                "size": 39275,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 77400184,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "unknown kao on tsuba",
+            "postDate": "1052068987",
+            "msgId": 171,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGI5M2k5citub2I4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 170,
+            "nextInTime": 172,
+            "topicId": 171,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone recognize this kao? Is is from a Nara or Mito tsuba. No mei, just signed with a kao. http://gcclearn.gcc.vccs.edu/stein/kao.jpg Thanks Rich ... ",
+            "messageBody": "<div id=\"ygrps-yiv-587262657\">Does anyone recognize this kao? Is is from<br/>\na Nara or Mito tsuba. No mei, just signed<br/>\nwith a kao.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://gcclearn.gcc.vccs.edu/stein/kao.jpg\">http://gcclearn.gcc.vccs.edu/stein/kao.jpg</a><br/>\n<br/>\nThanks<br/>\nRich<br/>\n------------------------------------------------------------<br/>\n Richard Stein, PhD          <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:alchemyst@...\">alchemyst@...</a><br/>\n      <br/>\n             The Japanese Sword Index<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.com/alchemyst/nihonto.htm\">http://www.geocities.com/alchemyst/nihonto.htm</a><br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://home.earthlink.net/~steinrl/nihonto.htm\">http://home.earthlink.net/~steinrl/nihonto.htm</a><br/>\n------------------------------------------------------------</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 164,
+    "nextTopicId": 119
+}

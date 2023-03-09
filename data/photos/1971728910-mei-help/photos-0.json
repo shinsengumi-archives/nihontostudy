@@ -1,0 +1,50 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 1971728910,
+        "photoId": 2038933625,
+        "photoName": "mysterysword1A",
+        "photoFilename": "mysterysword1A.jpg",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "atarbaktar",
+        "modificationDate": 1344361242,
+        "creationDate": 1344361242,
+        "position": 0,
+        "commentCount": 1,
+        "ordinal": 0,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/5dRLm7juetKx0OYbFQVc/name/mysterysword1A.jpg",
+                "height": 96,
+                "width": 72,
+                "size": 1485,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/5dRLm7juetKx0OYbFQVc/name/mysterysword1A.jpg",
+                "height": 480,
+                "width": 360,
+                "size": 22649,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/5dRLm7juetKx0OYbFQVc/name/mysterysword1A.jpg",
+                "height": 800,
+                "width": 600,
+                "size": 50143,
+                "photoType": "hr"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/or/5dRLm7juetKx0OYbFQVc/name/mysterysword1A.jpg",
+                "height": 853,
+                "width": 640,
+                "size": 56626,
+                "photoType": "or"
+            }
+        ]
+    }
+]

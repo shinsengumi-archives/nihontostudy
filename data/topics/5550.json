@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 341246111,
+            "authorName": "Ivan W. Crews",
+            "from": "&quot;Ivan W. Crews&quot; &lt;bugman9@...&gt;",
+            "profile": "fathertyme5",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "New old sword help",
+            "postDate": "1235336242",
+            "msgId": 5550,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGduc2U3aStmMWRhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5549,
+            "nextInTime": 5551,
+            "topicId": 5550,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I just got a japanese sword... me friend bought a old house & found it in the basement with some other old japanese things... i took the bamboo pins our &",
+            "messageBody": "<div id=\"ygrps-yiv-1736939418\">I just got a japanese sword... me friend bought a old house & found it<br/>\nin the basement with some other old japanese things... i took the<br/>\nbamboo pins our & removed the handle & there is a line of japanese<br/>\nwrighting on both sides of the tang... the hand guard is iron shaped<br/>\nlike a 4 petaled flower sort of... no other metal on the scabbard or<br/>\nhandle other than the guard & a peice what looks like gold that goes<br/>\nover the blade just in front of the guard... the blade has some rust on<br/>\nit but not pitted anywhere... how do i clean off the rust and what<br/>\nparts of the sword can i clean without ruining its value if it has<br/>\nany ? havent done anything to it as far as trying to clean anything...<br/>\nonly took off the handle to look...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5545,
+    "nextTopicId": 5548
+}

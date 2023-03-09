@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 63514443,
+            "authorName": "lshobie",
+            "from": "&quot;lshobie&quot; &lt;lshobie@...&gt;",
+            "profile": "lshobie",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Commercial message, Aizu Kanesada for sale.",
+            "postDate": "1099339023",
+            "msgId": 2370,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNtNjRlZisyYmloQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2369,
+            "nextInTime": 2371,
+            "topicId": 2370,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Guys/Gals, I have just added a sword to my site. It is a 3rd Generation Aizu Kanesada Wakizashi with 2 battle scars and NTHK papers. Here is the link",
+            "messageBody": "<div id=\"ygrps-yiv-1285895504\">Hi Guys/Gals,<br/>\n<br/>\nI have just added a sword to my site. It is a 3rd Generation Aizu <br/>\nKanesada<br/>\nWakizashi with 2 battle scars and NTHK papers.<br/>\n<br/>\nHere is the link www.japaneseswordcollector.com<br/>\n<br/>\nIf you have any questions please ask.<br/>\n<br/>\nRegards,<br/>\n<br/>\nLouis Skebo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2364,
+    "nextTopicId": 2373
+}

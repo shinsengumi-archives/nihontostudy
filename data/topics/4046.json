@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 261015678,
+            "authorName": "sublimnation",
+            "from": "&quot;sublimnation&quot; &lt;sublimnation@...&gt;",
+            "profile": "sublimnation",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Hi guys  Mei Translation",
+            "postDate": "1143419428",
+            "msgId": 4046,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGUwN2JuNCtrczgwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4045,
+            "nextInTime": 4047,
+            "topicId": 4046,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello everyone, I am Mark I have been lurking about for a while and this is my first post. I posted a picture on SFI and a Japanese gentleman translated",
+            "messageBody": "<div id=\"ygrps-yiv-959315921\">Hello everyone,<br/>\n<br/>\n   I am Mark<br/>\n<br/>\n  I have been lurking about for a while and this is my first post.<br/>\n<br/>\nI posted a picture on SFI and a Japanese gentleman translated thusly.<br/>\n<br/>\n<br/>\nRight line: KoSetsuKen<br/>\n<br/>\nLeft line: TomoNao and his Kao</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4030,
+    "nextTopicId": 4047
+}

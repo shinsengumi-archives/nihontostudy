@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Fw: menuki offered...by who?",
+            "postDate": "1080681470",
+            "msgId": 1777,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYWYwMWM0MTY5YyQ3NjgxYmRlMCRkMjVjOTRjZUByb25oYXJ0bWFubj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1776,
+            "nextInTime": 1778,
+            "topicId": 1777,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all - Who was it a few days back that offered some bat and moon motif menuki for sale? Contact me privately please,  swords@usroute66.net   A friend asked",
+            "messageBody": "<div id=\"ygrps-yiv-708904866\">Hi all - <br/>\n<br/>\nWho was it a few days back that offered some &quot;bat and moon&quot; motif menuki for sale? Contact me privately please,  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:swords@...\">swords@...</a>   A friend asked me to find out about these. I&#39;m not which group that mention came from, so I&#39;ll ask all of you. Thanks. <br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1774,
+    "nextTopicId": 1778
+}

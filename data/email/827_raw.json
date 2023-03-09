@@ -1,0 +1,29 @@
+{
+    "userId": 77400184,
+    "authorName": "alchemyst",
+    "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+    "profile": "alchemyst",
+    "replyTo": "LIST",
+    "senderId": "LjTc62C-_tPQmDNoYaVFK6WJ0K0plV8AFQWFfaqBskumi5tX6peF9ZB0K_y5C_TrWQhdgLdnsdFljBx0vTigfR92W-Eyq6Ze",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "ToShow database text conversion",
+    "postDate": "1064415357",
+    "msgId": 827,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGJrc2I5dCtjYW03QGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 826,
+    "nextInTime": 828,
+    "topicId": 827,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Peter McCollum has just finished a small program to convert any ToShow database to a text file for backup. It is available on his website at: ",
+    "rawEmail": "Return-Path: &lt;alchemyst@...&gt;\r\nX-Sender: alchemyst@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 95872 invoked from network); 24 Sep 2003 14:55:59 -0000\r\nReceived: from unknown (66.218.66.172)\n  by m12.grp.scd.yahoo.com with QMQP; 24 Sep 2003 14:55:59 -0000\r\nReceived: from unknown (HELO n10.grp.scd.yahoo.com) (66.218.66.65)\n  by mta4.grp.scd.yahoo.com with SMTP; 24 Sep 2003 14:55:59 -0000\r\nReceived: from [66.218.66.113] by n10.grp.scd.yahoo.com with NNFMP; 24 Sep 2003 14:55:58 -0000\r\nDate: Wed, 24 Sep 2003 14:55:57 -0000\r\nTo: nihontostudy@yahoogroups.com\r\nSubject: ToShow database text conversion\r\nMessage-ID: &lt;bksb9t+cam7@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 194\r\nX-Mailer: Yahoo Groups Message Poster\r\nFrom: &quot;alchemyst&quot; &lt;alchemyst@...&gt;\r\nX-Yahoo-Group-Post: member; u=77400184\r\nX-Yahoo-Profile: alchemyst\r\n\r\nPeter McCollum has just finished a small program to\nconvert any ToShow database to a text file for backup.\n\nIt is available on his website at:\n\nhttp://www.geocities.com/saipan59/toshow/\n\nRich S\n\n\n"
+}

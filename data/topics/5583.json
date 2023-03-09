@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 197643986,
+            "authorName": "Craig Harris",
+            "from": "Craig Harris &lt;bridgeofdreams@...&gt;",
+            "profile": "musashibobenkei",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Book Sale - 50% off - 3 days only - ends 6/20 @ midnight",
+            "postDate": "1247894619",
+            "msgId": 5583,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNmZmExNWUxMDkwNzE3MjIyM3Q4MTMwYTM3aTdlYmRlZTdmMmIwNjIyOUBtYWlsLmdtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5582,
+            "nextInTime": 5584,
+            "topicId": 5583,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The subject line says it all, and as you can imagine I ve got a really good reason to be doing something like this - beyond it just being the middle of summer",
+            "messageBody": "<div id=\"ygrps-yiv-495467001\">The subject line says it all, and as you can imagine I&#39;ve got a really<br/>\ngood reason to be doing something like this - beyond it just being the<br/>\nmiddle of summer and too quiet.<br/>\n<br/>\nShipping, of course, is extra, at my cost. If you live in Illinois I<br/>\nhave to charge 10% sales tax.<br/>\n<br/>\nCall or email if you have questions. I have some additional inventory<br/>\nlined up to upload, so check back during the weekend under &#39;new<br/>\narrivals&#39; or ask if there&#39;s something you&#39;re looking for that doesn&#39;t<br/>\nshow up in a search on the website.<br/>\n<br/>\nThanks in advance for your support,<br/>\n<br/>\nCraig<br/>\n<br/>\nCraig Harris<br/>\nBridge of Dreams LLC<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.bridgeofdreams.com\">http://www.bridgeofdreams.com</a><br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:craigharris@...\">craigharris@...</a><br/>\n847 696-9774</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5578,
+    "nextTopicId": 5584
+}

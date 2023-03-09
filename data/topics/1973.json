@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "CHANGE OF EMAIL ADDRESS FOR BARRY THOMAS (MELBOURNE, AUSTRALIA)",
+            "postDate": "1088686566",
+            "msgId": 1973,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxNmMwMWM0NWY2YSRjOGE3NWM4MCRkNjM0ZDljYkBzbm9vcHk+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1972,
+            "nextInTime": 1974,
+            "topicId": 1973,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Guys, Blokes n Gals, Barry Thomas new email address is: warlord@iinet.net.au [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1101881500\">Dear Guys, Blokes &#39;n&#39; Gals,<br/>\n<br/>\nBarry Thomas&#39; new email address is:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:warlord@...\">warlord@...</a><br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1949,
+    "nextTopicId": 1974
+}

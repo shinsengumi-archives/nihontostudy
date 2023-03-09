@@ -1,0 +1,30 @@
+{
+    "userId": 129124237,
+    "authorName": "Darcy Brockbank",
+    "from": "Darcy Brockbank &lt;samurai@...&gt;",
+    "replyTo": "LIST",
+    "senderId": "Jm-p9HzpkYR0F4NLrP6vWTVN9DTHv5kWEeX_Xd3NU7d2y-A5p_X3RX80yC10BQZPqha_FlILe8iOFMvEM-iOpKIcaZr1_roOi78",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "tsuba id",
+    "postDate": "1098506524",
+    "msgId": 2343,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDEwOTg1MDY1MjQuNDE3OWUxMWNkZmU4ZkB3ZWJtYWlsLnhoYXNjLmNvbT4=",
+        "inReplyToHeader": "PDAwOWMwMWM0YjhiOSQ5NzAwZjc2MCQ3NDIxZmEwNEBvZW1jb21wdXRlcj4=",
+        "referencesHeader": "PDIwMDQxMDIzMDQyMTUwLjk1Mzg2LnFtYWlsQHdlYjEwNy5iaXoubWFpbC55YWhvby5jb20+IDwwMDljMDFjNGI4YjkkOTcwMGY3NjAkNzQyMWZhMDRAb2VtY29tcHV0ZXI+"
+    },
+    "prevInTopic": 2342,
+    "nextInTopic": 2344,
+    "prevInTime": 2342,
+    "nextInTime": 2344,
+    "topicId": 2341,
+    "numMessagesInTopic": 17,
+    "msgSnippet": "Friend of mine sent me a scan of a tsuba. Me = clueless on tsuba. Any ideas? http://www.nihonto.ca/tsuba.jpg Big file by the way. - darcy",
+    "rawEmail": "Return-Path: &lt;samurai@...&gt;\r\nX-Sender: samurai@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 15935 invoked from network); 23 Oct 2004 04:42:13 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m23.grp.scd.yahoo.com with QMQP; 23 Oct 2004 04:42:13 -0000\r\nReceived: from unknown (HELO smtp.omnis.com) (216.239.128.26)\n  by mta2.grp.scd.yahoo.com with SMTP; 23 Oct 2004 04:42:13 -0000\r\nReceived: from localhost (balder.omnis.com [216.239.128.60])\n\tby smtp-relay.omnis.com (Postfix) with ESMTP id 50616881BCA\n\tfor &lt;nihontostudy@yahoogroups.com&gt;; Fri, 22 Oct 2004 21:42:13 -0700 (PDT)\r\nMessage-ID: &lt;1098506524.4179e11cdfe8f@...&gt;\r\nDate: Fri, 22 Oct 2004 21:42:04 -0700\r\nTo: &quot;&quot; &lt;nihontostudy@yahoogroups.com&gt;\r\nReferences: &lt;20041023042150.95386.qmail@...&gt; &lt;009c01c4b8b9$9700f760$7421fa04@oemcomputer&gt;\r\nIn-Reply-To: &lt;009c01c4b8b9$9700f760$7421fa04@oemcomputer&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 8bit\r\nUser-Agent: Internet Messaging Program (IMP) 3.2.2\r\nX-eGroups-Remote-IP: 216.239.128.26\r\nFrom: Darcy Brockbank &lt;samurai@...&gt;\r\nReply-To: darcy@...\r\nSubject: tsuba id\r\nX-Yahoo-Group-Post: member; u=129124237\r\n\r\n\nFriend of mine sent me a scan of a tsuba. Me = clueless on tsuba.\n\nAny ideas?\n\nhttp://www.nihonto.ca/tsuba.jpg\n\nBig file by the way.\n\n- darcy\n\n\n\n"
+}

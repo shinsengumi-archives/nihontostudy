@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 76997891,
+            "authorName": "sigp210",
+            "from": "&quot;sigp210&quot; &lt;sigp210@...&gt;",
+            "profile": "sigp210",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "TEST - SUCCESSFULLY IGNORED",
+            "postDate": "1107671523",
+            "msgId": 2641,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN1NGRsMys4Y3R1QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDAwOTUwMWM1MGI3MyQwNWEwZGM2MCQwMTI5ZDljYkB0aG9tYXNmYW1pbHk+"
+            },
+            "prevInTopic": 2638,
+            "nextInTopic": 0,
+            "prevInTime": 2640,
+            "nextInTime": 2642,
+            "topicId": 2638,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "",
+            "messageBody": "<div id=\"ygrps-yiv-975104569\">:-)</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 48448737,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "TEST - PLEASE IGNORE",
+            "postDate": "1107601705",
+            "msgId": 2638,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwOTUwMWM1MGI3MyQwNWEwZGM2MCQwMTI5ZDljYkB0aG9tYXNmYW1pbHk+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2641,
+            "prevInTime": 2637,
+            "nextInTime": 2639,
+            "topicId": 2638,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "",
+            "messageBody": "",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2637,
+    "nextTopicId": 2639
+}

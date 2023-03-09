@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 63514443,
+            "authorName": "lshobie",
+            "from": "&quot;lshobie&quot; &lt;lshobie@...&gt;",
+            "profile": "lshobie",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Sword for sale",
+            "postDate": "1113590290",
+            "msgId": 2799,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQzcDFtaStodDVuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2798,
+            "nextInTime": 2800,
+            "topicId": 2799,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Guys/Gals, I have lowered the price of the 29.75 inch Shigetaka on my site from $6,900.00 to $5,900.00. I am doing this for a limited time so I can put some",
+            "messageBody": "<div id=\"ygrps-yiv-1864496307\">Hi Guys/Gals,<br/>\nI have lowered the price of the 29.75 inch Shigetaka on my site from <br/>\n$6,900.00 to $5,900.00.<br/>\n<br/>\nI am doing this for a limited time so I can put some funds together <br/>\nfor a big purchase. <br/>\n<br/>\nHere is the link:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.japaneseswordcollector.com/shige/shige.html\">http://www.japaneseswordcollector.com/shige/shige.html</a><br/>\n<br/>\nI doubt you will find a sword as beautiful and as long as this in <br/>\nfull polish, new shirasaya, and fresh polish anywhere on the net.<br/>\n<br/>\nIf interested please contact me. I do ship from the US so I can <br/>\ninsure my blades fully and register them as well.<br/>\n<br/>\nRegards<br/>\n<br/>\nLouis Skebo<br/>\nwww.japaneseswordcollector.com</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2778,
+    "nextTopicId": 2790
+}

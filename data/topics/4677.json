@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70536526,
+            "authorName": "Mark P. Jones",
+            "from": "&quot;Mark P. Jones&quot; &lt;nixe@...&gt;",
+            "profile": "markpjonesii",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "sword, fitting related commercial message",
+            "postDate": "1164138085",
+            "msgId": 4677,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDBhNjAwMWM3MGRhNSQwOGQ4MzMyMCQ4NTdiYThjMEBtYWluZGVza3RvcD4=",
+                "referencesHeader": "PE9GMDVGMUMxNkUuOTE4OUE2RDUtT044NjI1NzIyRC4wMDU5MUVBMC04NjI1NzIyRC4wMDVBN0U3OEB1bmwuZWR1Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4676,
+            "nextInTime": 4678,
+            "topicId": 4677,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Group I have listed a few items on eBay, a couple of papered tsuba and some misc fitting. Many of the members know me, or you can ask about me, i am a",
+            "messageBody": "<div id=\"ygrps-yiv-1886428565\">Group<br/>\n<br/>\nI have listed a few items on eBay, a couple of papered tsuba and some misc fitting. Many of the members know me, or you can ask about me, i am a  reliable seller. Please take a look!<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://search.ebay.com/_W0QQsassZmark!\">http://search.ebay.com/_W0QQsassZmark!</a>!1QQhtZ-1QQfrppZ50QQfsopZ1QQfsooZ1QQrdZ0<br/>\n<br/>\nor eBay i.d Mark!!1<br/>\n<br/>\nThanks!!<br/>\n<br/>\nMark  Jones<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nixe@...\">nixe@...</a><br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4663,
+    "nextTopicId": 4672
+}

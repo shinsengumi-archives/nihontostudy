@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 271477297,
+            "authorName": "Andres Pedraza",
+            "from": "Andres Pedraza &lt;apedraza93@...&gt;",
+            "profile": "apedraza_93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Letting go of a few items via eBay",
+            "postDate": "1228279134",
+            "msgId": 5503,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ5MzYwZDY5LjA2MDljMDBhLjIxZTcuZmZmZmQ2YjdAbXguZ29vZ2xlLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5502,
+            "nextInTime": 5504,
+            "topicId": 5503,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, Please take a look at my auctions if you are so inclined. Bid early and often... http://shop.ebay.com/merchant/apedraza Best, Andres",
+            "messageBody": "<div id=\"ygrps-yiv-1637002371\">All,<br/>\n<br/>\nPlease take a look at my auctions if you are so inclined. Bid early <br/>\nand often...<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://shop.ebay.com/merchant/apedraza\">http://shop.ebay.com/merchant/apedraza</a><br/>\n<br/>\nBest,<br/>\n<br/>\nAndres</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5501,
+    "nextTopicId": 5504
+}

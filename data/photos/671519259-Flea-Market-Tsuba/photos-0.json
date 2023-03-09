@@ -1,0 +1,125 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 671519259,
+        "photoId": 1183784676,
+        "photoName": "Crane Tsuba",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "gargy980",
+        "modificationDate": 1111019334,
+        "creationDate": 1111019334,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/r1eaZvbte9nluny_A4EL/name/n_a",
+                "height": 94,
+                "width": 96,
+                "size": 4230,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/r1eaZvbte9nluny_A4EL/name/n_a",
+                "height": 471,
+                "width": 480,
+                "size": 89290,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/r1eaZvbte9nluny_A4EL/name/n_a",
+                "height": 628,
+                "width": 640,
+                "size": 153785,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 671519259,
+        "photoId": 1598643142,
+        "photoName": "Tsuba with Shukado Wire",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "gargy980",
+        "modificationDate": 1111019336,
+        "creationDate": 1111019336,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/jEvTZPztf9jkNev3OPFU/name/n_a",
+                "height": 96,
+                "width": 96,
+                "size": 4330,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/jEvTZPztf9jkNev3OPFU/name/n_a",
+                "height": 480,
+                "width": 480,
+                "size": 106043,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/jEvTZPztf9jkNev3OPFU/name/n_a",
+                "height": 640,
+                "width": 640,
+                "size": 180067,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 671519259,
+        "photoId": 557933051,
+        "photoName": "Tsuba with holes",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "gargy980",
+        "modificationDate": 1111019337,
+        "creationDate": 1111019337,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 3,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/yw7qKJjpf9ZrmTtEoNA-/name/n_a",
+                "height": 96,
+                "width": 92,
+                "size": 3805,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/yw7qKJjpf9ZrmTtEoNA-/name/n_a",
+                "height": 480,
+                "width": 458,
+                "size": 79519,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/yw7qKJjpf9ZrmTtEoNA-/name/n_a",
+                "height": 503,
+                "width": 480,
+                "size": 84293,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162860323,
+            "authorName": "Andres Pedraza",
+            "from": "Andres Pedraza &lt;apedraza@...&gt;",
+            "profile": "apedraza_93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Death box",
+            "postDate": "1138375308",
+            "msgId": 3753,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDcuMC4wLjE2LjAuMjAwNjAxMjcxMDIwMTEuMDIwMzVhOTBAdmFsb3JuZXdtZWRpYS5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3752,
+            "nextInTime": 3754,
+            "topicId": 3753,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Anybody here able to add any history to this? http://tinyurl.com/cxlus Best Regards, Andres [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1629760892\">Anybody here able to add any history to this?<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/cxlus\">http://tinyurl.com/cxlus</a><br/>\n<br/>\nBest Regards,<br/>\n<br/>\nAndres <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3655,
+    "nextTopicId": 3768
+}

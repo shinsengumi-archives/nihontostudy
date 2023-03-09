@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 212015209,
+            "authorName": "surfson8",
+            "from": "&quot;surfson8&quot; &lt;surfson@...&gt;",
+            "profile": "surfson8",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Tsuba to eBay - NBTHK Papered, Japanese Iris design",
+            "postDate": "1228180129",
+            "msgId": 5502,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdoMjFyMStscWlvQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDQ1MjA4MS43ODAzNS5xbUB3ZWI1MjMwMi5tYWlsLnJlMi55YWhvby5jb20+"
+            },
+            "prevInTopic": 5501,
+            "nextInTopic": 0,
+            "prevInTime": 5501,
+            "nextInTime": 5503,
+            "topicId": 5501,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... between Kamakura bori and this line of Bushi workers?   Cheers, Bob",
+            "messageBody": "<div id=\"ygrps-yiv-909083535\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, Curran Campbell &lt;neobliviscar@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;Very nice tsuba!   It has a Kamakura-bori feel to it.   Does anybody know the connection <br/>\n </span></blockquote>between Kamakura bori and this line of Bushi workers?   Cheers, Bob<br/>\n<br/>\n<blockquote><span title=\"qreply\"> &gt; Wife and I are raising funds the old fashioned way...<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; A nice tsuba to ebay for those that are interested:<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/5ksatb\">http://tinyurl.com/5ksatb</a><br/>\n&gt; <br/>\n&gt; NBTHK Papers to Bushu ju Masakatsu. Pristine condition.<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; Curran<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 136909275,
+            "authorName": "Curran Campbell",
+            "from": "Curran Campbell &lt;neobliviscar@...&gt;",
+            "profile": "neobliviscar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Tsuba to eBay - NBTHK Papered, Japanese Iris design",
+            "postDate": "1228144234",
+            "msgId": 5501,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ1MjA4MS43ODAzNS5xbUB3ZWI1MjMwMi5tYWlsLnJlMi55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5502,
+            "prevInTime": 5500,
+            "nextInTime": 5502,
+            "topicId": 5501,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Wife and I are raising funds the old fashioned way... A nice tsuba to ebay for those that are interested: http://tinyurl.com/5ksatb NBTHK Papers to Bushu ju",
+            "messageBody": "<div id=\"ygrps-yiv-668163458\">Wife and I are raising funds the old fashioned way...<br/>\n<br/>\n<br/>\nA nice tsuba to ebay for those that are interested:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/5ksatb\">http://tinyurl.com/5ksatb</a><br/>\n<br/>\nNBTHK Papers to Bushu ju Masakatsu. Pristine condition.<br/>\n<br/>\n<br/>\nCurran</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5483,
+    "nextTopicId": 5503
+}

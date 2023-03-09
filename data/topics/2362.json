@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 163035024,
+            "authorName": "Kim Ghobrial",
+            "from": "Kim Ghobrial &lt;bescat@...&gt;",
+            "profile": "bescat",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re:  Added 2 photos of the Tsubas on Shared Photos....",
+            "postDate": "1098848327",
+            "msgId": 2362,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQxMDI3MDMzODQ3LjcwMjc0LnFtYWlsQHdlYjUyNjAxLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2361,
+            "nextInTime": 2363,
+            "topicId": 2362,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi All, I ve added 2 photos on the Shared Photos section of this list, under Kim s Tsubas, if anyone would like to take a look and see if they recognise them. ",
+            "messageBody": "<div id=\"ygrps-yiv-2090612290\">Hi All,<br/>\nI&#39;ve added 2 photos on the Shared Photos section of this list, under Kim&#39;s Tsubas, if anyone would<br/>\nlike to take a look and see if they recognise them.<br/>\n<br/>\nThank you,<br/>\nKim<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail Address AutoComplete - You start. We finish.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promotions.yahoo.com/new_mail\">http://promotions.yahoo.com/new_mail</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2341,
+    "nextTopicId": 2363
+}

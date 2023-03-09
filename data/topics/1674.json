@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 123364401,
+            "authorName": "nihontochicken",
+            "from": "&quot;nihontochicken&quot; &lt;rick@...&gt;",
+            "profile": "nihontochicken",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Crass Commercial message",
+            "postDate": "1130382642",
+            "msgId": 3432,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRqcGdmaStpNml0QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGRqcDNjbytydjNiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1674,
+            "nextInTopic": 0,
+            "prevInTime": 3430,
+            "nextInTime": 3433,
+            "topicId": 1674,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "John - Just noticed that you live in the Channel Islands.  Must be a neat place.  I am a sometime collector of sterling and coin silver, mainly flatware, with",
+            "messageBody": "<div id=\"ygrps-yiv-966790897\">John -<br/>\n<br/>\nJust noticed that you live in the Channel Islands.  Must be a neat<br/>\nplace.  I am a sometime collector of sterling and coin silver, mainly<br/>\nflatware, with emphasis on the early Georgian and American Colonial<br/>\nand Empire periods.  One of my interests is the provincial Brit<br/>\nsilver, of which the Channel Islands are one of the more obscure and<br/>\ncollectible.  Sooooo, my off-the-wall question is, does old Channel<br/>\nIsland silver show up more often for sale in the Channel Islands, or<br/>\nhas the majority of it been dispersed to the four winds?  TIA for any<br/>\ninfo!<br/>\n<br/>\nNC</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Crass Commercial message",
+            "postDate": "1077936667",
+            "msgId": 1674,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNDAwMjFCLjgwNzAwMDVAd2VzdG5ldC5jb20uYXU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3432,
+            "prevInTime": 1673,
+            "nextInTime": 1675,
+            "topicId": 1674,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, I have listed a Bizen Sukesada wakizashi for sale by consignment, take a look http://www.whiz.com.au/richard/Sukesada/Sukesada.htm Also, the price on the",
+            "messageBody": "<div id=\"ygrps-yiv-1059944265\">All, I have listed a Bizen Sukesada wakizashi for sale by consignment, <br/>\ntake a look<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.whiz.com.au/richard/Sukesada/Sukesada.htm\">http://www.whiz.com.au/richard/Sukesada/Sukesada.htm</a><br/>\n<br/>\nAlso, the price on the Sukekuni Nginata has been reduced.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.whiz.com.au/richard/Sukekuni/sukekuni.htm\">http://www.whiz.com.au/richard/Sukekuni/sukekuni.htm</a><br/>\n<br/>\nCheers<br/>\n<br/>\nRich T</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3402,
+    "nextTopicId": 3428
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Looking for JSSUS Back issues",
+            "postDate": "1099392495",
+            "msgId": 2375,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxODc2NUVGLjYwNDA2MDZAd2VzdG5ldC5jb20uYXU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2374,
+            "nextInTime": 2376,
+            "topicId": 2375,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, I am currently looking for some particular JSSUS magazine back issues, some date back quite a way. If anyone can help out, please contact me @",
+            "messageBody": "<div id=\"ygrps-yiv-1670467699\">All, I am currently looking for some particular JSSUS magazine back <br/>\nissues, some date back quite a way. If anyone can help out, please <br/>\ncontact me @ <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a><br/>\n<br/>\nKind regards<br/>\n<br/>\nRichard Turner</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2373,
+    "nextTopicId": 2376
+}

@@ -1,0 +1,29 @@
+{
+    "userId": 132024470,
+    "authorName": "cyrus@ryumado.com",
+    "from": "&quot;cyrus@...&quot; &lt;cyrus@...&gt;",
+    "profile": "cccthoth",
+    "replyTo": "LIST",
+    "senderId": "Syn6VEeFMPNykI1Wrt-NTh8rt-gltLAKL7HA2VUgO-LSnCKYXpZ9YXiqEllHnp0j-Wrs5t6v_eeM1MAiG52aeOepXD4_RkQd86hmiQsb",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "12"
+    },
+    "subject": "Shameless commercial plug",
+    "postDate": "1125517430",
+    "msgId": 3291,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGQ4ZjgyYTk3YTBjNWIwNDFmMWJkNWEyNjUwMTFhOTM3QHJ5dW1hZG8uY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 3290,
+    "nextInTime": 3292,
+    "topicId": 3291,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Hi Folks, Good to see everyone at the S.F. show. Major updates to both the sword and kodogu sections of the site. Have a look! Regards, Cyrus www.ryumado.com",
+    "rawEmail": "Return-Path: &lt;cyrus@...&gt;\r\nX-Sender: cyrus@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 58012 invoked from network); 31 Aug 2005 19:50:32 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m31.grp.scd.yahoo.com with QMQP; 31 Aug 2005 19:50:32 -0000\r\nReceived: from unknown (HELO mxsf14.cluster1.charter.net) (209.225.28.214)\n  by mta6.grp.scd.yahoo.com with SMTP; 31 Aug 2005 19:50:31 -0000\r\nReceived: from mxip17a.cluster1.charter.net (mxip17a.cluster1.charter.net [209.225.28.147])\n\tby mxsf14.cluster1.charter.net (8.12.11/8.12.11) with ESMTP id j7VJoU02018651;\n\tWed, 31 Aug 2005 15:50:30 -0400\r\nReceived: from 24-205-75-158.dhcp.psdn.ca.charter.com (HELO [192.168.1.6]) (24.205.75.158)\n  by mxip17a.cluster1.charter.net with ESMTP; 31 Aug 2005 15:50:30 -0400\r\nX-IronPort-AV: i=&quot;3.96,158,1122868800&quot;; \n   d=&quot;scan&#39;208&quot;; a=&quot;1501910850:sNHT14078724&quot;\r\nMime-Version: 1.0 (Apple Message framework v622)\r\nContent-Transfer-Encoding: 7bit\r\nMessage-Id: &lt;d8f82a97a0c5b041f1bd5a265011a937@...&gt;\r\nContent-Type: text/plain; charset=US-ASCII; format=flowed\r\nTo: nihonto@yahoogroups.com, nihontostudy@yahoogroups.com\r\nDate: Wed, 31 Aug 2005 12:43:50 -0700\r\nX-Mailer: Apple Mail (2.622)\r\nX-eGroups-Msg-Info: 1:12:0:0\r\nFrom: &quot;cyrus@...&quot; &lt;cyrus@...&gt;\r\nSubject: Shameless commercial plug\r\nX-Yahoo-Group-Post: member; u=132024470; y=YgqjJXPPtWSbhz3_o0jiasOf9dwWKI5mpF4wpR_Bw4Yf9hg\r\nX-Yahoo-Profile: cccthoth\r\n\r\nHi Folks,\nGood to see everyone at the S.F. show.\nMajor updates to both the sword and kodogu sections of the site.\nHave a look!\nRegards,\nCyrus\nwww.ryumado.com\n\n"
+}

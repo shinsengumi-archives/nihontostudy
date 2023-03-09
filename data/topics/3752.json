@@ -1,0 +1,799 @@
+{
+    "totalMsgInTopic": 26,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] On the backs of menuki",
+            "postDate": "1138928248",
+            "msgId": 3786,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzRTJBQTc4LjkwNDA5MDlAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PDAyNjkwMWM2Mjg1OCQyNzllY2VmMCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PDFkYy40ZGExYTQ2YS4zMTEyZmM2NkBhb2wuY29tPiA8NDNFMUEyRUQuMjA2MDYwMUB3ZXN0bmV0LmNvbS5hdT4gPDAxOTMwMWM2MjdjMCQ2YmNkZWVhMCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4gPDcuMC4xLjAuMC4yMDA2MDIwMjA5NDUyOC4wMWVjMWJkOEB2YWxvcm5ld21lZGlhLmNvbT4gPDQzRTI4NDMyLjEwNDAyMDFAd2VzdG5ldC5jb20uYXU+IDwwMjVhMDFjNjI4NTUkOGUxMWNiZTAkYTFiZGZhMDRAMzk3NDkwODAwMDE+IDw0M0UyOUZDQi44MDQwODA2QHdlc3RuZXQuY29tLmF1PiA8MDI2OTAxYzYyODU4JDI3OWVjZWYwJGExYmRmYTA0QDM5NzQ5MDgwMDAxPg=="
+            },
+            "prevInTopic": 3784,
+            "nextInTopic": 0,
+            "prevInTime": 3785,
+            "nextInTime": 3787,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks Jim. I might do. I always like to know if there is an alternative. Thanks again for the information. Rich ... [Non-text portions of this message have",
+            "messageBody": "<div id=\"ygrps-yiv-1073809743\">Thanks Jim. I might do. I always like to know if there is an alternative.<br/>\n<br/>\nThanks again for the information.<br/>\n<br/>\nRich<br/>\n<br/>\n<br/>\nJim Gilbert wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;The kanji for the &quot;tansatsu&quot; entry in the glossary are the same as the ones for tanzaku.  Ask Harry about why he read it that way or just stick with tanzaku.  <br/>\n&gt;<br/>\n&gt;And yeah, those menuki are tanzaku-mei.<br/>\n&gt;<br/>\n&gt;Jim<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n<br/>\n<br/>\n </span></blockquote>[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] On the backs of menuki",
+            "postDate": "1138926250",
+            "msgId": 3784,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAyNjkwMWM2Mjg1OCQyNzllY2VmMCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PDFkYy40ZGExYTQ2YS4zMTEyZmM2NkBhb2wuY29tPiA8NDNFMUEyRUQuMjA2MDYwMUB3ZXN0bmV0LmNvbS5hdT4gPDAxOTMwMWM2MjdjMCQ2YmNkZWVhMCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4gPDcuMC4xLjAuMC4yMDA2MDIwMjA5NDUyOC4wMWVjMWJkOEB2YWxvcm5ld21lZGlhLmNvbT4gPDQzRTI4NDMyLjEwNDAyMDFAd2VzdG5ldC5jb20uYXU+IDwwMjVhMDFjNjI4NTUkOGUxMWNiZTAkYTFiZGZhMDRAMzk3NDkwODAwMDE+IDw0M0UyOUZDQi44MDQwODA2QHdlc3RuZXQuY29tLmF1Pg=="
+            },
+            "prevInTopic": 3783,
+            "nextInTopic": 3786,
+            "prevInTime": 3783,
+            "nextInTime": 3785,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The kanji for the tansatsu entry in the glossary are the same as the ones for tanzaku.  Ask Harry about why he read it that way or just stick with tanzaku. ",
+            "messageBody": "<div id=\"ygrps-yiv-949771243\">The kanji for the &quot;tansatsu&quot; entry in the glossary are the same as the ones for tanzaku.  Ask Harry about why he read it that way or just stick with tanzaku.  <br/>\n<br/>\nAnd yeah, those menuki are tanzaku-mei.<br/>\n<br/>\nJim<br/>\n<br/>\n<br/>\n<br/>\n  Thanks Jim, I got tansatsu from the glossary of the Kodogu book of <br/>\n  Nihotno Koza. The description on those Goto meuni had it as tankazu so I <br/>\n  looked it up and it was as you say paper strip for wtining on. I figured <br/>\n  it would probably carry over into Nihonto.<br/>\n<br/>\n  cheers<br/>\n<br/>\n  Richard<br/>\n<br/>\n<br/>\n  Jim Gilbert wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\">   &gt;Tanzaku mei is the term I&#39;m familiar with.  A tanzaku is a type of long, narrow calligraphy paper.<br/>\n  &gt;<br/>\n  &gt;Even Google doesn&#39;t get many results with tansatsu, but this reference looks interesting:<br/>\n  &gt;<br/>\n  &gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.hitachi-metals.co.jp/e/tatara/nnp0109.htm\">http://www.hitachi-metals.co.jp/e/tatara/nnp0109.htm</a><br/>\n  &gt;<br/>\n  &gt;Maybe it&#39;s already well known among sword guys.<br/>\n  &gt;<br/>\n  &gt;Jim<br/>\n  &gt;<br/>\n<br/>\n </span></blockquote>[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] On the backs of menuki",
+            "postDate": "1138925515",
+            "msgId": 3783,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzRTI5RkNCLjgwNDA4MDZAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PDAyNWEwMWM2Mjg1NSQ4ZTExY2JlMCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PDFkYy40ZGExYTQ2YS4zMTEyZmM2NkBhb2wuY29tPiA8NDNFMUEyRUQuMjA2MDYwMUB3ZXN0bmV0LmNvbS5hdT4gPDAxOTMwMWM2MjdjMCQ2YmNkZWVhMCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4gPDcuMC4xLjAuMC4yMDA2MDIwMjA5NDUyOC4wMWVjMWJkOEB2YWxvcm5ld21lZGlhLmNvbT4gPDQzRTI4NDMyLjEwNDAyMDFAd2VzdG5ldC5jb20uYXU+IDwwMjVhMDFjNjI4NTUkOGUxMWNiZTAkYTFiZGZhMDRAMzk3NDkwODAwMDE+"
+            },
+            "prevInTopic": 3782,
+            "nextInTopic": 3784,
+            "prevInTime": 3782,
+            "nextInTime": 3784,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks Jim, I got tansatsu from the glossary of the Kodogu book of Nihotno Koza. The description on those Goto meuni had it as tankazu so I looked it up and it",
+            "messageBody": "<div id=\"ygrps-yiv-1011884498\">Thanks Jim, I got tansatsu from the glossary of the Kodogu book of <br/>\nNihotno Koza. The description on those Goto meuni had it as tankazu so I <br/>\nlooked it up and it was as you say paper strip for wtining on. I figured <br/>\nit would probably carry over into Nihonto.<br/>\n<br/>\ncheers<br/>\n<br/>\nRichard<br/>\n<br/>\n<br/>\nJim Gilbert wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Tanzaku mei is the term I&#39;m familiar with.  A tanzaku is a type of long, narrow calligraphy paper.<br/>\n&gt;<br/>\n&gt;Even Google doesn&#39;t get many results with tansatsu, but this reference looks interesting:<br/>\n&gt;<br/>\n&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.hitachi-metals.co.jp/e/tatara/nnp0109.htm\">http://www.hitachi-metals.co.jp/e/tatara/nnp0109.htm</a><br/>\n&gt;<br/>\n&gt;Maybe it&#39;s already well known among sword guys.<br/>\n&gt;<br/>\n&gt;Jim<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  when signed on the little plates of metal. Are these referred to as <br/>\n&gt;  Tanzaku, Tansatsu, or are both correct. ?.<br/>\n&gt;<br/>\n&gt;  Cheers<br/>\n&gt;<br/>\n&gt;  Rich<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;[Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; <br/>\n&gt;Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; <br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n<br/>\n<br/>\n </span></blockquote>[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] On the backs of menuki",
+            "postDate": "1138925133",
+            "msgId": 3782,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAyNWEwMWM2Mjg1NSQ4ZTExY2JlMCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PDFkYy40ZGExYTQ2YS4zMTEyZmM2NkBhb2wuY29tPiA8NDNFMUEyRUQuMjA2MDYwMUB3ZXN0bmV0LmNvbS5hdT4gPDAxOTMwMWM2MjdjMCQ2YmNkZWVhMCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4gPDcuMC4xLjAuMC4yMDA2MDIwMjA5NDUyOC4wMWVjMWJkOEB2YWxvcm5ld21lZGlhLmNvbT4gPDQzRTI4NDMyLjEwNDAyMDFAd2VzdG5ldC5jb20uYXU+"
+            },
+            "prevInTopic": 3781,
+            "nextInTopic": 3783,
+            "prevInTime": 3781,
+            "nextInTime": 3783,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Tanzaku mei is the term I m familiar with.  A tanzaku is a type of long, narrow calligraphy paper. Even Google doesn t get many results with tansatsu, but this",
+            "messageBody": "<div id=\"ygrps-yiv-1213861598\">Tanzaku mei is the term I&#39;m familiar with.  A tanzaku is a type of long, narrow calligraphy paper.<br/>\n<br/>\nEven Google doesn&#39;t get many results with tansatsu, but this reference looks interesting:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.hitachi-metals.co.jp/e/tatara/nnp0109.htm\">http://www.hitachi-metals.co.jp/e/tatara/nnp0109.htm</a><br/>\n<br/>\nMaybe it&#39;s already well known among sword guys.<br/>\n<br/>\nJim<br/>\n<br/>\n<br/>\n<br/>\n  when signed on the little plates of metal. Are these referred to as <br/>\n  Tanzaku, Tansatsu, or are both correct. ?.<br/>\n<br/>\n  Cheers<br/>\n<br/>\n  Rich<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "On the backs of menuki",
+            "postDate": "1138918450",
+            "msgId": 3781,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzRTI4NDMyLjEwNDAyMDFAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PDcuMC4xLjAuMC4yMDA2MDIwMjA5NDUyOC4wMWVjMWJkOEB2YWxvcm5ld21lZGlhLmNvbT4=",
+                "referencesHeader": "PDFkYy40ZGExYTQ2YS4zMTEyZmM2NkBhb2wuY29tPiA8NDNFMUEyRUQuMjA2MDYwMUB3ZXN0bmV0LmNvbS5hdT4gPDAxOTMwMWM2MjdjMCQ2YmNkZWVhMCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4gPDcuMC4xLjAuMC4yMDA2MDIwMjA5NDUyOC4wMWVjMWJkOEB2YWxvcm5ld21lZGlhLmNvbT4="
+            },
+            "prevInTopic": 3780,
+            "nextInTopic": 3782,
+            "prevInTime": 3780,
+            "nextInTime": 3782,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "when signed on the little plates of metal. Are these referred to as Tanzaku, Tansatsu, or are both correct. ?. Cheers Rich",
+            "messageBody": "<div id=\"ygrps-yiv-189305512\">when signed on the little plates of metal. Are these referred to as <br/>\nTanzaku, Tansatsu, or are both correct. ?.<br/>\n<br/>\nCheers<br/>\n<br/>\nRich</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 162860323,
+            "authorName": "Andres Pedraza",
+            "from": "Andres Pedraza &lt;apedraza@...&gt;",
+            "profile": "apedraza_93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Goto Mitsufusa or Mitsutsuna",
+            "postDate": "1138891545",
+            "msgId": 3780,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDcuMC4xLjAuMC4yMDA2MDIwMjA5NDUyOC4wMWVjMWJkOEB2YWxvcm5ld21lZGlhLmNvbT4=",
+                "inReplyToHeader": "PDAxOTMwMWM2MjdjMCQ2YmNkZWVhMCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PDFkYy40ZGExYTQ2YS4zMTEyZmM2NkBhb2wuY29tPiA8NDNFMUEyRUQuMjA2MDYwMUB3ZXN0bmV0LmNvbS5hdT4gPDAxOTMwMWM2MjdjMCQ2YmNkZWVhMCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4="
+            },
+            "prevInTopic": 3779,
+            "nextInTopic": 3781,
+            "prevInTime": 3779,
+            "nextInTime": 3781,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The explanation is simple. He took a long time to die... Dewa, Andres",
+            "messageBody": "<div id=\"ygrps-yiv-1850519940\">The explanation is simple. He took a long time to die...<br/>\n<br/>\nDewa,<br/>\n<br/>\nAndres<br/>\n<br/>\nAt 01:18 AM 2/2/2006, you wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt;Haynes/Wakayama says 1745, Kyo Goto says 1747.<br/>\n&gt;<br/>\n&gt;Jim<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;   Hi mate, I have 2 dates in 3 books now, so somewhere around there will<br/>\n&gt;   do I guess.<br/>\n&gt;<br/>\n&gt;   Rich<br/>\n&gt;<br/>\n&gt;   <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:MuramasaIII@...\">MuramasaIII@...</a> wrote:<br/>\n&gt;   &gt;<br/>\n&gt;   &gt; In a message dated 2/1/2006 7:40:55 P.M. Central Standard Time,<br/>\n&gt;   &gt; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a> writes:<br/>\n&gt;   &gt;<br/>\n&gt;   &gt; He died  September 7th, 1747<br/>\n&gt;   &gt;<br/>\n&gt;   &gt;<br/>\n&gt;   &gt; actually according to the book, it&#39;s 1745, 9th month( lunar <br/>\n&gt; calender  ) , 7th<br/>\n&gt;   &gt; day<br/>\n&gt;   &gt;<br/>\n&gt;   &gt; milt<br/>\n&gt;   &gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;[Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Goto Mitsufusa or Mitsutsuna",
+            "postDate": "1138861905",
+            "msgId": 3779,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzRTFBNzUxLjEwNzAwMDhAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PDAxOTMwMWM2MjdjMCQ2YmNkZWVhMCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PDFkYy40ZGExYTQ2YS4zMTEyZmM2NkBhb2wuY29tPiA8NDNFMUEyRUQuMjA2MDYwMUB3ZXN0bmV0LmNvbS5hdT4gPDAxOTMwMWM2MjdjMCQ2YmNkZWVhMCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4="
+            },
+            "prevInTopic": 3778,
+            "nextInTopic": 3780,
+            "prevInTime": 3778,
+            "nextInTime": 3780,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yes, I picked that up, there seems to be a little discrepancy in most of the books. Still the information is old and I would hate to try and compile it today. ",
+            "messageBody": "<div id=\"ygrps-yiv-1089565461\">Yes, I picked that up, there seems to be a little discrepancy in most of <br/>\nthe books. Still the information is old and I would hate to try and <br/>\ncompile it today.<br/>\n<br/>\nRich<br/>\n<br/>\nJim Gilbert wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Haynes/Wakayama says 1745, Kyo Goto says 1747.<br/>\n&gt;<br/>\n&gt; Jim<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;   Hi mate, I have 2 dates in 3 books now, so somewhere around there will <br/>\n&gt;   do I guess.<br/>\n&gt;<br/>\n&gt;   Rich<br/>\n&gt;<br/>\n&gt;   <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:MuramasaIII@...\">MuramasaIII@...</a> wrote:<br/>\n&gt;   &gt;  <br/>\n&gt;   &gt; In a message dated 2/1/2006 7:40:55 P.M. Central Standard Time,  <br/>\n&gt;   &gt; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a> writes:<br/>\n&gt;   &gt;<br/>\n&gt;   &gt; He died  September 7th, 1747<br/>\n&gt;   &gt;<br/>\n&gt;   &gt;<br/>\n&gt;   &gt; actually according to the book, it&#39;s 1745, 9th month( lunar calender  ) , 7th <br/>\n&gt;   &gt; day<br/>\n&gt;   &gt;  <br/>\n&gt;   &gt; milt<br/>\n&gt;   &gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;   <br/>\n<br/>\n </span></blockquote>-- <br/>\n*Richard Turner - Nihonto Message Board*<br/>\n/for the discussion of all things Nihonto./<br/>\nwww.nihontomessageboard.com &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Goto Mitsufusa or Mitsutsuna",
+            "postDate": "1138861081",
+            "msgId": 3778,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxOTMwMWM2MjdjMCQ2YmNkZWVhMCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PDFkYy40ZGExYTQ2YS4zMTEyZmM2NkBhb2wuY29tPiA8NDNFMUEyRUQuMjA2MDYwMUB3ZXN0bmV0LmNvbS5hdT4="
+            },
+            "prevInTopic": 3777,
+            "nextInTopic": 3779,
+            "prevInTime": 3777,
+            "nextInTime": 3779,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Haynes/Wakayama says 1745, Kyo Goto says 1747. Jim Hi mate, I have 2 dates in 3 books now, so somewhere around there will do I guess. Rich ... [Non-text",
+            "messageBody": "<div id=\"ygrps-yiv-1927792437\">Haynes/Wakayama says 1745, Kyo Goto says 1747.<br/>\n<br/>\nJim<br/>\n<br/>\n<br/>\n  Hi mate, I have 2 dates in 3 books now, so somewhere around there will <br/>\n  do I guess.<br/>\n<br/>\n  Rich<br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:MuramasaIII@...\">MuramasaIII@...</a> wrote:<br/>\n<blockquote><span title=\"ireply\">   &gt;  <br/>\n  &gt; In a message dated 2/1/2006 7:40:55 P.M. Central Standard Time,  <br/>\n  &gt; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a> writes:<br/>\n  &gt;<br/>\n  &gt; He died  September 7th, 1747<br/>\n  &gt;<br/>\n  &gt;<br/>\n  &gt; actually according to the book, it&#39;s 1745, 9th month( lunar calender  ) , 7th <br/>\n  &gt; day<br/>\n  &gt;  <br/>\n  &gt; milt<br/>\n  &gt;<br/>\n<br/>\n<br/>\n </span></blockquote>[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Goto Mitsufusa or Mitsutsuna",
+            "postDate": "1138860781",
+            "msgId": 3777,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzRTFBMkVELjIwNjA2MDFAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PDFkYy40ZGExYTQ2YS4zMTEyZmM2NkBhb2wuY29tPg==",
+                "referencesHeader": "PDFkYy40ZGExYTQ2YS4zMTEyZmM2NkBhb2wuY29tPg=="
+            },
+            "prevInTopic": 3776,
+            "nextInTopic": 3778,
+            "prevInTime": 3776,
+            "nextInTime": 3778,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi mate, I have 2 dates in 3 books now, so somewhere around there will do I guess. Rich ... -- *Richard Turner - Nihonto Message Board* /for the discussion of",
+            "messageBody": "<div id=\"ygrps-yiv-1468882062\">Hi mate, I have 2 dates in 3 books now, so somewhere around there will <br/>\ndo I guess.<br/>\n<br/>\nRich<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:MuramasaIII@...\">MuramasaIII@...</a> wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;  <br/>\n&gt; In a message dated 2/1/2006 7:40:55 P.M. Central Standard Time,  <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a> writes:<br/>\n&gt;<br/>\n&gt; He died  September 7th, 1747<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; actually according to the book, it&#39;s 1745, 9th month( lunar calender  ) , 7th <br/>\n&gt; day<br/>\n&gt;  <br/>\n&gt; milt<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;   <br/>\n<br/>\n </span></blockquote>-- <br/>\n*Richard Turner - Nihonto Message Board*<br/>\n/for the discussion of all things Nihonto./<br/>\nwww.nihontomessageboard.com &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 38990540,
+            "authorName": "MuramasaIII@aol.com",
+            "from": "MuramasaIII@...",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Re: [nihontostudy] Goto Mitsufusa or Mitsutsuna",
+            "postDate": "1138860646",
+            "msgId": 3776,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFkYy40ZGExYTQ2YS4zMTEyZmM2NkBhb2wuY29tPg=="
+            },
+            "prevInTopic": 3775,
+            "nextInTopic": 3777,
+            "prevInTime": 3775,
+            "nextInTime": 3777,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In a message dated 2/1/2006 7:40:55 P.M. Central Standard Time, ikkanshi@westnet.com.au writes: He died  September 7th, 1747 actually according to the book,",
+            "messageBody": "<div id=\"ygrps-yiv-1627369648\">In a message dated 2/1/2006 7:40:55 P.M. Central Standard Time,  <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a> writes:<br/>\n<br/>\nHe died  September 7th, 1747<br/>\n<br/>\n<br/>\nactually according to the book, it&#39;s 1745, 9th month( lunar calender  ) , 7th <br/>\nday<br/>\n <br/>\nmilt<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Goto Mitsufusa or Mitsutsuna",
+            "postDate": "1138844098",
+            "msgId": 3775,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzRTE2MUMyLjYwNTAyMDdAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PDAwYjEwMWM2Mjc5NyQ0N2FlYTI5MCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PDQzREMwNUJBLjgwMjAxMDRAd2VzdG5ldC5jb20uYXU+IDxkcmgyNmorM3MxOEBlR3JvdXBzLmNvbT4gPDQxNjJmYWMwMDYwMTI4MTcxNWo2MTIxZTg3ZWg5ZTg3NzAyYWIwNGRmMmNiQG1haWwuZ21haWwuY29tPiA8NDNERTkzOTkuNjA1MDIwMUB3ZXN0bmV0LmNvbS5hdT4gPDAwYjEwMWM2Mjc5NyQ0N2FlYTI5MCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4="
+            },
+            "prevInTopic": 3774,
+            "nextInTopic": 3776,
+            "prevInTime": 3774,
+            "nextInTime": 3776,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks for that Jim. That s excellent work. Much appreciated Rich Richard Turner Nihontô Message Board  - /for the",
+            "messageBody": "<div id=\"ygrps-yiv-1396443256\">Thanks for that Jim. That&#39;s excellent work. Much appreciated<br/>\n<br/>\nRich<br/>\n<br/>\nRichard Turner<br/>\nNihontô Message Board<br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb\">http://www.nihontomessageboard.com/nmb</a>&gt;<br/>\n- /for the discussion and sharing of all things Nihontô/<br/>\n<br/>\n <br/>\n<br/>\n<br/>\n<br/>\nJim Gilbert wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Richard,<br/>\n&gt;It&#39;s Mitsukore.  He was in the Shichirobei line.  Kyo Goto no Kenkyu lists him as the 6th generation and Haynes lists him as the 7th.  He was the son of Ryujo.  He died September 7th, 1747.  He also used the names Mitsusuke, Mitsunobu, Mitsutoshi and Joshin (different shin from the more famous Shirobei sandai).<br/>\n&gt;<br/>\n&gt;Your signature shows some differences from the one shown in Kyo Goto no Kenkyu (p. 62), but that&#39;s the only example I have for comparison.<br/>\n&gt;<br/>\n&gt;Jim<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n<br/>\n<br/>\n </span></blockquote>[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Goto Mitsufusa or Mitsutsuna",
+            "postDate": "1138843411",
+            "msgId": 3774,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYjEwMWM2Mjc5NyQ0N2FlYTI5MCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PDQzREMwNUJBLjgwMjAxMDRAd2VzdG5ldC5jb20uYXU+IDxkcmgyNmorM3MxOEBlR3JvdXBzLmNvbT4gPDQxNjJmYWMwMDYwMTI4MTcxNWo2MTIxZTg3ZWg5ZTg3NzAyYWIwNGRmMmNiQG1haWwuZ21haWwuY29tPiA8NDNERTkzOTkuNjA1MDIwMUB3ZXN0bmV0LmNvbS5hdT4="
+            },
+            "prevInTopic": 3772,
+            "nextInTopic": 3775,
+            "prevInTime": 3773,
+            "nextInTime": 3775,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Richard, It s Mitsukore.  He was in the Shichirobei line.  Kyo Goto no Kenkyu lists him as the 6th generation and Haynes lists him as the 7th.  He was the son",
+            "messageBody": "<div id=\"ygrps-yiv-1037435784\">Richard,<br/>\nIt&#39;s Mitsukore.  He was in the Shichirobei line.  Kyo Goto no Kenkyu lists him as the 6th generation and Haynes lists him as the 7th.  He was the son of Ryujo.  He died September 7th, 1747.  He also used the names Mitsusuke, Mitsunobu, Mitsutoshi and Joshin (different shin from the more famous Shirobei sandai).<br/>\n<br/>\nYour signature shows some differences from the one shown in Kyo Goto no Kenkyu (p. 62), but that&#39;s the only example I have for comparison.<br/>\n<br/>\nJim<br/>\n<br/>\n<br/>\n<br/>\n  All, does anyone have a listing for a Goto Mitsufusa or Mitsutsuna ?.<br/>\n<br/>\n  Cheers<br/>\n<br/>\n  Richard<br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/personal/goto-menuki-1.jpg\">http://www.nihontomessageboard.com/personal/goto-menuki-1.jpg</a><br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/personal/goto-menuki-2.jpg\">http://www.nihontomessageboard.com/personal/goto-menuki-2.jpg</a><br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/personal/goto-menuki-3.jpg\">http://www.nihontomessageboard.com/personal/goto-menuki-3.jpg</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Ume in hitsuana...",
+            "postDate": "1138841174",
+            "msgId": 3772,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwN2YwMWM2Mjc5MiQxNjFkZDQ4MCRhMWJkZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PGRyZDVlditrcmw3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3771,
+            "nextInTopic": 3774,
+            "prevInTime": 3771,
+            "nextInTime": 3773,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m not aware of any such change.  I suppose that as the samurai class got squeezed financially, mounts may have been simplified.  If anything the fancier",
+            "messageBody": "<div id=\"ygrps-yiv-1574389195\">I&#39;m not aware of any such change.  I suppose that as the samurai class got squeezed financially, mounts may have been simplified.  If anything the fancier koshirae in the Edo period were more likely to be fully outfitted with kozuka and kogai.<br/>\n<br/>\nSome of the filled ana that we see were added by collectors after the tsuba were no longer worn.  I don&#39;t know how many that accounts for.<br/>\n<br/>\nJim<br/>\n<br/>\n<br/>\n<br/>\n  Has anyone ever heard any theories on why you see so many tsuba with <br/>\n  ume in their hitsuana?  Was there possibly a change in style or <br/>\n  utilization into Edo which eliminated the need for the utensils?  <br/>\n  Thanks!<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Goto Mitsufusa or Mitsutsuna",
+            "postDate": "1138660249",
+            "msgId": 3771,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzREU5Mzk5LjYwNTAyMDFAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PDQxNjJmYWMwMDYwMTI4MTcxNWo2MTIxZTg3ZWg5ZTg3NzAyYWIwNGRmMmNiQG1haWwuZ21haWwuY29tPg==",
+                "referencesHeader": "PDQzREMwNUJBLjgwMjAxMDRAd2VzdG5ldC5jb20uYXU+IDxkcmgyNmorM3MxOEBlR3JvdXBzLmNvbT4gPDQxNjJmYWMwMDYwMTI4MTcxNWo2MTIxZTg3ZWg5ZTg3NzAyYWIwNGRmMmNiQG1haWwuZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 3767,
+            "nextInTopic": 3772,
+            "prevInTime": 3770,
+            "nextInTime": 3772,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, does anyone have a listing for a Goto Mitsufusa or Mitsutsuna ?. Cheers Richard http://www.nihontomessageboard.com/personal/goto-menuki-1.jpg ",
+            "messageBody": "<div id=\"ygrps-yiv-272749064\">All, does anyone have a listing for a Goto Mitsufusa or Mitsutsuna ?.<br/>\n<br/>\nCheers<br/>\n<br/>\nRichard<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/personal/goto-menuki-1.jpg\">http://www.nihontomessageboard.com/personal/goto-menuki-1.jpg</a><br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/personal/goto-menuki-2.jpg\">http://www.nihontomessageboard.com/personal/goto-menuki-2.jpg</a><br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/personal/goto-menuki-3.jpg\">http://www.nihontomessageboard.com/personal/goto-menuki-3.jpg</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Rich T \tvoice from the wilderness",
+            "postDate": "1138499884",
+            "msgId": 3767,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRyaDdmYyt2dWNmQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDQzREE5OTU2LjkwNjAxMDNAd2VzdG5ldC5jb20uYXU+"
+            },
+            "prevInTopic": 3766,
+            "nextInTopic": 3771,
+            "prevInTime": 3766,
+            "nextInTime": 3768,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "gang, I still think the left pic is the dominant side.........more detail on the left pic. Note the small branch at 4-6 O clock. Milt (  the lone voice from",
+            "messageBody": "<div id=\"ygrps-yiv-1694823487\">gang,<br/>\nI still think the left pic is the dominant side.........more detail on <br/>\nthe left pic. Note the small branch at 4-6 O&#39;clock. <br/>\n<br/>\n<br/>\n<br/>\nMilt (  the lone voice from the wilderness. )</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 253361180,
+            "authorName": "Sue Belzer",
+            "from": "Sue Belzer &lt;sueb262@...&gt;",
+            "profile": "sueb262",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Re: Rich T Whats makes the front and back",
+            "postDate": "1138497300",
+            "msgId": 3765,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxNjJmYWMwMDYwMTI4MTcxNWo2MTIxZTg3ZWg5ZTg3NzAyYWIwNGRmMmNiQG1haWwuZ21haWwuY29tPg==",
+                "inReplyToHeader": "PGRyaDI2aiszczE4QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PDQzREMwNUJBLjgwMjAxMDRAd2VzdG5ldC5jb20uYXU+IDxkcmgyNmorM3MxOEBlR3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 3764,
+            "nextInTopic": 3766,
+            "prevInTime": 3764,
+            "nextInTime": 3766,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "that s interesting--i thought it looked that way, but figured there must have been a more authoritative method, if you know what i mean!  thanks for the",
+            "messageBody": "<div id=\"ygrps-yiv-177448854\">that&#39;s interesting--i thought it looked that way, but figured there must<br/>\nhave been a more &quot;authoritative&quot; method, if you know what i mean!  thanks<br/>\nfor the explanation.<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On 1/28/06, klepet33319 &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Ppeterdds@...\">Ppeterdds@...</a>&gt; wrote:<br/>\n&gt;<br/>\n&gt; If you look closely to either side of the seppadai the small leaf and<br/>\n&gt; branch have fine detail that make them the front side of each<br/>\n&gt; accordingly.  Also, in general the spacing to the left of the seppa<br/>\n&gt; (kozuka) will be a bit larger than to the right (kogai) as would the<br/>\n&gt; size of the hitsuana for them.  These traits are all in the right<br/>\n&gt; side photo.<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, Richard Turner &lt;ikkanshi@w...&gt;<br/>\n&gt; wrote:<br/>\n&gt; &gt;<br/>\n&gt; &gt; As Alan has suggested, and I agree totally, it is more about the<br/>\n&gt; balance<br/>\n&gt; &gt; of the design, the way it naturally sits, and feels. I am of course<br/>\n&gt; &gt; talking about perception here. The natural balance of the guard<br/>\n&gt; just<br/>\n&gt; &gt; looks right on the right.<br/>\n&gt; &gt;<br/>\n&gt; &gt; And as Rich S has correctly pointed out,  there are small tagane<br/>\n&gt; mei are<br/>\n&gt; &gt; are on the right as well.<br/>\n&gt; &gt;<br/>\n&gt; &gt; Cheers<br/>\n&gt; &gt;<br/>\n&gt; &gt; Rich<br/>\n&gt; &gt;<br/>\n&gt; &gt;<br/>\n&gt; &gt; Sue Belzer wrote:<br/>\n&gt; &gt; &gt; now what i want to know is: how did you know that??<br/>\n&gt; &gt; &gt;<br/>\n&gt; &gt; &gt; On 1/28/06, Alan Bale &lt;abale@v...&gt; wrote:<br/>\n&gt; &gt; &gt;<br/>\n&gt; &gt; &gt;&gt; The right picture is the obverse.<br/>\n&gt; &gt; &gt;&gt;<br/>\n&gt; &gt;<br/>\n&gt; &gt; *Richard Turner - Nihonto Message Board*<br/>\n&gt; &gt; /for the discussion of all things Nihonto./<br/>\n&gt; &gt; www.nihontomessageboard.com<br/>\n&gt; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n&gt; &gt;<br/>\n&gt; &gt;<br/>\n&gt; &gt;<br/>\n&gt; &gt; [Non-text portions of this message have been removed]<br/>\n&gt; &gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n<br/>\n<br/>\n--<br/>\nNo protracted war can fail to endanger the freedom of a democratic country.<br/>\n-- Alexis de Toqueville<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 253361180,
+            "authorName": "Sue Belzer",
+            "from": "Sue Belzer &lt;sueb262@...&gt;",
+            "profile": "sueb262",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Rich T Whats makes the front and back",
+            "postDate": "1138497283",
+            "msgId": 3766,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxNjJmYWMwMDYwMTI4MTcxNG40MTU4NWZmZm5lYjE4MWE1YzZkNWUwMzViQG1haWwuZ21haWwuY29tPg==",
+                "inReplyToHeader": "PDQzREMwNUJBLjgwMjAxMDRAd2VzdG5ldC5jb20uYXU+",
+                "referencesHeader": "PGRyZDVlditrcmw3QGVHcm91cHMuY29tPiA8NDNEQTk5NTYuOTA2MDEwM0B3ZXN0bmV0LmNvbS5hdT4JIDxhbGFuYmFsZSQyMTMuNzguMTI3LjI0MCQuMDA3YjAxYzYyM2VmJDM5N2Q1OWIwJGYwN2Y0ZWQ1QGNvbXB1dGVyPgkgPDQxNjJmYWMwMDYwMTI4MDkxOXczMzFkYmJkMGo2NmEwNmQ4ZTlhMDhkN2JAbWFpbC5nbWFpbC5jb20+CSA8NDNEQzA1QkEuODAyMDEwNEB3ZXN0bmV0LmNvbS5hdT4="
+            },
+            "prevInTopic": 3765,
+            "nextInTopic": 3767,
+            "prevInTime": 3765,
+            "nextInTime": 3767,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "that s interesting--i thought it looked that way, but figured there must have been a more authoritative method, if you know what i mean!  thanks for the",
+            "messageBody": "<div id=\"ygrps-yiv-1770339027\">that&#39;s interesting--i thought it looked that way, but figured there must<br/>\nhave been a more &quot;authoritative&quot; method, if you know what i mean!  thanks<br/>\nfor the explanation.<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On 1/28/06, Richard Turner &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a>&gt; wrote:<br/>\n&gt;<br/>\n&gt; As Alan has suggested, and I agree totally, it is more about the balance<br/>\n&gt; of the design, the way it naturally sits, and feels. I am of course<br/>\n&gt; talking about perception here. The natural balance of the guard just<br/>\n&gt; looks right on the right.<br/>\n&gt;<br/>\n&gt; And as Rich S has correctly pointed out,  there are small tagane mei are<br/>\n&gt; are on the right as well.<br/>\n&gt;<br/>\n&gt; Cheers<br/>\n&gt;<br/>\n&gt; Rich<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Sue Belzer wrote:<br/>\n&gt; &gt; now what i want to know is: how did you know that??<br/>\n&gt; &gt;<br/>\n&gt; &gt; On 1/28/06, Alan Bale &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:abale@...\">abale@...</a>&gt; wrote:<br/>\n&gt; &gt;<br/>\n&gt; &gt;&gt; The right picture is the obverse.<br/>\n&gt; &gt;&gt;<br/>\n&gt;<br/>\n&gt; *Richard Turner - Nihonto Message Board*<br/>\n&gt; /for the discussion of all things Nihonto./<br/>\n&gt; www.nihontomessageboard.com &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n<br/>\n<br/>\n--<br/>\nNo protracted war can fail to endanger the freedom of a democratic country.<br/>\n-- Alexis de Toqueville<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Rich T Whats makes the front and back",
+            "postDate": "1138494483",
+            "msgId": 3764,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRyaDI2aiszczE4QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDQzREMwNUJBLjgwMjAxMDRAd2VzdG5ldC5jb20uYXU+"
+            },
+            "prevInTopic": 3763,
+            "nextInTopic": 3765,
+            "prevInTime": 3763,
+            "nextInTime": 3765,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "If you look closely to either side of the seppadai the small leaf and branch have fine detail that make them the front side of each accordingly.  Also, in",
+            "messageBody": "<div id=\"ygrps-yiv-836482119\">If you look closely to either side of the seppadai the small leaf and <br/>\nbranch have fine detail that make them the front side of each <br/>\naccordingly.  Also, in general the spacing to the left of the seppa <br/>\n(kozuka) will be a bit larger than to the right (kogai) as would the <br/>\nsize of the hitsuana for them.  These traits are all in the right <br/>\nside photo.  <br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, Richard Turner &lt;ikkanshi@w...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; As Alan has suggested, and I agree totally, it is more about the <br/>\n </span></blockquote>balance <br/>\n<blockquote><span title=\"ireply\"> &gt; of the design, the way it naturally sits, and feels. I am of course <br/>\n&gt; talking about perception here. The natural balance of the guard <br/>\n </span></blockquote>just <br/>\n<blockquote><span title=\"ireply\"> &gt; looks right on the right.<br/>\n&gt; <br/>\n&gt; And as Rich S has correctly pointed out,  there are small tagane <br/>\n </span></blockquote>mei are <br/>\n<blockquote><span title=\"ireply\"> &gt; are on the right as well.<br/>\n&gt; <br/>\n&gt; Cheers<br/>\n&gt; <br/>\n&gt; Rich<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; Sue Belzer wrote:<br/>\n&gt; &gt; now what i want to know is: how did you know that??<br/>\n&gt; &gt;<br/>\n&gt; &gt; On 1/28/06, Alan Bale &lt;abale@v...&gt; wrote:<br/>\n&gt; &gt;   <br/>\n&gt; &gt;&gt; The right picture is the obverse.<br/>\n&gt; &gt;&gt;     <br/>\n&gt; <br/>\n&gt; *Richard Turner - Nihonto Message Board*<br/>\n&gt; /for the discussion of all things Nihonto./<br/>\n&gt; www.nihontomessageboard.com <br/>\n </span></blockquote>&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n<blockquote><span title=\"qreply\"> &gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Rich T Whats makes the front and back",
+            "postDate": "1138492858",
+            "msgId": 3763,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzREMwNUJBLjgwMjAxMDRAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PDQxNjJmYWMwMDYwMTI4MDkxOXczMzFkYmJkMGo2NmEwNmQ4ZTlhMDhkN2JAbWFpbC5nbWFpbC5jb20+",
+                "referencesHeader": "PGRyZDVlditrcmw3QGVHcm91cHMuY29tPiA8NDNEQTk5NTYuOTA2MDEwM0B3ZXN0bmV0LmNvbS5hdT4JIDxhbGFuYmFsZSQyMTMuNzguMTI3LjI0MCQuMDA3YjAxYzYyM2VmJDM5N2Q1OWIwJGYwN2Y0ZWQ1QGNvbXB1dGVyPiA8NDE2MmZhYzAwNjAxMjgwOTE5dzMzMWRiYmQwajY2YTA2ZDhlOWEwOGQ3YkBtYWlsLmdtYWlsLmNvbT4="
+            },
+            "prevInTopic": 3761,
+            "nextInTopic": 3764,
+            "prevInTime": 3762,
+            "nextInTime": 3764,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "As Alan has suggested, and I agree totally, it is more about the balance of the design, the way it naturally sits, and feels. I am of course talking about",
+            "messageBody": "<div id=\"ygrps-yiv-30352600\">As Alan has suggested, and I agree totally, it is more about the balance <br/>\nof the design, the way it naturally sits, and feels. I am of course <br/>\ntalking about perception here. The natural balance of the guard just <br/>\nlooks right on the right.<br/>\n<br/>\nAnd as Rich S has correctly pointed out,  there are small tagane mei are <br/>\nare on the right as well.<br/>\n<br/>\nCheers<br/>\n<br/>\nRich<br/>\n<br/>\n<br/>\nSue Belzer wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; now what i want to know is: how did you know that??<br/>\n&gt;<br/>\n&gt; On 1/28/06, Alan Bale &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:abale@...\">abale@...</a>&gt; wrote:<br/>\n&gt;   <br/>\n&gt;&gt; The right picture is the obverse.<br/>\n&gt;&gt;     <br/>\n<br/>\n </span></blockquote>*Richard Turner - Nihonto Message Board*<br/>\n/for the discussion of all things Nihonto./<br/>\nwww.nihontomessageboard.com &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 253361180,
+            "authorName": "Sue Belzer",
+            "from": "Sue Belzer &lt;sueb262@...&gt;",
+            "profile": "sueb262",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Rich T Whats makes the front and back",
+            "postDate": "1138468764",
+            "msgId": 3761,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxNjJmYWMwMDYwMTI4MDkxOXczMzFkYmJkMGo2NmEwNmQ4ZTlhMDhkN2JAbWFpbC5nbWFpbC5jb20+",
+                "inReplyToHeader": "PGFsYW5iYWxlJDIxMy43OC4xMjcuMjQwJC4wMDdiMDFjNjIzZWYkMzk3ZDU5YjAkZjA3ZjRlZDVAY29tcHV0ZXI+",
+                "referencesHeader": "PGRyZDVlditrcmw3QGVHcm91cHMuY29tPiA8NDNEQTk5NTYuOTA2MDEwM0B3ZXN0bmV0LmNvbS5hdT4JIDxhbGFuYmFsZSQyMTMuNzguMTI3LjI0MCQuMDA3YjAxYzYyM2VmJDM5N2Q1OWIwJGYwN2Y0ZWQ1QGNvbXB1dGVyPg=="
+            },
+            "prevInTopic": 3760,
+            "nextInTopic": 3763,
+            "prevInTime": 3760,
+            "nextInTime": 3762,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "now what i want to know is: how did you know that?? ... -- No protracted war can fail to endanger the freedom of a democratic country. -- Alexis de Toqueville ",
+            "messageBody": "<div id=\"ygrps-yiv-640597795\">now what i want to know is: how did you know that??<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On 1/28/06, Alan Bale &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:abale@...\">abale@...</a>&gt; wrote:<br/>\n&gt;<br/>\n&gt; The right picture is the obverse.<br/>\n&gt; Alan<br/>\n&gt; ----- Original Message -----<br/>\n&gt; From: &quot;Richard Turner&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a>&gt;<br/>\n&gt; To: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>&gt;<br/>\n&gt; Sent: Friday, January 27, 2006 10:06 PM<br/>\n&gt; Subject: [nihontostudy] Rich T Whats makes the front and back<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; &gt; All, looking at this tsuba, I was wondering about the front and back of<br/>\n&gt; &gt; it. There is no tell tale sign of design, it is for the most part even<br/>\n&gt; &gt; on both sides. There is no soft metal so the picture is not dominated on<br/>\n&gt; &gt; either side. There are no large Tagane on either side so it is hard to<br/>\n&gt; &gt; tell which side was mounted as face out.<br/>\n&gt; &gt;<br/>\n&gt; &gt; Any clues in the design ?, as to which side is which ?.<br/>\n&gt; &gt;<br/>\n&gt; &gt; I think it is the image on the right, by the<br/>\n&gt; &gt; balance of the images design.<br/>\n&gt; &gt;<br/>\n&gt; &gt; Rich<br/>\n&gt; &gt;<br/>\n&gt; &gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/tsuba_collection/shoami-bamboo.jpg\">http://www.nihontomessageboard.com/tsuba_collection/shoami-bamboo.jpg</a><br/>\n&gt; &gt;<br/>\n&gt; &gt;<br/>\n&gt; &gt;<br/>\n&gt; &gt; Yahoo! Groups Links<br/>\n&gt; &gt;<br/>\n&gt; &gt;<br/>\n&gt; &gt;<br/>\n&gt; &gt;<br/>\n&gt; &gt;<br/>\n&gt; &gt;<br/>\n&gt; &gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n<br/>\n<br/>\n--<br/>\nNo protracted war can fail to endanger the freedom of a democratic country.<br/>\n-- Alexis de Toqueville<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "alangbale",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Re: Rich T \tWhats makes the front and back",
+            "postDate": "1138459648",
+            "msgId": 3760,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFsYW5iYWxlJDIxMy43OC4xMjQuMjMxJC4wMGMzMDFjNjI0MTkkYzMzMTUzZDAkZjA3ZjRlZDVAY29tcHV0ZXI+",
+                "referencesHeader": "PGRyZmlsNCtibDQxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3758,
+            "nextInTopic": 3761,
+            "prevInTime": 3759,
+            "nextInTime": 3761,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "It is not only the tagane, the design looks wrong when reversed. Alan ... From: alchemyst  To:  Sent:",
+            "messageBody": "<div id=\"ygrps-yiv-1336070894\">It is not only the tagane, the design looks wrong when reversed.<br/>\nAlan<br/>\n<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message ----- <br/>\nFrom: &quot;alchemyst&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:alchemyst@...\">alchemyst@...</a>&gt;<br/>\nTo: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>&gt;<br/>\nSent: Saturday, January 28, 2006 10:56 AM<br/>\nSubject: [nihontostudy] Re: Rich T Whats makes the front and back<br/>\n<br/>\n<br/>\n&gt; Yes, right pic is front. The tagane mei are the<br/>\n&gt; give away IMHO.<br/>\n&gt; <br/>\n&gt; Rich S<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt;  <br/>\n&gt; Yahoo! Groups Links<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt;  <br/>\n&gt; <br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 77400184,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Re: Rich T \tWhats makes the front and back",
+            "postDate": "1138445796",
+            "msgId": 3758,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRyZmlsNCtibDQxQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDQzREIzREI5LjIwNDA5MDdAd2VzdG5ldC5jb20uYXU+"
+            },
+            "prevInTopic": 3757,
+            "nextInTopic": 3760,
+            "prevInTime": 3757,
+            "nextInTime": 3759,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yes, right pic is front. The tagane mei are the give away IMHO. Rich S",
+            "messageBody": "<div id=\"ygrps-yiv-1334728612\">Yes, right pic is front. The tagane mei are the<br/>\ngive away IMHO.<br/>\n<br/>\nRich S</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Rich T \tWhats makes the front and back",
+            "postDate": "1138441657",
+            "msgId": 3757,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzREIzREI5LjIwNDA5MDdAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PGFsYW5iYWxlJDIxMy43OC4xMjcuMjQwJC4wMDdiMDFjNjIzZWYkMzk3ZDU5YjAkZjA3ZjRlZDVAY29tcHV0ZXI+",
+                "referencesHeader": "PGRyZDVlditrcmw3QGVHcm91cHMuY29tPiA8NDNEQTk5NTYuOTA2MDEwM0B3ZXN0bmV0LmNvbS5hdT4gPGFsYW5iYWxlJDIxMy43OC4xMjcuMjQwJC4wMDdiMDFjNjIzZWYkMzk3ZDU5YjAkZjA3ZjRlZDVAY29tcHV0ZXI+"
+            },
+            "prevInTopic": 3756,
+            "nextInTopic": 3758,
+            "prevInTime": 3756,
+            "nextInTime": 3758,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks Alan, that s what I thought too. Rich ... -- *Richard Turner - Nihonto Message Board* /for the discussion of all things Nihonto./ ",
+            "messageBody": "<div id=\"ygrps-yiv-201879788\">Thanks Alan, that&#39;s what I thought too.<br/>\n<br/>\nRich<br/>\n<br/>\nAlan Bale wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; The right picture is the obverse.<br/>\n&gt; Alan<br/>\n&gt; ----- Original Message ----- <br/>\n&gt; From: &quot;Richard Turner&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a>&gt;<br/>\n&gt; To: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>&gt;<br/>\n&gt; Sent: Friday, January 27, 2006 10:06 PM<br/>\n&gt; Subject: [nihontostudy] Rich T Whats makes the front and back<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;   <br/>\n&gt;&gt; All, looking at this tsuba, I was wondering about the front and back of <br/>\n&gt;&gt; it. There is no tell tale sign of design, it is for the most part even <br/>\n&gt;&gt; on both sides. There is no soft metal so the picture is not dominated on <br/>\n&gt;&gt; either side. There are no large Tagane on either side so it is hard to <br/>\n&gt;&gt; tell which side was mounted as face out.<br/>\n&gt;&gt;<br/>\n&gt;&gt; Any clues in the design ?, as to which side is which ?.<br/>\n&gt;&gt;<br/>\n&gt;&gt; I think it is the image on the right, by the<br/>\n&gt;&gt; balance of the images design.<br/>\n&gt;&gt;<br/>\n&gt;&gt; Rich<br/>\n&gt;&gt;<br/>\n&gt;&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/tsuba_collection/shoami-bamboo.jpg\">http://www.nihontomessageboard.com/tsuba_collection/shoami-bamboo.jpg</a><br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;  <br/>\n&gt;&gt; Yahoo! Groups Links<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;  <br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt;     <br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;   <br/>\n<br/>\n </span></blockquote>-- <br/>\n*Richard Turner - Nihonto Message Board*<br/>\n/for the discussion of all things Nihonto./<br/>\nwww.nihontomessageboard.com &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/nmb/\">http://www.nihontomessageboard.com/nmb/</a>&gt;<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "alangbale",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Rich T \tWhats makes the front and back",
+            "postDate": "1138441378",
+            "msgId": 3756,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFsYW5iYWxlJDIxMy43OC4xMjcuMjQwJC4wMDdiMDFjNjIzZWYkMzk3ZDU5YjAkZjA3ZjRlZDVAY29tcHV0ZXI+",
+                "referencesHeader": "PGRyZDVlditrcmw3QGVHcm91cHMuY29tPiA8NDNEQTk5NTYuOTA2MDEwM0B3ZXN0bmV0LmNvbS5hdT4="
+            },
+            "prevInTopic": 3754,
+            "nextInTopic": 3757,
+            "prevInTime": 3755,
+            "nextInTime": 3757,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The right picture is the obverse. Alan ... From: Richard Turner  To:  Sent: Friday, January 27, 2006",
+            "messageBody": "<div id=\"ygrps-yiv-811487164\">The right picture is the obverse.<br/>\nAlan<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message ----- <br/>\nFrom: &quot;Richard Turner&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a>&gt;<br/>\nTo: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>&gt;<br/>\nSent: Friday, January 27, 2006 10:06 PM<br/>\nSubject: [nihontostudy] Rich T Whats makes the front and back<br/>\n<br/>\n<br/>\n&gt; All, looking at this tsuba, I was wondering about the front and back of <br/>\n&gt; it. There is no tell tale sign of design, it is for the most part even <br/>\n&gt; on both sides. There is no soft metal so the picture is not dominated on <br/>\n&gt; either side. There are no large Tagane on either side so it is hard to <br/>\n&gt; tell which side was mounted as face out.<br/>\n&gt; <br/>\n&gt; Any clues in the design ?, as to which side is which ?.<br/>\n&gt; <br/>\n&gt; I think it is the image on the right, by the<br/>\n&gt; balance of the images design.<br/>\n&gt; <br/>\n&gt; Rich<br/>\n&gt; <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/tsuba_collection/shoami-bamboo.jpg\">http://www.nihontomessageboard.com/tsuba_collection/shoami-bamboo.jpg</a><br/>\n&gt; <br/>\n&gt; <br/>\n&gt;  <br/>\n&gt; Yahoo! Groups Links<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt;  <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Rich T \tWhats makes the front and back",
+            "postDate": "1138399574",
+            "msgId": 3754,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzREE5OTU2LjkwNjAxMDNAd2VzdG5ldC5jb20uYXU+",
+                "inReplyToHeader": "PGRyZDVlditrcmw3QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGRyZDVlditrcmw3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3752,
+            "nextInTopic": 3756,
+            "prevInTime": 3753,
+            "nextInTime": 3755,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, looking at this tsuba, I was wondering about the front and back of it. There is no tell tale sign of design, it is for the most part even on both sides.",
+            "messageBody": "<div id=\"ygrps-yiv-27138998\">All, looking at this tsuba, I was wondering about the front and back of <br/>\nit. There is no tell tale sign of design, it is for the most part even <br/>\non both sides. There is no soft metal so the picture is not dominated on <br/>\neither side. There are no large Tagane on either side so it is hard to <br/>\ntell which side was mounted as face out.<br/>\n<br/>\nAny clues in the design ?, as to which side is which ?.<br/>\n<br/>\nI think it is the image on the right, by the<br/>\nbalance of the images design.<br/>\n<br/>\nRich<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontomessageboard.com/tsuba_collection/shoami-bamboo.jpg\">http://www.nihontomessageboard.com/tsuba_collection/shoami-bamboo.jpg</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Ume in hitsuana...",
+            "postDate": "1138366751",
+            "msgId": 3752,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRyZDVlditrcmw3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3754,
+            "prevInTime": 3751,
+            "nextInTime": 3753,
+            "topicId": 3752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Has anyone ever heard any theories on why you see so many tsuba with ume in their hitsuana?  Was there possibly a change in style or utilization into Edo which",
+            "messageBody": "<div id=\"ygrps-yiv-587713944\">Has anyone ever heard any theories on why you see so many tsuba with <br/>\nume in their hitsuana?  Was there possibly a change in style or <br/>\nutilization into Edo which eliminated the need for the utensils?  <br/>\nThanks!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3755,
+    "nextTopicId": 3388
+}

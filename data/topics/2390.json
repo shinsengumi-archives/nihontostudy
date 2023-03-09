@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 63514443,
+            "authorName": "lshobie",
+            "from": "&quot;lshobie&quot; &lt;lshobie@...&gt;",
+            "profile": "lshobie",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Help with smith",
+            "postDate": "1100228936",
+            "msgId": 2390,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNuMTlnOCsyMWhqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2389,
+            "nextInTime": 2391,
+            "topicId": 2390,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello there, Does  anyone have any info on a shinshinto smith who signed Fujiwara Hisayuki tsukuru kore Any help would be appreciated. Regards, Louis",
+            "messageBody": "<div id=\"ygrps-yiv-1237885402\">Hello there,<br/>\n<br/>\nDoes  anyone have any info on a shinshinto smith who <br/>\nsigned &quot;Fujiwara Hisayuki tsukuru kore&quot;<br/>\n<br/>\nAny help would be appreciated.<br/>\n<br/>\nRegards,<br/>\n<br/>\nLouis</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2382,
+    "nextTopicId": 2392
+}

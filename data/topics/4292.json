@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "East coast trip...",
+            "postDate": "1149704626",
+            "msgId": 4292,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMzkwMWM2OGE1ZiQ4NjQ0NTgzMCQ2MThlMGI0N0Byb24+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4291,
+            "nextInTime": 4293,
+            "topicId": 4292,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all - Heading to Philly area...anyone out there looking to spend some money on a nice sword? (Yes, paying down fresh sword debts again...never ending!)",
+            "messageBody": "<div id=\"ygrps-yiv-1558154283\">Hi all -<br/>\n<br/>\nHeading to Philly area...anyone out there looking to spend some money on a nice sword? (Yes, paying down fresh sword debts again...never ending!) Always fun to get together with local collectors when in their area. Will be south of Philly (Marcus Hook) for a visit for awhile. You can always find me by cell phone: (314) 800-4848. I&#39;m not so sure I&#39;ll bring anything with me -- show-and-tell -- but who knows. Car is stuffed but...<br/>\n<br/>\nRon<br/>\nSTL<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4283,
+    "nextTopicId": 4297
+}

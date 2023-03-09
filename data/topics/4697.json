@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 278314026,
+            "authorName": "Elliott",
+            "from": "&quot;Elliott&quot; &lt;elliott@...&gt;",
+            "profile": "elliottshogun",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Rob S photo album",
+            "postDate": "1165379862",
+            "msgId": 4697,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVsNWhlbStnM3E5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4696,
+            "nextInTime": 4698,
+            "topicId": 4697,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was viewing the photo albums and their respective pictures when a particular set of pictures got my attention.... The album belongs to Rob S. and is titled",
+            "messageBody": "<div id=\"ygrps-yiv-1713609418\">I was viewing the photo albums and their respective pictures when a <br/>\nparticular set of pictures got my attention.... The album belongs to <br/>\nRob S. and is titled &#39;arrow7us&#39;. The pictures of the tsuba that I want <br/>\nto know about are Tsuba-2, Tsuba-2---1, and back 2. Rob, tell me all <br/>\nabout this piece.<br/>\n<br/>\nThanks,<br/>\nElliott</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4694,
+    "nextTopicId": 4711
+}

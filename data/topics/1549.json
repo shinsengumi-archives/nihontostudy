@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 77400184,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Listserv suggestion",
+            "postDate": "1074580097",
+            "msgId": 1549,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJ1aWhxMSttam1rQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1548,
+            "nextInTime": 1550,
+            "topicId": 1549,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A suggestion to speed up downloading of listserv posts: Take include original message in reply OFF your email system. Some of these posts are getting pages",
+            "messageBody": "<div id=\"ygrps-yiv-573249957\">A suggestion to speed up downloading of listserv posts:<br/>\n<br/>\nTake &quot;include original message in reply&quot; OFF your email system.<br/>\n<br/>\nSome of these posts are getting pages long with replies to replies<br/>\nto replies to replies .... (well you get the idea). As long<br/>\nas the topic is still relevant to the post, I think most of<br/>\nus have memories long enough to recall the gist of the<br/>\noriginal post and/or thread. Or at least just cut and paste<br/>\nthe pertinent passages instead of the entire original message.<br/>\n<br/>\nJust a thought.<br/>\n<br/>\nRich S</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1494,
+    "nextTopicId": 1564
+}

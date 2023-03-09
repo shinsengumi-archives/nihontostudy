@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 77400184,
+            "authorName": "alchemyst",
+            "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+            "profile": "alchemyst",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "updating sword clubs",
+            "postDate": "1090404495",
+            "msgId": 2002,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNkbGZhZithYW9pQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2001,
+            "nextInTime": 2003,
+            "topicId": 2002,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Updating my clubs page. Which of these clubs is no longer in existence? Please email me off list at: alchemyst@yahoo.com  (alchemyst-at-yahoo.com) Thanks Rich",
+            "messageBody": "<div id=\"ygrps-yiv-830907747\">Updating my clubs page. Which of these clubs<br/>\nis no longer in existence? Please email me off<br/>\nlist at:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:alchemyst@...\">alchemyst@...</a>  (alchemyst-at-yahoo.com)<br/>\n<br/>\nThanks<br/>\nRich S<br/>\n<br/>\nLos Angeles Sword Society<br/>\n     Aikido Center of Los Angeles<br/>\n     940 E. 2nd St. #7<br/>\n     Los Angeles, CA 90012 <br/>\n<br/>\nSacramento Japanese Sword Club<br/>\n     Sacramento Japanese Sword Club Membership<br/>\n     7680 Howerton Dr<br/>\n     Sacramento, CA 95831 <br/>\n<br/>\nColorada Token Kai<br/>\n <br/>\nHouston Token Kai<br/>\n    <br/>\nNew Mexico Token Kai<br/>\n      P.O.Box 1232 <br/>\n     Edgewood, NM 87015 <br/>\n<br/>\nPhiladelphia Area Token Kai<br/>\n     <br/>\n<br/>\nTexas Token Kai<br/>\n     5501 N. Lamar Blvd. Suite A-113<br/>\n     Austin, TX 78751<br/>\n     <br/>\n<br/>\nThree Rivers Token Kai<br/>\n     P.O.Box 13144<br/>\n     Pittsburgh, PA 15243</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1990,
+    "nextTopicId": 1989
+}

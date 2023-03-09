@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 271477297,
+            "authorName": "Andres Pedraza",
+            "from": "Andres Pedraza &lt;apedraza93@...&gt;",
+            "profile": "apedraza_93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Info on Katana book",
+            "postDate": "1194288909",
+            "msgId": 5203,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ3MmY2NzFjLjE3MDQ0ZTBhLjc0MWIuNTcyYkBteC5nb29nbGUuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5202,
+            "nextInTime": 5204,
+            "topicId": 5203,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey, all, I received a blurb from Amazon about an upcoming book. Here s the link: http://tinyurl.com/37rsy7 They don t seem to have a whole lot of info on what",
+            "messageBody": "<div id=\"ygrps-yiv-483042743\">Hey, all,<br/>\n<br/>\nI received a blurb from Amazon about an upcoming book. Here&#39;s the link:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/37rsy7\">http://tinyurl.com/37rsy7</a><br/>\n<br/>\nThey don&#39;t seem to have a whole lot of info on what the contents are, <br/>\nthough. It&#39;s set to be published in 10 days, but other than a picture <br/>\nof the cover, I don&#39;t have a whole lot to judge if it&#39;s worth getting or not.<br/>\n<br/>\nThanks in advance!<br/>\n<br/>\nBest,<br/>\n<br/>\nAndres</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5200,
+    "nextTopicId": 5197
+}

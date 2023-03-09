@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 63514443,
+            "authorName": "lshobie",
+            "from": "&quot;lshobie&quot; &lt;lshobie@...&gt;",
+            "profile": "lshobie",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "WW2 Japanese Diplomats sword",
+            "postDate": "1113769011",
+            "msgId": 2809,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQzdWc3aitxY2ZhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2808,
+            "nextInTime": 2810,
+            "topicId": 2809,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello All, I have an opportunity to buy a mint WW2 Japanese Diplomats sword with Kiri mon, and ivy type engraving on the blade with a kiri mon as well. It is",
+            "messageBody": "<div id=\"ygrps-yiv-610276734\">Hello All, <br/>\n<br/>\nI have an opportunity to buy a mint WW2 Japanese Diplomats sword with <br/>\nKiri mon, and ivy type engraving on the blade with a kiri mon as well.<br/>\n<br/>\nIt is actually the same type of blade as listed in Fuller and <br/>\nGregory&#39;s book.<br/>\n<br/>\nAnyone have an idea of its worth?<br/>\n<br/>\nThanks for your help.<br/>\n<br/>\nLouis Skebo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2802,
+    "nextTopicId": 2819
+}

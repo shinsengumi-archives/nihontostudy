@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 136909275,
+            "authorName": "Curran Campbell",
+            "from": "Curran Campbell &lt;neobliviscar@...&gt;",
+            "profile": "neobliviscar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Help on translating tsuba papers",
+            "postDate": "1131297853",
+            "msgId": 3445,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUxMTA2MTcyNDEzLjgwODY5LnFtYWlsQHdlYjUwNDA1Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3444,
+            "nextInTime": 3446,
+            "topicId": 3445,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m trying to translate the NBTHK on an early Edo period tsuba. The tsuba is of small size and shape, and I guess relatively late for its school, but I m ",
+            "messageBody": "<div id=\"ygrps-yiv-1131907477\">I&#39;m trying to translate the NBTHK on an early Edo<br/>\nperiod tsuba. The tsuba is of small size and shape,<br/>\nand I guess relatively late for its school, but I&#39;m<br/>\nhaving a heck of a time translating 1 line of the<br/>\npapers.<br/>\n<br/>\nAnyone good with tsuba papers willing to volunteer to<br/>\nhelp? I&#39;ve a photo of them to send over.<br/>\n<br/>\nThanks,<br/>\n<br/>\nCurran<br/>\n<br/>\n<br/>\n<br/>\n\t<br/>\n\t\t<br/>\n__________________________________ <br/>\nYahoo! Mail - PC Magazine Editors&#39; Choice 2005 <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mail.yahoo.com\">http://mail.yahoo.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3444,
+    "nextTopicId": 3443
+}

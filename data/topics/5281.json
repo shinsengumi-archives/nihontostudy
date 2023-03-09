@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 76997891,
+            "authorName": "sigp210",
+            "from": "&quot;sigp210&quot; &lt;sigp210@...&gt;",
+            "profile": "sigp210",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Florida show just ended",
+            "postDate": "1202837550",
+            "msgId": 5282,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZvc2w3ZStucWIxQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGZvcXJnMCt0dmozQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5281,
+            "nextInTopic": 0,
+            "prevInTime": 5281,
+            "nextInTime": 5283,
+            "topicId": 5281,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Nice report from Ed here: http://www.militaria.co.za/nmb/viewtopic.php?f=6&t=2635 also linking to the one with pics on his site here: ",
+            "messageBody": "<div id=\"ygrps-yiv-782180596\">Nice report from Ed here:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.militaria.co.za/nmb/viewtopic.php?f=6&t=2635\">http://www.militaria.co.za/nmb/viewtopic.php?f=6&t=2635</a> also linking<br/>\nto the one with pics on his site here:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://yakiba.com/florida_tokenkai_08.htm\">http://yakiba.com/florida_tokenkai_08.htm</a><br/>\nSounds likeit was a good one.<br/>\n<br/>\nBrian<br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihontostudy@yahoogroups.com\">nihontostudy@yahoogroups.com</a>, &quot;bungotakadasword&quot;<br/>\n&lt;MuramasaIII@...&gt; wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt;<br/>\n&gt; Florida show report , where is it ? The people living at areas with  23 <br/>\n&gt; below windchill want to know.<br/>\n&gt; <br/>\n&gt; MIlt<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Florida show just ended",
+            "postDate": "1202778432",
+            "msgId": 5281,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZvcXJnMCt0dmozQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5282,
+            "prevInTime": 5280,
+            "nextInTime": 5282,
+            "topicId": 5281,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Florida show report , where is it ? The people living at areas with  23 below windchill want to know. MIlt",
+            "messageBody": "<div id=\"ygrps-yiv-2032503763\">Florida show report , where is it ? The people living at areas with  23 <br/>\nbelow windchill want to know.<br/>\n<br/>\nMIlt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5277,
+    "nextTopicId": 5283
+}

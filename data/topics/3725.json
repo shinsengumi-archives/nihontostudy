@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 232319213,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "tobiyaki",
+            "postDate": "1137311543",
+            "msgId": 3725,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDcwMWM2MTlhOCQ5ZjY4OTgzMCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3724,
+            "nextInTime": 3726,
+            "topicId": 3725,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Benjamin Smith Lyman, writing in 1892, says: If the loam covering while moving the blade back and forth during the heating, becomes thinner in some spots or",
+            "messageBody": "<div id=\"ygrps-yiv-1133317846\">Benjamin Smith Lyman, writing in 1892, says:<br/>\n<br/>\n&quot;If the loam covering while moving the blade back and forth during the<br/>\nheating, becomes thinner in some spots or loose, so that the heat of the<br/>\nfire, and subsequently the chilling of the bath work more strongly, there<br/>\narise in the surface of the blade isolated cloudy spots called tobi-yaki or<br/>\nyu-hashiri (sic). They cannot be produced on purpose, are rare, and are seen<br/>\nwith satisfaction.&quot;<br/>\n<br/>\nMy impression is that Lyman is mistaken, and that this feature can be<br/>\nproduced deliberately.  Is that correct?<br/>\n<br/>\nAnd are tobiyaki really regarded as especially rare and an unusual sign of<br/>\nquality?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3717,
+    "nextTopicId": 3718
+}

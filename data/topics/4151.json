@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "maiorian",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "NEW BOOK TITLES",
+            "postDate": "1145212433",
+            "msgId": 4151,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFsYW5iYWxlJDIxMy43OC4xMTcuMTg3JC4wMDgxMDFjNjYxODQkNTE0Y2U4ZDAkYmI3NTRlZDVAY29tcHV0ZXI+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4150,
+            "nextInTime": 4152,
+            "topicId": 4151,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have a new list of recent titles for sale including the new book by Fukushi on fittings, email me if you want a copy Alan Bale [Non-text portions of this",
+            "messageBody": "<div id=\"ygrps-yiv-1199141164\">I have a new list of recent titles for sale including the new book by Fukushi on fittings, email me if you want a copy<br/>\n<br/>\nAlan Bale<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4147,
+    "nextTopicId": 4161
+}

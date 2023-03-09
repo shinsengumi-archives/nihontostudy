@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 5049222,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "kizu",
+            "postDate": "1069028907",
+            "msgId": 1094,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxMjEwMWMzYWNhMSRiODhhNGY1MCQyMTAxMTBhY0BUSElOS1BBRD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1093,
+            "nextInTime": 1095,
+            "topicId": 1094,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "What type of flaw is called a sumikogori?  Could it be the cloudy marks found indicating retempering?",
+            "messageBody": "<div id=\"ygrps-yiv-1915135776\">What type of flaw is called a sumikogori?  Could it be the cloudy marks<br/>\nfound indicating retempering?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1070,
+    "nextTopicId": 1090
+}

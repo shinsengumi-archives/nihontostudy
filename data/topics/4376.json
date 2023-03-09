@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 66909074,
+            "authorName": "Gordon Robson",
+            "from": "Gordon Robson &lt;robsongo@...&gt;",
+            "profile": "robsongord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] SF Show",
+            "postDate": "1155188187",
+            "msgId": 4377,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEFBMjFFMjgxLURCMEYtNEM4NC04M0ZFLThEQjhFREU1QTdFQ0Bzd3UuYWMuanA+",
+                "inReplyToHeader": "PDIwMDYwODA5MjAzMDU5LjExNzEwLnFtYWlsQG5zMzkud2VibWFzdGVycy5jb20+",
+                "referencesHeader": "PDIwMDYwODA5MjAzMDU5LjExNzEwLnFtYWlsQG5zMzkud2VibWFzdGVycy5jb20+"
+            },
+            "prevInTopic": 4376,
+            "nextInTopic": 0,
+            "prevInTime": 4376,
+            "nextInTime": 4378,
+            "topicId": 4376,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, Just wanted to give a heads up on the SF Show. As per last year, Jim Gilbert and I will be putting out a collection of Kanayama and Owari tsuba along",
+            "messageBody": "<div id=\"ygrps-yiv-14723479\">Hi all,<br/>\n<br/>\nJust wanted to give a heads up on the SF Show. As per last year, Jim  <br/>\nGilbert and I will be putting out a collection of Kanayama and Owari  <br/>\ntsuba along with a few extra pieces and Ko-Mino fittings along with  <br/>\nabout 12 sets of koshirae. Our presentation will be on Friday at 1.  <br/>\nHope to see all of you there.<br/>\n<br/>\nGordon</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 85349368,
+            "authorName": "deron@double-dragon-ebooks.com",
+            "from": "deron@...",
+            "profile": "deron_vfr750",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: [nihontostudy] Digest Number 827",
+            "postDate": "1155155459",
+            "msgId": 4376,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYwODA5MjAzMDU5LjExNzEwLnFtYWlsQG5zMzkud2VibWFzdGVycy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4377,
+            "prevInTime": 4375,
+            "nextInTime": 4377,
+            "topicId": 4376,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am out of the office and will return August 21st, 2006. Cheers, Deron Douglas Publisher, Double Dragon Publishing Inc.",
+            "messageBody": "<div id=\"ygrps-yiv-975286016\">I am out of the office and will return August 21st, 2006. <br/>\n<br/>\nCheers,<br/>\nDeron Douglas<br/>\nPublisher, Double Dragon Publishing Inc.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4375,
+    "nextTopicId": 4378
+}

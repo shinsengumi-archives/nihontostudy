@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 232319213,
+            "authorName": "David Zincavage",
+            "from": "&quot;David Zincavage&quot; &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "For the really advanced tsuba collector",
+            "postDate": "1156265147",
+            "msgId": 4411,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNDcwMWM2YzYwYSQ2YjU4MjgzMCRkNDI2ZmVhOUBDTE9ORT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4410,
+            "nextInTime": 4412,
+            "topicId": 4411,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Manhole covers of Japan: http://frangipani.info/photography/v/manholes_of_japan/",
+            "messageBody": "<div id=\"ygrps-yiv-372645043\">Manhole covers of Japan:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://frangipani.info/photography/v/manholes_of_japan/\">http://frangipani.info/photography/v/manholes_of_japan/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4408,
+    "nextTopicId": 4412
+}

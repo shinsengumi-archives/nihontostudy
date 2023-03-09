@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "translation help needed",
+            "postDate": "1096432377",
+            "msgId": 2235,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNqZGR0cCs0cmgzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2234,
+            "nextInTime": 2236,
+            "topicId": 2235,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "please klick............. http://tinyurl.com/46zxg can anyone translate the mei ( to the left ) and the  dedication / by order  ( to the right ) of the",
+            "messageBody": "<div id=\"ygrps-yiv-1037048734\">please klick.............<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/46zxg\">http://tinyurl.com/46zxg</a><br/>\n<br/>\ncan anyone translate the mei ( to the left ) and the &quot; dedication / <br/>\nby order &quot; ( to the right ) of the fuchi?<br/>\nthanks in advance.............<br/>\n<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2231,
+    "nextTopicId": 2249
+}

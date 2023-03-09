@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 262825586,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Ebay Account Hacked",
+            "postDate": "1189467120",
+            "msgId": 5166,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ2RTVEM0YwLjYwOTAwMDFAYW1uZXQubmV0LmF1Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5165,
+            "nextInTime": 5167,
+            "topicId": 5166,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Members, over night, I was informed my Ebay account was hacked. Whilst no real malicious damage was done to me, it appears the account was used to solicit",
+            "messageBody": "<div id=\"ygrps-yiv-1089464585\">Members, over night, I was informed my Ebay account was hacked. Whilst <br/>\nno real malicious damage was done to me, it appears the account was used <br/>\nto solicit business through dodgy emails and the such.<br/>\n<br/>\nIf you receive any emails from the Ebay account nippon_to please email <br/>\nme Richard Turner @ <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ikkanshi@...\">ikkanshi@...</a> to confirm.<br/>\n<br/>\nRegards<br/>\n<br/>\nRichard Turner</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5160,
+    "nextTopicId": 5162
+}

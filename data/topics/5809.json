@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "maiorian",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "John Harding",
+            "postDate": "1297195514",
+            "msgId": 5809,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFFOUJCMERDREJDQjQ4QTRCNUQxRjJGNDRBNEJGRkQyQGFsYW4+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5808,
+            "nextInTime": 5810,
+            "topicId": 5809,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have heard that John Harding has passed away, can anyone shed any light on this? I ve heard nothing in the UK. Alan [Non-text portions of this message have",
+            "messageBody": "<div id=\"ygrps-yiv-155426829\">I have heard that John Harding has passed away, can anyone shed any light<br/>\non this? I&#39;ve heard nothing in the UK.<br/>\n<br/>\nAlan<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4848,
+    "nextTopicId": 5810
+}

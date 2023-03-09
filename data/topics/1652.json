@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 125654407,
+            "authorName": "Kenneth Wilson",
+            "from": "Kenneth Wilson &lt;kdw21620@...&gt;",
+            "profile": "kdw21620",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Something to look forward to in October",
+            "postDate": "1077506799",
+            "msgId": 1653,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwMjIzMDMyNjM5LjQzNDAzLnFtYWlsQHdlYjEyOTA3Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PEUwRDc5QTU4QThENUJBNEM4MzBCQTRCNkJBNjY2RTdBMEJCQjZFRTRAbXN4LmhzaXMudWNpLmVkdT4="
+            },
+            "prevInTopic": 1652,
+            "nextInTopic": 0,
+            "prevInTime": 1652,
+            "nextInTime": 1654,
+            "topicId": 1652,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "FYI- a response I got from the Musuem of Fine arts in Boston Dear Mr. Wilson, Thank you for your interest in our collection of Japanese swords and sword",
+            "messageBody": "<div id=\"ygrps-yiv-724193056\">FYI- a response I got from the Musuem of Fine arts in<br/>\nBoston<br/>\n<br/>\nDear Mr. Wilson,<br/>\n<br/>\nThank you for your interest in our collection of<br/>\nJapanese swords and sword fittings.  There is a slight<br/>\nmisunderstanding as it is the museum&#39;s collection of<br/>\nkodogu that has recently been catalogued, not the<br/>\nswords, but I am pleased to tell you that a<br/>\npublication of about 150 pieces will be published next<br/>\nOctober.  At the same time we will have a display from<br/>\nthe catalogue as well as other pieces of Meiji<br/>\nmetalwork that relates to some of our later kodogu.  <br/>\n<br/>\nI hope you will be able to come to Boston to see the<br/>\nexhibition, it will be on view for about a year and<br/>\nthe catalogue will be sold in the museum shop, and I<br/>\nimagine on-line as well.  Also I&#39;m pleased to tell you<br/>\nthat at the time of publication of all the pieces from<br/>\nthe collection, which have been photographed for this<br/>\nproject,  will be available through the museum&#39;s<br/>\nwebsite.<br/>\n<br/>\n<br/>\n<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail SpamGuard - Read only the mail you want.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://antispam.yahoo.com/tools\">http://antispam.yahoo.com/tools</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70792355,
+            "authorName": "Hill, Richard",
+            "from": "&quot;Hill, Richard&quot; &lt;rahill@...&gt;",
+            "profile": "rick0to60n4",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: Japanese Armor Library",
+            "postDate": "1077502995",
+            "msgId": 1652,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEUwRDc5QTU4QThENUJBNEM4MzBCQTRCNkJBNjY2RTdBMEJCQjZFRTRAbXN4LmhzaXMudWNpLmVkdT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1653,
+            "prevInTime": 1651,
+            "nextInTime": 1653,
+            "topicId": 1652,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have a small library of eleven armor books for sale.  Please e-mail off list if interested. Rick Hill",
+            "messageBody": "<div id=\"ygrps-yiv-794142931\">I have a small library of eleven armor books for sale.  Please e-mail off<br/>\nlist if interested.<br/>\n<br/>\nRick Hill</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1638,
+    "nextTopicId": 1654
+}

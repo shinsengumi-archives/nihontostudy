@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 123038749,
+            "authorName": "Dr John P Lissenden",
+            "from": "&quot;Dr John P Lissenden&quot; &lt;docliss@...&gt;",
+            "profile": "drjohnplissenden",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "My photo album ...",
+            "postDate": "1107424917",
+            "msgId": 2631,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN0c3NxbCttOTNqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2630,
+            "nextInTime": 2632,
+            "topicId": 2631,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Help I have recently created a photo album in anticipation of posting some photographs and find that, unlike the other albums, mine has a tick box.  Could",
+            "messageBody": "<div id=\"ygrps-yiv-387372832\">Help<br/>\n<br/>\nI have recently created a photo album in anticipation of posting <br/>\nsome photographs and find that, unlike the other albums, mine has a <br/>\ntick box.  Could somebody please explain to me the significance of <br/>\nthis box please?<br/>\n<br/>\nI fear that perhaps I am being a bit thick over this.<br/>\n<br/>\nRegards, John L.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2629,
+    "nextTopicId": 2609
+}

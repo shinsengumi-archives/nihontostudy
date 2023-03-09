@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 232319213,
+            "authorName": "David Zincavage",
+            "from": "David Zincavage &lt;jdz@...&gt;",
+            "profile": "davidzincavage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Mormon bishop rescues neighbor w. samurai sword",
+            "postDate": "1366891497",
+            "msgId": 5939,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDUxNzkxQkU5LjUwNDA3MDJAdXNhLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5938,
+            "nextInTime": 5940,
+            "topicId": 5939,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.nydailynews.com/news/national/sword-wielding-lds-bishop-aid-neighbor-article-1.1325905",
+            "messageBody": "<div id=\"ygrps-yiv-966290082\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nydailynews.com/news/national/sword-wielding-lds-bishop-aid-neighbor-article-1.1325905\">http://www.nydailynews.com/news/national/sword-wielding-lds-bishop-aid-neighbor-article-1.1325905</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5933,
+    "nextTopicId": 5938
+}

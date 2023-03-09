@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 70536526,
+            "authorName": "Mark P. Jones",
+            "from": "&quot;Mark P. Jones&quot; &lt;nixe@...&gt;",
+            "profile": "markpjonesii",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Commercial message, Sword related",
+            "postDate": "1141222077",
+            "msgId": 3843,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAyODQwMWM2M2QzOSQ4Y2RjYWIyMCQ4NTdiYThjMEBtYWluZGVza3RvcD4=",
+                "referencesHeader": "PGR0ZmE1dCtzZ3RyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3842,
+            "nextInTopic": 0,
+            "prevInTime": 3842,
+            "nextInTime": 3844,
+            "topicId": 3842,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sorry for the previous blank message, hit wrong button Group, I have listed a bunch of items on eBay, please take a look. ",
+            "messageBody": "<div id=\"ygrps-yiv-481676607\">Sorry for the previous blank message, hit wrong button<br/>\n<br/>\n<br/>\n<br/>\nGroup, I have listed a bunch of items on eBay, please take a look.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://search.ebay.com/_W0QQsassZmark!\">http://search.ebay.com/_W0QQsassZmark!</a>!1QQhtZ-1QQfrppZ50QQfsopZ1QQfsooZ1QQrdZ0?<br/>\n<br/>\n<br/>\n<br/>\nI would offer free mailing (first class or parcel post) to any list members.<br/>\n<br/>\n<br/>\n<br/>\nPlease feel free to discuss any of the items, positive or negative, if it is <br/>\neducational for the group.<br/>\n<br/>\n<br/>\n<br/>\nThank you for looking<br/>\n<br/>\n<br/>\n<br/>\nMark  Jones<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nixe@...\">nixe@...</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 70536526,
+            "authorName": "Mark P. Jones",
+            "from": "&quot;Mark P. Jones&quot; &lt;nixe@...&gt;",
+            "profile": "markpjonesii",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Commercial message, Sword related",
+            "postDate": "1141221989",
+            "msgId": 3842,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAyN2YwMWM2M2QzOSQ1N2UwZmE3MCQ4NTdiYThjMEBtYWluZGVza3RvcD4=",
+                "referencesHeader": "PGR0ZmE1dCtzZ3RyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3843,
+            "prevInTime": 3841,
+            "nextInTime": 3843,
+            "topicId": 3842,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Mark  Jones nixe@bright.net",
+            "messageBody": "<div id=\"ygrps-yiv-413652562\">Mark  Jones<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nixe@...\">nixe@...</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3826,
+    "nextTopicId": 3846
+}

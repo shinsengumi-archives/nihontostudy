@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 182675718,
+            "authorName": "Bob Elder",
+            "from": "Bob Elder &lt;toyama1_2000@...&gt;",
+            "profile": "toyama1_2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Sourcing out Product",
+            "postDate": "1129734070",
+            "msgId": 3416,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUxMDE5MTUwMTEwLjQ0NjA0LnFtYWlsQHdlYjQxOTAyLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDAwMmMwMWM1ZDRiMyQxYmI3YzRmMCQwMzQxYThjMEBJTlNUSVRVVEU+"
+            },
+            "prevInTopic": 3415,
+            "nextInTopic": 0,
+            "prevInTime": 3415,
+            "nextInTime": 3417,
+            "topicId": 3415,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have em. Bob Elder East Coast Martial Art Supplies. 1 (800) 407-1592. ... Rich and stress free!",
+            "messageBody": "<div id=\"ygrps-yiv-1575007171\">I have em. Bob Elder East Coast Martial Art Supplies.<br/>\n1 (800) 407-1592. <br/>\n<br/>\n--- Mark Jaillet &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:mjaillet@...\">mjaillet@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Hi Everyone,<br/>\n&gt;                       I&#39;ve been trying to order a<br/>\n&gt; &quot;line drawing&quot; poster on<br/>\n&gt; the parts of a Katana by W.M. Hawley. I found a<br/>\n&gt; supplier in California,<br/>\n&gt; &quot;Bugei&quot;.<br/>\n&gt; For whatever reason, which I have not been given an<br/>\n&gt; answer to, I have not<br/>\n&gt; received the order yet I&#39;m told it was shipped out<br/>\n&gt; Aug.30 !<br/>\n&gt; Now being Oct. 19,  I doubt if I&#39;ll receive this<br/>\n&gt; item. Disappointing indeed.<br/>\n&gt; Does anyone know where I can prchase this item<br/>\n&gt; elsewhere? Preferrably in<br/>\n&gt; Canada?<br/>\n&gt; <br/>\n&gt; Thanks,  Mark<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; --<br/>\n&gt; Internal Virus Database is out-of-date.<br/>\n&gt; Checked by AVG Anti-Virus.<br/>\n&gt; Version: 7.0.344 / Virus Database: 267.11.7/112 -<br/>\n&gt; Release Date: 9/26/2005<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>Rich and stress free!</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 223460048,
+            "authorName": "Mark Jaillet",
+            "from": "&quot;Mark Jaillet&quot; &lt;mjaillet@...&gt;",
+            "profile": "mark_blade_jaillet",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Sourcing out Product",
+            "postDate": "1129729416",
+            "msgId": 3415,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMmMwMWM1ZDRiMyQxYmI3YzRmMCQwMzQxYThjMEBJTlNUSVRVVEU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3416,
+            "prevInTime": 3414,
+            "nextInTime": 3416,
+            "topicId": 3415,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Everyone, I ve been trying to order a line drawing poster on the parts of a Katana by W.M. Hawley. I found a supplier in California, Bugei . For whatever",
+            "messageBody": "<div id=\"ygrps-yiv-69938619\">Hi Everyone,<br/>\n                      I&#39;ve been trying to order a &quot;line drawing&quot; poster on<br/>\nthe parts of a Katana by W.M. Hawley. I found a supplier in California,<br/>\n&quot;Bugei&quot;.<br/>\nFor whatever reason, which I have not been given an answer to, I have not<br/>\nreceived the order yet I&#39;m told it was shipped out Aug.30 !<br/>\nNow being Oct. 19,  I doubt if I&#39;ll receive this item. Disappointing indeed.<br/>\nDoes anyone know where I can prchase this item elsewhere? Preferrably in<br/>\nCanada?<br/>\n<br/>\nThanks,  Mark<br/>\n<br/>\n<br/>\n--<br/>\nInternal Virus Database is out-of-date.<br/>\nChecked by AVG Anti-Virus.<br/>\nVersion: 7.0.344 / Virus Database: 267.11.7/112 - Release Date: 9/26/2005</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3413,
+    "nextTopicId": 3418
+}

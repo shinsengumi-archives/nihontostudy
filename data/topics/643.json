@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 123364401,
+            "authorName": "nihontochicken",
+            "from": "&quot;nihontochicken&quot; &lt;rick@...&gt;",
+            "profile": "nihontochicken",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Help w/Tsuba Mei",
+            "postDate": "1060117148",
+            "msgId": 643,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJncDVxcys2bnVqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 642,
+            "nextInTime": 644,
+            "topicId": 643,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Would anyone care to venture a translation and validity assessment on the mei below? http://tinyurl.com/j3kd (Pic is in Photos section at left in the NC",
+            "messageBody": "<div id=\"ygrps-yiv-1536964238\">Would anyone care to venture a translation and validity assessment on <br/>\nthe mei below?<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/j3kd\">http://tinyurl.com/j3kd</a><br/>\n<br/>\n(Pic is in Photos section at left in the NC folder.)<br/>\n<br/>\nThanks!<br/>\n<br/>\nNC</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 637,
+    "nextTopicId": 644
+}

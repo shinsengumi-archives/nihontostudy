@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "kozuka help redux",
+            "postDate": "1075654388",
+            "msgId": 1595,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJ2amF0aytnZ2xhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1593,
+            "nextInTime": 1596,
+            "topicId": 1595,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://tinyurl.com/2voxv school ?  jidai ? thanks in advance milt",
+            "messageBody": "<div id=\"ygrps-yiv-964372636\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/2voxv\">http://tinyurl.com/2voxv</a><br/>\n<br/>\n<br/>\nschool ?  jidai ?<br/>\n<br/>\nthanks in advance<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1593,
+    "nextTopicId": 1596
+}

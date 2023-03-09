@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 150823600,
+            "authorName": "paul bowman",
+            "from": "paul bowman &lt;bowman1955@...&gt;",
+            "profile": "bowman1955",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Question on Book",
+            "postDate": "1160249163",
+            "msgId": 4507,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYxMDA3MTkyNjAzLjUzNzc0LnFtYWlsQHdlYjI1NDA3Lm1haWwudWtsLnlhaG9vLmNvbT4=",
+                "inReplyToHeader": "PDZhODlhNjJmMDYxMDA3MTEyMms1M2ZiNzg5M3M0ZDM1OTY3MDQ3ZTA4YzczQG1haWwuZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 4506,
+            "nextInTopic": 0,
+            "prevInTime": 4506,
+            "nextInTime": 4508,
+            "topicId": 4506,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Andres, I have a copy and have been very pleased with it. the quality of the work illustrated is unbelievable. Andres Pedraza  wrote: ",
+            "messageBody": "<div id=\"ygrps-yiv-323558718\">Hi Andres,<br/>\n  I have a copy and have been very pleased with it. the quality of the work illustrated is unbelievable.<br/>\n<br/>\nAndres Pedraza &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:apedraza93@...\">apedraza93@...</a>&gt; wrote:<br/>\n          Gents,<br/>\n<br/>\nDoes anyone have this book? *<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/mssvz*\">http://tinyurl.com/mssvz*</a><br/>\n**<br/>\nI&#39;m on the fence on whether to buy it or not. Wanted to see if anyone had it<br/>\n(or had read it) and what opinion they had of it. Thanks in advance!<br/>\n<br/>\nBest Regards,<br/>\n<br/>\nAndres<br/>\n<br/>\n[Non-text portions of this message have been removed]<br/>\n<br/>\n<br/>\n<br/>\n         <br/>\n<br/>\n \t\t<br/>\n---------------------------------<br/>\nYahoo! Photos  NEW, now offering a quality print service from just 8p a photo.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 271477297,
+            "authorName": "Andres Pedraza",
+            "from": "&quot;Andres Pedraza&quot; &lt;apedraza93@...&gt;",
+            "profile": "apedraza_93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Question on Book",
+            "postDate": "1160245340",
+            "msgId": 4506,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDZhODlhNjJmMDYxMDA3MTEyMms1M2ZiNzg5M3M0ZDM1OTY3MDQ3ZTA4YzczQG1haWwuZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4507,
+            "prevInTime": 4505,
+            "nextInTime": 4507,
+            "topicId": 4506,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Gents, Does anyone have this book? *http://tinyurl.com/mssvz* ** I m on the fence on whether to buy it or not. Wanted to see if anyone had it (or had read it)",
+            "messageBody": "<div id=\"ygrps-yiv-1188426881\">Gents,<br/>\n<br/>\nDoes anyone have this book? *<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/mssvz*\">http://tinyurl.com/mssvz*</a><br/>\n**<br/>\nI&#39;m on the fence on whether to buy it or not. Wanted to see if anyone had it<br/>\n(or had read it) and what opinion they had of it. Thanks in advance!<br/>\n<br/>\nBest Regards,<br/>\n<br/>\nAndres<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4503,
+    "nextTopicId": 4509
+}

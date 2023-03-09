@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Haynes Catalog",
+            "postDate": "1063578795",
+            "msgId": 774,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwZmJiOGE1NmNlZmE1YkBbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 773,
+            "nextInTime": 775,
+            "topicId": 774,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "PLEASE DO NOT REPLY TO THE LIST Gentlemen, I have heard from seven of you who wanted the Haynes Catalogs. I can get them for $125 plus shipping. You will get",
+            "messageBody": "<div id=\"ygrps-yiv-1363143505\">PLEASE DO NOT REPLY TO THE LIST<br/>\n<br/>\nGentlemen,<br/>\n\tI have heard from seven of you who wanted the Haynes <br/>\nCatalogs. I can get them for $125 plus shipping. You will get issues <br/>\n2,3,4,6,7,8 and 9 in new mint condition. Shipping will depend on <br/>\nwhere you are located and how fast you want to receive them. Alan is <br/>\nputting together the sets for me and I will pick them up in a week or <br/>\nso.<br/>\n\tYou know who you are please reconfirm for me if you still <br/>\nwant the books at this price. Anyone interested please let me know <br/>\nnow and we&#39;ll put together more sets. For the sake of everyones <br/>\nbandwidth do not reply to this email but contact me off list.<br/>\n<br/>\ntom<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:toryu@...\">toryu@...</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 772,
+    "nextTopicId": 773
+}

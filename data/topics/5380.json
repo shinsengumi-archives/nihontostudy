@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 278314026,
+            "authorName": "Elliott",
+            "from": "&quot;Elliott&quot; &lt;elliott@...&gt;",
+            "profile": "elliottshogun",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "&#39;Nanban Tsuba&#39;",
+            "postDate": "1206132803",
+            "msgId": 5380,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZzMTc4Myt2ZmNwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5379,
+            "nextInTime": 5381,
+            "topicId": 5380,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello group, Speaking of books, does anyone have a lead, own, or know of where I can obtain a copy of Nanban Tsuba -Yearning Design- by Yoshimura Shigeta? I",
+            "messageBody": "<div id=\"ygrps-yiv-1663982471\">Hello group,<br/>\n<br/>\nSpeaking of books, does anyone have a lead, own, or know of where I can <br/>\nobtain a copy of &#39;Nanban Tsuba&#39; -Yearning Design- by Yoshimura Shigeta?<br/>\n<br/>\nI have developed a desire to learn more about Nanban Tsuba. I don&#39;t <br/>\nremember who alerted us to the PDF&#39;s that were available (the Joly book <br/>\nabout legends and the Tsuba book) but &quot;Thank you very much&quot;.<br/>\n<br/>\nElliott</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5378,
+    "nextTopicId": 5384
+}

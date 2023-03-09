@@ -1,0 +1,30 @@
+{
+    "userId": 76997891,
+    "authorName": "sigp210",
+    "from": "&quot;sigp210&quot; &lt;sigp210@...&gt;",
+    "profile": "sigp210",
+    "replyTo": "LIST",
+    "senderId": "hAPX0Tn3Gy_hrOzgfb_b0CR2OOskKFaw14AgDr5MxChje1Fzmc9Q8RqSOuBtEtsy9xhzmXHB3SFbbUjNbdti2OHrECA",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "TEST - SUCCESSFULLY IGNORED",
+    "postDate": "1107671523",
+    "msgId": 2641,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGN1NGRsMys4Y3R1QGVHcm91cHMuY29tPg==",
+        "inReplyToHeader": "PDAwOTUwMWM1MGI3MyQwNWEwZGM2MCQwMTI5ZDljYkB0aG9tYXNmYW1pbHk+"
+    },
+    "prevInTopic": 2638,
+    "nextInTopic": 0,
+    "prevInTime": 2640,
+    "nextInTime": 2642,
+    "topicId": 2638,
+    "numMessagesInTopic": 2,
+    "msgSnippet": "",
+    "rawEmail": "Return-Path: &lt;sigp210@...&gt;\r\nX-Sender: sigp210@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 71720 invoked from network); 6 Feb 2005 06:32:05 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m3.grp.scd.yahoo.com with QMQP; 6 Feb 2005 06:32:05 -0000\r\nReceived: from unknown (HELO n7a.bulk.scd.yahoo.com) (66.94.237.41)\n  by mta1.grp.scd.yahoo.com with SMTP; 6 Feb 2005 06:32:05 -0000\r\nReceived: from [66.218.66.58] by n7.bulk.scd.yahoo.com with NNFMP; 06 Feb 2005 06:32:04 -0000\r\nReceived: from [66.218.66.82] by mailer7.bulk.scd.yahoo.com with NNFMP; 06 Feb 2005 06:32:04 -0000\r\nDate: Sun, 06 Feb 2005 06:32:03 -0000\r\nTo: nihontostudy@yahoogroups.com\r\nMessage-ID: &lt;cu4dl3+8ctu@...&gt;\r\nIn-Reply-To: &lt;009501c50b73$05a0dc60$0129d9cb@thomasfamily&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 6\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nX-eGroups-Remote-IP: 66.94.237.41\r\nFrom: &quot;sigp210&quot; &lt;sigp210@...&gt;\r\nSubject: TEST - SUCCESSFULLY IGNORED\r\nX-Yahoo-Group-Post: member; u=76997891\r\nX-Yahoo-Profile: sigp210\r\n\r\n\n\n:-)\n\n\n\n\n\n"
+}

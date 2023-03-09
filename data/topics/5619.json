@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Alan Bale",
+            "postDate": "1251924184",
+            "msgId": 5619,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGg3bWxjbyttam83QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5618,
+            "nextInTime": 5620,
+            "topicId": 5619,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all -- just curious if anyone has heard from Alan Bale?  I see his site has been deactivated.",
+            "messageBody": "<div id=\"ygrps-yiv-1855159648\">Hi all -- just curious if anyone has heard from Alan Bale?  I see his site has been deactivated.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5614,
+    "nextTopicId": 5620
+}

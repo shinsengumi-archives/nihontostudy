@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 168435011,
+            "authorName": "Bryane",
+            "from": "&quot;Bryane&quot; &lt;fishingfishtrout2000@...&gt;",
+            "profile": "fishingfishtrout2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Closet Find",
+            "postDate": "1079023681",
+            "msgId": 1718,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMycTU4MStrNXM4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1717,
+            "nextInTime": 1719,
+            "topicId": 1718,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, I have created an album under Closet Find which are pics of a sword I ve had for years.  I know a little about fishing and even less about swords.",
+            "messageBody": "<div id=\"ygrps-yiv-540891429\">Hello, I have created an album under &quot;Closet Find&quot; which are pics of <br/>\na sword I&#39;ve had for years.  I know a little about fishing and even <br/>\nless about swords.  Any help would be greatly appreciated.  Thanks <br/>\nagain.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1714,
+    "nextTopicId": 1697
+}

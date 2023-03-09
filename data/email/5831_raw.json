@@ -1,0 +1,31 @@
+{
+    "userId": 487492956,
+    "authorName": "Richard Turner",
+    "from": "Richard Turner &lt;richardturner@...&gt;",
+    "profile": "retalt",
+    "replyTo": "LIST",
+    "senderId": "JlG2JE0m6voz7h2Z3v6VeQVtTiB5bbB7OvejwOBEVoWSkpPPdCsNfiRljjCJeZV-wsxH9HxSpKdgdu8zbF86lBAXDISGbIDtyp286My4eW50hENq",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "12"
+    },
+    "subject": "Test email",
+    "postDate": "1310597274",
+    "msgId": 5831,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDRFMUUyMDlBLjEwMDA3MDhAaXByaW11cy5jb20uYXU+",
+        "inReplyToHeader": "PGl2a2FmbSttcDhvQGVHcm91cHMuY29tPg==",
+        "referencesHeader": "PGl2a2FmbSttcDhvQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 5830,
+    "nextInTopic": 5832,
+    "prevInTime": 5830,
+    "nextInTime": 5832,
+    "topicId": 5801,
+    "numMessagesInTopic": 25,
+    "msgSnippet": "I posted a thread online, but it does not seem to have come through ? Rich",
+    "rawEmail": "Return-Path: &lt;richardturner@...&gt;\r\nX-Sender: richardturner@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nX-Received: (qmail 65776 invoked from network); 13 Jul 2011 22:47:59 -0000\r\nX-Received: from unknown (98.137.34.44)\n  by m8.grp.sp2.yahoo.com with QMQP; 13 Jul 2011 22:47:59 -0000\r\nX-Received: from unknown (HELO mx05.syd.iprimus.net.au) (210.50.30.235)\n  by mta1.grp.sp2.yahoo.com with SMTP; 13 Jul 2011 22:47:59 -0000\r\nX-IronPort-Anti-Spam-Filtered: true\r\nX-IronPort-Anti-Spam-Result: Av8BAKIfHk7TGiOr/2dsb2JhbAAMR5hKmGO2O4wZhjoEh1Cbbg\r\nX-IronPort-AV: E=Sophos;i=&quot;4.65,527,1304258400&quot;; \n   d=&quot;scan&#39;208&quot;;a=&quot;270923696&quot;\r\nX-Received: from 171.046.dsl.pth.iprimus.net.au (HELO [192.168.0.5]) ([211.26.35.171])\n  by smtp05.syd.iprimus.net.au with ESMTP; 14 Jul 2011 08:47:58 +1000\r\nMessage-ID: &lt;4E1E209A.1000708@...&gt;\r\nDate: Thu, 14 Jul 2011 06:47:54 +0800\r\nUser-Agent: Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20110624 Thunderbird/5.0\r\nMIME-Version: 1.0\r\nTo: nihontostudy@yahoogroups.com\r\nReferences: &lt;ivkafm+mp8o@...&gt;\r\nIn-Reply-To: &lt;ivkafm+mp8o@...&gt;\r\nX-Forwarded-Message-Id: &lt;ivkafm+mp8o@...&gt;\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Richard Turner &lt;richardturner@...&gt;\r\nReply-To: richardturner@...\r\nSubject: Test email\r\nX-Yahoo-Group-Post: member; u=487492956; y=rFKU4SChBlsDq98gbZlfwTzc5vwtnhtDBRIiaoB_9Vcd\r\nX-Yahoo-Profile: retalt\r\n\r\nI posted a thread online, but it does not seem to have come through ?\n\nRich\n\n"
+}

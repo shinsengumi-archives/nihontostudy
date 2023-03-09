@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] Well done Jim",
+            "postDate": "1051070714",
+            "msgId": 3,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwY2YwMWMzMDk0ZCQ4YzQ1NzVjMCRhNTY0M2I0MUBvZW1jb21wdXRlcj4=",
+                "referencesHeader": "PGI4NTJ2cyt2cWc1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2,
+            "nextInTopic": 0,
+            "prevInTime": 2,
+            "nextInTime": 4,
+            "topicId": 2,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks... me too.  We ve had more than enough of all that. Jim",
+            "messageBody": "<div id=\"ygrps-yiv-157019496\">Thanks... me too.  We&#39;ve had more than enough of all that.  <br/>\n <br/>\nJim<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> &gt; Looking forward to swod tok not politics.<br/>\n&gt; <br/>\n&gt; thanks Jim<br/>\n&gt; <br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Well done Jim",
+            "postDate": "1051070268",
+            "msgId": 2,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGI4NTJ2cyt2cWc1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3,
+            "prevInTime": 1,
+            "nextInTime": 3,
+            "topicId": 2,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Looking forward to swod tok not politics. thanks Jim",
+            "messageBody": "<div id=\"ygrps-yiv-1113186342\">Looking forward to swod tok not politics.<br/>\n<br/>\nthanks Jim</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1,
+    "nextTopicId": 9
+}

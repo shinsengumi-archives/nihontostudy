@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "more nagamaki pictures",
+            "postDate": "1055188273",
+            "msgId": 346,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwM2EwMWMzMmVjMCQ3YzhmYzAyMCQ2MDRmNGJhYkBvZW1jb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 345,
+            "nextInTime": 347,
+            "topicId": 346,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, I put up a photo of the parrying bars and a drawing of the koshirae of the nerikawa-guard nagamaki we were discussing at: http://tinyurl.com/dvc8 Note",
+            "messageBody": "<div id=\"ygrps-yiv-1851048466\">All,<br/>\nI put up a photo of the parrying bars and a drawing of the koshirae of the nerikawa-guard nagamaki we were discussing at:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/dvc8\">http://tinyurl.com/dvc8</a><br/>\n<br/>\nNote that the parrying bars have slight notches or barbs on them, perhaps to catch or even break an opponent&#39;s blade.<br/>\n<br/>\nJim<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 345,
+    "nextTopicId": 347
+}

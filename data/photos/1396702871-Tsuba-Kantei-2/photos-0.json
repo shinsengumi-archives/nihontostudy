@@ -1,0 +1,128 @@
+[
+    {
+        "groupId": 9963731,
+        "albumId": 1396702871,
+        "photoId": 1921679766,
+        "photoName": "Kantei Tsuba #2",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1141757454,
+        "creationDate": 1141757454,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "face",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/WDLB5Qjtc9N0hlj3Ee0r/name/n_a",
+                "height": 90,
+                "width": 96,
+                "size": 3776,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/WDLB5Qjtc9N0hlj3Ee0r/name/n_a",
+                "height": 451,
+                "width": 480,
+                "size": 56091,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/WDLB5Qjtc9N0hlj3Ee0r/name/n_a",
+                "height": 752,
+                "width": 800,
+                "size": 135116,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 1396702871,
+        "photoId": 1789101480,
+        "photoName": "Kantei Tsuba #2",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1141757455,
+        "creationDate": 1141757455,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "rim",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/BcCMxq3tfdmCXxVx_QV2/name/n_a",
+                "height": 32,
+                "width": 96,
+                "size": 1563,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/BcCMxq3tfdmCXxVx_QV2/name/n_a",
+                "height": 158,
+                "width": 480,
+                "size": 17344,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/BcCMxq3tfdmCXxVx_QV2/name/n_a",
+                "height": 264,
+                "width": 800,
+                "size": 38778,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 9963731,
+        "albumId": 1396702871,
+        "photoId": 625243263,
+        "photoName": "Design book",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "yamaimojg",
+        "modificationDate": 1141840890,
+        "creationDate": 1141840890,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 3,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/tn/tIJcnTXqeNQ_tn4l4AY-/name/n_a",
+                "height": 76,
+                "width": 96,
+                "size": 2130,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/sn/tIJcnTXqeNQ_tn4l4AY-/name/n_a",
+                "height": 379,
+                "width": 480,
+                "size": 24946,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/5siMqmzlc9cpF0Al/hr/tIJcnTXqeNQ_tn4l4AY-/name/n_a",
+                "height": 553,
+                "width": 700,
+                "size": 41677,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

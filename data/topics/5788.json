@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 246358143,
+            "authorName": "josh cronn",
+            "from": "josh cronn &lt;seppuku_187@...&gt;",
+            "profile": "seppuku_187",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Looking for a sword by Sokan",
+            "postDate": "1285436429",
+            "msgId": 5788,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDg2NTAyNS45NjczNS5xbUB3ZWI1MjIwNS5tYWlsLnJlMi55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5787,
+            "nextInTime": 5789,
+            "topicId": 5788,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all I m looking for good sword by Sokan Thanks Josh [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1011618037\">Hi all<br/>\nI&#39;m looking for good sword by Sokan<br/>\nThanks Josh<br/>\n<br/>\n<br/>\n      <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5779,
+    "nextTopicId": 5789
+}

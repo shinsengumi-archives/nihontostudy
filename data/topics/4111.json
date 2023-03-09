@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 70790980,
+            "authorName": "Ron Hartmann",
+            "from": "&quot;Ron Hartmann&quot; &lt;swords@...&gt;",
+            "profile": "sworddad",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Antai article",
+            "postDate": "1144607029",
+            "msgId": 4111,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMmQwMWM2NWMwMiRjMjEwMzU5MCQ0ZGE0OTRjZUByb24+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4110,
+            "nextInTime": 4112,
+            "topicId": 4111,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know the location of Han Bing Siong s detailed article on antai -- I think I m spelling it correctly -- that was in the JSS/US Newsletter many",
+            "messageBody": "<div id=\"ygrps-yiv-1540580621\">Does anyone know the location of Han Bing Siong&#39;s detailed article on &quot;antai&quot; -- I think I&#39;m spelling it correctly -- that was in the JSS/US Newsletter many years ago? <br/>\n<br/>\nI&#39;m trying to locate that article and possible a couple others to share with our local guys. Interesting feature to be aware of on a sword. <br/>\n<br/>\nRon<br/>\nSTL <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4095,
+    "nextTopicId": 4104
+}

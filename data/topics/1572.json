@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 168435011,
+            "authorName": "Bryane",
+            "from": "&quot;Bryane&quot; &lt;fishingfishtrout2000@...&gt;",
+            "profile": "fishingfishtrout2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "sword?",
+            "postDate": "1074785838",
+            "msgId": 1572,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJ1b3FuZStvZHJjQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1571,
+            "nextInTime": 1574,
+            "topicId": 1572,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have recently pulled out of the closet a sword I ve had for over ten years. It appears to be a Japanese sword with some years on it. The scabbard is wooden",
+            "messageBody": "<div id=\"ygrps-yiv-1583403904\">I have recently pulled out of the closet a sword I&#39;ve had for over <br/>\nten years. It appears to be a Japanese sword with some years on it.  <br/>\nThe scabbard is wooden and covered with leather, yet well worn.  The <br/>\nsword itself has no identifying marks on it.  The handle has been <br/>\nunwrapped and is bare wood.  I have looked on the internet, but have <br/>\ndecided that all of this is more than my mind alone can handle,  I <br/>\nneed some help.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1570,
+    "nextTopicId": 1575
+}

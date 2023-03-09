@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Koshirae",
+            "postDate": "1174050526",
+            "msgId": 4933,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGV0ZTRzdSs1MGxpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4932,
+            "nextInTime": 4935,
+            "topicId": 4933,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know of any museums/other in Japan which display full koshirae?",
+            "messageBody": "<div id=\"ygrps-yiv-1074303939\">Does anyone know of any museums/other in Japan which display full <br/>\nkoshirae?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2227,
+    "nextTopicId": 4937
+}

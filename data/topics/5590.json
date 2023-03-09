@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 93921012,
+            "authorName": "Alan Bale",
+            "from": "&quot;Alan Bale&quot; &lt;abale@...&gt;",
+            "profile": "maiorian",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Ni-mai awase Tsuba",
+            "postDate": "1248261094",
+            "msgId": 5590,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTAwMWNhMGFjOSQxOGJkZGEwMCQ2MTUxNGVkNUBhbGFuPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5589,
+            "nextInTime": 5591,
+            "topicId": 5590,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Re the tsuba, it can be seen at japaneseswordbooks.com  New titles section for a few days only. Alan [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-2021207718\">Re the tsuba, it can be seen at japaneseswordbooks.com  New titles section<br/>\n<br/>\nfor a few days only.<br/>\n<br/>\nAlan<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5584,
+    "nextTopicId": 5588
+}

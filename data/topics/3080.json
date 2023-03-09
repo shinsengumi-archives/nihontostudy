@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "sent again",
+            "postDate": "1120290540",
+            "msgId": 3080,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyQzY0NkVDLjkwMzA5MDJAd2VzdG5ldC5jb20uYXU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3079,
+            "nextInTime": 3081,
+            "topicId": 3080,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "trying this from Netscape Greetings all, I am looking into the mei of a new tsuba. It is signed ?????, which reads Kishû Jû Sadanobu according to Nihonto",
+            "messageBody": "<div id=\"ygrps-yiv-1957293481\">trying this from Netscape<br/>\n<br/>\nGreetings all, I am looking into the mei of a new tsuba. It is signed <br/>\n?????, which reads Kishû Jû Sadanobu according to Nihonto Koza but is <br/>\nalso read as Kishû Jû Teimei in the book Tsuba Kanshoki by Dr. Torigoye <br/>\nKazutaro .<br/>\n<br/>\n? can be pronounced both as Sada and Tei and ? reads as both Nobu and <br/>\nMei, both are correct, so which one is right ?<br/>\n<br/>\nSadanobu/Teimei is a tsuba artist from the Kii provence.<br/>\n<br/>\nCheers<br/>\n<br/>\nRich Turner<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3055,
+    "nextTopicId": 3079
+}

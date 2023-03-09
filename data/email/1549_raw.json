@@ -1,0 +1,29 @@
+{
+    "userId": 77400184,
+    "authorName": "alchemyst",
+    "from": "&quot;alchemyst&quot; &lt;alchemyst@...&gt;",
+    "profile": "alchemyst",
+    "replyTo": "LIST",
+    "senderId": "ytFl0lzSHBTV8HxRHCqZkkj8omF8BVXOLU-qrmZoZMNq2fW0haMuxkxoJ1FJF5wy1F1m5wdzNdqYrTm1F0A-EQXZMpR_oBri",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Listserv suggestion",
+    "postDate": "1074580097",
+    "msgId": 1549,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGJ1aWhxMSttam1rQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 1548,
+    "nextInTime": 1550,
+    "topicId": 1549,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "A suggestion to speed up downloading of listserv posts: Take include original message in reply OFF your email system. Some of these posts are getting pages",
+    "rawEmail": "Return-Path: &lt;alchemyst@...&gt;\r\nX-Sender: alchemyst@...\r\nX-Apparently-To: nihontostudy@yahoogroups.com\r\nReceived: (qmail 37867 invoked from network); 20 Jan 2004 06:28:26 -0000\r\nReceived: from unknown (66.218.66.218)\n  by m5.grp.scd.yahoo.com with QMQP; 20 Jan 2004 06:28:26 -0000\r\nReceived: from unknown (HELO n3.grp.scd.yahoo.com) (66.218.66.86)\n  by mta3.grp.scd.yahoo.com with SMTP; 20 Jan 2004 06:28:26 -0000\r\nReceived: from [66.218.67.171] by n3.grp.scd.yahoo.com with NNFMP; 20 Jan 2004 06:28:20 -0000\r\nDate: Tue, 20 Jan 2004 06:28:17 -0000\r\nTo: nihontostudy@yahoogroups.com\r\nMessage-ID: &lt;buihq1+mjmk@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 513\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-eGroups-Remote-IP: 66.218.66.86\r\nFrom: &quot;alchemyst&quot; &lt;alchemyst@...&gt;\r\nSubject: Listserv suggestion\r\nX-Yahoo-Group-Post: member; u=77400184\r\nX-Yahoo-Profile: alchemyst\r\n\r\nA suggestion to speed up downloading of listserv posts:\n\nTake &quot;include original message in reply&quot; OFF your email system.\n\nSome of these posts are getting pages long with replies to replies\nto replies to replies .... (well you get the idea). As long\nas the topic is still relevant to the post, I think most of\nus have memories long enough to recall the gist of the\noriginal post and/or thread. Or at least just cut and paste\nthe pertinent passages instead of the entire original message.\n\nJust a thought.\n\nRich S\n\n\n\n"
+}

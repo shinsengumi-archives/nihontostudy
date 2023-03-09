@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "sellinf stuffs again",
+            "postDate": "1202415843",
+            "msgId": 5276,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZvZnBkMytpNmdiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5275,
+            "nextInTime": 5277,
+            "topicId": 5276,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://search.ebay.com/_W0QQsassZmuramasa-iii bid early, bid often. p.s. yes, college tuition time again...............and more to come, next is law school !! ",
+            "messageBody": "<div id=\"ygrps-yiv-1305060824\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://search.ebay.com/_W0QQsassZmuramasa-iii\">http://search.ebay.com/_W0QQsassZmuramasa-iii</a><br/>\n<br/>\nbid early, bid often.<br/>\n<br/>\np.s. yes, college tuition time again...............and more to come, <br/>\nnext is law school !!<br/>\n<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5263,
+    "nextTopicId": 5277
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 271477297,
+            "authorName": "Andres Pedraza",
+            "from": "Andres Pedraza &lt;apedraza93@...&gt;",
+            "profile": "apedraza_93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sword News: Teen testifies vs. pal in samurai slay",
+            "postDate": "1163683819",
+            "msgId": 4646,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDcuMC4xLjAuMC4yMDA2MTExNjA4MjczMy4wNTFlM2VjMEB2YWxvcm5ld21lZGlhLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4645,
+            "nextInTime": 4647,
+            "topicId": 4646,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear All, I confess I wasn t following this story when it broke, because I assumed the sword used was some cheap, mall knockoff. This article states that it",
+            "messageBody": "<div id=\"ygrps-yiv-2028630342\">Dear All,<br/>\n<br/>\nI confess I wasn&#39;t following this story when it broke, because I <br/>\nassumed the sword used was some cheap, mall knockoff. This article <br/>\nstates that it was a 17th century Nihonto, and that it was disposed <br/>\nof in a dumpster. Does anyone know whether the blade was recovered???<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nydailynews.com/front/story/471939p-397012c.html\">http://www.nydailynews.com/front/story/471939p-397012c.html</a><br/>\n<br/>\nRegards,<br/>\n<br/>\nAndres</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4645,
+    "nextTopicId": 4647
+}

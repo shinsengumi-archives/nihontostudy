@@ -1,0 +1,41 @@
+{
+    "numOfMembers": 433,
+    "dateCreated": 1051066429,
+    "name": "nihontostudy",
+    "membersVis": "SUBSCRIBERS",
+    "groupVis": "ALL",
+    "messagesVis": "SUBSCRIBERS",
+    "filesVis": "SUBSCRIBERS",
+    "linksVis": "SUBSCRIBERS",
+    "calendarVis": "NOBODY",
+    "databaseVis": "SUBSCRIBERS",
+    "pollsVis": "LIMITED",
+    "photosVis": "SUBSCRIBERS",
+    "replyTo": "LIST",
+    "summary": "Nihonto study",
+    "categoryId": 1600019059,
+    "categoryPath": "/Entertainment & Arts/Fine Arts/Art History/",
+    "categoryName": "Art History",
+    "attachments": "ATTACHMENTS_DISABLED",
+    "restricted": "OPEN",
+    "groupHomePage": {
+        "groupId": 9963731,
+        "photoInfo": []
+    },
+    "groupCoverPhoto": {
+        "groupId": 9963731,
+        "hasCoverImage": false,
+        "photoInfo": [
+            {
+                "displayURL": "http://l.yimg.com/ru/defcovers/1600016068/cat.jpg",
+                "height": 0,
+                "width": 0,
+                "size": 0,
+                "photoType": "or"
+            }
+        ]
+    },
+    "emailDomain": "yahoogroups.com",
+    "adult": false,
+    "bucketId": "GB0"
+}

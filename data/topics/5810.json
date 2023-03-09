@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 136909275,
+            "authorName": "Curran Campbell",
+            "from": "Curran Campbell &lt;neobliviscar@...&gt;",
+            "profile": "neobliviscar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Contact for Lee Sadderwhite",
+            "postDate": "1298052047",
+            "msgId": 5810,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzOTIzNC41OTk2MS5xbUB3ZWIxMzAyMDIubWFpbC5tdWQueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5809,
+            "nextInTime": 5811,
+            "topicId": 5810,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Anyone have contact info for Lee Sadderwhite? He was at the Tampa show selling tsuba, but left Saturday. I know he doesn t have email. Email me privately. If",
+            "messageBody": "<div id=\"ygrps-yiv-464352408\">Anyone have contact info for Lee Sadderwhite?<br/>\nHe was at the Tampa show selling tsuba, but left Saturday.<br/>\nI know he doesn&#39;t have email.<br/>\n<br/>\nEmail me privately. If he is a reclusive sort- I&#39;m fine giving my contact information for someone to give to him. He can call or mail me.<br/>\n<br/>\nCurran<br/>\nSarasota, FL<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n      <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5809,
+    "nextTopicId": 5811
+}

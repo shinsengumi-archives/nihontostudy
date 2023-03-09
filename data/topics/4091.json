@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 102973330,
+            "authorName": "steven",
+            "from": "&quot;steven&quot; &lt;steven_88_2000@...&gt;",
+            "profile": "steven_88_2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Tokugawa tsuba",
+            "postDate": "1144216073",
+            "msgId": 4091,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGUwdmxtOStiYXBpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4090,
+            "nextInTime": 4092,
+            "topicId": 4091,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greetings all, In my reading, I recall seeing somewhere that, early in the Tokugawa Period, the government issued various edicts /measures aimed at",
+            "messageBody": "<div id=\"ygrps-yiv-1238200300\">Greetings all,<br/>\n<br/>\nIn my reading, I recall seeing somewhere that, early in the Tokugawa Period, the <br/>\ngovernment issued various &quot;edicts&quot;/measures aimed at standardizing aspects of the <br/>\nwearing of swords (who may wear them, blade lengths, saya colors, etc...).  I believe I also <br/>\nremember reading that this extended all the way to the standardization of the hitsuana of <br/>\ntsuba, among other things...  I&#39;m wondering whether any of you far more knowledgeable <br/>\nthan me might confirm this, and would also be able to supply an approximate date when <br/>\nsuch edicts were handed down.  <br/>\n<br/>\nWhat I&#39;m curious about is this:  how possible might it be to (in part) determine whether or <br/>\nnot a particular tsuba was made in the early Tokugawa Period vs. the late Momoyama <br/>\nbased (in part) on the passing of this law?  I&#39;m thinking here that if a certain tsuba <br/>\npossesses idiosyncratic hitsuana (or other non-standard features), would this allow a more <br/>\nconfident dating to an earlier time (again, as part of the assessment process)?  Or are <br/>\nthere many variables (including lax enforcement of such &quot;laws&quot;) which would render this <br/>\nline of thought essentially useless?  I think about such departures as Shimizu Jingo <br/>\n(shodai) and think that maybe this isn&#39;t a very good barometer...!  Anyway, just thinking <br/>\nout loud here.  Your thoughts appreciated...<br/>\n<br/>\nSteven</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4090,
+    "nextTopicId": 3973
+}

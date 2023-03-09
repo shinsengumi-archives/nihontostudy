@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Translation of Wakayama",
+            "postDate": "1133707556",
+            "msgId": 3557,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRtdXZmNCtzYjBtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3556,
+            "nextInTime": 3558,
+            "topicId": 3557,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Good day!  If there is a board member who reads Japanese and has Toso Kodogu Meiji Taikei I need a translation of Vol. II, pg. 36, upper right.  It is a mei,",
+            "messageBody": "<div id=\"ygrps-yiv-803602512\">Good day!  If there is a board member who reads Japanese and has Toso <br/>\nKodogu Meiji Taikei I need a translation of Vol. II, pg. 36, upper <br/>\nright.  It is a mei, two kanji and kao, of Nagatsune but it would help <br/>\ngreatly to know what the descriptive is.  Thank you very much.<br/>\nPete Klein<br/>\nFt. Lauderdale<br/>\n<br/>\nPS:  I need a scanner!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3553,
+    "nextTopicId": 3562
+}

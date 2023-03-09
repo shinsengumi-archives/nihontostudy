@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 347370118,
+            "authorName": "Richard Turner",
+            "from": "Richard Turner &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Items for sale",
+            "postDate": "1219586084",
+            "msgId": 5441,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDU5NTNEODUxLUEzRTAtNEIwMS04QUUyLUREOTA2NjM1MDVFRkBnbWFpbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5440,
+            "nextInTime": 5442,
+            "topicId": 5441,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sorry all, try this link. Richard http://www.nihontokanjipages.com/forum/viewtopic.php?id=330 Richard turner Tosogu.com",
+            "messageBody": "<div id=\"ygrps-yiv-540767187\">Sorry all, try this link.<br/>\n<br/>\nRichard<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihontokanjipages.com/forum/viewtopic.php?id=330\">http://www.nihontokanjipages.com/forum/viewtopic.php?id=330</a><br/>\n<br/>\n<br/>\nRichard turner<br/>\nTosogu.com</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5438,
+    "nextTopicId": 5448
+}

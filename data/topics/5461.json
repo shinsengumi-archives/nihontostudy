@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Paging Colonel Hart",
+            "postDate": "1224460748",
+            "msgId": 5461,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDlFRjU4MjE4LTE2OUYtNDc4RS1BQzIxLTBFMzdCNTQ0REM3MUB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5460,
+            "nextInTime": 5462,
+            "topicId": 5461,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "ハット　actually, So there may not be an R in there at all. I am researching a sword presented as a gift before during or just at the end of the war by ",
+            "messageBody": "<div id=\"ygrps-yiv-1353202057\">ハット　actually,<br/>\n\tSo there may not be an R in there at all. I am researching a sword  <br/>\npresented as a gift before during or just at the end of the war by  <br/>\nOgasawara Kazuo of the Imperial Taiwan University to Colonel Hart (at  <br/>\nleast I think thats the name). There is no date and no other info. I  <br/>\nhave found some interesting info about Professor Ogasawara but don&#39;t  <br/>\nknow where to look for the Colonel. Does anyone know which units  <br/>\nmight have helped dismantle the Japanese occupation of Taiwan  <br/>\n(American or British) and how I might identify officers in those groups?<br/>\n\tAny help appreciated,<br/>\n-t<br/>\n<br/>\nTom Helm<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:toryu@...\">toryu@...</a><br/>\n&quot;Moriamur, et in media arma ruamus&quot;<br/>\n- Vergil<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5460,
+    "nextTopicId": 5462
+}

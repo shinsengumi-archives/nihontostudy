@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Bob Rossman",
+            "postDate": "1072136882",
+            "msgId": 1293,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYTMwMWMzYzhlNiQwYTAwNzAyMCQwNzAwYThjMEB3aGl6MT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1292,
+            "nextInTime": 1294,
+            "topicId": 1293,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Are you out there mate, I have been trying to contact you for over a week ?. Rich Turner ... Outgoing mail is certified Virus Free. Checked by AVG anti-virus",
+            "messageBody": "<div id=\"ygrps-yiv-598809654\">Are you out there mate, I have been trying to contact you for over a week ?.<br/>\n<br/>\nRich Turner<br/>\n<br/>\n<br/>\n---<br/>\nOutgoing mail is certified Virus Free.<br/>\nChecked by AVG anti-virus system (http://www.grisoft.com).<br/>\nVersion: 6.0.550 / Virus Database: 342 - Release Date: 9/12/2003<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1271,
+    "nextTopicId": 1272
+}

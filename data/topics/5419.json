@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 138785926,
+            "authorName": "Mike",
+            "from": "&quot;Mike&quot; &lt;mercierarmory@...&gt;",
+            "profile": "mercierarmory",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "My 17th century tachi/katana up for auction",
+            "postDate": "1211249654",
+            "msgId": 5419,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGcwdGM1bSt1cDZhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5418,
+            "nextInTime": 5420,
+            "topicId": 5419,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I thought I would post a link to my auction for the 17th century tachi I have on Ebay. Currently, it only has 14 hours before it s over and there seems to be a",
+            "messageBody": "<div id=\"ygrps-yiv-1900987438\">I thought I would post a link to my auction for the 17th century tachi <br/>\nI have on Ebay. Currently, it only has 14 hours before it&#39;s over and <br/>\nthere seems to be a lot of interest.<br/>\n This is the one I believe I asked earlier for help on a translation of <br/>\nthe tsuba. I discovered that it is that of &quot;teruyuki&quot;. This sword is a <br/>\nnice long one (30&quot; nagasa) that had the nakago cut down to katana <br/>\nlength at some point we think between 1780 and 1810.<br/>\n<br/>\nHave a look!<br/>\n<br/>\nMike<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=200223854905\">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=200223854905</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5418,
+    "nextTopicId": 5420
+}

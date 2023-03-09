@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 129124237,
+            "authorName": "samurai@xhasc.com",
+            "from": "samurai@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [nihontostudy] speaking of publishing...",
+            "postDate": "1070295374",
+            "msgId": 1191,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PHhvOGlzbDBhNHo1LmZzZkBmZWFyLnhoYXNjLmNvbT4=",
+                "inReplyToHeader": "PDNGQ0FDQTM3LjQwNTA3MDdAdGVsZXBvcnQuY29tPiAoUmljaGFyZCBHZW9yZ2UncyBtZXNzYWdlIG9mICJTdW4sIDMwIE5vdiAyMDAzIDIwOjU3OjI3IC0wODAwIik=",
+                "referencesHeader": "PDNGQ0FDQTM3LjQwNTA3MDdAdGVsZXBvcnQuY29tPg=="
+            },
+            "prevInTopic": 1190,
+            "nextInTopic": 0,
+            "prevInTime": 1190,
+            "nextInTime": 1192,
+            "topicId": 1190,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... There is a reason that text could be a problem. In general, you re looking at 180 dpi for the recommended resolution of photographs and pictures. You could",
+            "messageBody": "<div id=\"ygrps-yiv-1269125497\">&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:rkg@...\">rkg@...</a>&gt; writes:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Hey guys, In case anybody is interested, there are several companies<br/>\n&gt; that will do short run books for what seem to be pretty reasonable<br/>\n&gt; prices - check out this week&#39;s business week - the three listed are<br/>\n&gt; snapfish.com, imagestation.com, and MyPublisher.com - they talked<br/>\n&gt; about using them for photos mostly, but I can&#39;t see any reason why you<br/>\n&gt; couldn&#39;t throw jpegs with typing in &#39;em as well...<br/>\n<br/>\n </span></blockquote>There is a reason that text could be a problem.<br/>\n<br/>\nIn general, you&#39;re looking at 180 dpi for the recommended resolution of<br/>\nphotographs and pictures. You could go as low as 150dpi in some cases,<br/>\nbut everything over 180dpi is overkill.<br/>\n<br/>\nFor text, the line is drawn around 400dpi.<br/>\n<br/>\nIf these guys are stuck on photos, you may have a 180dpi resolution<br/>\nhardcoded everywhere... which means your text will look bad. <br/>\n<br/>\nStill worthwhile to look into, but this should be kept in mind.<br/>\n<br/>\n- darcy</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 27642611,
+            "authorName": "Richard George",
+            "from": "Richard George &lt;rkg@...&gt;",
+            "profile": "rkgatteleport",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "speaking of publishing...",
+            "postDate": "1070254647",
+            "msgId": 1190,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNGQ0FDQTM3LjQwNTA3MDdAdGVsZXBvcnQuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1191,
+            "prevInTime": 1189,
+            "nextInTime": 1191,
+            "topicId": 1190,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey guys, In case anybody is interested, there are several companies that will do short run books for what seem to be pretty reasonable prices - check out this",
+            "messageBody": "<div id=\"ygrps-yiv-1132387948\">Hey guys,<br/>\n<br/>\nIn case anybody is interested, there are several companies that will do <br/>\nshort run books for<br/>\nwhat seem to be pretty reasonable prices - check out this week&#39;s <br/>\nbusiness week - the three<br/>\nlisted are snapfish.com, imagestation.com, and MyPublisher.com - they <br/>\ntalked about using them<br/>\nfor photos mostly, but I can&#39;t see any reason why you couldn&#39;t throw <br/>\njpegs with typing in &#39;em<br/>\nas well...<br/>\n<br/>\nImmortalize your collection now :-)<br/>\n<br/>\nrkg<br/>\n(Richard George)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1187,
+    "nextTopicId": 1199
+}

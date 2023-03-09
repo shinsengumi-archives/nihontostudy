@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 70790403,
+            "authorName": "Jim Gilbert",
+            "from": "&quot;Jim Gilbert&quot; &lt;jggilbert@...&gt;",
+            "profile": "yamaimojg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] another tsuba question",
+            "postDate": "1124043547",
+            "msgId": 3260,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAyMTcwMWM1YTBmYyRhOWQyMWY1MCQxNDIxZmEwNEAzOTc0OTA4MDAwMT4=",
+                "referencesHeader": "PGRkbWwxNytxdG5uQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3251,
+            "nextInTopic": 0,
+            "prevInTime": 3259,
+            "nextInTime": 3261,
+            "topicId": 3251,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Milt, It s Kyo-Shoami.  The kyo style design with maru bori are the key points.  The carved rim is also a Kyo-Shoami touch. The Akasaka took a lot from Kyo and",
+            "messageBody": "<div id=\"ygrps-yiv-1430841819\">Milt,<br/>\nIt&#39;s Kyo-Shoami.  The kyo style design with maru bori are the key points.  The carved rim is also a Kyo-Shoami touch.<br/>\n<br/>\nThe Akasaka took a lot from Kyo and Owari sukashi.<br/>\n<br/>\nJim<br/>\n<br/>\n<br/>\n<br/>\n  please click...........<br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/dynmn\">http://tinyurl.com/dynmn</a><br/>\n<br/>\n  I am thinking Kyo-sukashi/may be Diagoro, while others think there&#39;s <br/>\n  Akasaka elements in the design.<br/>\n<br/>\n  Any opinion is welcome.<br/>\n<br/>\n  milt<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 38990540,
+            "authorName": "bungotakadasword",
+            "from": "&quot;bungotakadasword&quot; &lt;MuramasaIII@...&gt;",
+            "profile": "bungotakadasword",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "another tsuba question",
+            "postDate": "1123997543",
+            "msgId": 3251,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRkbWwxNytxdG5uQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3260,
+            "prevInTime": 3250,
+            "nextInTime": 3252,
+            "topicId": 3251,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "please click........... http://tinyurl.com/dynmn I am thinking Kyo-sukashi/may be Diagoro, while others think there s Akasaka elements in the design. Any",
+            "messageBody": "<div id=\"ygrps-yiv-845070408\">please click...........<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/dynmn\">http://tinyurl.com/dynmn</a><br/>\n<br/>\nI am thinking Kyo-sukashi/may be Diagoro, while others think there&#39;s <br/>\nAkasaka elements in the design.<br/>\n<br/>\nAny opinion is welcome.<br/>\n<br/>\nmilt</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3252,
+    "nextTopicId": 3249
+}

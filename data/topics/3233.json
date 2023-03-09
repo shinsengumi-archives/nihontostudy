@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 206830504,
+            "authorName": "stevieb1965uk",
+            "from": "&quot;stevieb1965uk&quot; &lt;sstephenbarrow@...&gt;",
+            "profile": "stevieb1965uk",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "aizu shoiami / nara tsuba circa 1850",
+            "postDate": "1123615360",
+            "msgId": 3233,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRkYXZxMCtlN2xwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3232,
+            "nextInTime": 3234,
+            "topicId": 3233,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "beautiful un mounted piece...pics in my photo folder,,selling due buying bigger things......been told would shinsa easily and is top quality work....offers",
+            "messageBody": "<div id=\"ygrps-yiv-1609295789\">beautiful un mounted piece...pics in my photo folder,,selling due <br/>\nbuying bigger things......been told would shinsa easily and is top <br/>\nquality work....offers around £600 posted</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3211,
+    "nextTopicId": 3238
+}

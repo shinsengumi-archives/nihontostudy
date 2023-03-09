@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 300202234,
+            "authorName": "Bill  DeLaGrange",
+            "from": "&quot;Bill  DeLaGrange&quot; &lt;bdgrange@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "unsubscribe bdgrange@comcast.net",
+            "postDate": "1182881802",
+            "msgId": 5087,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDYwMWM3YjgxZSQyNjRiYTVkMCQwMjAxYThjMEBiaWxsc2NvbXB1dGVyPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5086,
+            "nextInTime": 5088,
+            "topicId": 5087,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "unsubscribe@yahoogroups.com bdgrange@comcast.net [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1635103764\"><a rel=\"nofollow\" target=\"_blank\" href=\"mailto:unsubscribe@yahoogroups.com\">unsubscribe@yahoogroups.com</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:bdgrange@...\">bdgrange@...</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5086,
+    "nextTopicId": 5088
+}

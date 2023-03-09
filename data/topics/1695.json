@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 178284812,
+            "authorName": "Phil_Gerardin",
+            "from": "&quot;Phil_Gerardin&quot; &lt;phil_gerardin@...&gt;",
+            "profile": "Phil_Gerardin",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "new pics",
+            "postDate": "1078414916",
+            "msgId": 1695,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMyN2lvNCtva2Y0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1694,
+            "nextInTime": 1696,
+            "topicId": 1695,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello all. 3 pics in the new folder phil-pics. best regard all.",
+            "messageBody": "<div id=\"ygrps-yiv-1427644098\">Hello all.<br/>\n<br/>\n3 pics in the new folder phil-pics.<br/>\n<br/>\nbest regard all.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1692,
+    "nextTopicId": 1714
+}

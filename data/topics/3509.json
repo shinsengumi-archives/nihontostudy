@@ -1,0 +1,97 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Kogai Naoshi",
+            "postDate": "1132885960",
+            "msgId": 3511,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRtNXQ0OCtlZTBuQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDU1OTkwMTdjMzY4N2UzMGI3MDRmMmZmZmRjM2RiYzBjQHN3dS5hYy5qcD4="
+            },
+            "prevInTopic": 3510,
+            "nextInTopic": 0,
+            "prevInTime": 3510,
+            "nextInTime": 3512,
+            "topicId": 3509,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thank you very much Gordon.  I can see a very fine line at the blade insertion end which resembles what you describe.  It makes sense. Thanks again and take",
+            "messageBody": "<div id=\"ygrps-yiv-592887563\">Thank you very much Gordon.  I can see a very fine line at the blade <br/>\ninsertion end which resembles what you describe.  It makes sense.  <br/>\nThanks again and take care.<br/>\nPete</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 66909074,
+            "authorName": "Gordon Robson",
+            "from": "Gordon Robson &lt;robsongo@...&gt;",
+            "profile": "robsongord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [nihontostudy] Kogai Naoshi",
+            "postDate": "1132881482",
+            "msgId": 3510,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDU1OTkwMTdjMzY4N2UzMGI3MDRmMmZmZmRjM2RiYzBjQHN3dS5hYy5qcD4=",
+                "inReplyToHeader": "PGRtNW80Myt0aTRzQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGRtNW80Myt0aTRzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3509,
+            "nextInTopic": 3511,
+            "prevInTime": 3509,
+            "nextInTime": 3511,
+            "topicId": 3509,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Pete, The plate with the design and nanako is cut out of the kogai and that plate is fitted into the top plate of a kozuka. Usually you can see a change in",
+            "messageBody": "<div id=\"ygrps-yiv-2074152986\">Hi Pete,<br/>\n<br/>\nThe plate with the design and nanako is cut out of the kogai and that <br/>\nplate is fitted into the top plate of a kozuka. Usually you can see a <br/>\nchange in the nanako or even a line where the kogai plate has been <br/>\ninserted into a kozuka plate.<br/>\n<br/>\nGordon<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On 2005/11/25, at 10:07, klepet33319 wrote:<br/>\n<br/>\n&gt; Good day to all and a Happy Thanksgiving to whom it will apply!  Does<br/>\n&gt; anyone know of the process by which kogai were reformed to kozuka?  I<br/>\n&gt; have recently received a kozuka naoshi and I notice it has the same<br/>\n&gt; triangular taper of standard kozuka and as I believe kogai are flat I<br/>\n&gt; am wondering how it was re-constructed?  Thanks much!<br/>\n&gt; Pete Klein<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 210540657,
+            "authorName": "klepet33319",
+            "from": "&quot;klepet33319&quot; &lt;Ppeterdds@...&gt;",
+            "profile": "klepet33319",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Kogai Naoshi",
+            "postDate": "1132880835",
+            "msgId": 3509,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRtNW80Myt0aTRzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3510,
+            "prevInTime": 3508,
+            "nextInTime": 3510,
+            "topicId": 3509,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Good day to all and a Happy Thanksgiving to whom it will apply!  Does anyone know of the process by which kogai were reformed to kozuka?  I have recently",
+            "messageBody": "<div id=\"ygrps-yiv-2036689521\">Good day to all and a Happy Thanksgiving to whom it will apply!  Does <br/>\nanyone know of the process by which kogai were reformed to kozuka?  I <br/>\nhave recently received a kozuka naoshi and I notice it has the same <br/>\ntriangular taper of standard kozuka and as I believe kogai are flat I <br/>\nam wondering how it was re-constructed?  Thanks much!<br/>\nPete Klein</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3499,
+    "nextTopicId": 3512
+}

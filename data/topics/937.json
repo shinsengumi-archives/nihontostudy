@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122856650,
+            "authorName": "Richard Turner",
+            "from": "&quot;Richard Turner&quot; &lt;ikkanshi@...&gt;",
+            "profile": "retalt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Thought&#39;s on this tsuba",
+            "postDate": "1067146386",
+            "msgId": 937,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTEwMWMzOWI4MiRhMjU4YWNjMCQwMzAwYThjMEByaWNoYXJkPg==",
+                "referencesHeader": "PDNGOUFBRDRDLjUwOTAyMDZAdGVsZXBvcnQuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 936,
+            "nextInTime": 938,
+            "topicId": 937,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Guy s, asking around about this piece http://tinyurl.com/sdt6 , I have a few mixed ideas and answers about it. I originally thought mid/late edo Heianjô",
+            "messageBody": "<div id=\"ygrps-yiv-305833655\">Hi Guy&#39;s, asking around about this piece <a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/sdt6\">http://tinyurl.com/sdt6</a> , I have a few mixed ideas and answers about it.<br/>\n<br/>\nI originally thought mid/late edo Heianjô Zogan but possibly a Kagome or Kagome Shingen piece.<br/>\n<br/>\nIt has also been suggested it may be Shoami, Mito or maybe Nara<br/>\n<br/>\nAnd another suggestion again was late Shoami or Yokohama dock shiirimono ( Yokohama dock shiirimono was also a thought I had )<br/>\n<br/>\nAny ideas ?????<br/>\n<br/>\nRich<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 934,
+    "nextTopicId": 936
+}
