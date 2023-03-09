@@ -10,7 +10,7 @@ import base64
 isTest = False
 testTids = [1208]
 
-metadataFiles = {'': ['message_metadata_0.json', 'message_metadata_1.json', 'message_metadata_2.json', 'message_metadata_3.json', 'message_metadata_4.json', 'message_metadata_5.json', 'message_metadata_6.json', 'message_metadata_7.json', 'message_metadata_8.json', 'message_metadata_9.json', 'message_metadata_10.json']}
+metadataFiles = {'': ['message_metadata_0.json', 'message_metadata_1.json', 'message_metadata_2.json', 'message_metadata_3.json', 'message_metadata_4.json', 'message_metadata_5.json']}
 
 templateIndexFilepath = 'templates/topics.html'
 
